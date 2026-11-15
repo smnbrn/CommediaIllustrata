@@ -1,0 +1,312 @@
+{
+  "cantica": "inferno",
+  "canto": 32,
+  "titolo": "Cocito: Caina e Antenora, Bocca degli Abati",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_XXXII",
+  "numero_versi": 139,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 39],
+      "titolo_scena": "L'invocazione e il lago di ghiaccio",
+      "sintesi": "Dante vorrebbe rime aspre per descrivere il fondo dell'universo e invoca le Muse. Una voce lo avverte di non calpestare le teste: sotto i suoi piedi c'è un lago ghiacciato, più spesso del Danubio e del Don d'inverno, in cui i traditori sono confitti fino al volto, livido, battendo i denti.",
+      "luogo_id": "cerchio-9",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": []
+    },
+    {
+      "id": "scena-2",
+      "versi": [40, 69],
+      "titolo_scena": "I fratelli Alberti e Camicione de' Pazzi",
+      "sintesi": "Due dannati sono stretti così che i capelli si mescolano; le lacrime gelano e li serrano, e per l'ira si cozzano come caproni. Sono i figli di Alberto di Mangona, che si uccisero a vicenda per l'eredità. Un altro, Camicione de' Pazzi, elenca i compagni della Caina, la zona dei traditori dei parenti.",
+      "luogo_id": "caina",
+      "personaggi": ["dante", "fratelli-alberti", "camicione-de-pazzi"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "I traditori nel ghiaccio",
+          "url": "img/dore/inferno-32-traditori-nel-ghiaccio-960.jpg",
+          "miniatura": "img/dore/inferno-32-traditori-nel-ghiaccio-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._1,_Die_Holle_1870_(148619530).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [70, 123],
+      "titolo_scena": "Bocca degli Abati",
+      "sintesi": "Nell'Antenora, tra i traditori della patria, Dante urta con il piede il volto di un dannato, che lo rimprovera evocando Montaperti. Sospettando chi sia, Dante gli chiede il nome e, al rifiuto, gli strappa ciocche di capelli. Un altro lo tradisce chiamandolo Bocca: è Bocca degli Abati, che a Montaperti tradì i guelfi. Per vendetta Bocca denuncia altri traditori.",
+      "luogo_id": "antenora",
+      "personaggi": ["dante", "virgilio", "bocca-degli-abati", "buoso-da-duera"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Dante e Bocca degli Abati",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Inferno_Canto_32_%28148619555%29.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Inferno_Canto_32_%28148619555%29.jpg/960px-Inferno_Canto_32_%28148619555%29.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Inferno_Canto_32_(148619555).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [124, 139],
+      "titolo_scena": "Due dannati in una sola buca",
+      "sintesi": "Poco più avanti, due dannati sono ghiacciati nella stessa buca: uno rode il cranio dell'altro, come Tideo con Menalippo. Dante gli chiede il perché di un odio così bestiale, promettendo di riferirne nel mondo.",
+      "luogo_id": "antenora",
+      "personaggi": ["dante", "ugolino", "ruggieri"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Ugolino rode il capo di Ruggieri",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DVinfernoUgolinoGnawingHeadOfRuggieari_m.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DVinfernoUgolinoGnawingHeadOfRuggieari_m.jpg/960px-DVinfernoUgolinoGnawingHeadOfRuggieari_m.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:DVinfernoUgolinoGnawingHeadOfRuggieari_m.jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "S’ïo avessi le rime aspre e chiocce,\ncome si converrebbe al tristo buco\nsovra ’l qual pontan tutte l’altre rocce,",
+      "parafrasi": "Se avessi rime aspre e rauche, come si converrebbe al triste buco sul quale poggiano tutte le altre rocce,"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "io premerei di mio concetto il suco\npiù pienamente; ma perch’io non l’abbo,\nnon sanza tema a dicer mi conduco;",
+      "parafrasi": "spremerei più pienamente il succo del mio pensiero; ma poiché non le ho, mi accingo a parlare non senza timore;"
+    },
+    {
+      "versi": [7, 9],
+      "testo": "ché non è impresa da pigliare a gabbo\ndiscriver fondo a tutto l’universo,\nné da lingua che chiami mamma o babbo.",
+      "parafrasi": "perché descrivere il fondo di tutto l'universo non è un'impresa da prendere per gioco, né da lingua che dice mamma o babbo."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "Ma quelle donne aiutino il mio verso\nch’aiutaro Anfïone a chiuder Tebe,\nsì che dal fatto il dir non sia diverso.",
+      "parafrasi": "Ma mi aiutino nei versi quelle donne [le Muse] che aiutarono Anfione a chiudere Tebe con le mura, così che il dire non sia diverso dal fatto."
+    },
+    {
+      "versi": [13, 15],
+      "testo": "Oh sovra tutte mal creata plebe\nche stai nel loco onde parlare è duro,\nmei foste state qui pecore o zebe!",
+      "parafrasi": "Oh, plebe sventurata sopra tutte, che stai nel luogo di cui è difficile parlare, sarebbe stato meglio che quaggiù foste state pecore o capre!"
+    },
+    {
+      "versi": [16, 18],
+      "testo": "Come noi fummo giù nel pozzo scuro\nsotto i piè del gigante assai più bassi,\ne io mirava ancora a l’alto muro,",
+      "parafrasi": "Quando fummo giù nel pozzo buio, molto più in basso dei piedi del gigante, e io guardavo ancora l'alta parete,"
+    },
+    {
+      "versi": [19, 21],
+      "testo": "dicere udi’ mi: \"Guarda come passi:\nva sì, che tu non calchi con le piante\nle teste de’ fratei miseri lassi\".",
+      "parafrasi": "mi sentii dire: «Guarda come cammini: va' in modo da non calpestare con i piedi le teste dei fratelli miseri e stanchi.»"
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Per ch’io mi volsi, e vidimi davante\ne sotto i piedi un lago che per gelo\navea di vetro e non d’acqua sembiante.",
+      "parafrasi": "Per cui mi voltai, e mi vidi davanti e sotto i piedi un lago che per il gelo aveva l'aspetto di vetro e non di acqua."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Non fece al corso suo sì grosso velo\ndi verno la Danoia in Osterlicchi,\nné Tanaï là sotto ’l freddo cielo,",
+      "parafrasi": "Il Danubio in Austria non si fece mai d'inverno un velo così spesso sul suo corso, né il Don là sotto il cielo freddo,"
+    },
+    {
+      "versi": [28, 30],
+      "testo": "com’era quivi; che se Tambernicchi\nvi fosse sù caduto, o Pietrapana,\nnon avria pur da l’orlo fatto cricchi.",
+      "parafrasi": "come era qui; che se il Tambura o la Pania vi fossero caduti sopra, non avrebbe fatto crac neppure sull'orlo."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "E come a gracidar si sta la rana\ncol muso fuor de l’acqua, quando sogna\ndi spigolar sovente la villana,",
+      "parafrasi": "E come la rana sta a gracidare con il muso fuori dall'acqua, nella stagione in cui la contadina sogna spesso di spigolare,"
+    },
+    {
+      "versi": [34, 36],
+      "testo": "livide, insin là dove appar vergogna\neran l’ombre dolenti ne la ghiaccia,\nmettendo i denti in nota di cicogna.",
+      "parafrasi": "così, lividi fino al punto dove appare la vergogna [il volto], stavano nel ghiaccio le ombre dolenti, battendo i denti come le cicogne il becco."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Ognuna in giù tenea volta la faccia;\nda bocca il freddo, e da li occhi il cor tristo\ntra lor testimonianza si procaccia.",
+      "parafrasi": "Ognuna teneva la faccia rivolta in giù; il freddo dà testimonianza di sé con la bocca, e il cuore triste con gli occhi."
+    },
+    {
+      "versi": [40, 42],
+      "testo": "Quand’io m’ebbi dintorno alquanto visto,\nvolsimi a’ piedi, e vidi due sì stretti,\nche ’l pel del capo avieno insieme misto.",
+      "parafrasi": "Dopo che mi fui guardato un po' intorno, mi volsi ai piedi, e vidi due così stretti che avevano mescolato i capelli della testa."
+    },
+    {
+      "versi": [43, 45],
+      "testo": "\"Ditemi, voi che sì strignete i petti\",\ndiss’io, \"chi siete?\". E quei piegaro i colli;\ne poi ch’ebber li visi a me eretti,",
+      "parafrasi": "«Ditemi, voi che stringete così i petti», dissi, «chi siete?» E quelli piegarono il collo; e dopo aver alzato il viso verso di me,"
+    },
+    {
+      "versi": [46, 48],
+      "testo": "li occhi lor, ch’eran pria pur dentro molli,\ngocciar su per le labbra, e ’l gelo strinse\nle lagrime tra essi e riserrolli.",
+      "parafrasi": "i loro occhi, che prima erano umidi solo dentro, gocciolarono sulle labbra, e il gelo strinse le lacrime tra le palpebre e le chiuse di nuovo."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "Con legno legno spranga mai non cinse\nforte così; ond’ei come due becchi\ncozzaro insieme, tanta ira li vinse.",
+      "parafrasi": "Una spranga non strinse mai legno a legno così forte; per cui quelli, tanta ira li vinse, cozzarono insieme come due caproni."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "E un ch’avea perduti ambo li orecchi\nper la freddura, pur col viso in giùe,\ndisse: \"Perché cotanto in noi ti specchi?",
+      "parafrasi": "E uno che aveva perso entrambe le orecchie per il freddo, sempre con il viso in giù, disse: «Perché ti specchi tanto in noi?"
+    },
+    {
+      "versi": [55, 57],
+      "testo": "Se vuoi saper chi son cotesti due,\nla valle onde Bisenzo si dichina\ndel padre loro Alberto e di lor fue.",
+      "parafrasi": "Se vuoi sapere chi sono questi due, la valle da cui scende il Bisenzio fu del loro padre Alberto e loro."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "D’un corpo usciro; e tutta la Caina\npotrai cercare, e non troverai ombra\ndegna più d’esser fitta in gelatina:",
+      "parafrasi": "Uscirono dallo stesso grembo; e potrai cercare in tutta la Caina e non troverai ombra più degna di essere confitta nella gelatina:"
+    },
+    {
+      "versi": [61, 63],
+      "testo": "non quelli a cui fu rotto il petto e l’ombra\ncon esso un colpo per la man d’Artù;\nnon Focaccia; non questi che m’ingombra",
+      "parafrasi": "non quello a cui fu squarciato il petto e l'ombra con un solo colpo dalla mano di Artù; non Focaccia; non questo che mi ingombra"
+    },
+    {
+      "versi": [64, 66],
+      "testo": "col capo sì, ch’i’ non veggio oltre più,\ne fu nomato Sassol Mascheroni;\nse tosco se’, ben sai omai chi fu.",
+      "parafrasi": "con la testa, così che non vedo oltre, e si chiamò Sassolo Mascheroni; se sei toscano, sai ormai bene chi fu."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "E perché non mi metti in più sermoni,\nsappi ch’i’ fu’ il Camiscion de’ Pazzi;\ne aspetto Carlin che mi scagioni\".",
+      "parafrasi": "E perché tu non mi faccia parlare ancora, sappi che io fui Camicione de' Pazzi; e aspetto Carlino, che con la sua colpa farà sembrare minore la mia.»"
+    },
+    {
+      "versi": [70, 72],
+      "testo": "Poscia vid’io mille visi cagnazzi\nfatti per freddo; onde mi vien riprezzo,\ne verrà sempre, de’ gelati guazzi.",
+      "parafrasi": "Poi vidi mille visi resi paonazzi dal freddo; per cui mi viene un brivido, e verrà sempre, delle pozze gelate."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "E mentre ch’andavamo inver’ lo mezzo\nal quale ogne gravezza si rauna,\ne io tremava ne l’etterno rezzo;",
+      "parafrasi": "E mentre andavamo verso il centro, al quale si raccoglie ogni peso, e io tremavo nel freddo eterno,"
+    },
+    {
+      "versi": [76, 78],
+      "testo": "se voler fu o destino o fortuna,\nnon so; ma, passeggiando tra le teste,\nforte percossi ’l piè nel viso ad una.",
+      "parafrasi": "se fu volontà o destino o caso, non so; ma, camminando tra le teste, colpii forte con il piede il viso di una."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Piangendo mi sgridò: \"Perché mi peste?\nse tu non vieni a crescer la vendetta\ndi Montaperti, perché mi moleste?\".",
+      "parafrasi": "Piangendo mi gridò: «Perché mi calpesti? Se non vieni ad accrescere la vendetta di Montaperti, perché mi tormenti?»"
+    },
+    {
+      "versi": [82, 84],
+      "testo": "E io: \"Maestro mio, or qui m’aspetta,\nsì ch’io esca d’un dubbio per costui;\npoi mi farai, quantunque vorrai, fretta\".",
+      "parafrasi": "E io: «Maestro mio, ora aspettami qui, così che io esca da un dubbio a proposito di costui; poi mi farai fretta quanto vorrai.»"
+    },
+    {
+      "versi": [85, 87],
+      "testo": "Lo duca stette, e io dissi a colui\nche bestemmiava duramente ancora:\n\"Qual se’ tu che così rampogni altrui?\".",
+      "parafrasi": "La guida si fermò, e io dissi a quello, che bestemmiava ancora duramente: «Chi sei tu che rimproveri così gli altri?»"
+    },
+    {
+      "versi": [88, 90],
+      "testo": "\"Or tu chi se’ che vai per l’Antenora,\npercotendo\", rispuose, \"altrui le gote,\nsì che, se fossi vivo, troppo fora?\".",
+      "parafrasi": "«Ora tu chi sei, che vai per l'Antenora», rispose, «colpendo le guance degli altri, così che, se fossi vivo, sarebbe troppo?»"
+    },
+    {
+      "versi": [91, 93],
+      "testo": "\"Vivo son io, e caro esser ti puote\",\nfu mia risposta, \"se dimandi fama,\nch’io metta il nome tuo tra l’altre note\".",
+      "parafrasi": "«Io sono vivo, e può esserti gradito», fu la mia risposta, «se chiedi fama, che io metta il tuo nome tra gli altri ricordi.»"
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Ed elli a me: \"Del contrario ho io brama.\nLèvati quinci e non mi dar più lagna,\nché mal sai lusingar per questa lama!\".",
+      "parafrasi": "E lui a me: «Desidero il contrario. Togliti di qui e non darmi altro fastidio, perché sai lusingare male in questa palude!»"
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Allor lo presi per la cuticagna\ne dissi: \"El converrà che tu ti nomi,\no che capel qui sù non ti rimagna\".",
+      "parafrasi": "Allora lo presi per la collottola e dissi: «Bisognerà che tu dica il tuo nome, o che qui sopra non ti resti un capello.»"
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Ond’elli a me: \"Perché tu mi dischiomi,\nné ti dirò ch’io sia, né mosterrolti\nse mille fiate in sul capo mi tomi\".",
+      "parafrasi": "Per cui lui a me: «Anche se mi strappi i capelli, non ti dirò chi sono, né te lo mostrerò, anche se mi piombassi sulla testa mille volte.»"
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Io avea già i capelli in mano avvolti,\ne tratti glien’avea più d’una ciocca,\nlatrando lui con li occhi in giù raccolti,",
+      "parafrasi": "Avevo già i capelli avvolti in mano, e gliene avevo strappata più di una ciocca, mentre lui latrava con gli occhi rivolti in giù,"
+    },
+    {
+      "versi": [106, 108],
+      "testo": "quando un altro gridò: \"Che hai tu, Bocca?\nnon ti basta sonar con le mascelle,\nse tu non latri? qual diavol ti tocca?\".",
+      "parafrasi": "quando un altro gridò: «Che hai, Bocca? Non ti basta suonare con le mascelle, che devi anche latrare? Quale diavolo ti tocca?»"
+    },
+    {
+      "versi": [109, 111],
+      "testo": "\"Omai\", diss’io, \"non vo’ che più favelle,\nmalvagio traditor; ch’a la tua onta\nio porterò di te vere novelle\".",
+      "parafrasi": "«Ormai», dissi, «non voglio che tu parli più, malvagio traditore; perché a tua vergogna porterò di te notizie vere.»"
+    },
+    {
+      "versi": [112, 114],
+      "testo": "\"Va via\", rispuose, \"e ciò che tu vuoi conta;\nma non tacer, se tu di qua entro eschi,\ndi quel ch’ebbe or così la lingua pronta.",
+      "parafrasi": "«Va' via», rispose, «e racconta ciò che vuoi; ma, se esci di qua, non tacere di quello che ha avuto ora la lingua così pronta."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "El piange qui l’argento de’ Franceschi:\n\"Io vidi\", potrai dir, \"quel da Duera\nlà dove i peccatori stanno freschi\".",
+      "parafrasi": "Qui piange il denaro dei Francesi: \"Ho visto\", potrai dire, \"quello da Duera là dove i peccatori stanno al fresco\"."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Se fossi domandato \"Altri chi v’era?\",\ntu hai dallato quel di Beccheria\ndi cui segò Fiorenza la gorgiera.",
+      "parafrasi": "Se ti domandassero \"Chi altri c'era?\", hai accanto quello di Beccaria, a cui Firenze tagliò la gola."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "Gianni de’ Soldanier credo che sia\npiù là con Ganellone e Tebaldello,\nch’aprì Faenza quando si dormia\".",
+      "parafrasi": "Gianni de' Soldanieri credo che sia più in là, con Gano e con Tebaldello, che aprì Faenza mentre dormiva.»"
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Noi eravam partiti già da ello,\nch’io vidi due ghiacciati in una buca,\nsì che l’un capo a l’altro era cappello;",
+      "parafrasi": "Ci eravamo già allontanati da lui quando vidi due ghiacciati in una sola buca, così che una testa faceva da cappello all'altra;"
+    },
+    {
+      "versi": [127, 129],
+      "testo": "e come ’l pan per fame si manduca,\ncosì ’l sovran li denti a l’altro pose\nlà ’ve ’l cervel s’aggiugne con la nuca:",
+      "parafrasi": "e come si mangia il pane per fame, così quello di sopra mise i denti nell'altro là dove il cervello si congiunge con la nuca:"
+    },
+    {
+      "versi": [130, 132],
+      "testo": "non altrimenti Tidëo si rose\nle tempie a Menalippo per disdegno,\nche quei faceva il teschio e l’altre cose.",
+      "parafrasi": "non diversamente Tideo rose per sdegno le tempie a Menalippo da come costui faceva con il cranio e il resto."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "\"O tu che mostri per sì bestial segno\nodio sovra colui che tu ti mangi,\ndimmi ’l perché\", diss’io, \"per tal convegno,",
+      "parafrasi": "«O tu che mostri con un segno così bestiale odio verso colui che ti mangi, dimmi il perché», dissi, «a questo patto:"
+    },
+    {
+      "versi": [136, 138],
+      "testo": "che se tu a ragion di lui ti piangi,\nsappiendo chi voi siete e la sua pecca,\nnel mondo suso ancora io te ne cangi,",
+      "parafrasi": "che se tu hai ragione di lamentarti di lui, sapendo chi siete e la sua colpa, io te ne ricompensi ancora nel mondo di sopra,"
+    },
+    {
+      "versi": [139, 139],
+      "testo": "se quella con ch’io parlo non si secca\".",
+      "parafrasi": "se quella con cui parlo [la lingua] non si secca.»"
+    }
+  ]
+}

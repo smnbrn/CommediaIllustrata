@@ -1,0 +1,316 @@
+{
+  "cantica": "inferno",
+  "canto": 18,
+  "titolo": "Malebolge: ruffiani, seduttori, adulatori",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_XVIII",
+  "numero_versi": 136,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 21],
+      "titolo_scena": "Malebolge",
+      "sintesi": "L'ottavo cerchio, Malebolge, è tutto di pietra color ferro: dieci fossati concentrici scendono verso un pozzo centrale, attraversati da ponti di roccia come i ponticelli dei castelli. Scesi da Gerione, i due vanno verso sinistra.",
+      "luogo_id": "cerchio-8",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": []
+    },
+    {
+      "id": "scena-2",
+      "versi": [22, 66],
+      "titolo_scena": "Ruffiani e seduttori frustati dai demoni",
+      "sintesi": "Nella prima bolgia i dannati nudi camminano in due file opposte, come i pellegrini sul ponte di Castel Sant'Angelo nel Giubileo, frustati da demoni cornuti. Dante riconosce Venedico Caccianemico, che vendette la sorella al marchese d'Este: con lui ci sono molti altri bolognesi.",
+      "luogo_id": "bolgia-1",
+      "personaggi": ["dante", "virgilio", "venedico-caccianemico"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "I ruffiani frustati dai demoni",
+          "url": "img/dore/inferno-18-ruffiani-960.jpg",
+          "miniatura": "img/dore/inferno-18-ruffiani-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._1,_Die_Holle_1870_(148618726).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [67, 99],
+      "titolo_scena": "Giasone",
+      "sintesi": "Saliti sul ponte, i due guardano la fila dei seduttori. Virgilio indica Giasone, che ancora conserva un aspetto regale: conquistò il vello d'oro, sedusse e abbandonò Isifile incinta, e poi tradì Medea.",
+      "luogo_id": "bolgia-1",
+      "personaggi": ["dante", "virgilio", "giasone"],
+      "tavole": []
+    },
+    {
+      "id": "scena-4",
+      "versi": [100, 126],
+      "titolo_scena": "Gli adulatori nello sterco",
+      "sintesi": "Nella seconda bolgia, dalle pareti incrostate di muffa puzzolente, gli adulatori sono immersi nello sterco e si picchiano con le mani. Dante riconosce il lucchese Alessio Interminelli, che riconosce di esservi sommerso per le sue lusinghe.",
+      "luogo_id": "bolgia-2",
+      "personaggi": ["dante", "virgilio", "alessio-interminelli"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Gli adulatori nello sterco",
+          "url": "img/dore/inferno-18-adulatori-960.jpg",
+          "miniatura": "img/dore/inferno-18-adulatori-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._1,_Die_Holle_1870_(148618732).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-5",
+      "versi": [127, 136],
+      "titolo_scena": "Taide",
+      "sintesi": "Virgilio mostra a Dante una donna sporca e scarmigliata che si graffia con le unghie piene di sterco: è Taide, la prostituta che rispose all'amante con un'adulazione esagerata.",
+      "luogo_id": "bolgia-2",
+      "personaggi": ["dante", "virgilio", "taide"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Taide",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/DVinfernoShadeOfThais_m.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/DVinfernoShadeOfThais_m.jpg/960px-DVinfernoShadeOfThais_m.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:DVinfernoShadeOfThais_m.jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Luogo è in inferno detto Malebolge,\ntutto di pietra di color ferrigno,\ncome la cerchia che dintorno il volge.",
+      "parafrasi": "C'è un luogo all'Inferno chiamato Malebolge, tutto di pietra color ferro, come la parete che lo circonda."
+    },
+    {
+      "versi": [4, 6],
+      "testo": "Nel dritto mezzo del campo maligno\nvaneggia un pozzo assai largo e profondo,\ndi cui suo loco dicerò l’ordigno.",
+      "parafrasi": "Proprio in mezzo alla pianura malvagia si apre un pozzo molto largo e profondo, la cui struttura descriverò al momento giusto."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "Quel cinghio che rimane adunque è tondo\ntra ’l pozzo e ’l piè de l’alta ripa dura,\ne ha distinto in dieci valli il fondo.",
+      "parafrasi": "La fascia che resta tra il pozzo e il piede dell'alta parete dura è dunque rotonda, e ha il fondo diviso in dieci valli."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "Quale, dove per guardia de le mura\npiù e più fossi cingon li castelli,\nla parte dove son rende figura,",
+      "parafrasi": "Come, dove molti fossati circondano i castelli per difendere le mura, la zona in cui si trovano disegna una figura,"
+    },
+    {
+      "versi": [13, 15],
+      "testo": "tale imagine quivi facean quelli;\ne come a tai fortezze da’ lor sogli\na la ripa di fuor son ponticelli,",
+      "parafrasi": "tale immagine formavano quelle valli; e come in tali fortezze dalle porte partono ponticelli verso la riva esterna,"
+    },
+    {
+      "versi": [16, 18],
+      "testo": "così da imo de la roccia scogli\nmovien che ricidien li argini e ’ fossi\ninfino al pozzo che i tronca e raccogli.",
+      "parafrasi": "così dalla base della parete partivano scogli che attraversavano gli argini e i fossati fino al pozzo, che li tronca e li raccoglie."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "In questo luogo, de la schiena scossi\ndi Gerïon, trovammoci; e ’l poeta\ntenne a sinistra, e io dietro mi mossi.",
+      "parafrasi": "In questo luogo ci trovammo, scesi dalla schiena di Gerione; e il poeta tenne la sinistra, e io mi mossi dietro di lui."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "A la man destra vidi nova pieta,\nnovo tormento e novi frustatori,\ndi che la prima bolgia era repleta.",
+      "parafrasi": "Alla mia destra vidi una nuova pena, nuovi tormenti e nuovi frustatori, di cui la prima bolgia era piena."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Nel fondo erano ignudi i peccatori;\ndal mezzo in qua ci venien verso ’l volto,\ndi là con noi, ma con passi maggiori,",
+      "parafrasi": "Sul fondo stavano i peccatori nudi; da metà in qua ci venivano incontro, e dall'altra parte andavano nella nostra direzione, ma a passi più lunghi,"
+    },
+    {
+      "versi": [28, 30],
+      "testo": "come i Roman per l’essercito molto,\nl’anno del giubileo, su per lo ponte\nhanno a passar la gente modo colto,",
+      "parafrasi": "come i Romani, l'anno del Giubileo, a causa della grande folla, hanno trovato il modo di far passare la gente sul ponte,"
+    },
+    {
+      "versi": [31, 33],
+      "testo": "che da l’un lato tutti hanno la fronte\nverso ’l castello e vanno a Santo Pietro,\nda l’altra sponda vanno verso ’l monte.",
+      "parafrasi": "così che da un lato tutti hanno la fronte verso il castello e vanno a San Pietro, e dall'altra sponda vanno verso il monte."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Di qua, di là, su per lo sasso tetro\nvidi demon cornuti con gran ferze,\nche li battien crudelmente di retro.",
+      "parafrasi": "Di qua e di là, sulla pietra scura, vidi demoni cornuti con grandi fruste, che li battevano crudelmente da dietro."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Ahi come facean lor levar le berze\na le prime percosse! già nessuno\nle seconde aspettava né le terze.",
+      "parafrasi": "Ah, come facevano alzare loro i calcagni alle prime frustate! Nessuno aspettava ormai le seconde né le terze."
+    },
+    {
+      "versi": [40, 42],
+      "testo": "Mentr’io andava, li occhi miei in uno\nfuro scontrati; e io sì tosto dissi:\n\"Già di veder costui non son digiuno\".",
+      "parafrasi": "Mentre camminavo, i miei occhi si incontrarono con quelli di uno; e subito dissi: «Questo l'ho già visto.»"
+    },
+    {
+      "versi": [43, 45],
+      "testo": "Per ch’ïo a figurarlo i piedi affissi;\ne ’l dolce duca meco si ristette,\ne assentio ch’alquanto in dietro gissi.",
+      "parafrasi": "Per cui mi fermai per riconoscerlo; e la dolce guida si fermò con me e acconsentì che tornassi un po' indietro."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "E quel frustato celar si credette\nbassando ’l viso; ma poco li valse,\nch’io dissi: \"O tu che l’occhio a terra gette,",
+      "parafrasi": "E quel frustato credette di nascondersi abbassando il viso; ma gli servì a poco, perché dissi: «O tu che getti l'occhio a terra,"
+    },
+    {
+      "versi": [49, 51],
+      "testo": "se le fazion che porti non son false,\nVenedico se’ tu Caccianemico.\nMa che ti mena a sì pungenti salse?\".",
+      "parafrasi": "se i lineamenti che porti non ingannano, tu sei Venedico Caccianemico. Ma che cosa ti porta a salse così piccanti?»"
+    },
+    {
+      "versi": [52, 54],
+      "testo": "Ed elli a me: \"Mal volontier lo dico;\nma sforzami la tua chiara favella,\nche mi fa sovvenir del mondo antico.",
+      "parafrasi": "E lui a me: «Lo dico malvolentieri; ma mi costringe il tuo parlare chiaro, che mi fa ricordare il mondo di prima."
+    },
+    {
+      "versi": [55, 57],
+      "testo": "I’ fui colui che la Ghisolabella\ncondussi a far la voglia del marchese,\ncome che suoni la sconcia novella.",
+      "parafrasi": "Io fui colui che condusse la Ghisolabella a fare la volontà del marchese, comunque si racconti la storia vergognosa."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "E non pur io qui piango bolognese;\nanzi n’è questo loco tanto pieno,\nche tante lingue non son ora apprese",
+      "parafrasi": "E non sono il solo bolognese che piange qui; anzi, questo luogo ne è così pieno che oggi non ci sono tante lingue che abbiano imparato"
+    },
+    {
+      "versi": [61, 63],
+      "testo": "a dicer ’sipa’ tra Sàvena e Reno;\ne se di ciò vuoi fede o testimonio,\nrècati a mente il nostro avaro seno\".",
+      "parafrasi": "a dire \"sipa\" tra il Savena e il Reno; e se ne vuoi una prova o una testimonianza, ricordati il nostro animo avido.»"
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Così parlando il percosse un demonio\nde la sua scurïada, e disse: \"Via,\nruffian! qui non son femmine da conio\".",
+      "parafrasi": "Mentre parlava così, un demonio lo colpì con la sua frusta e disse: «Via, ruffiano! Qui non ci sono donne da vendere.»"
+    },
+    {
+      "versi": [67, 69],
+      "testo": "I’ mi raggiunsi con la scorta mia;\nposcia con pochi passi divenimmo\nlà ’v’uno scoglio de la ripa uscia.",
+      "parafrasi": "Raggiunsi la mia scorta; poi con pochi passi arrivammo là dove uno scoglio usciva dalla parete."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "Assai leggeramente quel salimmo;\ne vòlti a destra su per la sua scheggia,\nda quelle cerchie etterne ci partimmo.",
+      "parafrasi": "Lo salimmo con molta facilità; e, voltati a destra sulla sua cresta, ci allontanammo da quelle mura eterne."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Quando noi fummo là dov’el vaneggia\ndi sotto per dar passo a li sferzati,\nlo duca disse: \"Attienti, e fa che feggia",
+      "parafrasi": "Quando fummo là dove si apre sotto, per dare passaggio ai frustati, la guida disse: «Fermati, e fa' in modo che ti colpisca"
+    },
+    {
+      "versi": [76, 78],
+      "testo": "lo viso in te di quest’altri mal nati,\nai quali ancor non vedesti la faccia\nperò che son con noi insieme andati\".",
+      "parafrasi": "lo sguardo di questi altri nati per il male, dei quali non hai ancora visto la faccia, perché sono andati nella nostra stessa direzione.»"
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Del vecchio ponte guardavam la traccia\nche venìa verso noi da l’altra banda,\ne che la ferza similmente scaccia.",
+      "parafrasi": "Dal vecchio ponte guardavamo la fila che veniva verso di noi dall'altra parte, e che la frusta incalza allo stesso modo."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "E ’l buon maestro, sanza mia dimanda,\nmi disse: \"Guarda quel grande che vene,\ne per dolor non par lagrime spanda:",
+      "parafrasi": "E il buon maestro, senza che glielo chiedessi, mi disse: «Guarda quel grande che viene, e per il dolore non sembra versare lacrime:"
+    },
+    {
+      "versi": [85, 87],
+      "testo": "quanto aspetto reale ancor ritene!\nQuelli è Iasón, che per cuore e per senno\nli Colchi del monton privati féne.",
+      "parafrasi": "quanto aspetto regale conserva ancora! Quello è Giasone, che con il coraggio e l'ingegno privò i Colchi del montone [il vello d'oro]."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Ello passò per l’isola di Lenno\npoi che l’ardite femmine spietate\ntutti li maschi loro a morte dienno.",
+      "parafrasi": "Passò per l'isola di Lemno dopo che le donne ardite e spietate avevano messo a morte tutti i loro uomini."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Ivi con segni e con parole ornate\nIsifile ingannò, la giovinetta\nche prima avea tutte l’altre ingannate.",
+      "parafrasi": "Lì con gesti e parole adorne ingannò Isifile, la fanciulla che prima aveva ingannato tutte le altre."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Lasciolla quivi, gravida, soletta;\ntal colpa a tal martiro lui condanna;\ne anche di Medea si fa vendetta.",
+      "parafrasi": "La lasciò lì, incinta e sola; tale colpa lo condanna a tale tormento; e si fa vendetta anche di Medea."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Con lui sen va chi da tal parte inganna;\ne questo basti de la prima valle\nsapere e di color che ’n sé assanna\".",
+      "parafrasi": "Con lui va chi inganna in questo modo; e questo basti sapere della prima valle e di quelli che azzanna.»"
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Già eravam là ’ve lo stretto calle\ncon l’argine secondo s’incrocicchia,\ne fa di quello ad un altr’arco spalle.",
+      "parafrasi": "Eravamo già là dove lo stretto sentiero si incrocia con il secondo argine e ne fa la spalla di un altro arco."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Quindi sentimmo gente che si nicchia\nne l’altra bolgia e che col muso scuffa,\ne sé medesma con le palme picchia.",
+      "parafrasi": "Da lì sentimmo gente che si lamenta nell'altra bolgia, che sbuffa col muso e si percuote con le palme."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Le ripe eran grommate d’una muffa,\nper l’alito di giù che vi s’appasta,\nche con li occhi e col naso facea zuffa.",
+      "parafrasi": "Le pareti erano incrostate di una muffa formata dall'alito che sale dal basso e vi si impasta, e che faceva a pugni con gli occhi e con il naso."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "Lo fondo è cupo sì, che non ci basta\nloco a veder sanza montare al dosso\nde l’arco, ove lo scoglio più sovrasta.",
+      "parafrasi": "Il fondo è così cupo che non basta alcun punto per vedere, se non si sale sul dorso dell'arco, dove il ponte sovrasta di più."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Quivi venimmo; e quindi giù nel fosso\nvidi gente attuffata in uno sterco\nche da li uman privadi parea mosso.",
+      "parafrasi": "Arrivammo lì; e da lì vidi giù nel fosso gente immersa in uno sterco che sembrava venire dalle latrine umane."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "E mentre ch’io là giù con l’occhio cerco,\nvidi un col capo sì di merda lordo,\nche non parëa s’era laico o cherco.",
+      "parafrasi": "E mentre là sotto cerco con l'occhio, vidi uno con il capo così sporco di merda che non si capiva se fosse laico o chierico."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Quei mi sgridò: \"Perché se’ tu sì gordo\ndi riguardar più me che li altri brutti?\".\nE io a lui: \"Perché, se ben ricordo,",
+      "parafrasi": "Quello mi gridò: «Perché sei così avido di guardare me più degli altri sporchi?» E io a lui: «Perché, se ricordo bene,"
+    },
+    {
+      "versi": [121, 123],
+      "testo": "già t’ ho veduto coi capelli asciutti,\ne se’ Alessio Interminei da Lucca:\nperò t’adocchio più che li altri tutti\".",
+      "parafrasi": "ti ho già visto con i capelli asciutti, e sei Alessio Interminelli da Lucca: per questo ti guardo più di tutti gli altri.»"
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Ed elli allor, battendosi la zucca:\n\"Qua giù m’ hanno sommerso le lusinghe\nond’io non ebbi mai la lingua stucca\".",
+      "parafrasi": "E lui allora, battendosi la testa: «Quaggiù mi hanno sommerso le lusinghe, di cui non ebbi mai la lingua sazia.»"
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Appresso ciò lo duca \"Fa che pinghe\",\nmi disse, \"il viso un poco più avante,\nsì che la faccia ben con l’occhio attinghe",
+      "parafrasi": "Dopo ciò la guida mi disse: «Fa' in modo di spingere lo sguardo un poco più avanti, così che tu raggiunga bene con l'occhio la faccia"
+    },
+    {
+      "versi": [130, 132],
+      "testo": "di quella sozza e scapigliata fante\nche là si graffia con l’unghie merdose,\ne or s’accoscia e ora è in piedi stante.",
+      "parafrasi": "di quella sporca serva scarmigliata che là si graffia con le unghie piene di merda, e ora si accovaccia e ora sta in piedi."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "Taïde è, la puttana che rispuose\nal drudo suo quando disse \"Ho io grazie\ngrandi apo te?\": \"Anzi maravigliose!\".",
+      "parafrasi": "È Taide, la prostituta che rispose al suo amante, quando le chiese \"Ho grandi meriti presso di te?\": \"Anzi, meravigliosi!\"."
+    },
+    {
+      "versi": [136, 136],
+      "testo": "E quinci sian le nostre viste sazie\".",
+      "parafrasi": "E qui i nostri occhi siano sazi.»"
+    }
+  ]
+}

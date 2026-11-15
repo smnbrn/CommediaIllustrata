@@ -1,0 +1,341 @@
+{
+  "cantica": "inferno",
+  "canto": 13,
+  "titolo": "La selva dei suicidi, Pier delle Vigne, gli scialacquatori",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_XIII",
+  "numero_versi": 151,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 21],
+      "titolo_scena": "La selva e le Arpie",
+      "sintesi": "Entrano in un bosco senza sentieri: foglie scure, rami nodosi e contorti, spine velenose invece di frutti. Vi fanno il nido le Arpie, con ali larghe, volto umano e ventre piumato. Virgilio avverte Dante che è nel secondo girone e che vedrà cose incredibili.",
+      "luogo_id": "girone-7-2",
+      "personaggi": ["dante", "virgilio", "arpie"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Le Arpie nella selva dei suicidi",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/DVinfernoForestOfSuicides_m.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/DVinfernoForestOfSuicides_m.jpg/960px-DVinfernoForestOfSuicides_m.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:DVinfernoForestOfSuicides_m.jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [22, 54],
+      "titolo_scena": "Il ramo spezzato",
+      "sintesi": "Dante sente lamenti ma non vede nessuno. Su invito di Virgilio spezza un ramoscello da un grande pruno: dal tronco escono insieme sangue e parole, come da un tizzone verde che sfrigola. Gli alberi sono le anime dei suicidi.",
+      "luogo_id": "girone-7-2",
+      "personaggi": ["dante", "virgilio", "pier-delle-vigne"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Il ramo che sanguina",
+          "url": "img/dore/inferno-13-ramo-spezzato-960.jpg",
+          "miniatura": "img/dore/inferno-13-ramo-spezzato-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._1,_Die_Holle_1870_(148618667).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [55, 78],
+      "titolo_scena": "Pier delle Vigne",
+      "sintesi": "Il tronco racconta: fu Pier delle Vigne, il più fidato consigliere di Federico II. L'invidia della corte lo fece cadere in disgrazia, e lui per sdegno si uccise, ingiusto contro se stesso innocente. Giura di non aver mai tradito il suo signore e chiede a Dante di riabilitare la sua memoria.",
+      "luogo_id": "girone-7-2",
+      "personaggi": ["dante", "virgilio", "pier-delle-vigne", "federico-ii"],
+      "tavole": []
+    },
+    {
+      "id": "scena-4",
+      "versi": [79, 108],
+      "titolo_scena": "Il destino dei suicidi",
+      "sintesi": "Dante, troppo commosso, chiede a Virgilio di fare le domande. Pier spiega che l'anima del suicida, gettata da Minosse nella selva, germoglia come un seme e diventa pianta; le Arpie, mangiandone le foglie, le danno dolore. Dopo il giudizio i suicidi non riavranno il corpo: lo appenderanno al proprio albero.",
+      "luogo_id": "girone-7-2",
+      "personaggi": ["dante", "virgilio", "pier-delle-vigne", "arpie"],
+      "tavole": []
+    },
+    {
+      "id": "scena-5",
+      "versi": [109, 151],
+      "titolo_scena": "Gli scialacquatori inseguiti dalle cagne",
+      "sintesi": "Con un fragore come di caccia arrivano due dannati nudi in fuga, Lano da Siena e Iacopo da Sant'Andrea, inseguiti da cagne nere. Iacopo si nasconde in un cespuglio, ma le cagne lo raggiungono e lo sbranano, strappando anche i rami del cespuglio, che è l'anima di un suicida fiorentino: si impiccò nella sua casa.",
+      "luogo_id": "girone-7-2",
+      "personaggi": ["dante", "virgilio", "lano", "iacopo-da-santandrea", "suicida-fiorentino"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Gli scialacquatori inseguiti dalle cagne",
+          "url": "img/dore/inferno-13-scialacquatori-960.jpg",
+          "miniatura": "img/dore/inferno-13-scialacquatori-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._1,_Die_Holle_1870_(148618673).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Non era ancor di là Nesso arrivato,\nquando noi ci mettemmo per un bosco\nche da neun sentiero era segnato.",
+      "parafrasi": "Nesso non era ancora tornato di là quando ci inoltrammo in un bosco che non era segnato da alcun sentiero."
+    },
+    {
+      "versi": [4, 6],
+      "testo": "Non fronda verde, ma di color fosco;\nnon rami schietti, ma nodosi e ’nvolti;\nnon pomi v’eran, ma stecchi con tòsco.",
+      "parafrasi": "Non foglie verdi, ma di colore scuro; non rami diritti, ma nodosi e contorti; non c'erano frutti, ma spine velenose."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "Non han sì aspri sterpi né sì folti\nquelle fiere selvagge che ’n odio hanno\ntra Cecina e Corneto i luoghi cólti.",
+      "parafrasi": "Non hanno sterpaglie così aspre e fitte quelle belve selvagge che tra Cecina e Corneto odiano i luoghi coltivati."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "Quivi le brutte Arpie lor nidi fanno,\nche cacciar de le Strofade i Troiani\ncon tristo annunzio di futuro danno.",
+      "parafrasi": "Qui fanno il nido le brutte Arpie, che cacciarono i Troiani dalle isole Strofadi con il triste annuncio di una sventura futura."
+    },
+    {
+      "versi": [13, 15],
+      "testo": "Ali hanno late, e colli e visi umani,\npiè con artigli, e pennuto ’l gran ventre;\nfanno lamenti in su li alberi strani.",
+      "parafrasi": "Hanno ali larghe, collo e volto umani, piedi con artigli e il grande ventre coperto di piume; fanno lamenti sopra gli alberi strani."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "E ’l buon maestro \"Prima che più entre,\nsappi che se’ nel secondo girone\",\nmi cominciò a dire, \"e sarai mentre",
+      "parafrasi": "E il buon maestro cominciò a dirmi: «Prima di entrare più avanti, sappi che sei nel secondo girone, e ci sarai finché"
+    },
+    {
+      "versi": [19, 21],
+      "testo": "che tu verrai ne l’orribil sabbione.\nPerò riguarda ben; sì vederai\ncose che torrien fede al mio sermone\".",
+      "parafrasi": "arriverai nell'orribile distesa di sabbia. Perciò guarda bene, e vedrai cose che, se te le raccontassi, toglierebbero credibilità alle mie parole.»"
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Io sentia d’ogne parte trarre guai\ne non vedea persona che ’l facesse;\nper ch’io tutto smarrito m’arrestai.",
+      "parafrasi": "Sentivo da ogni parte levare lamenti e non vedevo nessuno che li facesse; per cui mi fermai tutto smarrito."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Cred’ïo ch’ei credette ch’io credesse\nche tante voci uscisser, tra quei bronchi,\nda gente che per noi si nascondesse.",
+      "parafrasi": "Credo che lui credette che io credessi che tante voci uscissero, tra quei rami, da gente che si nascondeva da noi."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Però disse ’l maestro: \"Se tu tronchi\nqualche fraschetta d’una d’este piante,\nli pensier c’ hai si faran tutti monchi\".",
+      "parafrasi": "Perciò il maestro disse: «Se spezzi qualche ramoscello di una di queste piante, i pensieri che hai si troveranno tutti interrotti.»"
+    },
+    {
+      "versi": [31, 33],
+      "testo": "Allor porsi la mano un poco avante\ne colsi un ramicel da un gran pruno;\ne ’l tronco suo gridò: \"Perché mi schiante?\".",
+      "parafrasi": "Allora allungai un poco la mano e colsi un ramoscello da un grande pruno; e il suo tronco gridò: «Perché mi spezzi?»"
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Da che fatto fu poi di sangue bruno,\nricominciò a dir: \"Perché mi scerpi?\nnon hai tu spirto di pietade alcuno?",
+      "parafrasi": "Dopo che si fu macchiato di sangue scuro, ricominciò a dire: «Perché mi strappi? Non hai alcun sentimento di pietà?"
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Uomini fummo, e or siam fatti sterpi:\nben dovrebb’esser la tua man più pia,\nse state fossimo anime di serpi\".",
+      "parafrasi": "Fummo uomini, e ora siamo diventati sterpi: la tua mano dovrebbe essere ben più pietosa, anche se fossimo state anime di serpenti.»"
+    },
+    {
+      "versi": [40, 42],
+      "testo": "Come d’un stizzo verde ch’arso sia\nda l’un de’ capi, che da l’altro geme\ne cigola per vento che va via,",
+      "parafrasi": "Come da un tizzone verde che brucia da una delle estremità, mentre dall'altra geme e sfrigola per l'aria che esce,"
+    },
+    {
+      "versi": [43, 45],
+      "testo": "sì de la scheggia rotta usciva insieme\nparole e sangue; ond’io lasciai la cima\ncadere, e stetti come l’uom che teme.",
+      "parafrasi": "così dal ramo spezzato uscivano insieme parole e sangue; per cui lasciai cadere la cima e restai come un uomo che ha paura."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "\"S’elli avesse potuto creder prima\",\nrispuose ’l savio mio, \"anima lesa,\nciò c’ ha veduto pur con la mia rima,",
+      "parafrasi": "«Se avesse potuto credere prima», rispose il mio saggio, «anima offesa, ciò che ha visto soltanto nei miei versi,"
+    },
+    {
+      "versi": [49, 51],
+      "testo": "non averebbe in te la man distesa;\nma la cosa incredibile mi fece\nindurlo ad ovra ch’a me stesso pesa.",
+      "parafrasi": "non avrebbe steso la mano contro di te; ma la cosa incredibile mi ha fatto spingerlo a un gesto che pesa a me stesso."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "Ma dilli chi tu fosti, sì che ’n vece\nd’alcun’ammenda tua fama rinfreschi\nnel mondo sù, dove tornar li lece\".",
+      "parafrasi": "Ma digli chi fosti, così che, come riparazione, rinfreschi la tua fama nel mondo di sopra, dove gli è concesso tornare.»"
+    },
+    {
+      "versi": [55, 57],
+      "testo": "E ’l tronco: \"Sì col dolce dir m’adeschi,\nch’i’ non posso tacere; e voi non gravi\nperch’ïo un poco a ragionar m’inveschi.",
+      "parafrasi": "E il tronco: «Mi attiri così con il tuo dolce parlare che non posso tacere; e a voi non dispiaccia se mi lascio prendere un poco dal discorso."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Io son colui che tenni ambo le chiavi\ndel cor di Federigo, e che le volsi,\nserrando e diserrando, sì soavi,",
+      "parafrasi": "Io sono colui che tenne entrambe le chiavi del cuore di Federico e le girai, chiudendo e aprendo, con tanta dolcezza"
+    },
+    {
+      "versi": [61, 63],
+      "testo": "che dal secreto suo quasi ogn’uom tolsi;\nfede portai al glorïoso offizio,\ntanto ch’i’ ne perde’ li sonni e ’ polsi.",
+      "parafrasi": "che allontanai quasi tutti dalla sua confidenza; fui fedele al glorioso incarico, tanto che ne persi il sonno e la vita."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "La meretrice che mai da l’ospizio\ndi Cesare non torse li occhi putti,\nmorte comune e de le corti vizio,",
+      "parafrasi": "La prostituta [l'invidia] che non distolse mai gli occhi sfrontati dalla casa di Cesare, rovina di tutti e vizio delle corti,"
+    },
+    {
+      "versi": [67, 69],
+      "testo": "infiammò contra me li animi tutti;\ne li ’nfiammati infiammar sì Augusto,\nche ’ lieti onor tornaro in tristi lutti.",
+      "parafrasi": "infiammò contro di me tutti gli animi; e gli infiammati infiammarono tanto l'imperatore che i lieti onori si mutarono in tristi lutti."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "L’animo mio, per disdegnoso gusto,\ncredendo col morir fuggir disdegno,\ningiusto fece me contra me giusto.",
+      "parafrasi": "Il mio animo, per uno sdegnoso piacere, credendo di sfuggire al disprezzo con la morte, mi rese ingiusto contro me stesso, che ero giusto."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Per le nove radici d’esto legno\nvi giuro che già mai non ruppi fede\nal mio segnor, che fu d’onor sì degno.",
+      "parafrasi": "Per le radici nuove di questo legno vi giuro che non ruppi mai la fede al mio signore, che fu così degno di onore."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "E se di voi alcun nel mondo riede,\nconforti la memoria mia, che giace\nancor del colpo che ’nvidia le diede\".",
+      "parafrasi": "E se qualcuno di voi torna nel mondo, conforti la mia memoria, che giace ancora sotto il colpo che le diede l'invidia.»"
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Un poco attese, e poi \"Da ch’el si tace\",\ndisse ’l poeta a me, \"non perder l’ora;\nma parla, e chiedi a lui, se più ti piace\".",
+      "parafrasi": "Attese un poco, e poi il poeta mi disse: «Poiché tace, non perdere il momento; ma parla e chiedigli, se vuoi sapere altro.»"
+    },
+    {
+      "versi": [82, 84],
+      "testo": "Ond’ïo a lui: \"Domandal tu ancora\ndi quel che credi ch’a me satisfaccia;\nch’i’ non potrei, tanta pietà m’accora\".",
+      "parafrasi": "Per cui io a lui: «Domandagli tu ancora quello che credi possa soddisfarmi, perché io non potrei, tanta pietà mi stringe il cuore.»"
+    },
+    {
+      "versi": [85, 87],
+      "testo": "Perciò ricominciò: \"Se l’om ti faccia\nliberamente ciò che ’l tuo dir priega,\nspirito incarcerato, ancor ti piaccia",
+      "parafrasi": "Perciò ricominciò: «Così quest'uomo possa fare generosamente ciò che le tue parole chiedono, spirito imprigionato, ti piaccia ancora"
+    },
+    {
+      "versi": [88, 90],
+      "testo": "di dirne come l’anima si lega\nin questi nocchi; e dinne, se tu puoi,\ns’alcuna mai di tai membra si spiega\".",
+      "parafrasi": "dirci come l'anima si lega in questi nodi; e dicci, se puoi, se qualcuna si libera mai da queste membra.»"
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Allor soffiò il tronco forte, e poi\nsi convertì quel vento in cotal voce:\n\"Brievemente sarà risposto a voi.",
+      "parafrasi": "Allora il tronco soffiò forte, e poi quel soffio si trasformò in queste parole: «Vi sarà risposto in breve."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Quando si parte l’anima feroce\ndal corpo ond’ella stessa s’è disvelta,\nMinòs la manda a la settima foce.",
+      "parafrasi": "Quando l'anima feroce si separa dal corpo da cui si è strappata da sé, Minosse la manda alla settima voragine."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Cade in la selva, e non l’è parte scelta;\nma là dove fortuna la balestra,\nquivi germoglia come gran di spelta.",
+      "parafrasi": "Cade nella selva, e non le è assegnato un posto preciso; ma dove la fortuna la scaglia, lì germoglia come un chicco di spelta."
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Surge in vermena e in pianta silvestra:\nl’Arpie, pascendo poi de le sue foglie,\nfanno dolore, e al dolor fenestra.",
+      "parafrasi": "Cresce in un virgulto e poi in una pianta selvatica: le Arpie, nutrendosi poi delle sue foglie, le danno dolore e al dolore una via d'uscita."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Come l’altre verrem per nostre spoglie,\nma non però ch’alcuna sen rivesta,\nché non è giusto aver ciò ch’om si toglie.",
+      "parafrasi": "Come le altre anime verremo a prendere i nostri corpi, ma nessuna se ne rivestirà, perché non è giusto riavere ciò che uno si toglie."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Qui le strascineremo, e per la mesta\nselva saranno i nostri corpi appesi,\nciascuno al prun de l’ombra sua molesta\".",
+      "parafrasi": "Li trascineremo qui, e per la selva triste saranno appesi i nostri corpi, ciascuno al pruno della sua ombra nemica.»"
+    },
+    {
+      "versi": [109, 111],
+      "testo": "Noi eravamo ancora al tronco attesi,\ncredendo ch’altro ne volesse dire,\nquando noi fummo d’un romor sorpresi,",
+      "parafrasi": "Eravamo ancora attenti al tronco, credendo che volesse dirci altro, quando fummo sorpresi da un rumore,"
+    },
+    {
+      "versi": [112, 114],
+      "testo": "similemente a colui che venire\nsente ’l porco e la caccia a la sua posta,\nch’ode le bestie, e le frasche stormire.",
+      "parafrasi": "come chi sente arrivare il cinghiale e la caccia verso la sua postazione, e ode le bestie e lo stormire dei rami."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "Ed ecco due da la sinistra costa,\nnudi e graffiati, fuggendo sì forte,\nche de la selva rompieno ogne rosta.",
+      "parafrasi": "Ed ecco due dal lato sinistro, nudi e graffiati, che fuggivano così forte da spezzare ogni ramo della selva."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Quel dinanzi: \"Or accorri, accorri, morte!\".\nE l’altro, cui pareva tardar troppo,\ngridava: \"Lano, sì non furo accorte",
+      "parafrasi": "Quello davanti: «Accorri, accorri, morte!» E l'altro, al quale sembrava di essere troppo lento, gridava: «Lano, non furono così svelte"
+    },
+    {
+      "versi": [121, 123],
+      "testo": "le gambe tue a le giostre dal Toppo!\".\nE poi che forse li fallia la lena,\ndi sé e d’un cespuglio fece un groppo.",
+      "parafrasi": "le tue gambe allo scontro del Toppo!» E poi, forse perché gli mancava il fiato, fece di sé e di un cespuglio un groviglio solo."
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Di rietro a loro era la selva piena\ndi nere cagne, bramose e correnti\ncome veltri ch’uscisser di catena.",
+      "parafrasi": "Dietro di loro la selva era piena di cagne nere, affamate e veloci come levrieri liberati dalla catena."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "In quel che s’appiattò miser li denti,\ne quel dilaceraro a brano a brano;\npoi sen portar quelle membra dolenti.",
+      "parafrasi": "Affondarono i denti in quello che si era nascosto e lo sbranarono a pezzo a pezzo; poi portarono via quelle membra doloranti."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Presemi allor la mia scorta per mano,\ne menommi al cespuglio che piangea\nper le rotture sanguinenti in vano.",
+      "parafrasi": "Allora la mia scorta mi prese per mano e mi condusse al cespuglio, che piangeva inutilmente dalle ferite sanguinanti."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "\"O Iacopo\", dicea, \"da Santo Andrea,\nche t’è giovato di me fare schermo?\nche colpa ho io de la tua vita rea?\".",
+      "parafrasi": "«O Iacopo da Sant'Andrea», diceva, «a che ti è servito farti riparo di me? Che colpa ho io della tua vita malvagia?»"
+    },
+    {
+      "versi": [136, 138],
+      "testo": "Quando ’l maestro fu sovr’esso fermo,\ndisse: \"Chi fosti, che per tante punte\nsoffi con sangue doloroso sermo?\".",
+      "parafrasi": "Quando il maestro gli fu sopra, fermo, disse: «Chi fosti, che da tante ferite soffi insieme al sangue parole dolorose?»"
+    },
+    {
+      "versi": [139, 141],
+      "testo": "Ed elli a noi: \"O anime che giunte\nsiete a veder lo strazio disonesto\nc’ ha le mie fronde sì da me disgiunte,",
+      "parafrasi": "E lui a noi: «O anime che siete giunte a vedere lo strazio vergognoso che ha staccato da me così le mie fronde,"
+    },
+    {
+      "versi": [142, 144],
+      "testo": "raccoglietele al piè del tristo cesto.\nI’ fui de la città che nel Batista\nmutò ’l primo padrone; ond’ei per questo",
+      "parafrasi": "raccoglietele ai piedi del triste cespuglio. Io fui della città che cambiò il suo primo patrono [Marte] con il Battista; per cui lui per questo"
+    },
+    {
+      "versi": [145, 147],
+      "testo": "sempre con l’arte sua la farà trista;\ne se non fosse che ’n sul passo d’Arno\nrimane ancor di lui alcuna vista,",
+      "parafrasi": "la renderà sempre triste con la sua arte [la guerra]; e se non fosse che sul ponte dell'Arno resta ancora qualche immagine di lui,"
+    },
+    {
+      "versi": [148, 150],
+      "testo": "que’ cittadin che poi la rifondarno\nsovra ’l cener che d’Attila rimase,\navrebber fatto lavorare indarno.",
+      "parafrasi": "quei cittadini che poi la rifondarono sulla cenere lasciata da Attila avrebbero lavorato inutilmente."
+    },
+    {
+      "versi": [151, 151],
+      "testo": "Io fei gibetto a me de le mie case\".",
+      "parafrasi": "Io feci della mia casa la forca per me stesso.»"
+    }
+  ]
+}

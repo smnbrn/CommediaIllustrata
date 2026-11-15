@@ -1,0 +1,325 @@
+# Inferno, canto XXXII
+titolo: Cocito: Caina e Antenora, Bocca degli Abati
+
+## scena-1 | cerchio-9 | L'invocazione e il lago di ghiaccio
+personaggi: dante, virgilio
+sintesi: Dante vorrebbe rime aspre per descrivere il fondo dell'universo e invoca le Muse. Una voce lo avverte di non calpestare le teste: sotto i suoi piedi c'è un lago ghiacciato, più spesso del Danubio e del Don d'inverno, in cui i traditori sono confitti fino al volto, livido, battendo i denti.
+
+1
+S’ïo avessi le rime aspre e chiocce,
+come si converrebbe al tristo buco
+sovra ’l qual pontan tutte l’altre rocce,
+> Se avessi rime aspre e rauche, come si converrebbe al triste buco sul quale poggiano tutte le altre rocce,
+
+4
+io premerei di mio concetto il suco
+più pienamente; ma perch’io non l’abbo,
+non sanza tema a dicer mi conduco;
+> spremerei più pienamente il succo del mio pensiero; ma poiché non le ho, mi accingo a parlare non senza timore;
+
+7
+ché non è impresa da pigliare a gabbo
+discriver fondo a tutto l’universo,
+né da lingua che chiami mamma o babbo.
+> perché descrivere il fondo di tutto l'universo non è un'impresa da prendere per gioco, né da lingua che dice mamma o babbo.
+
+10
+Ma quelle donne aiutino il mio verso
+ch’aiutaro Anfïone a chiuder Tebe,
+sì che dal fatto il dir non sia diverso.
+> Ma mi aiutino nei versi quelle donne [le Muse] che aiutarono Anfione a chiudere Tebe con le mura, così che il dire non sia diverso dal fatto.
+
+13
+Oh sovra tutte mal creata plebe
+che stai nel loco onde parlare è duro,
+mei foste state qui pecore o zebe!
+> Oh, plebe sventurata sopra tutte, che stai nel luogo di cui è difficile parlare, sarebbe stato meglio che quaggiù foste state pecore o capre!
+
+16
+Come noi fummo giù nel pozzo scuro
+sotto i piè del gigante assai più bassi,
+e io mirava ancora a l’alto muro,
+> Quando fummo giù nel pozzo buio, molto più in basso dei piedi del gigante, e io guardavo ancora l'alta parete,
+
+19
+dicere udi’ mi: "Guarda come passi:
+va sì, che tu non calchi con le piante
+le teste de’ fratei miseri lassi".
+> mi sentii dire: «Guarda come cammini: va' in modo da non calpestare con i piedi le teste dei fratelli miseri e stanchi.»
+
+22
+Per ch’io mi volsi, e vidimi davante
+e sotto i piedi un lago che per gelo
+avea di vetro e non d’acqua sembiante.
+> Per cui mi voltai, e mi vidi davanti e sotto i piedi un lago che per il gelo aveva l'aspetto di vetro e non di acqua.
+
+25
+Non fece al corso suo sì grosso velo
+di verno la Danoia in Osterlicchi,
+né Tanaï là sotto ’l freddo cielo,
+> Il Danubio in Austria non si fece mai d'inverno un velo così spesso sul suo corso, né il Don là sotto il cielo freddo,
+
+28
+com’era quivi; che se Tambernicchi
+vi fosse sù caduto, o Pietrapana,
+non avria pur da l’orlo fatto cricchi.
+> come era qui; che se il Tambura o la Pania vi fossero caduti sopra, non avrebbe fatto crac neppure sull'orlo.
+
+31
+E come a gracidar si sta la rana
+col muso fuor de l’acqua, quando sogna
+di spigolar sovente la villana,
+> E come la rana sta a gracidare con il muso fuori dall'acqua, nella stagione in cui la contadina sogna spesso di spigolare,
+
+34
+livide, insin là dove appar vergogna
+eran l’ombre dolenti ne la ghiaccia,
+mettendo i denti in nota di cicogna.
+> così, lividi fino al punto dove appare la vergogna [il volto], stavano nel ghiaccio le ombre dolenti, battendo i denti come le cicogne il becco.
+
+37
+Ognuna in giù tenea volta la faccia;
+da bocca il freddo, e da li occhi il cor tristo
+tra lor testimonianza si procaccia.
+> Ognuna teneva la faccia rivolta in giù; il freddo dà testimonianza di sé con la bocca, e il cuore triste con gli occhi.
+
+## scena-2 | caina | I fratelli Alberti e Camicione de' Pazzi
+personaggi: dante, fratelli-alberti, camicione-de-pazzi
+tavola: dore | I traditori nel ghiaccio | img/dore/inferno-32-traditori-nel-ghiaccio-960.jpg | File:Gottliche Komodie. T. 1, Die Holle 1870 (148619530).jpg
+sintesi: Due dannati sono stretti così che i capelli si mescolano; le lacrime gelano e li serrano, e per l'ira si cozzano come caproni. Sono i figli di Alberto di Mangona, che si uccisero a vicenda per l'eredità. Un altro, Camicione de' Pazzi, elenca i compagni della Caina, la zona dei traditori dei parenti.
+
+40
+Quand’io m’ebbi dintorno alquanto visto,
+volsimi a’ piedi, e vidi due sì stretti,
+che ’l pel del capo avieno insieme misto.
+> Dopo che mi fui guardato un po' intorno, mi volsi ai piedi, e vidi due così stretti che avevano mescolato i capelli della testa.
+
+43
+"Ditemi, voi che sì strignete i petti",
+diss’io, "chi siete?". E quei piegaro i colli;
+e poi ch’ebber li visi a me eretti,
+> «Ditemi, voi che stringete così i petti», dissi, «chi siete?» E quelli piegarono il collo; e dopo aver alzato il viso verso di me,
+
+46
+li occhi lor, ch’eran pria pur dentro molli,
+gocciar su per le labbra, e ’l gelo strinse
+le lagrime tra essi e riserrolli.
+> i loro occhi, che prima erano umidi solo dentro, gocciolarono sulle labbra, e il gelo strinse le lacrime tra le palpebre e le chiuse di nuovo.
+
+49
+Con legno legno spranga mai non cinse
+forte così; ond’ei come due becchi
+cozzaro insieme, tanta ira li vinse.
+> Una spranga non strinse mai legno a legno così forte; per cui quelli, tanta ira li vinse, cozzarono insieme come due caproni.
+
+52
+E un ch’avea perduti ambo li orecchi
+per la freddura, pur col viso in giùe,
+disse: "Perché cotanto in noi ti specchi?
+> E uno che aveva perso entrambe le orecchie per il freddo, sempre con il viso in giù, disse: «Perché ti specchi tanto in noi?
+
+55
+Se vuoi saper chi son cotesti due,
+la valle onde Bisenzo si dichina
+del padre loro Alberto e di lor fue.
+> Se vuoi sapere chi sono questi due, la valle da cui scende il Bisenzio fu del loro padre Alberto e loro.
+
+58
+D’un corpo usciro; e tutta la Caina
+potrai cercare, e non troverai ombra
+degna più d’esser fitta in gelatina:
+> Uscirono dallo stesso grembo; e potrai cercare in tutta la Caina e non troverai ombra più degna di essere confitta nella gelatina:
+
+61
+non quelli a cui fu rotto il petto e l’ombra
+con esso un colpo per la man d’Artù;
+non Focaccia; non questi che m’ingombra
+> non quello a cui fu squarciato il petto e l'ombra con un solo colpo dalla mano di Artù; non Focaccia; non questo che mi ingombra
+
+64
+col capo sì, ch’i’ non veggio oltre più,
+e fu nomato Sassol Mascheroni;
+se tosco se’, ben sai omai chi fu.
+> con la testa, così che non vedo oltre, e si chiamò Sassolo Mascheroni; se sei toscano, sai ormai bene chi fu.
+
+67
+E perché non mi metti in più sermoni,
+sappi ch’i’ fu’ il Camiscion de’ Pazzi;
+e aspetto Carlin che mi scagioni".
+> E perché tu non mi faccia parlare ancora, sappi che io fui Camicione de' Pazzi; e aspetto Carlino, che con la sua colpa farà sembrare minore la mia.»
+
+## scena-3 | antenora | Bocca degli Abati
+personaggi: dante, virgilio, bocca-degli-abati, buoso-da-duera
+tavola: dore | Dante e Bocca degli Abati | File:Inferno Canto 32 (148619555).jpg
+sintesi: Nell'Antenora, tra i traditori della patria, Dante urta con il piede il volto di un dannato, che lo rimprovera evocando Montaperti. Sospettando chi sia, Dante gli chiede il nome e, al rifiuto, gli strappa ciocche di capelli. Un altro lo tradisce chiamandolo Bocca: è Bocca degli Abati, che a Montaperti tradì i guelfi. Per vendetta Bocca denuncia altri traditori.
+
+70
+Poscia vid’io mille visi cagnazzi
+fatti per freddo; onde mi vien riprezzo,
+e verrà sempre, de’ gelati guazzi.
+> Poi vidi mille visi resi paonazzi dal freddo; per cui mi viene un brivido, e verrà sempre, delle pozze gelate.
+
+73
+E mentre ch’andavamo inver’ lo mezzo
+al quale ogne gravezza si rauna,
+e io tremava ne l’etterno rezzo;
+> E mentre andavamo verso il centro, al quale si raccoglie ogni peso, e io tremavo nel freddo eterno,
+
+76
+se voler fu o destino o fortuna,
+non so; ma, passeggiando tra le teste,
+forte percossi ’l piè nel viso ad una.
+> se fu volontà o destino o caso, non so; ma, camminando tra le teste, colpii forte con il piede il viso di una.
+
+79
+Piangendo mi sgridò: "Perché mi peste?
+se tu non vieni a crescer la vendetta
+di Montaperti, perché mi moleste?".
+> Piangendo mi gridò: «Perché mi calpesti? Se non vieni ad accrescere la vendetta di Montaperti, perché mi tormenti?»
+
+82
+E io: "Maestro mio, or qui m’aspetta,
+sì ch’io esca d’un dubbio per costui;
+poi mi farai, quantunque vorrai, fretta".
+> E io: «Maestro mio, ora aspettami qui, così che io esca da un dubbio a proposito di costui; poi mi farai fretta quanto vorrai.»
+
+85
+Lo duca stette, e io dissi a colui
+che bestemmiava duramente ancora:
+"Qual se’ tu che così rampogni altrui?".
+> La guida si fermò, e io dissi a quello, che bestemmiava ancora duramente: «Chi sei tu che rimproveri così gli altri?»
+
+88
+"Or tu chi se’ che vai per l’Antenora,
+percotendo", rispuose, "altrui le gote,
+sì che, se fossi vivo, troppo fora?".
+> «Ora tu chi sei, che vai per l'Antenora», rispose, «colpendo le guance degli altri, così che, se fossi vivo, sarebbe troppo?»
+
+91
+"Vivo son io, e caro esser ti puote",
+fu mia risposta, "se dimandi fama,
+ch’io metta il nome tuo tra l’altre note".
+> «Io sono vivo, e può esserti gradito», fu la mia risposta, «se chiedi fama, che io metta il tuo nome tra gli altri ricordi.»
+
+94
+Ed elli a me: "Del contrario ho io brama.
+Lèvati quinci e non mi dar più lagna,
+ché mal sai lusingar per questa lama!".
+> E lui a me: «Desidero il contrario. Togliti di qui e non darmi altro fastidio, perché sai lusingare male in questa palude!»
+
+97
+Allor lo presi per la cuticagna
+e dissi: "El converrà che tu ti nomi,
+o che capel qui sù non ti rimagna".
+> Allora lo presi per la collottola e dissi: «Bisognerà che tu dica il tuo nome, o che qui sopra non ti resti un capello.»
+
+100
+Ond’elli a me: "Perché tu mi dischiomi,
+né ti dirò ch’io sia, né mosterrolti
+se mille fiate in sul capo mi tomi".
+> Per cui lui a me: «Anche se mi strappi i capelli, non ti dirò chi sono, né te lo mostrerò, anche se mi piombassi sulla testa mille volte.»
+
+103
+Io avea già i capelli in mano avvolti,
+e tratti glien’avea più d’una ciocca,
+latrando lui con li occhi in giù raccolti,
+> Avevo già i capelli avvolti in mano, e gliene avevo strappata più di una ciocca, mentre lui latrava con gli occhi rivolti in giù,
+
+106
+quando un altro gridò: "Che hai tu, Bocca?
+non ti basta sonar con le mascelle,
+se tu non latri? qual diavol ti tocca?".
+> quando un altro gridò: «Che hai, Bocca? Non ti basta suonare con le mascelle, che devi anche latrare? Quale diavolo ti tocca?»
+
+109
+"Omai", diss’io, "non vo’ che più favelle,
+malvagio traditor; ch’a la tua onta
+io porterò di te vere novelle".
+> «Ormai», dissi, «non voglio che tu parli più, malvagio traditore; perché a tua vergogna porterò di te notizie vere.»
+
+112
+"Va via", rispuose, "e ciò che tu vuoi conta;
+ma non tacer, se tu di qua entro eschi,
+di quel ch’ebbe or così la lingua pronta.
+> «Va' via», rispose, «e racconta ciò che vuoi; ma, se esci di qua, non tacere di quello che ha avuto ora la lingua così pronta.
+
+115
+El piange qui l’argento de’ Franceschi:
+"Io vidi", potrai dir, "quel da Duera
+là dove i peccatori stanno freschi".
+> Qui piange il denaro dei Francesi: "Ho visto", potrai dire, "quello da Duera là dove i peccatori stanno al fresco".
+
+118
+Se fossi domandato "Altri chi v’era?",
+tu hai dallato quel di Beccheria
+di cui segò Fiorenza la gorgiera.
+> Se ti domandassero "Chi altri c'era?", hai accanto quello di Beccaria, a cui Firenze tagliò la gola.
+
+121
+Gianni de’ Soldanier credo che sia
+più là con Ganellone e Tebaldello,
+ch’aprì Faenza quando si dormia".
+> Gianni de' Soldanieri credo che sia più in là, con Gano e con Tebaldello, che aprì Faenza mentre dormiva.»
+
+## scena-4 | antenora | Due dannati in una sola buca
+personaggi: dante, ugolino, ruggieri
+tavola: dore | Ugolino rode il capo di Ruggieri | File:DVinfernoUgolinoGnawingHeadOfRuggieari m.jpg
+sintesi: Poco più avanti, due dannati sono ghiacciati nella stessa buca: uno rode il cranio dell'altro, come Tideo con Menalippo. Dante gli chiede il perché di un odio così bestiale, promettendo di riferirne nel mondo.
+
+124
+Noi eravam partiti già da ello,
+ch’io vidi due ghiacciati in una buca,
+sì che l’un capo a l’altro era cappello;
+> Ci eravamo già allontanati da lui quando vidi due ghiacciati in una sola buca, così che una testa faceva da cappello all'altra;
+
+127
+e come ’l pan per fame si manduca,
+così ’l sovran li denti a l’altro pose
+là ’ve ’l cervel s’aggiugne con la nuca:
+> e come si mangia il pane per fame, così quello di sopra mise i denti nell'altro là dove il cervello si congiunge con la nuca:
+
+130
+non altrimenti Tidëo si rose
+le tempie a Menalippo per disdegno,
+che quei faceva il teschio e l’altre cose.
+> non diversamente Tideo rose per sdegno le tempie a Menalippo da come costui faceva con il cranio e il resto.
+
+133
+"O tu che mostri per sì bestial segno
+odio sovra colui che tu ti mangi,
+dimmi ’l perché", diss’io, "per tal convegno,
+> «O tu che mostri con un segno così bestiale odio verso colui che ti mangi, dimmi il perché», dissi, «a questo patto:
+
+136
+che se tu a ragion di lui ti piangi,
+sappiendo chi voi siete e la sua pecca,
+nel mondo suso ancora io te ne cangi,
+> che se tu hai ragione di lamentarti di lui, sapendo chi siete e la sua colpa, io te ne ricompensi ancora nel mondo di sopra,
+
+139
+se quella con ch’io parlo non si secca".
+> se quella con cui parlo [la lingua] non si secca.»
+
+## personaggio | fratelli-alberti | Alessandro e Napoleone degli Alberti
+dibattuto: no
+chi_era: Figli del conte Alberto degli Alberti, signori della Val di Bisenzio; divisi da odio politico e da questioni di eredità, si uccisero a vicenda intorno al 1286.
+
+## personaggio | camicione-de-pazzi | Camicione de' Pazzi
+dibattuto: no
+chi_era: Alberto Camicione dei Pazzi di Valdarno, che uccise a tradimento un parente. Aspetta Carlino de' Pazzi, che nel 1302 consegnerà per denaro ai Neri il castello di Piantravigne con i Bianchi che lo difendevano.
+
+## personaggio | bocca-degli-abati | Bocca degli Abati
+dibattuto: no
+chi_era: Ghibellino fiorentino rimasto tra i guelfi, che nella battaglia di Montaperti (1260) tagliò la mano al portabandiera della cavalleria guelfa, provocandone lo sbandamento e la sconfitta.
+
+## personaggio | buoso-da-duera | Buoso da Duera
+dibattuto: no
+chi_era: Signore ghibellino di Cremona che nel 1265, corrotto dal denaro dei Francesi, lasciò passare senza combattere l'esercito di Carlo d'Angiò diretto contro Manfredi.
+
+## personaggio | ugolino | Il conte Ugolino della Gherardesca
+dibattuto: sì
+chi_era: Nobile pisano (1210 circa – 1289), di famiglia ghibellina ma alleato dei guelfi. Signore di Pisa, fu accusato di tradimento per aver ceduto alcuni castelli a Firenze e Lucca; imprigionato dall'arcivescovo Ruggieri, morì di fame nella torre dei Gualandi con figli e nipoti. Il senso del verso «più che 'l dolor poté 'l digiuno» è discusso.
+
+## personaggio | ruggieri | L'arcivescovo Ruggieri degli Ubaldini
+dibattuto: no
+chi_era: Arcivescovo di Pisa (morto nel 1295), capo dei ghibellini della città; prima alleato di Ugolino, poi lo tradì, lo fece imprigionare e lasciar morire di fame.

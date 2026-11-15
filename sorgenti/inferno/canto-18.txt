@@ -1,0 +1,315 @@
+# Inferno, canto XVIII
+titolo: Malebolge: ruffiani, seduttori, adulatori
+
+## scena-1 | cerchio-8 | Malebolge
+personaggi: dante, virgilio
+sintesi: L'ottavo cerchio, Malebolge, è tutto di pietra color ferro: dieci fossati concentrici scendono verso un pozzo centrale, attraversati da ponti di roccia come i ponticelli dei castelli. Scesi da Gerione, i due vanno verso sinistra.
+
+1
+Luogo è in inferno detto Malebolge,
+tutto di pietra di color ferrigno,
+come la cerchia che dintorno il volge.
+> C'è un luogo all'Inferno chiamato Malebolge, tutto di pietra color ferro, come la parete che lo circonda.
+
+4
+Nel dritto mezzo del campo maligno
+vaneggia un pozzo assai largo e profondo,
+di cui suo loco dicerò l’ordigno.
+> Proprio in mezzo alla pianura malvagia si apre un pozzo molto largo e profondo, la cui struttura descriverò al momento giusto.
+
+7
+Quel cinghio che rimane adunque è tondo
+tra ’l pozzo e ’l piè de l’alta ripa dura,
+e ha distinto in dieci valli il fondo.
+> La fascia che resta tra il pozzo e il piede dell'alta parete dura è dunque rotonda, e ha il fondo diviso in dieci valli.
+
+10
+Quale, dove per guardia de le mura
+più e più fossi cingon li castelli,
+la parte dove son rende figura,
+> Come, dove molti fossati circondano i castelli per difendere le mura, la zona in cui si trovano disegna una figura,
+
+13
+tale imagine quivi facean quelli;
+e come a tai fortezze da’ lor sogli
+a la ripa di fuor son ponticelli,
+> tale immagine formavano quelle valli; e come in tali fortezze dalle porte partono ponticelli verso la riva esterna,
+
+16
+così da imo de la roccia scogli
+movien che ricidien li argini e ’ fossi
+infino al pozzo che i tronca e raccogli.
+> così dalla base della parete partivano scogli che attraversavano gli argini e i fossati fino al pozzo, che li tronca e li raccoglie.
+
+19
+In questo luogo, de la schiena scossi
+di Gerïon, trovammoci; e ’l poeta
+tenne a sinistra, e io dietro mi mossi.
+> In questo luogo ci trovammo, scesi dalla schiena di Gerione; e il poeta tenne la sinistra, e io mi mossi dietro di lui.
+
+## scena-2 | bolgia-1 | Ruffiani e seduttori frustati dai demoni
+personaggi: dante, virgilio, venedico-caccianemico
+tavola: dore | I ruffiani frustati dai demoni | img/dore/inferno-18-ruffiani-960.jpg | File:Gottliche Komodie. T. 1, Die Holle 1870 (148618726).jpg
+sintesi: Nella prima bolgia i dannati nudi camminano in due file opposte, come i pellegrini sul ponte di Castel Sant'Angelo nel Giubileo, frustati da demoni cornuti. Dante riconosce Venedico Caccianemico, che vendette la sorella al marchese d'Este: con lui ci sono molti altri bolognesi.
+
+22
+A la man destra vidi nova pieta,
+novo tormento e novi frustatori,
+di che la prima bolgia era repleta.
+> Alla mia destra vidi una nuova pena, nuovi tormenti e nuovi frustatori, di cui la prima bolgia era piena.
+
+25
+Nel fondo erano ignudi i peccatori;
+dal mezzo in qua ci venien verso ’l volto,
+di là con noi, ma con passi maggiori,
+> Sul fondo stavano i peccatori nudi; da metà in qua ci venivano incontro, e dall'altra parte andavano nella nostra direzione, ma a passi più lunghi,
+
+28
+come i Roman per l’essercito molto,
+l’anno del giubileo, su per lo ponte
+hanno a passar la gente modo colto,
+> come i Romani, l'anno del Giubileo, a causa della grande folla, hanno trovato il modo di far passare la gente sul ponte,
+
+31
+che da l’un lato tutti hanno la fronte
+verso ’l castello e vanno a Santo Pietro,
+da l’altra sponda vanno verso ’l monte.
+> così che da un lato tutti hanno la fronte verso il castello e vanno a San Pietro, e dall'altra sponda vanno verso il monte.
+
+34
+Di qua, di là, su per lo sasso tetro
+vidi demon cornuti con gran ferze,
+che li battien crudelmente di retro.
+> Di qua e di là, sulla pietra scura, vidi demoni cornuti con grandi fruste, che li battevano crudelmente da dietro.
+
+37
+Ahi come facean lor levar le berze
+a le prime percosse! già nessuno
+le seconde aspettava né le terze.
+> Ah, come facevano alzare loro i calcagni alle prime frustate! Nessuno aspettava ormai le seconde né le terze.
+
+40
+Mentr’io andava, li occhi miei in uno
+furo scontrati; e io sì tosto dissi:
+"Già di veder costui non son digiuno".
+> Mentre camminavo, i miei occhi si incontrarono con quelli di uno; e subito dissi: «Questo l'ho già visto.»
+
+43
+Per ch’ïo a figurarlo i piedi affissi;
+e ’l dolce duca meco si ristette,
+e assentio ch’alquanto in dietro gissi.
+> Per cui mi fermai per riconoscerlo; e la dolce guida si fermò con me e acconsentì che tornassi un po' indietro.
+
+46
+E quel frustato celar si credette
+bassando ’l viso; ma poco li valse,
+ch’io dissi: "O tu che l’occhio a terra gette,
+> E quel frustato credette di nascondersi abbassando il viso; ma gli servì a poco, perché dissi: «O tu che getti l'occhio a terra,
+
+49
+se le fazion che porti non son false,
+Venedico se’ tu Caccianemico.
+Ma che ti mena a sì pungenti salse?".
+> se i lineamenti che porti non ingannano, tu sei Venedico Caccianemico. Ma che cosa ti porta a salse così piccanti?»
+
+52
+Ed elli a me: "Mal volontier lo dico;
+ma sforzami la tua chiara favella,
+che mi fa sovvenir del mondo antico.
+> E lui a me: «Lo dico malvolentieri; ma mi costringe il tuo parlare chiaro, che mi fa ricordare il mondo di prima.
+
+55
+I’ fui colui che la Ghisolabella
+condussi a far la voglia del marchese,
+come che suoni la sconcia novella.
+> Io fui colui che condusse la Ghisolabella a fare la volontà del marchese, comunque si racconti la storia vergognosa.
+
+58
+E non pur io qui piango bolognese;
+anzi n’è questo loco tanto pieno,
+che tante lingue non son ora apprese
+> E non sono il solo bolognese che piange qui; anzi, questo luogo ne è così pieno che oggi non ci sono tante lingue che abbiano imparato
+
+61
+a dicer ’sipa’ tra Sàvena e Reno;
+e se di ciò vuoi fede o testimonio,
+rècati a mente il nostro avaro seno".
+> a dire "sipa" tra il Savena e il Reno; e se ne vuoi una prova o una testimonianza, ricordati il nostro animo avido.»
+
+64
+Così parlando il percosse un demonio
+de la sua scurïada, e disse: "Via,
+ruffian! qui non son femmine da conio".
+> Mentre parlava così, un demonio lo colpì con la sua frusta e disse: «Via, ruffiano! Qui non ci sono donne da vendere.»
+
+## scena-3 | bolgia-1 | Giasone
+personaggi: dante, virgilio, giasone
+sintesi: Saliti sul ponte, i due guardano la fila dei seduttori. Virgilio indica Giasone, che ancora conserva un aspetto regale: conquistò il vello d'oro, sedusse e abbandonò Isifile incinta, e poi tradì Medea.
+
+67
+I’ mi raggiunsi con la scorta mia;
+poscia con pochi passi divenimmo
+là ’v’uno scoglio de la ripa uscia.
+> Raggiunsi la mia scorta; poi con pochi passi arrivammo là dove uno scoglio usciva dalla parete.
+
+70
+Assai leggeramente quel salimmo;
+e vòlti a destra su per la sua scheggia,
+da quelle cerchie etterne ci partimmo.
+> Lo salimmo con molta facilità; e, voltati a destra sulla sua cresta, ci allontanammo da quelle mura eterne.
+
+73
+Quando noi fummo là dov’el vaneggia
+di sotto per dar passo a li sferzati,
+lo duca disse: "Attienti, e fa che feggia
+> Quando fummo là dove si apre sotto, per dare passaggio ai frustati, la guida disse: «Fermati, e fa' in modo che ti colpisca
+
+76
+lo viso in te di quest’altri mal nati,
+ai quali ancor non vedesti la faccia
+però che son con noi insieme andati".
+> lo sguardo di questi altri nati per il male, dei quali non hai ancora visto la faccia, perché sono andati nella nostra stessa direzione.»
+
+79
+Del vecchio ponte guardavam la traccia
+che venìa verso noi da l’altra banda,
+e che la ferza similmente scaccia.
+> Dal vecchio ponte guardavamo la fila che veniva verso di noi dall'altra parte, e che la frusta incalza allo stesso modo.
+
+82
+E ’l buon maestro, sanza mia dimanda,
+mi disse: "Guarda quel grande che vene,
+e per dolor non par lagrime spanda:
+> E il buon maestro, senza che glielo chiedessi, mi disse: «Guarda quel grande che viene, e per il dolore non sembra versare lacrime:
+
+85
+quanto aspetto reale ancor ritene!
+Quelli è Iasón, che per cuore e per senno
+li Colchi del monton privati féne.
+> quanto aspetto regale conserva ancora! Quello è Giasone, che con il coraggio e l'ingegno privò i Colchi del montone [il vello d'oro].
+
+88
+Ello passò per l’isola di Lenno
+poi che l’ardite femmine spietate
+tutti li maschi loro a morte dienno.
+> Passò per l'isola di Lemno dopo che le donne ardite e spietate avevano messo a morte tutti i loro uomini.
+
+91
+Ivi con segni e con parole ornate
+Isifile ingannò, la giovinetta
+che prima avea tutte l’altre ingannate.
+> Lì con gesti e parole adorne ingannò Isifile, la fanciulla che prima aveva ingannato tutte le altre.
+
+94
+Lasciolla quivi, gravida, soletta;
+tal colpa a tal martiro lui condanna;
+e anche di Medea si fa vendetta.
+> La lasciò lì, incinta e sola; tale colpa lo condanna a tale tormento; e si fa vendetta anche di Medea.
+
+97
+Con lui sen va chi da tal parte inganna;
+e questo basti de la prima valle
+sapere e di color che ’n sé assanna".
+> Con lui va chi inganna in questo modo; e questo basti sapere della prima valle e di quelli che azzanna.»
+
+## scena-4 | bolgia-2 | Gli adulatori nello sterco
+personaggi: dante, virgilio, alessio-interminelli
+tavola: dore | Gli adulatori nello sterco | img/dore/inferno-18-adulatori-960.jpg | File:Gottliche Komodie. T. 1, Die Holle 1870 (148618732).jpg
+sintesi: Nella seconda bolgia, dalle pareti incrostate di muffa puzzolente, gli adulatori sono immersi nello sterco e si picchiano con le mani. Dante riconosce il lucchese Alessio Interminelli, che riconosce di esservi sommerso per le sue lusinghe.
+
+100
+Già eravam là ’ve lo stretto calle
+con l’argine secondo s’incrocicchia,
+e fa di quello ad un altr’arco spalle.
+> Eravamo già là dove lo stretto sentiero si incrocia con il secondo argine e ne fa la spalla di un altro arco.
+
+103
+Quindi sentimmo gente che si nicchia
+ne l’altra bolgia e che col muso scuffa,
+e sé medesma con le palme picchia.
+> Da lì sentimmo gente che si lamenta nell'altra bolgia, che sbuffa col muso e si percuote con le palme.
+
+106
+Le ripe eran grommate d’una muffa,
+per l’alito di giù che vi s’appasta,
+che con li occhi e col naso facea zuffa.
+> Le pareti erano incrostate di una muffa formata dall'alito che sale dal basso e vi si impasta, e che faceva a pugni con gli occhi e con il naso.
+
+109
+Lo fondo è cupo sì, che non ci basta
+loco a veder sanza montare al dosso
+de l’arco, ove lo scoglio più sovrasta.
+> Il fondo è così cupo che non basta alcun punto per vedere, se non si sale sul dorso dell'arco, dove il ponte sovrasta di più.
+
+112
+Quivi venimmo; e quindi giù nel fosso
+vidi gente attuffata in uno sterco
+che da li uman privadi parea mosso.
+> Arrivammo lì; e da lì vidi giù nel fosso gente immersa in uno sterco che sembrava venire dalle latrine umane.
+
+115
+E mentre ch’io là giù con l’occhio cerco,
+vidi un col capo sì di merda lordo,
+che non parëa s’era laico o cherco.
+> E mentre là sotto cerco con l'occhio, vidi uno con il capo così sporco di merda che non si capiva se fosse laico o chierico.
+
+118
+Quei mi sgridò: "Perché se’ tu sì gordo
+di riguardar più me che li altri brutti?".
+E io a lui: "Perché, se ben ricordo,
+> Quello mi gridò: «Perché sei così avido di guardare me più degli altri sporchi?» E io a lui: «Perché, se ricordo bene,
+
+121
+già t’ ho veduto coi capelli asciutti,
+e se’ Alessio Interminei da Lucca:
+però t’adocchio più che li altri tutti".
+> ti ho già visto con i capelli asciutti, e sei Alessio Interminelli da Lucca: per questo ti guardo più di tutti gli altri.»
+
+124
+Ed elli allor, battendosi la zucca:
+"Qua giù m’ hanno sommerso le lusinghe
+ond’io non ebbi mai la lingua stucca".
+> E lui allora, battendosi la testa: «Quaggiù mi hanno sommerso le lusinghe, di cui non ebbi mai la lingua sazia.»
+
+## scena-5 | bolgia-2 | Taide
+personaggi: dante, virgilio, taide
+tavola: dore | Taide | File:DVinfernoShadeOfThais m.jpg
+sintesi: Virgilio mostra a Dante una donna sporca e scarmigliata che si graffia con le unghie piene di sterco: è Taide, la prostituta che rispose all'amante con un'adulazione esagerata.
+
+127
+Appresso ciò lo duca "Fa che pinghe",
+mi disse, "il viso un poco più avante,
+sì che la faccia ben con l’occhio attinghe
+> Dopo ciò la guida mi disse: «Fa' in modo di spingere lo sguardo un poco più avanti, così che tu raggiunga bene con l'occhio la faccia
+
+130
+di quella sozza e scapigliata fante
+che là si graffia con l’unghie merdose,
+e or s’accoscia e ora è in piedi stante.
+> di quella sporca serva scarmigliata che là si graffia con le unghie piene di merda, e ora si accovaccia e ora sta in piedi.
+
+133
+Taïde è, la puttana che rispuose
+al drudo suo quando disse "Ho io grazie
+grandi apo te?": "Anzi maravigliose!".
+> È Taide, la prostituta che rispose al suo amante, quando le chiese "Ho grandi meriti presso di te?": "Anzi, meravigliosi!".
+
+136
+E quinci sian le nostre viste sazie".
+> E qui i nostri occhi siano sazi.»
+
+## personaggio | venedico-caccianemico | Venedico Caccianemico
+dibattuto: no
+chi_era: Nobile bolognese (1228 circa – 1303), capo della parte guelfa, podestà in varie città. Si raccontava che avesse ceduto la sorella Ghisolabella a Obizzo II d'Este per ottenerne il favore.
+
+## personaggio | giasone | Giasone
+dibattuto: no
+chi_era: Eroe del mito greco, capo degli Argonauti nell'impresa del vello d'oro. Sedusse e abbandonò Isifile, regina di Lemno, e poi Medea, che lo aveva aiutato a conquistare il vello.
+
+## personaggio | alessio-interminelli | Alessio Interminelli
+dibattuto: no
+chi_era: Nobile lucchese di parte bianca, vivo ancora nel 1295; di lui non si sa altro.
+
+## personaggio | taide | Taide
+dibattuto: no
+chi_era: Prostituta, personaggio dell'Eunuco di Terenzio; Dante ne conosceva le parole attraverso una citazione di Cicerone. Nella commedia la risposta adulatoria è in realtà del servo che porta il dono.

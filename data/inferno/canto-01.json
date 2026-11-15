@@ -31,7 +31,17 @@
       "sintesi": "Giunto ai piedi di un colle, Dante vede la cima già illuminata dal sole e la paura si calma; come un naufrago scampato si volta a guardare il passo pericoloso, poi riprende a salire.",
       "luogo_id": "colle",
       "personaggi": ["dante"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Dante ai piedi del colle illuminato dal sole",
+          "url": "img/ia/inferno-01-scena-2.jpg",
+          "miniatura": "img/ia/inferno-01-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-3",

@@ -1,0 +1,300 @@
+# Inferno, canto XVI
+titolo: I tre fiorentini, la cascata, il segnale per Gerione
+
+## scena-1 | girone-7-3 | Le tre ombre
+personaggi: dante, virgilio, guido-guerra, tegghiaio, iacopo-rusticucci
+sintesi: Si sente già il rimbombo della cascata del Flegetonte. Tre ombre si staccano di corsa da una schiera e chiamano Dante, che dall'abito sembra fiorentino. Virgilio gli chiede di essere cortese con loro. Non potendo fermarsi, girano in tondo come lottatori e si presentano: Guido Guerra, Tegghiaio Aldobrandi e Iacopo Rusticucci.
+
+1
+Già era in loco onde s’udia ’l rimbombo
+de l’acqua che cadea ne l’altro giro,
+simile a quel che l’arnie fanno rombo,
+> Ero già in un luogo da cui si sentiva il rimbombo dell'acqua che cadeva nel cerchio successivo, simile al ronzio che fanno gli alveari,
+
+4
+quando tre ombre insieme si partiro,
+correndo, d’una torma che passava
+sotto la pioggia de l’aspro martiro.
+> quando tre ombre si staccarono insieme, correndo, da una schiera che passava sotto la pioggia del crudele tormento.
+
+7
+Venian ver’ noi, e ciascuna gridava:
+"Sòstati tu ch’a l’abito ne sembri
+essere alcun di nostra terra prava".
+> Venivano verso di noi, e ciascuna gridava: «Fermati tu, che dall'abito ci sembri uno della nostra città malvagia.»
+
+10
+Ahimè, che piaghe vidi ne’ lor membri,
+ricenti e vecchie, da le fiamme incese!
+Ancor men duol pur ch’i’ me ne rimembri.
+> Ahimè, che piaghe vidi nelle loro membra, recenti e vecchie, bruciate dalle fiamme! Me ne addoloro ancora solo a ricordarlo.
+
+13
+A le lor grida il mio dottor s’attese;
+volse ’l viso ver’ me, e "Or aspetta",
+disse, "a costor si vuole esser cortese.
+> Alle loro grida il mio maestro fece attenzione; volse il viso verso di me e disse: «Ora aspetta: con costoro bisogna essere cortesi.
+
+16
+E se non fosse il foco che saetta
+la natura del loco, i’ dicerei
+che meglio stesse a te che a lor la fretta".
+> E se non fosse per il fuoco che la natura del luogo scaglia, direi che la fretta converrebbe più a te che a loro.»
+
+19
+Ricominciar, come noi restammo, ei
+l’antico verso; e quando a noi fuor giunti,
+fenno una rota di sé tutti e trei.
+> Quando ci fermammo, ricominciarono il loro antico lamento; e quando ci raggiunsero, fecero tutti e tre una ruota.
+
+22
+Qual sogliono i campion far nudi e unti,
+avvisando lor presa e lor vantaggio,
+prima che sien tra lor battuti e punti,
+> Come fanno di solito i lottatori nudi e unti, studiando la presa e il vantaggio prima di venire ai colpi,
+
+25
+così rotando, ciascuno il visaggio
+drizzava a me, sì che ’n contraro il collo
+faceva ai piè continüo vïaggio.
+> così, girando, ciascuno teneva il volto rivolto a me, tanto che il collo andava continuamente in direzione opposta ai piedi.
+
+28
+E "Se miseria d’esto loco sollo
+rende in dispetto noi e nostri prieghi",
+cominciò l’uno, "e ’l tinto aspetto e brollo,
+> E uno cominciò: «Se la miseria di questo luogo sabbioso e l'aspetto annerito e spelato rendono spregevoli noi e le nostre preghiere,
+
+31
+la fama nostra il tuo animo pieghi
+a dirne chi tu se’, che i vivi piedi
+così sicuro per lo ’nferno freghi.
+> la nostra fama pieghi il tuo animo a dirci chi sei, tu che strofini così sicuro i piedi vivi per l'Inferno.
+
+34
+Questi, l’orme di cui pestar mi vedi,
+tutto che nudo e dipelato vada,
+fu di grado maggior che tu non credi:
+> Questo, di cui mi vedi calpestare le orme, benché vada nudo e spelato, fu di rango più alto di quanto tu creda:
+
+37
+nepote fu de la buona Gualdrada;
+Guido Guerra ebbe nome, e in sua vita
+fece col senno assai e con la spada.
+> fu nipote della buona Gualdrada; si chiamò Guido Guerra, e in vita fece molto con il senno e con la spada.
+
+40
+L’altro, ch’appresso me la rena trita,
+è Tegghiaio Aldobrandi, la cui voce
+nel mondo sù dovria esser gradita.
+> L'altro, che calpesta la sabbia dietro di me, è Tegghiaio Aldobrandi, la cui voce avrebbe dovuto essere ascoltata nel mondo di sopra.
+
+43
+E io, che posto son con loro in croce,
+Iacopo Rusticucci fui, e certo
+la fiera moglie più ch’altro mi nuoce".
+> E io, che sono messo in croce con loro, fui Iacopo Rusticucci, e certo mi nuoce più di ogni altra cosa la moglie bisbetica.»
+
+## scena-2 | girone-7-3 | Firenze, la gente nuova e i subiti guadagni
+personaggi: dante, guido-guerra, tegghiaio, iacopo-rusticucci, guglielmo-borsiere
+sintesi: Dante li avrebbe abbracciati, se non fosse per il fuoco; dice di onorarne i nomi. Chiedono se a Firenze vivano ancora cortesia e valore. Dante risponde con un grido rivolto alla città: la gente nuova e i guadagni improvvisi hanno generato superbia ed eccesso. I tre gli chiedono di ricordarli nel mondo e fuggono via.
+
+46
+S’i’ fossi stato dal foco coperto,
+gittato mi sarei tra lor di sotto,
+e credo che ’l dottor l’avria sofferto;
+> Se fossi stato riparato dal fuoco, mi sarei gettato giù tra loro, e credo che il maestro l'avrebbe permesso;
+
+49
+ma perch’io mi sarei brusciato e cotto,
+vinse paura la mia buona voglia
+che di loro abbracciar mi facea ghiotto.
+> ma poiché mi sarei bruciato e cotto, la paura vinse la buona volontà che mi rendeva desideroso di abbracciarli.
+
+52
+Poi cominciai: "Non dispetto, ma doglia
+la vostra condizion dentro mi fisse,
+tanta che tardi tutta si dispoglia,
+> Poi cominciai: «Non disprezzo, ma dolore mi ha impresso dentro la vostra condizione, tanto che tarderà a lasciarmi del tutto,
+
+55
+tosto che questo mio segnor mi disse
+parole per le quali i’ mi pensai
+che qual voi siete, tal gente venisse.
+> appena questo mio signore mi disse parole dalle quali pensai che stesse arrivando gente come siete voi.
+
+58
+Di vostra terra sono, e sempre mai
+l’ovra di voi e li onorati nomi
+con affezion ritrassi e ascoltai.
+> Sono della vostra città, e da sempre ho ripetuto e ascoltato con affetto le vostre opere e i vostri nomi onorati.
+
+61
+Lascio lo fele e vo per dolci pomi
+promessi a me per lo verace duca;
+ma ’nfino al centro pria convien ch’i’ tomi".
+> Lascio l'amaro e vado verso i dolci frutti promessi dalla mia guida veritiera; ma prima devo scendere fino al centro.»
+
+64
+"Se lungamente l’anima conduca
+le membra tue", rispuose quelli ancora,
+"e se la fama tua dopo te luca,
+> «Così l'anima possa guidare a lungo le tue membra», rispose quello ancora, «e così la tua fama risplenda dopo di te,
+
+67
+cortesia e valor dì se dimora
+ne la nostra città sì come suole,
+o se del tutto se n’è gita fora;
+> dicci se la cortesia e il valore abitano ancora nella nostra città come un tempo, o se ne sono del tutto usciti;
+
+70
+ché Guiglielmo Borsiere, il qual si duole
+con noi per poco e va là coi compagni,
+assai ne cruccia con le sue parole".
+> perché Guglielmo Borsiere, che soffre con noi da poco e va là con i compagni, ci addolora molto con le sue parole.»
+
+73
+"La gente nuova e i sùbiti guadagni
+orgoglio e dismisura han generata,
+Fiorenza, in te, sì che tu già ten piagni".
+> «La gente nuova e i guadagni improvvisi hanno generato in te, Firenze, superbia ed eccesso, tanto che già ne piangi.»
+
+76
+Così gridai con la faccia levata;
+e i tre, che ciò inteser per risposta,
+guardar l’un l’altro com’al ver si guata.
+> Così gridai con la faccia alzata; e i tre, che lo intesero come risposta, si guardarono l'un l'altro come si guarda di fronte alla verità.
+
+79
+"Se l’altre volte sì poco ti costa",
+rispuoser tutti, "il satisfare altrui,
+felice te se sì parli a tua posta!
+> «Se le altre volte ti costa così poco soddisfare gli altri», risposero tutti, «felice te che parli così liberamente!
+
+82
+Però, se campi d’esti luoghi bui
+e torni a riveder le belle stelle,
+quando ti gioverà dicere "I’ fui",
+> Perciò, se scampi da questi luoghi bui e torni a rivedere le belle stelle, quando ti farà piacere dire "Io fui",
+
+85
+fa che di noi a la gente favelle".
+Indi rupper la rota, e a fuggirsi
+ali sembiar le gambe loro isnelle.
+> fa' in modo di parlare di noi alla gente.» Poi ruppero la ruota, e nel fuggire le loro gambe veloci sembrarono ali.
+
+88
+Un amen non saria possuto dirsi
+tosto così com’e’ fuoro spariti;
+per ch’al maestro parve di partirsi.
+> Non si sarebbe potuto dire un amen nel tempo in cui scomparvero; per cui al maestro parve il momento di andarsene.
+
+## scena-3 | girone-7-3 | La cascata e la corda
+personaggi: dante, virgilio, gerione, lonza
+sintesi: Il fiume precipita da una ripa scoscesa con un fragore assordante, come l'Acquacheta presso San Benedetto. Virgilio si fa dare la corda che Dante porta alla cintura e la getta nel burrone. Dante, sotto giuramento, dice di aver visto salire dall'abisso, nuotando nell'aria, una figura meravigliosa.
+
+91
+Io lo seguiva, e poco eravam iti,
+che ’l suon de l’acqua n’era sì vicino,
+che per parlar saremmo a pena uditi.
+> Io lo seguivo, e avevamo fatto poca strada che il suono dell'acqua era così vicino che, parlando, ci saremmo uditi a stento.
+
+94
+Come quel fiume c’ ha proprio cammino
+prima dal Monte Viso ’nver’ levante,
+da la sinistra costa d’Apennino,
+> Come quel fiume che per primo ha un corso proprio dal Monviso verso levante, sul versante sinistro dell'Appennino,
+
+97
+che si chiama Acquacheta suso, avante
+che si divalli giù nel basso letto,
+e a Forlì di quel nome è vacante,
+> che si chiama Acquacheta in alto, prima di scendere nella pianura, e a Forlì non ha più quel nome,
+
+100
+rimbomba là sovra San Benedetto
+de l’Alpe per cadere ad una scesa
+ove dovea per mille esser recetto;
+> rimbomba là sopra San Benedetto dell'Alpe cadendo in un'unica cascata, dove avrebbero dovuto trovare rifugio mille persone;
+
+103
+così, giù d’una ripa discoscesa,
+trovammo risonar quell’acqua tinta,
+sì che ’n poc’ora avria l’orecchia offesa.
+> così trovammo risuonare quell'acqua rossa giù da una ripa scoscesa, tanto che in poco tempo avrebbe ferito l'udito.
+
+106
+Io avea una corda intorno cinta,
+e con essa pensai alcuna volta
+prender la lonza a la pelle dipinta.
+> Avevo una corda cinta intorno ai fianchi, e con essa avevo pensato talvolta di catturare la lonza dalla pelle dipinta.
+
+109
+Poscia ch’io l’ebbi tutta da me sciolta,
+sì come ’l duca m’avea comandato,
+porsila a lui aggroppata e ravvolta.
+> Dopo che l'ebbi sciolta tutta da me, come la guida mi aveva ordinato, gliela porsi annodata e arrotolata.
+
+112
+Ond’ei si volse inver’ lo destro lato,
+e alquanto di lunge da la sponda
+la gittò giuso in quell’alto burrato.
+> Per cui lui si volse verso destra e, un poco lontano dalla sponda, la gettò giù in quel profondo burrone.
+
+115
+’E’ pur convien che novità risponda’,
+dicea fra me medesmo, ’al novo cenno
+che ’l maestro con l’occhio sì seconda’.
+> «Deve pur succedere qualcosa di strano», dicevo tra me, «in risposta allo strano segnale che il maestro segue così con lo sguardo.»
+
+118
+Ahi quanto cauti li uomini esser dienno
+presso a color che non veggion pur l’ovra,
+ma per entro i pensier miran col senno!
+> Ah, quanto devono essere cauti gli uomini vicino a coloro che non vedono solo le azioni, ma con l'intelligenza guardano dentro i pensieri!
+
+121
+El disse a me: "Tosto verrà di sovra
+ciò ch’io attendo e che il tuo pensier sogna;
+tosto convien ch’al tuo viso si scovra".
+> Mi disse: «Presto verrà su ciò che aspetto e che il tuo pensiero sogna; presto dovrà rivelarsi ai tuoi occhi.»
+
+124
+Sempre a quel ver c’ ha faccia di menzogna
+de’ l’uom chiuder le labbra fin ch’el puote,
+però che sanza colpa fa vergogna;
+> Di fronte a una verità che ha l'aspetto di menzogna l'uomo deve tenere le labbra chiuse finché può, perché lo fa vergognare senza sua colpa;
+
+127
+ma qui tacer nol posso; e per le note
+di questa comedìa, lettor, ti giuro,
+s’elle non sien di lunga grazia vòte,
+> ma qui non posso tacere; e per i versi di questa commedia, lettore, ti giuro, così non siano privi di lungo favore,
+
+130
+ch’i’ vidi per quell’ aere grosso e scuro
+venir notando una figura in suso,
+maravigliosa ad ogne cor sicuro,
+> che vidi attraverso quell'aria densa e scura venire su nuotando una figura, meravigliosa per ogni cuore, anche il più saldo,
+
+133
+sì come torna colui che va giuso
+talora a solver l’àncora ch’aggrappa
+o scoglio o altro che nel mare è chiuso,
+> come torna su chi va giù talvolta a liberare l'ancora che si è impigliata in uno scoglio o in altro nascosto nel mare,
+
+136
+che ’n sù si stende e da piè si rattrappa.
+> che si allunga verso l'alto e ritrae i piedi.
+
+## personaggio | guido-guerra | Guido Guerra
+dibattuto: no
+chi_era: Conte Guido Guerra dei Guidi (1220 circa – 1272), capo dei guelfi fiorentini, nipote di Gualdrada dei Ravignani; combatté a Benevento con Carlo d'Angiò.
+
+## personaggio | guglielmo-borsiere | Guglielmo Borsiere
+dibattuto: no
+chi_era: Fiorentino, uomo di corte famoso per la cortesia e l'arguzia, morto da poco nel 1300; Boccaccio lo ricorda in una novella del Decameron.
+
+## personaggio | gerione | Gerione
+dibattuto: no
+chi_era: Gigante mitologico a tre corpi ucciso da Ercole. Dante ne fa un mostro con volto di uomo giusto, zampe pelose e corpo di serpente con la coda da scorpione: è l'immagine della frode e porta i poeti nell'ottavo cerchio.

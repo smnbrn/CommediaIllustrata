@@ -1,0 +1,277 @@
+{
+  "cantica": "inferno",
+  "canto": 27,
+  "titolo": "Guido da Montefeltro",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_XXVII",
+  "numero_versi": 136,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 30],
+      "titolo_scena": "Una nuova fiamma chiede della Romagna",
+      "sintesi": "Partita la fiamma di Ulisse, ne arriva un'altra da cui escono suoni confusi, come dal toro di bronzo di Falaride. Le parole trovano infine la via attraverso la punta: lo spirito, romagnolo, chiede se la sua terra sia in pace o in guerra.",
+      "luogo_id": "bolgia-8",
+      "personaggi": ["dante", "virgilio", "guido-da-montefeltro"],
+      "tavole": []
+    },
+    {
+      "id": "scena-2",
+      "versi": [31, 57],
+      "titolo_scena": "La Romagna nel 1300",
+      "sintesi": "Virgilio lascia parlare Dante, che descrive la Romagna: nessuna guerra aperta, ma tiranni dappertutto. Ravenna è dei Polenta, Forlì degli Ordelaffi, Rimini dei Malatesta, Faenza e Imola di Maghinardo Pagani; Cesena vive tra tirannia e libertà. Poi chiede allo spirito chi sia.",
+      "luogo_id": "bolgia-8",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": []
+    },
+    {
+      "id": "scena-3",
+      "versi": [58, 111],
+      "titolo_scena": "Il consiglio fraudolento",
+      "sintesi": "Credendo che Dante non tornerà mai nel mondo, lo spirito si rivela: fu un condottiero astuto come una volpe, poi si fece frate francescano per pentirsi. Ma Bonifacio VIII, in guerra con i Colonna, lo assolse in anticipo e gli chiese come prendere Palestrina: Guido consigliò di promettere molto e mantenere poco.",
+      "luogo_id": "bolgia-8",
+      "personaggi": ["dante", "guido-da-montefeltro", "bonifacio-viii"],
+      "tavole": []
+    },
+    {
+      "id": "scena-4",
+      "versi": [112, 136],
+      "titolo_scena": "San Francesco e il diavolo loico",
+      "sintesi": "Alla morte di Guido venne san Francesco a prenderlo, ma un diavolo glielo contese: non si può essere assolti senza pentirsi, né pentirsi e voler peccare insieme. «Forse non pensavi che io fossi un logico!» Minosse lo mandò tra i consiglieri fraudolenti. La fiamma si allontana dolente.",
+      "luogo_id": "bolgia-8",
+      "personaggi": ["guido-da-montefeltro", "san-francesco", "minosse"],
+      "tavole": []
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Già era dritta in sù la fiamma e queta\nper non dir più, e già da noi sen gia\ncon la licenza del dolce poeta,",
+      "parafrasi": "La fiamma era già diritta verso l'alto e quieta, per non dire altro, e già si allontanava da noi con il permesso del dolce poeta,"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "quand’un’altra, che dietro a lei venìa,\nne fece volger li occhi a la sua cima\nper un confuso suon che fuor n’uscia.",
+      "parafrasi": "quando un'altra, che veniva dietro di lei, ci fece volgere gli occhi verso la sua cima per un suono confuso che ne usciva."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "Come ’l bue cicilian che mugghiò prima\ncol pianto di colui, e ciò fu dritto,\nche l’avea temperato con sua lima,",
+      "parafrasi": "Come il toro siciliano, che muggì per la prima volta, ed era giusto, con il pianto di colui che l'aveva modellato con la sua lima,"
+    },
+    {
+      "versi": [10, 12],
+      "testo": "mugghiava con la voce de l’afflitto,\nsì che, con tutto che fosse di rame,\npur el pareva dal dolor trafitto;",
+      "parafrasi": "muggiva con la voce del tormentato, così che, benché fosse di rame, sembrava proprio trafitto dal dolore;"
+    },
+    {
+      "versi": [13, 15],
+      "testo": "così, per non aver via né forame\ndal principio nel foco, in suo linguaggio\nsi convertïan le parole grame.",
+      "parafrasi": "così, non avendo all'inizio né via né apertura nel fuoco, le parole dolorose si trasformavano nel linguaggio della fiamma."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "Ma poscia ch’ebber colto lor vïaggio\nsu per la punta, dandole quel guizzo\nche dato avea la lingua in lor passaggio,",
+      "parafrasi": "Ma dopo che ebbero trovato la loro strada su per la punta, dandole la vibrazione che la lingua aveva dato al loro passaggio,"
+    },
+    {
+      "versi": [19, 21],
+      "testo": "udimmo dire: \"O tu a cu’ io drizzo\nla voce e che parlavi mo lombardo,\ndicendo \"Istra ten va, più non t’adizzo\",",
+      "parafrasi": "udimmo dire: «O tu a cui rivolgo la voce, e che parlavi poco fa lombardo, dicendo \"Ora vattene, non ti sollecito più\","
+    },
+    {
+      "versi": [22, 24],
+      "testo": "perch’io sia giunto forse alquanto tardo,\nnon t’incresca restare a parlar meco;\nvedi che non incresce a me, e ardo!",
+      "parafrasi": "anche se sono arrivato forse un po' tardi, non ti dispiaccia restare a parlare con me; vedi che non dispiace a me, e brucio!"
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Se tu pur mo in questo mondo cieco\ncaduto se’ di quella dolce terra\nlatina ond’io mia colpa tutta reco,",
+      "parafrasi": "Se proprio ora sei caduto in questo mondo cieco da quella dolce terra italiana da cui porto tutta la mia colpa,"
+    },
+    {
+      "versi": [28, 30],
+      "testo": "dimmi se Romagnuoli han pace o guerra;\nch’io fui d’i monti là intra Orbino\ne ’l giogo di che Tever si diserra\".",
+      "parafrasi": "dimmi se i Romagnoli hanno pace o guerra; perché io fui dei monti là tra Urbino e il giogo da cui nasce il Tevere.»"
+    },
+    {
+      "versi": [31, 33],
+      "testo": "Io era in giuso ancora attento e chino,\nquando il mio duca mi tentò di costa,\ndicendo: \"Parla tu; questi è latino\".",
+      "parafrasi": "Ero ancora rivolto in giù, attento e chino, quando la mia guida mi toccò il fianco, dicendo: «Parla tu; questo è italiano.»"
+    },
+    {
+      "versi": [34, 36],
+      "testo": "E io, ch’avea già pronta la risposta,\nsanza indugio a parlare incominciai:\n\"O anima che se’ là giù nascosta,",
+      "parafrasi": "E io, che avevo già pronta la risposta, cominciai a parlare senza indugio: «O anima che sei nascosta là sotto,"
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Romagna tua non è, e non fu mai,\nsanza guerra ne’ cuor de’ suoi tiranni;\nma ’n palese nessuna or vi lasciai.",
+      "parafrasi": "la tua Romagna non è, e non fu mai, senza guerra nel cuore dei suoi tiranni; ma guerra aperta, ora, non ne ho lasciata nessuna."
+    },
+    {
+      "versi": [40, 42],
+      "testo": "Ravenna sta come stata è molt’anni:\nl’aguglia da Polenta la si cova,\nsì che Cervia ricuopre co’ suoi vanni.",
+      "parafrasi": "Ravenna è com'è stata per molti anni: l'aquila dei Polenta la cova, tanto da coprire anche Cervia con le sue ali."
+    },
+    {
+      "versi": [43, 45],
+      "testo": "La terra che fé già la lunga prova\ne di Franceschi sanguinoso mucchio,\nsotto le branche verdi si ritrova.",
+      "parafrasi": "La città che sostenne già il lungo assedio e fece un mucchio sanguinoso di Francesi [Forlì] si ritrova sotto le zampe verdi [degli Ordelaffi]."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "E ’l mastin vecchio e ’l nuovo da Verrucchio,\nche fecer di Montagna il mal governo,\nlà dove soglion fan d’i denti succhio.",
+      "parafrasi": "E il mastino vecchio e quello nuovo da Verrucchio [i Malatesta], che trattarono così male Montagna, affondano i denti dove sono soliti."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "Le città di Lamone e di Santerno\nconduce il lïoncel dal nido bianco,\nche muta parte da la state al verno.",
+      "parafrasi": "Le città del Lamone e del Santerno [Faenza e Imola] le guida il leoncello dal nido bianco, che cambia partito dall'estate all'inverno."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "E quella cu’ il Savio bagna il fianco,\ncosì com’ella sie’ tra ’l piano e ’l monte,\ntra tirannia si vive e stato franco.",
+      "parafrasi": "E quella a cui il Savio bagna il fianco [Cesena], come si trova tra la pianura e il monte, così vive tra tirannia e libertà."
+    },
+    {
+      "versi": [55, 57],
+      "testo": "Ora chi se’, ti priego che ne conte;\nnon esser duro più ch’altri sia stato,\nse ’l nome tuo nel mondo tegna fronte\".",
+      "parafrasi": "Ora ti prego di dirci chi sei; non essere più restio di quanto lo siano stati altri con te, così il tuo nome resista nel mondo.»"
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Poscia che ’l foco alquanto ebbe rugghiato\nal modo suo, l’aguta punta mosse\ndi qua, di là, e poi diè cotal fiato:",
+      "parafrasi": "Dopo che il fuoco ebbe ruggito un poco a modo suo, mosse di qua e di là la punta acuta, e poi mandò fuori queste parole:"
+    },
+    {
+      "versi": [61, 63],
+      "testo": "\"S’i’ credesse che mia risposta fosse\na persona che mai tornasse al mondo,\nquesta fiamma staria sanza più scosse;",
+      "parafrasi": "«Se credessi che la mia risposta fosse data a una persona che dovesse mai tornare nel mondo, questa fiamma resterebbe senza più muoversi;"
+    },
+    {
+      "versi": [64, 66],
+      "testo": "ma però che già mai di questo fondo\nnon tornò vivo alcun, s’i’ odo il vero,\nsanza tema d’infamia ti rispondo.",
+      "parafrasi": "ma poiché nessuno tornò mai vivo da questo fondo, se ciò che sento è vero, ti rispondo senza timore di infamia."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Io fui uom d’arme, e poi fui cordigliero,\ncredendomi, sì cinto, fare ammenda;\ne certo il creder mio venìa intero,",
+      "parafrasi": "Fui uomo d'armi, e poi fui frate francescano, credendo, cinto del cordone, di fare ammenda; e certo la mia speranza si sarebbe avverata,"
+    },
+    {
+      "versi": [70, 72],
+      "testo": "se non fosse il gran prete, a cui mal prenda!,\nche mi rimise ne le prime colpe;\ne come e quare, voglio che m’intenda.",
+      "parafrasi": "se non fosse per il gran prete [il papa], che il male lo colga!, che mi rimise nelle colpe di prima; e come e perché, voglio che tu lo sappia."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Mentre ch’io forma fui d’ossa e di polpe\nche la madre mi diè, l’opere mie\nnon furon leonine, ma di volpe.",
+      "parafrasi": "Finché fui la forma di ossa e di carne che mi diede mia madre, le mie azioni non furono da leone, ma da volpe."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "Li accorgimenti e le coperte vie\nio seppi tutte, e sì menai lor arte,\nch’al fine de la terra il suono uscie.",
+      "parafrasi": "Conobbi tutti gli accorgimenti e le vie nascoste, e ne praticai l'arte in modo tale che la fama arrivò fino ai confini della terra."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Quando mi vidi giunto in quella parte\ndi mia etade ove ciascun dovrebbe\ncalar le vele e raccoglier le sarte,",
+      "parafrasi": "Quando mi vidi arrivato a quella parte della mia età in cui ciascuno dovrebbe calare le vele e raccogliere le corde,"
+    },
+    {
+      "versi": [82, 84],
+      "testo": "ciò che pria mi piacëa, allor m’increbbe,\ne pentuto e confesso mi rendei;\nahi miser lasso! e giovato sarebbe.",
+      "parafrasi": "ciò che prima mi piaceva allora mi dispiacque, e pentito e confessato mi feci frate; ahimè, misero! E sarebbe servito."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "Lo principe d’i novi Farisei,\navendo guerra presso a Laterano,\ne non con Saracin né con Giudei,",
+      "parafrasi": "Il principe dei nuovi Farisei, essendo in guerra vicino al Laterano, e non con Saraceni né con Giudei,"
+    },
+    {
+      "versi": [88, 90],
+      "testo": "ché ciascun suo nimico era cristiano,\ne nessun era stato a vincer Acri\nné mercatante in terra di Soldano,",
+      "parafrasi": "perché ogni suo nemico era cristiano, e nessuno era stato a conquistare Acri né a commerciare nella terra del Sultano,"
+    },
+    {
+      "versi": [91, 93],
+      "testo": "né sommo officio né ordini sacri\nguardò in sé, né in me quel capestro\nche solea fare i suoi cinti più macri.",
+      "parafrasi": "non tenne conto in sé né dell'ufficio supremo né degli ordini sacri, né in me di quel cordone che di solito rendeva più magri quelli che lo portavano."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Ma come Costantin chiese Silvestro\nd’entro Siratti a guerir de la lebbre,\ncosì mi chiese questi per maestro",
+      "parafrasi": "Ma come Costantino chiamò Silvestro dal monte Soratte per guarire dalla lebbra, così costui mi chiamò come maestro"
+    },
+    {
+      "versi": [97, 99],
+      "testo": "a guerir de la sua superba febbre;\ndomandommi consiglio, e io tacetti\nperché le sue parole parver ebbre.",
+      "parafrasi": "per guarire dalla sua febbre superba; mi domandò consiglio, e io tacqui perché le sue parole mi sembrarono da ubriaco."
+    },
+    {
+      "versi": [100, 102],
+      "testo": "E’ poi ridisse: \"Tuo cuor non sospetti;\nfinor t’assolvo, e tu m’insegna fare\nsì come Penestrino in terra getti.",
+      "parafrasi": "E poi riprese: \"Il tuo cuore non tema; fin da ora ti assolvo, e tu insegnami come fare per abbattere Palestrina."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Lo ciel poss’io serrare e diserrare,\ncome tu sai; però son due le chiavi\nche ’l mio antecessor non ebbe care\".",
+      "parafrasi": "Posso chiudere e aprire il cielo, come sai; per questo le chiavi sono due, quelle che il mio predecessore [Celestino V] non apprezzò\"."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Allor mi pinser li argomenti gravi\nlà ’ve ’l tacer mi fu avviso ’l peggio,\ne dissi: \"Padre, da che tu mi lavi",
+      "parafrasi": "Allora gli argomenti pesanti mi spinsero là dove tacere mi sembrò il peggio, e dissi: \"Padre, poiché mi lavi"
+    },
+    {
+      "versi": [109, 111],
+      "testo": "di quel peccato ov’io mo cader deggio,\nlunga promessa con l’attender corto\nti farà trïunfar ne l’alto seggio\".",
+      "parafrasi": "del peccato in cui ora devo cadere, promettere molto e mantenere poco ti farà trionfare sull'alto seggio\"."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Francesco venne poi, com’io fu’ morto,\nper me; ma un d’i neri cherubini\nli disse: \"Non portar; non mi far torto.",
+      "parafrasi": "Poi, quando fui morto, venne Francesco a prendermi; ma uno dei neri cherubini gli disse: \"Non portarlo via; non farmi torto."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "Venir se ne dee giù tra ’ miei meschini\nperché diede ’l consiglio frodolente,\ndal quale in qua stato li sono a’ crini;",
+      "parafrasi": "Deve venire giù tra i miei servi perché diede il consiglio fraudolento, dal quale in poi gli sono stato ai capelli;"
+    },
+    {
+      "versi": [118, 120],
+      "testo": "ch’assolver non si può chi non si pente,\nné pentere e volere insieme puossi\nper la contradizion che nol consente\".",
+      "parafrasi": "perché non si può assolvere chi non si pente, né ci si può pentire e volere [il peccato] insieme, per la contraddizione che non lo consente\"."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "Oh me dolente! come mi riscossi\nquando mi prese dicendomi: \"Forse\ntu non pensavi ch’io löico fossi!\".",
+      "parafrasi": "Oh, me addolorato! Come trasalii quando mi prese dicendomi: \"Forse non pensavi che fossi un logico!\""
+    },
+    {
+      "versi": [124, 126],
+      "testo": "A Minòs mi portò; e quelli attorse\notto volte la coda al dosso duro;\ne poi che per gran rabbia la si morse,",
+      "parafrasi": "Mi portò da Minosse; e lui avvolse otto volte la coda alla schiena dura; e dopo essersela morsa per la gran rabbia,"
+    },
+    {
+      "versi": [127, 129],
+      "testo": "disse: \"Questi è d’i rei del foco furo\";\nper ch’io là dove vedi son perduto,\ne sì vestito, andando, mi rancuro\".",
+      "parafrasi": "disse: \"Questo è dei colpevoli del fuoco che nasconde\"; per cui sono perduto là dove vedi, e vestito così, camminando, mi addoloro.»"
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Quand’elli ebbe ’l suo dir così compiuto,\nla fiamma dolorando si partio,\ntorcendo e dibattendo ’l corno aguto.",
+      "parafrasi": "Quando ebbe finito così il suo discorso, la fiamma se ne andò dolorando, torcendo e agitando il corno acuto."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "Noi passamm’oltre, e io e ’l duca mio,\nsu per lo scoglio infino in su l’altr’arco\nche cuopre ’l fosso in che si paga il fio",
+      "parafrasi": "Noi passammo oltre, io e la mia guida, su per lo scoglio fino all'altro arco che copre il fosso in cui pagano la pena"
+    },
+    {
+      "versi": [136, 136],
+      "testo": "a quei che scommettendo acquistan carco.",
+      "parafrasi": "quelli che, dividendo, si caricano di colpa."
+    }
+  ]
+}

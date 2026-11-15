@@ -1,0 +1,335 @@
+{
+  "cantica": "inferno",
+  "canto": 12,
+  "titolo": "Il Minotauro, i centauri, i violenti nel Flegetonte",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_XII",
+  "numero_versi": 139,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 30],
+      "titolo_scena": "Il Minotauro",
+      "sintesi": "La discesa al settimo cerchio è una frana di massi, come la ruina dell'Adige presso Trento. Sulla cima è disteso il Minotauro, che alla vista dei due si morde per la rabbia. Virgilio lo provoca e, mentre il mostro si dibatte come un toro ferito, i poeti scendono in fretta.",
+      "luogo_id": "cerchio-7",
+      "personaggi": ["dante", "virgilio", "minotauro"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Il Minotauro",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/DVinfernoMinotaurOnCliff_m.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/DVinfernoMinotaurOnCliff_m.jpg/960px-DVinfernoMinotaurOnCliff_m.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:DVinfernoMinotaurOnCliff_m.jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [31, 51],
+      "titolo_scena": "La frana del terremoto",
+      "sintesi": "Virgilio spiega che quella frana non c'era la prima volta che scese: la roccia crollò nel terremoto che scosse l'Inferno poco prima che Cristo vi scendesse a liberare le anime del Limbo. Poi indica il fiume di sangue bollente dove sono puniti i violenti contro il prossimo.",
+      "luogo_id": "cerchio-7",
+      "personaggi": ["dante", "virgilio", "cristo"],
+      "tavole": []
+    },
+    {
+      "id": "scena-3",
+      "versi": [52, 75],
+      "titolo_scena": "I centauri",
+      "sintesi": "Lungo un ampio fossato di sangue corrono schiere di centauri armati di frecce. Tre si staccano minacciosi: Virgilio li riconosce, Nesso, Chirone e Folo. I centauri saettano ogni anima che emerga dal sangue più di quanto la sua colpa consenta.",
+      "luogo_id": "girone-7-1",
+      "personaggi": ["dante", "virgilio", "chirone", "nesso", "folo"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "I centauri",
+          "url": "img/dore/inferno-12-centauri-960.jpg",
+          "miniatura": "img/dore/inferno-12-centauri-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._1,_Die_Holle_1870_(148618629).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [76, 99],
+      "titolo_scena": "Chirone e la scorta di Nesso",
+      "sintesi": "Chirone si scosta la barba con una freccia e si accorge che Dante muove ciò che tocca: è vivo. Virgilio spiega che il viaggio è voluto da una donna venuta dal cielo e chiede una guida che porti Dante oltre il guado. Chirone affida loro Nesso.",
+      "luogo_id": "girone-7-1",
+      "personaggi": ["dante", "virgilio", "chirone", "nesso", "beatrice"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Chirone",
+          "url": "img/dore/inferno-12-chirone-960.jpg",
+          "miniatura": "img/dore/inferno-12-chirone-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._1,_Die_Holle_1870_(148618643).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-5",
+      "versi": [100, 139],
+      "titolo_scena": "I tiranni e gli omicidi nel sangue",
+      "sintesi": "Lungo il fiume bollente Nesso indica i dannati, immersi più o meno secondo la colpa: fino agli occhi i tiranni, come Alessandro, Dionisio, Ezzelino e Obizzo d'Este; fino alla gola gli omicidi, come Guido di Monforte. Al guado il sangue bagna solo i piedi; dall'altra parte si fa di nuovo profondo, dove stanno Attila, Pirro, Sesto e i predoni di strada.",
+      "luogo_id": "girone-7-1",
+      "personaggi": [
+        "dante",
+        "virgilio",
+        "nesso",
+        "alessandro",
+        "dionisio",
+        "azzolino",
+        "obizzo-d-este",
+        "guido-di-monforte",
+        "attila",
+        "pirro",
+        "sesto-pompeo",
+        "rinier-da-corneto",
+        "rinier-pazzo"
+      ],
+      "tavole": []
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Era lo loco ov’a scender la riva\nvenimmo, alpestro e, per quel che v’er’anco,\ntal, ch’ogne vista ne sarebbe schiva.",
+      "parafrasi": "Il luogo dove arrivammo per scendere la riva era scosceso e, per quello che c'era inoltre, tale che ogni sguardo l'avrebbe evitato."
+    },
+    {
+      "versi": [4, 6],
+      "testo": "Qual è quella ruina che nel fianco\ndi qua da Trento l’Adice percosse,\no per tremoto o per sostegno manco,",
+      "parafrasi": "Come quella frana che colpì il fianco dell'Adige al di qua di Trento, o per un terremoto o per mancanza di sostegno,"
+    },
+    {
+      "versi": [7, 9],
+      "testo": "che da cima del monte, onde si mosse,\nal piano è sì la roccia discoscesa,\nch’alcuna via darebbe a chi sù fosse:",
+      "parafrasi": "per cui dalla cima del monte da cui si staccò fino alla pianura la roccia è così franata da offrire un qualche passaggio a chi fosse in alto:"
+    },
+    {
+      "versi": [10, 12],
+      "testo": "cotal di quel burrato era la scesa;\ne ’n su la punta de la rotta lacca\nl’infamïa di Creti era distesa",
+      "parafrasi": "tale era la discesa di quel burrone; e sulla punta della frana era disteso il disonore di Creta [il Minotauro],"
+    },
+    {
+      "versi": [13, 15],
+      "testo": "che fu concetta ne la falsa vacca;\ne quando vide noi, sé stesso morse,\nsì come quei cui l’ira dentro fiacca.",
+      "parafrasi": "che fu concepito nella finta vacca; e quando ci vide morse se stesso, come chi è sopraffatto dall'ira."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "Lo savio mio inver’ lui gridò: \"Forse\ntu credi che qui sia ’l duca d’Atene,\nche sù nel mondo la morte ti porse?",
+      "parafrasi": "Il mio saggio gli gridò: «Forse credi che qui ci sia il duca di Atene [Teseo], che su nel mondo ti diede la morte?"
+    },
+    {
+      "versi": [19, 21],
+      "testo": "Pàrtiti, bestia, ché questi non vene\nammaestrato da la tua sorella,\nma vassi per veder le vostre pene\".",
+      "parafrasi": "Vattene, bestia, perché costui non viene istruito da tua sorella [Arianna], ma va per vedere le vostre pene.»"
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Qual è quel toro che si slaccia in quella\nc’ ha ricevuto già ’l colpo mortale,\nche gir non sa, ma qua e là saltella,",
+      "parafrasi": "Come il toro che si libera dai lacci nel momento in cui ha già ricevuto il colpo mortale, e non sa camminare ma salta qua e là,"
+    },
+    {
+      "versi": [25, 27],
+      "testo": "vid’io lo Minotauro far cotale;\ne quello accorto gridò: \"Corri al varco;\nmentre ch’e’ ’nfuria, è buon che tu ti cale\".",
+      "parafrasi": "così vidi fare il Minotauro; e quell'accorto gridò: «Corri al passaggio: mentre è infuriato, è bene che tu scenda.»"
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Così prendemmo via giù per lo scarco\ndi quelle pietre, che spesso moviensi\nsotto i miei piedi per lo novo carco.",
+      "parafrasi": "Così prendemmo la via giù per quell'ammasso di pietre, che spesso si muovevano sotto i miei piedi per il peso insolito."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "Io gia pensando; e quei disse: \"Tu pensi\nforse a questa ruina, ch’è guardata\nda quell’ira bestial ch’i’ ora spensi.",
+      "parafrasi": "Io andavo pensando; e lui disse: «Tu forse pensi a questa frana, sorvegliata da quell'ira bestiale che ho appena spento."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Or vo’ che sappi che l’altra fïata\nch’i’ discesi qua giù nel basso inferno,\nquesta roccia non era ancor cascata.",
+      "parafrasi": "Ora voglio che tu sappia che l'altra volta che scesi quaggiù nel basso Inferno questa roccia non era ancora caduta."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Ma certo poco pria, se ben discerno,\nche venisse colui che la gran preda\nlevò a Dite del cerchio superno,",
+      "parafrasi": "Ma certo poco prima, se calcolo bene, che venisse colui [Cristo] che portò via a Dite il grande bottino del primo cerchio,"
+    },
+    {
+      "versi": [40, 42],
+      "testo": "da tutte parti l’alta valle feda\ntremò sì, ch’i’ pensai che l’universo\nsentisse amor, per lo qual è chi creda",
+      "parafrasi": "l'alta valle fetida tremò da ogni parte così forte che pensai che l'universo sentisse l'amore, per il quale c'è chi crede"
+    },
+    {
+      "versi": [43, 45],
+      "testo": "più volte il mondo in caòsso converso;\ne in quel punto questa vecchia roccia,\nqui e altrove, tal fece riverso.",
+      "parafrasi": "che il mondo sia più volte tornato nel caos; e in quel momento questa vecchia roccia, qui e altrove, crollò così."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Ma ficca li occhi a valle, ché s’approccia\nla riviera del sangue in la qual bolle\nqual che per vïolenza in altrui noccia\".",
+      "parafrasi": "Ma guarda giù a valle, perché si avvicina il fiume di sangue nel quale bolle chiunque faccia male agli altri con la violenza.»"
+    },
+    {
+      "versi": [49, 51],
+      "testo": "Oh cieca cupidigia e ira folle,\nche sì ci sproni ne la vita corta,\ne ne l’etterna poi sì mal c’immolle!",
+      "parafrasi": "Oh cieca avidità e ira folle, che ci spronate tanto nella breve vita e poi nell'eterna ci immergete così malamente!"
+    },
+    {
+      "versi": [52, 54],
+      "testo": "Io vidi un’ampia fossa in arco torta,\ncome quella che tutto ’l piano abbraccia,\nsecondo ch’avea detto la mia scorta;",
+      "parafrasi": "Vidi un'ampia fossa piegata ad arco, tale da abbracciare tutta la pianura, come aveva detto la mia scorta;"
+    },
+    {
+      "versi": [55, 57],
+      "testo": "e tra ’l piè de la ripa ed essa, in traccia\ncorrien centauri, armati di saette,\ncome solien nel mondo andare a caccia.",
+      "parafrasi": "e tra il piede della ripa e la fossa correvano in fila centauri armati di frecce, come andavano a caccia nel mondo."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Veggendoci calar, ciascun ristette,\ne de la schiera tre si dipartiro\ncon archi e asticciuole prima elette;",
+      "parafrasi": "Vedendoci scendere, ciascuno si fermò, e dalla schiera se ne staccarono tre con gli archi e le frecce scelte prima;"
+    },
+    {
+      "versi": [61, 63],
+      "testo": "e l’un gridò da lungi: \"A qual martiro\nvenite voi che scendete la costa?\nDitel costinci; se non, l’arco tiro\".",
+      "parafrasi": "e uno gridò da lontano: «A quale supplizio venite voi che scendete la costa? Ditelo da lì; altrimenti tiro l'arco.»"
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Lo mio maestro disse: \"La risposta\nfarem noi a Chirón costà di presso:\nmal fu la voglia tua sempre sì tosta\".",
+      "parafrasi": "Il mio maestro disse: «Daremo la risposta a Chirone, lì da vicino: il tuo volere fu sempre, per tua sventura, così impulsivo.»"
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Poi mi tentò, e disse: \"Quelli è Nesso,\nche morì per la bella Deianira,\ne fé di sé la vendetta elli stesso.",
+      "parafrasi": "Poi mi toccò e disse: «Quello è Nesso, che morì per la bella Deianira e si vendicò da sé."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "E quel di mezzo, ch’al petto si mira,\nè il gran Chirón, il qual nodrì Achille;\nquell’altro è Folo, che fu sì pien d’ira.",
+      "parafrasi": "E quello in mezzo, che si guarda il petto, è il grande Chirone, che allevò Achille; quell'altro è Folo, che fu così pieno d'ira."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Dintorno al fosso vanno a mille a mille,\nsaettando qual anima si svelle\ndel sangue più che sua colpa sortille\".",
+      "parafrasi": "Intorno al fosso vanno a migliaia, saettando ogni anima che si sollevi dal sangue più di quanto la sua colpa le abbia assegnato.»"
+    },
+    {
+      "versi": [76, 78],
+      "testo": "Noi ci appressammo a quelle fiere isnelle:\nChirón prese uno strale, e con la cocca\nfece la barba in dietro a le mascelle.",
+      "parafrasi": "Ci avvicinammo a quelle belve agili: Chirone prese una freccia e con la cocca tirò indietro la barba sulle mascelle."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Quando s’ebbe scoperta la gran bocca,\ndisse a’ compagni: \"Siete voi accorti\nche quel di retro move ciò ch’el tocca?",
+      "parafrasi": "Quando si fu scoperto la grande bocca, disse ai compagni: «Vi siete accorti che quello dietro muove ciò che tocca?"
+    },
+    {
+      "versi": [82, 84],
+      "testo": "Così non soglion far li piè d’i morti\".\nE ’l mio buon duca, che già li er’al petto,\ndove le due nature son consorti,",
+      "parafrasi": "Così non fanno i piedi dei morti.» E la mia buona guida, che gli era già al petto, dove le due nature [di uomo e di cavallo] si uniscono,"
+    },
+    {
+      "versi": [85, 87],
+      "testo": "rispuose: \"Ben è vivo, e sì soletto\nmostrar li mi convien la valle buia;\nnecessità ’l ci ’nduce, e non diletto.",
+      "parafrasi": "rispose: «È proprio vivo, e così solo devo mostrargli la valle buia; ci conduce la necessità, non il piacere."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Tal si partì da cantare alleluia\nche mi commise quest’officio novo:\nnon è ladron, né io anima fuia.",
+      "parafrasi": "Una che smise di cantare alleluia [Beatrice] mi affidò questo compito insolito: lui non è un ladro, né io un'anima ladra."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Ma per quella virtù per cu’ io movo\nli passi miei per sì selvaggia strada,\ndanne un de’ tuoi, a cui noi siamo a provo,",
+      "parafrasi": "Ma per quella virtù per cui muovo i miei passi per una strada così selvaggia, dacci uno dei tuoi, al quale stiamo vicini,"
+    },
+    {
+      "versi": [94, 96],
+      "testo": "e che ne mostri là dove si guada,\ne che porti costui in su la groppa,\nché non è spirto che per l’aere vada\".",
+      "parafrasi": "che ci mostri dove si guada e che porti costui sulla groppa, perché non è uno spirito che va per l'aria.»"
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Chirón si volse in su la destra poppa,\ne disse a Nesso: \"Torna, e sì li guida,\ne fa cansar s’altra schiera v’intoppa\".",
+      "parafrasi": "Chirone si volse sul fianco destro e disse a Nesso: «Torna indietro e guidali, e falli scansare se un'altra schiera vi viene incontro.»"
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Or ci movemmo con la scorta fida\nlungo la proda del bollor vermiglio,\ndove i bolliti facieno alte strida.",
+      "parafrasi": "Ora ci muovemmo con la scorta fidata lungo la riva del bollore rosso, dove i bolliti lanciavano alte grida."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Io vidi gente sotto infino al ciglio;\ne ’l gran centauro disse: \"E’ son tiranni\nche dier nel sangue e ne l’aver di piglio.",
+      "parafrasi": "Vidi gente immersa fino alle ciglia; e il grande centauro disse: «Sono tiranni, che misero le mani sul sangue e sui beni altrui."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Quivi si piangon li spietati danni;\nquivi è Alessandro, e Dïonisio fero\nche fé Cicilia aver dolorosi anni.",
+      "parafrasi": "Qui si piangono le stragi spietate; qui c'è Alessandro, e il crudele Dionisio, che fece vivere alla Sicilia anni dolorosi."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "E quella fronte c’ ha ’l pel così nero,\nè Azzolino; e quell’altro ch’è biondo,\nè Opizzo da Esti, il qual per vero",
+      "parafrasi": "E quella fronte che ha i capelli così neri è Ezzelino; e quell'altro che è biondo è Obizzo d'Este, che in verità"
+    },
+    {
+      "versi": [112, 114],
+      "testo": "fu spento dal figliastro sù nel mondo\".\nAllor mi volsi al poeta, e quei disse:\n\"Questi ti sia or primo, e io secondo\".",
+      "parafrasi": "fu ucciso dal figliastro su nel mondo.» Allora mi volsi al poeta, e lui disse: «Ora sia lui la tua prima guida, e io la seconda.»"
+    },
+    {
+      "versi": [115, 117],
+      "testo": "Poco più oltre il centauro s’affisse\nsovr’una gente che ’nfino a la gola\nparea che di quel bulicame uscisse.",
+      "parafrasi": "Poco più avanti il centauro si fermò sopra una gente che sembrava uscire fino alla gola da quel sangue bollente."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Mostrocci un’ombra da l’un canto sola,\ndicendo: \"Colui fesse in grembo a Dio\nlo cor che ’n su Tamisi ancor si cola\".",
+      "parafrasi": "Ci mostrò un'ombra in disparte, sola, dicendo: «Costui trafisse nel grembo di Dio [in chiesa] il cuore che sul Tamigi è ancora venerato.»"
+    },
+    {
+      "versi": [121, 123],
+      "testo": "Poi vidi gente che di fuor del rio\ntenean la testa e ancor tutto ’l casso;\ne di costoro assai riconobb’io.",
+      "parafrasi": "Poi vidi gente che teneva fuori dal fiume la testa e anche tutto il petto; e di costoro ne riconobbi parecchi."
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Così a più a più si facea basso\nquel sangue, sì che cocea pur li piedi;\ne quindi fu del fosso il nostro passo.",
+      "parafrasi": "Così quel sangue si faceva sempre più basso, tanto che cuoceva soltanto i piedi; e lì attraversammo il fosso."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "\"Sì come tu da questa parte vedi\nlo bulicame che sempre si scema\",\ndisse ’l centauro, \"voglio che tu credi",
+      "parafrasi": "«Come da questa parte vedi il sangue bollente diminuire sempre», disse il centauro, «voglio che tu creda"
+    },
+    {
+      "versi": [130, 132],
+      "testo": "che da quest’altra a più a più giù prema\nlo fondo suo, infin ch’el si raggiunge\nove la tirannia convien che gema.",
+      "parafrasi": "che dall'altra parte il suo fondo si abbassa sempre di più, finché si ricongiunge al punto dove la tirannia deve gemere."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "La divina giustizia di qua punge\nquell’Attila che fu flagello in terra,\ne Pirro e Sesto; e in etterno munge",
+      "parafrasi": "La giustizia divina di là punge quell'Attila che fu flagello in terra, e Pirro e Sesto; e in eterno spreme"
+    },
+    {
+      "versi": [136, 138],
+      "testo": "le lagrime, che col bollor diserra,\na Rinier da Corneto, a Rinier Pazzo,\nche fecero a le strade tanta guerra\".",
+      "parafrasi": "le lacrime, che fa uscire con il bollore, a Rinier da Corneto e a Rinier Pazzo, che fecero tanta guerra alle strade.»"
+    },
+    {
+      "versi": [139, 139],
+      "testo": "Poi si rivolse e ripassossi ’l guazzo.",
+      "parafrasi": "Poi si voltò e ripassò il guado."
+    }
+  ]
+}

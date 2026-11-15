@@ -61,6 +61,16 @@ def controlla_canto(p, luoghi, personaggi, illustratori):
             elif f"{nome}/{s['id']}" not in personaggi[pid]["apparizioni"]:
                 errori.append(f"{nome} {s['id']}: manca l'apparizione in personaggi.json per {pid}")
         for tv in s["tavole"]:
+            if tv.get("autore_id") == "ia":       # immagine generata con IA: file nel repository, niente Commons
+                f = RADICE / tv.get("url", "")
+                if not tv.get("url", "").startswith("img/ia/") or not f.is_file():
+                    errori.append(f"{nome} {s['id']}: immagine IA mancante nel repository: {tv.get('url')}")
+                if "IA" not in tv.get("autore", ""):
+                    errori.append(f"{nome} {s['id']}: immagine IA senza la dicitura IA nell'autore")
+            elif tv.get("url", "").startswith("img/"):      # ritaglio di Doré nel repository: due misure
+                for f in (tv["url"], tv["url"].replace("-960.jpg", "-500.jpg")):
+                    if not tv["url"].startswith("img/dore/") or not tv["url"].endswith("-960.jpg") or not (RADICE / f).is_file():
+                        errori.append(f"{nome} {s['id']}: ritaglio mancante nel repository: {f}")
             for k in CAMPI_TAVOLA:
                 if not tv.get(k):
                     errori.append(f"{nome} {s['id']}: tavola senza {k}")
@@ -107,7 +117,8 @@ def controlla_rete(canti):
         time.sleep(1)
         for s in c["scene"]:
             for tv in s["tavole"]:
-                tavole.setdefault(tv["url"], (f"{nome} {s['id']}", tv))
+                if tv.get("autore_id") != "ia":
+                    tavole.setdefault(tv["url"], (f"{nome} {s['id']}", tv))
     titoli = {"File:" + urllib.parse.unquote(tv["fonte"].split("/wiki/File:", 1)[1]).replace("_", " "): (dove, tv)
               for dove, tv in tavole.values()}
     trovati = {x["titolo"]: x for x in commons.info(list(titoli))}
@@ -116,10 +127,14 @@ def controlla_rete(canti):
         if not x or x.get("manca"):
             errori.append(f"{dove}: file inesistente su Commons: {titolo}")
             continue
-        if x["url"] != tv["url"]:
+        locale = tv["url"].startswith("img/")         # ritaglio nel repository: su Commons c'è la scansione
+        if not locale and x["url"] != tv["url"]:
             errori.append(f"{dove}: URL diverso da Commons per {titolo}: {x['url']}")
         if x["licenza"].lower() not in commons.PD:
             errori.append(f"{dove}: licenza non di pubblico dominio ({x['licenza']}) per {titolo}")
+        if locale:
+            print(f"  tavola {titolo[5:70]}: {x['licenza']}, ritaglio nel repository")
+            continue
         time.sleep(2)
         stato = get(tv["miniatura"], testa=True)[0]
         if stato != 200:

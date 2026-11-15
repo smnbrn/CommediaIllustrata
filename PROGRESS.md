@@ -1,12 +1,48 @@
-# PROGRESS — prototipo Inferno I–V
+# PROGRESS — Inferno
 
-Obiettivo del prototipo: solo Inferno, canti I–V. Prima la qualità, poi si scala.
+Il prototipo (canti I–V) è servito a fissare la qualità; ora l'Inferno è completo.
 
 ## Checklist
 
 - [x] **Fase 1 – Struttura** — repo, `luoghi.json` (37 luoghi), schema dei canti, interfaccia con il Canto I di prova (15/11/2026)
 - [x] **Fase 2 – Dataset** — canti I–V: testo, scene, tavole di Doré verificate, parafrasi, personaggi (15/11/2026)
 - [x] **Fase 3 – Controllo** — computer e telefono, immagini, indirizzi (15/11/2026)
+- [x] **Fase 4 – Inferno completo** — canti VI–XXXIV con lo stesso livello dei primi cinque (15/11/2026)
+- [ ] **Fase 5 – Controllo dell'Inferno completo nel browser** e pubblicazione
+
+## Fase 4 – Inferno completo (15/11/2026)
+
+| | Canti I–V | Canti VI–XXXIV | Totale |
+|---|---|---|---|
+| Versi | 707 | 4013 | 4720 |
+| Terzine con parafrasi | 239 | 1357 | 1596 |
+| Scene | 28 | 117 | 145 |
+| Tavole di Doré | 18 | 55 (26 ritagliate) | 73 (+1 IA) |
+| Scene senza tavola | 8 | 65 | 73 |
+| Personaggi | 71 | 124 | 195 |
+
+- **Formato sorgente (punto 5 qui sotto, risolto)**: i canti si scrivono in `sorgenti/inferno/canto-NN.txt` (versi, scene, tavole, parafrasi, personaggi in un solo file di testo) e `strumenti/compila.py` genera i JSON. I canti I–V sono stati convertiti e ricompilati: JSON identici byte per byte. Le apparizioni dei personaggi ora si ricavano dalle scene. `nuovo_canto.py` è sostituito da `prepara.py`; `riempi.py` inserisce scene e parafrasi da una bozza.
+- **Testo**: da it.wikisource. Dal canto VI la pagina usa marcature nuove (`{{r|N}}` minuscolo, `{{Ac|…}}`, una citazione `{{§§/Tc|…}}` al verso VI 52): `wikisource.py` le gestisce; per i canti I–V il testo estratto non cambia. Wikisource e Commons rispondono 429 alle richieste ravvicinate: `wikisource.py` e `commons.py` ora aspettano e riprovano.
+- **Tavole**: su Commons la serie «Plate N» si ferma al canto V. Come riferimento è servita l'edizione tedesca del 1870 digitalizzata da Polona (74 tavole in ordine, `Gottliche Komodie…`), guardata tavola per tavola; per ogni incisione è stata scelta la scansione migliore senza testo (dettagli in `data/scene-senza-tavola.md`). Per 25 incisioni Commons aveva solo la scansione di Project Gutenberg, con la didascalia inglese stampata in basso: sono state sostituite da **ritagli dell'edizione 1870** salvati in `img/dore/` (960 e 500 px), più una tavola nuova per il finale del canto XXXIV (Dante e Virgilio sotto le stelle).
+- **Maometto (canto XXVIII)**: la tavola esiste ma non è stata messa, per la sensibilità della raffigurazione. Da decidere.
+- **Scene**: luoghi presi dai 37 di `luoghi.json` (nessun luogo nuovo); le scene dove Dante è sul confine tra due zone usano quella che si vede.
+- **Parafrasi**: tutte le 1357 terzine nuove, una per terzina, come nei canti I–V; tra parentesi quadre solo i nomi taciuti dal testo.
+- **Personaggi**: dichiarati nel canto in cui compaiono la prima volta; `dibattuto` per identificazioni o interpretazioni discusse (per esempio Ciacco, Guido Cavalcanti, il messo celeste, Ugolino).
+- **Versione nei file**: portata a `2026-11-15.7`.
+
+### Da decidere o da fare
+
+1. ~~Didascalie inglesi su 25 tavole~~ — fatto: ritagli dall'edizione 1870 in `img/dore/`. `compila.py`, `verifica.py` e `app.js` gestiscono le tavole nel repository (`tavola: dore | titolo | img/dore/…-960.jpg | File:…`). Le altre 47 tavole di Doré si caricano ancora da Commons: copiarle tutte è possibile con lo stesso procedimento.
+2. **Tavola di Maometto**: metterla o no.
+3. **Controllo nel browser** di tutti i 34 canti (scorrimento, tavole, mappa, telefono), come in Fase 3: non ancora fatto per i canti VI–XXXIV.
+
+## Immagini generate con IA (15/11/2026)
+
+- Il proprietario crea con Gemini, nello stile di Doré, le immagini delle scene che Doré non ha illustrato (prompt in `data/illustrazioni-ia.md`). File in `img/ia/<cantica>-<NN>-scena-<K>.jpg`, tavole con `autore_id: "ia"`.
+- Prima immagine: `inferno/1/scena-2` (il colle illuminato dal sole), 765×1024, 333 KB. Scene senza tavola: da 9 a 8.
+- Nel sito sono sempre dichiarate: etichetta «Immagine IA» sulla tavola, didascalia «Immagine generata con IA (Gemini) … nello stile di Doré, non è un'opera di Doré» con link al prompt, e su computer l'avviso «Doré non ha illustrato questa scena».
+- Il selettore degli illustratori resta nascosto: compare solo se una scena ha tavole di due autori diversi.
+- `verifica.py`: le immagini IA devono esistere in `img/ia/` e dichiarare «IA» nell'autore; non si cercano su Commons.
 
 ## Pubblicazione (15/11/2026)
 
@@ -46,7 +82,7 @@ Prove nel pannello del browser, visibile, su computer (1280×800) e telefono (37
 2. ~~Peso delle immagini su telefono~~ — fatto (500 px). Resta da decidere se copiare le miniature nel repository invece di caricarle da Wikimedia.
 3. ~~Tavole 16 e 17 del canto V~~ — fatto (17 sostituita, 16 sufficiente).
 4. ~~Scene con molti personaggi~~ — fatto («e altri N»).
-5. **Scrittura dei dati**: scene e parafrasi oggi passano da uno script di lavoro fuori dal repository; per i canti successivi conviene un formato sorgente nel repository (o scriverle direttamente nei JSON) e lasciare a `verifica.py` i controlli.
+5. ~~Scrittura dei dati~~ — fatto (sorgenti in `sorgenti/` e `compila.py`, Fase 4). In origine: scene e parafrasi oggi passano da uno script di lavoro fuori dal repository; per i canti successivi conviene un formato sorgente nel repository (o scriverle direttamente nei JSON) e lasciare a `verifica.py` i controlli.
 
 ## Fase 2 (15/11/2026)
 

@@ -1,0 +1,297 @@
+{
+  "cantica": "inferno",
+  "canto": 14,
+  "titolo": "Il sabbione infuocato, Capaneo, il Veglio di Creta",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_XIV",
+  "numero_versi": 142,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 27],
+      "titolo_scena": "Il sabbione",
+      "sintesi": "Dante restituisce le fronde al suicida fiorentino. Al limite della selva si apre una distesa di sabbia arida, il terzo girone, dove schiere di anime nude piangono: alcune giacciono supine, altre siedono raccolte, altre camminano senza sosta.",
+      "luogo_id": "girone-7-3",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": []
+    },
+    {
+      "id": "scena-2",
+      "versi": [28, 42],
+      "titolo_scena": "La pioggia di fuoco",
+      "sintesi": "Su tutto il sabbione cadono lentamente larghe falde di fuoco, come neve in montagna senza vento, e la sabbia si accende come esca raddoppiando il dolore. I dannati agitano senza sosta le mani per scacciare le fiamme.",
+      "luogo_id": "girone-7-3",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "La pioggia di fuoco",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/DVinfernoViolentInRainOfFire_m.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/DVinfernoViolentInRainOfFire_m.jpg/960px-DVinfernoViolentInRainOfFire_m.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:DVinfernoViolentInRainOfFire_m.jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [43, 75],
+      "titolo_scena": "Capaneo",
+      "sintesi": "Un grande dannato giace sprezzante, come se la pioggia di fuoco non lo toccasse: è Capaneo, uno dei sette re che assediarono Tebe. Sfida ancora Giove a fulminarlo. Virgilio, con voce fortissima, gli risponde che la sua superbia inestinguibile è la sua pena più grande.",
+      "luogo_id": "girone-7-3",
+      "personaggi": ["dante", "virgilio", "capaneo"],
+      "tavole": []
+    },
+    {
+      "id": "scena-4",
+      "versi": [76, 142],
+      "titolo_scena": "Il ruscello rosso e il Veglio di Creta",
+      "sintesi": "In silenzio arrivano a un ruscello rosso che esce dalla selva e spegne le fiammelle: i suoi argini di pietra sono il passaggio. Virgilio spiega l'origine dei fiumi infernali: dentro il monte Ida, a Creta, sta un grande vecchio di metalli diversi, incrinato, le cui lacrime scendono sottoterra e formano Acheronte, Stige, Flegetonte e Cocito.",
+      "luogo_id": "girone-7-3",
+      "personaggi": ["dante", "virgilio", "veglio-di-creta"],
+      "tavole": []
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Poi che la carità del natio loco\nmi strinse, raunai le fronde sparte\ne rende’ le a colui, ch’era già fioco.",
+      "parafrasi": "Poiché l'amore per la mia città natale mi commosse, raccolsi le fronde sparse e le restituii a quello che aveva già la voce fioca."
+    },
+    {
+      "versi": [4, 6],
+      "testo": "Indi venimmo al fine ove si parte\nlo secondo giron dal terzo, e dove\nsi vede di giustizia orribil arte.",
+      "parafrasi": "Poi arrivammo al confine dove il secondo girone si separa dal terzo, e dove si vede un'orribile forma di giustizia."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "A ben manifestar le cose nove,\ndico che arrivammo ad una landa\nche dal suo letto ogne pianta rimove.",
+      "parafrasi": "Per mostrare bene le cose mai viste, dico che arrivammo a una pianura che respinge dal suo suolo ogni pianta."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "La dolorosa selva l’è ghirlanda\nintorno, come ’l fosso tristo ad essa;\nquivi fermammo i passi a randa a randa.",
+      "parafrasi": "La selva del dolore le fa da ghirlanda tutt'intorno, come il fosso triste [il Flegetonte] alla selva; lì fermammo i passi proprio sul margine."
+    },
+    {
+      "versi": [13, 15],
+      "testo": "Lo spazzo era una rena arida e spessa,\nnon d’altra foggia fatta che colei\nche fu da’ piè di Caton già soppressa.",
+      "parafrasi": "Il suolo era una sabbia arida e fitta, fatta non diversamente da quella che fu già calpestata dai piedi di Catone."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "O vendetta di Dio, quanto tu dei\nesser temuta da ciascun che legge\nciò che fu manifesto a li occhi mei!",
+      "parafrasi": "O vendetta di Dio, quanto devi essere temuta da chiunque legge ciò che apparve ai miei occhi!"
+    },
+    {
+      "versi": [19, 21],
+      "testo": "D’anime nude vidi molte gregge\nche piangean tutte assai miseramente,\ne parea posta lor diversa legge.",
+      "parafrasi": "Vidi molte schiere di anime nude, che piangevano tutte in modo molto misero, e sembrava che fosse imposta loro una legge diversa."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Supin giacea in terra alcuna gente,\nalcuna si sedea tutta raccolta,\ne altra andava continüamente.",
+      "parafrasi": "Alcuni giacevano supini a terra, altri sedevano tutti rannicchiati, e altri camminavano continuamente."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Quella che giva ’ntorno era più molta,\ne quella men che giacëa al tormento,\nma più al duolo avea la lingua sciolta.",
+      "parafrasi": "Quelli che andavano intorno erano i più numerosi, e meno quelli che giacevano nel tormento, ma avevano la lingua più sciolta al lamento."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Sovra tutto ’l sabbion, d’un cader lento,\npiovean di foco dilatate falde,\ncome di neve in alpe sanza vento.",
+      "parafrasi": "Sopra tutto il sabbione, con una caduta lenta, piovevano larghe falde di fuoco, come la neve sulle Alpi quando non c'è vento."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "Quali Alessandro in quelle parti calde\nd’Indïa vide sopra ’l süo stuolo\nfiamme cadere infino a terra salde,",
+      "parafrasi": "Come le fiamme che Alessandro, in quelle regioni calde dell'India, vide cadere sopra il suo esercito intatte fino a terra,"
+    },
+    {
+      "versi": [34, 36],
+      "testo": "per ch’ei provide a scalpitar lo suolo\ncon le sue schiere, acciò che lo vapore\nmei si stingueva mentre ch’era solo:",
+      "parafrasi": "per cui ordinò alle sue schiere di calpestare il suolo, perché l'incendio si spegnesse meglio finché era isolato:"
+    },
+    {
+      "versi": [37, 39],
+      "testo": "tale scendeva l’etternale ardore;\nonde la rena s’accendea, com’esca\nsotto focile, a doppiar lo dolore.",
+      "parafrasi": "così scendeva il fuoco eterno; per cui la sabbia si accendeva come l'esca sotto l'acciarino, raddoppiando il dolore."
+    },
+    {
+      "versi": [40, 42],
+      "testo": "Sanza riposo mai era la tresca\nde le misere mani, or quindi or quinci\nescotendo da sé l’arsura fresca.",
+      "parafrasi": "La danza delle misere mani era senza mai riposo, ora da una parte ora dall'altra, per scuotere via da sé le nuove scottature."
+    },
+    {
+      "versi": [43, 45],
+      "testo": "I’ cominciai: \"Maestro, tu che vinci\ntutte le cose, fuor che ’ demon duri\nch’a l’intrar de la porta incontra uscinci,",
+      "parafrasi": "Cominciai: «Maestro, tu che vinci tutte le cose, tranne i demoni ostinati che uscirono contro di noi all'ingresso della porta,"
+    },
+    {
+      "versi": [46, 48],
+      "testo": "chi è quel grande che non par che curi\nlo ’ncendio e giace dispettoso e torto,\nsì che la pioggia non par che ’l marturi?\".",
+      "parafrasi": "chi è quel grande che non sembra curarsi dell'incendio e giace sprezzante e torvo, così che la pioggia non sembra tormentarlo?»"
+    },
+    {
+      "versi": [49, 51],
+      "testo": "E quel medesmo, che si fu accorto\nch’io domandava il mio duca di lui,\ngridò: \"Qual io fui vivo, tal son morto.",
+      "parafrasi": "E lui stesso, che si era accorto che domandavo di lui alla mia guida, gridò: «Quale fui da vivo, tale sono da morto."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "Se Giove stanchi ’l suo fabbro da cui\ncrucciato prese la folgore aguta\nonde l’ultimo dì percosso fui;",
+      "parafrasi": "Anche se Giove stancasse il suo fabbro, dal quale prese adirato il fulmine acuminato con cui fui colpito nel mio ultimo giorno,"
+    },
+    {
+      "versi": [55, 57],
+      "testo": "o s’elli stanchi li altri a muta a muta\nin Mongibello a la focina negra,\nchiamando \"Buon Vulcano, aiuta, aiuta!\",",
+      "parafrasi": "o se stancasse gli altri a turno nella fucina nera dell'Etna, gridando \"Buon Vulcano, aiuto, aiuto!\","
+    },
+    {
+      "versi": [58, 60],
+      "testo": "sì com’el fece a la pugna di Flegra,\ne me saetti con tutta sua forza:\nnon ne potrebbe aver vendetta allegra\".",
+      "parafrasi": "come fece nella battaglia di Flegra, e mi saettasse con tutta la sua forza: non potrebbe averne una vendetta che lo rallegri.»"
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Allora il duca mio parlò di forza\ntanto, ch’i’ non l’avea sì forte udito:\n\"O Capaneo, in ciò che non s’ammorza",
+      "parafrasi": "Allora la mia guida parlò con tanta forza che non l'avevo mai sentito così forte: «O Capaneo, proprio perché la tua superbia non si spegne"
+    },
+    {
+      "versi": [64, 66],
+      "testo": "la tua superbia, se’ tu più punito;\nnullo martiro, fuor che la tua rabbia,\nsarebbe al tuo furor dolor compito\".",
+      "parafrasi": "sei punito di più; nessun tormento, se non la tua rabbia, sarebbe dolore adeguato al tuo furore.»"
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Poi si rivolse a me con miglior labbia,\ndicendo: \"Quei fu l’un d’i sette regi\nch’assiser Tebe; ed ebbe e par ch’elli abbia",
+      "parafrasi": "Poi si rivolse a me con espressione più serena, dicendo: «Quello fu uno dei sette re che assediarono Tebe; ebbe, e sembra che abbia ancora,"
+    },
+    {
+      "versi": [70, 72],
+      "testo": "Dio in disdegno, e poco par che ’l pregi;\nma, com’io dissi lui, li suoi dispetti\nsono al suo petto assai debiti fregi.",
+      "parafrasi": "Dio in disprezzo, e sembra che lo stimi poco; ma, come gli ho detto, i suoi insulti sono ornamenti ben meritati per il suo petto."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Or mi vien dietro, e guarda che non metti,\nancor, li piedi ne la rena arsiccia;\nma sempre al bosco tien li piedi stretti\".",
+      "parafrasi": "Ora vienimi dietro, e bada di non mettere ancora i piedi sulla sabbia rovente, ma tieni sempre i piedi stretti al bosco.»"
+    },
+    {
+      "versi": [76, 78],
+      "testo": "Tacendo divenimmo là ’ve spiccia\nfuor de la selva un picciol fiumicello,\nlo cui rossore ancor mi raccapriccia.",
+      "parafrasi": "In silenzio arrivammo là dove sgorga fuori dalla selva un piccolo fiume, il cui colore rosso mi fa ancora rabbrividire."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Quale del Bulicame esce ruscello\nche parton poi tra lor le peccatrici,\ntal per la rena giù sen giva quello.",
+      "parafrasi": "Come dal Bulicame esce il ruscello che poi si dividono tra loro le peccatrici, così quello scendeva per la sabbia."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "Lo fondo suo e ambo le pendici\nfatt’era ’n pietra, e ’ margini dallato;\nper ch’io m’accorsi che ’l passo era lici.",
+      "parafrasi": "Il suo fondo, entrambe le sponde e i margini ai lati erano fatti di pietra; per cui mi accorsi che il passaggio era lì."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "\"Tra tutto l’altro ch’i’ t’ ho dimostrato,\nposcia che noi intrammo per la porta\nlo cui sogliare a nessuno è negato,",
+      "parafrasi": "«Tra tutte le altre cose che ti ho mostrato da quando entrammo per la porta la cui soglia non è negata a nessuno,"
+    },
+    {
+      "versi": [88, 90],
+      "testo": "cosa non fu da li tuoi occhi scorta\nnotabile com’è ’l presente rio,\nche sovra sé tutte fiammelle ammorta\".",
+      "parafrasi": "i tuoi occhi non hanno visto nulla di così notevole come il presente ruscello, che spegne sopra di sé tutte le fiammelle.»"
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Queste parole fuor del duca mio;\nper ch’io ’l pregai che mi largisse ’l pasto\ndi cui largito m’avëa il disio.",
+      "parafrasi": "Queste parole furono della mia guida; per cui lo pregai di darmi il cibo di cui mi aveva dato il desiderio."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "\"In mezzo mar siede un paese guasto\",\ndiss’elli allora, \"che s’appella Creta,\nsotto ’l cui rege fu già ’l mondo casto.",
+      "parafrasi": "«In mezzo al mare si trova un paese in rovina», disse allora, «che si chiama Creta, sotto il cui re il mondo fu un tempo innocente."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Una montagna v’è che già fu lieta\nd’acqua e di fronde, che si chiamò Ida;\nor è diserta come cosa vieta.",
+      "parafrasi": "C'è una montagna, che si chiamò Ida, che un tempo era lieta di acque e di fronde; ora è deserta come una cosa vecchia e abbandonata."
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Rëa la scelse già per cuna fida\ndel suo figliuolo, e per celarlo meglio,\nquando piangea, vi facea far le grida.",
+      "parafrasi": "Rea la scelse un tempo come culla sicura per suo figlio, e per nasconderlo meglio, quando piangeva, vi faceva fare grida."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Dentro dal monte sta dritto un gran veglio,\nche tien volte le spalle inver’ Dammiata\ne Roma guarda come süo speglio.",
+      "parafrasi": "Dentro il monte sta in piedi un grande vecchio, che volge le spalle verso Damietta e guarda Roma come il suo specchio."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "La sua testa è di fin oro formata,\ne puro argento son le braccia e ’l petto,\npoi è di rame infino a la forcata;",
+      "parafrasi": "La sua testa è fatta di oro fino, e le braccia e il petto sono di puro argento, poi è di rame fino all'inforcatura;"
+    },
+    {
+      "versi": [109, 111],
+      "testo": "da indi in giuso è tutto ferro eletto,\nsalvo che ’l destro piede è terra cotta;\ne sta ’n su quel, più che ’n su l’altro, eretto.",
+      "parafrasi": "da lì in giù è tutto di ferro scelto, tranne il piede destro, che è di terracotta; e si regge su questo più che sull'altro."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Ciascuna parte, fuor che l’oro, è rotta\nd’una fessura che lagrime goccia,\nle quali, accolte, fóran quella grotta.",
+      "parafrasi": "Ogni parte, tranne l'oro, è spaccata da una fessura che gocciola lacrime, le quali, raccolte, perforano quella grotta."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "Lor corso in questa valle si diroccia;\nfanno Acheronte, Stige e Flegetonta;\npoi sen van giù per questa stretta doccia,",
+      "parafrasi": "Il loro corso precipita di roccia in roccia in questa valle; formano Acheronte, Stige e Flegetonte; poi se ne vanno giù per questo stretto canale,"
+    },
+    {
+      "versi": [118, 120],
+      "testo": "infin, là ove più non si dismonta,\nfanno Cocito; e qual sia quello stagno\ntu lo vedrai, però qui non si conta\".",
+      "parafrasi": "finché, là dove non si scende più, formano Cocito; e quale sia quello stagno lo vedrai, perciò qui non lo racconto.»"
+    },
+    {
+      "versi": [121, 123],
+      "testo": "E io a lui: \"Se ’l presente rigagno\nsi diriva così dal nostro mondo,\nperché ci appar pur a questo vivagno?\".",
+      "parafrasi": "E io a lui: «Se il presente ruscello nasce così dal nostro mondo, perché ci appare soltanto a questo margine?»"
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Ed elli a me: \"Tu sai che ’l loco è tondo;\ne tutto che tu sie venuto molto,\npur a sinistra, giù calando al fondo,",
+      "parafrasi": "E lui a me: «Sai che il luogo è rotondo; e benché tu abbia percorso molta strada, sempre verso sinistra, scendendo al fondo,"
+    },
+    {
+      "versi": [127, 129],
+      "testo": "non se’ ancor per tutto ’l cerchio vòlto;\nper che, se cosa n’apparisce nova,\nnon de’ addur maraviglia al tuo volto\".",
+      "parafrasi": "non hai ancora girato tutto il cerchio; per cui, se ci appare una cosa nuova, non deve portare meraviglia sul tuo volto.»"
+    },
+    {
+      "versi": [130, 132],
+      "testo": "E io ancor: \"Maestro, ove si trova\nFlegetonta e Letè? ché de l’un taci,\ne l’altro di’ che si fa d’esta piova\".",
+      "parafrasi": "E io ancora: «Maestro, dove si trovano Flegetonte e Letè? Perché dell'uno taci, e dell'altro dici che si forma da questa pioggia.»"
+    },
+    {
+      "versi": [133, 135],
+      "testo": "\"In tutte tue question certo mi piaci\",\nrispuose, \"ma ’l bollor de l’acqua rossa\ndovea ben solver l’una che tu faci.",
+      "parafrasi": "«Mi piaci certo in tutte le tue domande», rispose, «ma il bollore dell'acqua rossa doveva ben risolvere una di quelle che fai."
+    },
+    {
+      "versi": [136, 138],
+      "testo": "Letè vedrai, ma fuor di questa fossa,\nlà dove vanno l’anime a lavarsi\nquando la colpa pentuta è rimossa\".",
+      "parafrasi": "Letè lo vedrai, ma fuori da questa voragine, là dove vanno a lavarsi le anime quando la colpa, di cui si sono pentite, è tolta.»"
+    },
+    {
+      "versi": [139, 141],
+      "testo": "Poi disse: \"Omai è tempo da scostarsi\ndal bosco; fa che di retro a me vegne:\nli margini fan via, che non son arsi,",
+      "parafrasi": "Poi disse: «Ormai è tempo di allontanarsi dal bosco; fa' in modo di venirmi dietro: gli argini, che non sono infuocati, fanno da strada,"
+    },
+    {
+      "versi": [142, 142],
+      "testo": "e sopra loro ogne vapor si spegne\".",
+      "parafrasi": "e sopra di loro ogni vapore infuocato si spegne.»"
+    }
+  ]
+}

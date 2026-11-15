@@ -1,0 +1,333 @@
+# Inferno, canto XXX
+titolo: Gianni Schicchi, Mirra, maestro Adamo e Sinone
+
+## scena-1 | bolgia-10 | Gianni Schicchi e Mirra
+personaggi: dante, capocchio, griffolino, gianni-schicchi, mirra
+tavola: dore | Gianni Schicchi azzanna Capocchio | img/dore/inferno-30-gianni-schicchi-960.jpg | File:Gottliche Komodie. T. 1, Die Holle 1870 (148619397).jpg
+sintesi: Più furiose di Atamante e di Ecuba impazziti, due ombre corrono mordendo come porci: una azzanna Capocchio al collo e lo trascina. Griffolino spiega: è Gianni Schicchi, che si finse Buoso Donati per dettare un falso testamento; l'altra è Mirra, che si travestì per unirsi al padre.
+
+1
+Nel tempo che Iunone era crucciata
+per Semelè contra ’l sangue tebano,
+come mostrò una e altra fïata,
+> Al tempo in cui Giunone era adirata contro la stirpe tebana a causa di Semele, come mostrò più di una volta,
+
+4
+Atamante divenne tanto insano,
+che veggendo la moglie con due figli
+andar carcata da ciascuna mano,
+> Atamante divenne così pazzo che, vedendo la moglie andare con i due figli in braccio, uno per mano,
+
+7
+gridò: "Tendiam le reti, sì ch’io pigli
+la leonessa e ’ leoncini al varco";
+e poi distese i dispietati artigli,
+> gridò: «Tendiamo le reti, così che io prenda al passaggio la leonessa e i leoncini»; e poi tese gli artigli spietati,
+
+10
+prendendo l’un ch’avea nome Learco,
+e rotollo e percosselo ad un sasso;
+e quella s’annegò con l’altro carco.
+> prendendo quello che si chiamava Learco, e lo fece roteare e lo sbatté contro un sasso; e lei si annegò con l'altro carico.
+
+13
+E quando la fortuna volse in basso
+l’altezza de’ Troian che tutto ardiva,
+sì che ’nsieme col regno il re fu casso,
+> E quando la fortuna abbatté la grandezza dei Troiani che osava tutto, così che con il regno fu distrutto il re,
+
+16
+Ecuba trista, misera e cattiva,
+poscia che vide Polissena morta,
+e del suo Polidoro in su la riva
+> Ecuba, triste, misera e prigioniera, dopo aver visto Polissena morta e aver scoperto, dolorosa, il suo Polidoro
+
+19
+del mar si fu la dolorosa accorta,
+forsennata latrò sì come cane;
+tanto il dolor le fé la mente torta.
+> sulla riva del mare, impazzita latrò come un cane; tanto il dolore le stravolse la mente.
+
+22
+Ma né di Tebe furie né troiane
+si vider mäi in alcun tanto crude,
+non punger bestie, nonché membra umane,
+> Ma né le furie di Tebe né quelle troiane si videro mai così crudeli contro qualcuno, nel colpire animali e tanto meno membra umane,
+
+25
+quant’io vidi in due ombre smorte e nude,
+che mordendo correvan di quel modo
+che ’l porco quando del porcil si schiude.
+> quanto ne vidi in due ombre pallide e nude, che correvano mordendo nel modo in cui fa il porco quando esce dal porcile.
+
+28
+L’una giunse a Capocchio, e in sul nodo
+del collo l’assannò, sì che, tirando,
+grattar li fece il ventre al fondo sodo.
+> Una arrivò a Capocchio e lo azzannò alla nuca, così che, tirandolo, gli fece grattare il ventre sul fondo duro.
+
+31
+E l’Aretin che rimase, tremando
+mi disse: "Quel folletto è Gianni Schicchi,
+e va rabbioso altrui così conciando".
+> E l'Aretino che rimase, tremando, mi disse: «Quello spirito furioso è Gianni Schicchi, e va così, rabbioso, a conciare gli altri.»
+
+34
+"Oh", diss’io lui, "se l’altro non ti ficchi
+li denti a dosso, non ti sia fatica
+a dir chi è, pria che di qui si spicchi".
+> «Oh», gli dissi, «così l'altro non ti affondi i denti addosso, non ti sia fatica dire chi è, prima che si allontani da qui.»
+
+37
+Ed elli a me: "Quell’è l’anima antica
+di Mirra scellerata, che divenne
+al padre, fuor del dritto amore, amica.
+> E lui a me: «Quella è l'anima antica della scellerata Mirra, che divenne amante del padre, fuori dal giusto amore.
+
+40
+Questa a peccar con esso così venne,
+falsificando sé in altrui forma,
+come l’altro che là sen va, sostenne,
+> Costei arrivò a peccare con lui così, falsificando se stessa sotto un'altra forma, come l'altro che se ne va là osò,
+
+43
+per guadagnar la donna de la torma,
+falsificare in sé Buoso Donati,
+testando e dando al testamento norma".
+> per guadagnarsi la signora della mandria [una cavalla], falsificare in sé Buoso Donati, facendo testamento e dandogli forma legale.»
+
+## scena-2 | bolgia-10 | Maestro Adamo, il falsario di monete
+personaggi: dante, virgilio, maestro-adamo
+sintesi: Un dannato gonfio d'idropisia, a forma di liuto, con le labbra aperte per la sete, è maestro Adamo: falsificò il fiorino d'oro per i conti Guidi di Romena e fu bruciato. Sogna i ruscelli del Casentino e vorrebbe vedere qui i Guidi più di ogni sorgente.
+
+46
+E poi che i due rabbiosi fuor passati
+sovra cu’ io avea l’occhio tenuto,
+rivolsilo a guardar li altri mal nati.
+> E dopo che furono passati i due rabbiosi, su cui avevo tenuto l'occhio, lo rivolsi a guardare gli altri nati per il male.
+
+49
+Io vidi un, fatto a guisa di lëuto,
+pur ch’elli avesse avuta l’anguinaia
+tronca da l’altro che l’uomo ha forcuto.
+> Vidi uno fatto a forma di liuto, se soltanto avesse avuto l'inguine troncato dalla parte dove l'uomo è biforcuto.
+
+52
+La grave idropesì, che sì dispaia
+le membra con l’omor che mal converte,
+che ’l viso non risponde a la ventraia,
+> La grave idropisia, che rende così sproporzionate le membra con l'umore che trasforma male, tanto che il viso non corrisponde al ventre,
+
+55
+faceva lui tener le labbra aperte
+come l’etico fa, che per la sete
+l’un verso ’l mento e l’altro in sù rinverte.
+> gli faceva tenere le labbra aperte come fa il tisico, che per la sete ne rovescia uno verso il mento e l'altro verso l'alto.
+
+58
+"O voi che sanz’alcuna pena siete,
+e non so io perché, nel mondo gramo",
+diss’elli a noi, "guardate e attendete
+> «O voi che siete senza alcuna pena, e non so perché, nel mondo del dolore», ci disse, «guardate e fate attenzione
+
+61
+a la miseria del maestro Adamo;
+io ebbi, vivo, assai di quel ch’i’ volli,
+e ora, lasso!, un gocciol d’acqua bramo.
+> alla miseria di maestro Adamo; da vivo ebbi in abbondanza ciò che volli, e ora, ahimè!, desidero una goccia d'acqua.
+
+64
+Li ruscelletti che d’i verdi colli
+del Casentin discendon giuso in Arno,
+faccendo i lor canali freddi e molli,
+> I ruscelletti che dai verdi colli del Casentino scendono giù nell'Arno, rendendo i loro canali freschi e umidi,
+
+67
+sempre mi stanno innanzi, e non indarno,
+ché l’imagine lor vie più m’asciuga
+che ’l male ond’io nel volto mi discarno.
+> mi stanno sempre davanti, e non inutilmente, perché la loro immagine mi secca molto più del male per cui mi si scarna il volto.
+
+70
+La rigida giustizia che mi fruga
+tragge cagion del loco ov’io peccai
+a metter più li miei sospiri in fuga.
+> La rigida giustizia che mi tormenta trae motivo dal luogo dove peccai per far uscire più in fretta i miei sospiri.
+
+73
+Ivi è Romena, là dov’io falsai
+la lega suggellata del Batista;
+per ch’io il corpo sù arso lasciai.
+> Lì c'è Romena, dove falsificai la lega che porta impresso il Battista; per cui lassù lasciai il corpo bruciato.
+
+76
+Ma s’io vedessi qui l’anima trista
+di Guido o d’Alessandro o di lor frate,
+per Fonte Branda non darei la vista.
+> Ma se vedessi qui l'anima triste di Guido o di Alessandro o del loro fratello, non darei quella vista per Fonte Branda.
+
+79
+Dentro c’è l’una già, se l’arrabbiate
+ombre che vanno intorno dicon vero;
+ma che mi val, c’ ho le membra legate?
+> Una è già dentro, se le ombre rabbiose che vanno intorno dicono il vero; ma che mi serve, se ho le membra legate?
+
+82
+S’io fossi pur di tanto ancor leggero
+ch’i’ potessi in cent’anni andare un’oncia,
+io sarei messo già per lo sentiero,
+> Se fossi ancora tanto leggero da poter andare avanti di un'oncia in cent'anni, mi sarei già messo per la strada
+
+85
+cercando lui tra questa gente sconcia,
+con tutto ch’ella volge undici miglia,
+e men d’un mezzo di traverso non ci ha.
+> a cercarlo tra questa gente sconcia, benché la bolgia giri per undici miglia e non sia meno di mezzo miglio di larghezza.
+
+88
+Io son per lor tra sì fatta famiglia;
+e’ m’indussero a batter li fiorini
+ch’avevan tre carati di mondiglia".
+> Sono tra una tale famiglia a causa loro; mi indussero a battere i fiorini che avevano tre carati di metallo vile.»
+
+## scena-3 | bolgia-10 | La rissa tra maestro Adamo e Sinone
+personaggi: dante, virgilio, maestro-adamo, sinone, moglie-di-putifarre
+sintesi: Accanto ad Adamo giacciono, fumanti di febbre, la moglie di Putifarre, che accusò falsamente Giuseppe, e il greco Sinone, che ingannò i Troiani. Sinone colpisce il ventre di Adamo, che risponde con un pugno in faccia; segue uno scambio di insulti. Dante ascolta incantato, finché Virgilio lo rimprovera: voler ascoltare queste cose è un desiderio basso. Dante si vergogna, e Virgilio lo perdona.
+
+91
+E io a lui: "Chi son li due tapini
+che fumman come man bagnate ’l verno,
+giacendo stretti a’ tuoi destri confini?".
+> E io a lui: «Chi sono i due poveretti che fumano come mani bagnate d'inverno, stesi stretti al tuo fianco destro?»
+
+94
+"Qui li trovai - e poi volta non dierno -",
+rispuose, "quando piovvi in questo greppo,
+e non credo che dieno in sempiterno.
+> «Li trovai qui, e poi non si sono più voltati», rispose, «quando piovvi in questo dirupo, e non credo che si volteranno per l'eternità.
+
+97
+L’una è la falsa ch’accusò Gioseppo;
+l’altr’è ’l falso Sinon greco di Troia:
+per febbre aguta gittan tanto leppo".
+> Una è la bugiarda che accusò Giuseppe; l'altro è il bugiardo Sinone, greco di Troia: per la febbre acuta mandano un tale fetore.»
+
+100
+E l’un di lor, che si recò a noia
+forse d’esser nomato sì oscuro,
+col pugno li percosse l’epa croia.
+> E uno di loro, che forse si offese di essere nominato in modo così infamante, gli colpì con il pugno la pancia tesa.
+
+103
+Quella sonò come fosse un tamburo;
+e mastro Adamo li percosse il volto
+col braccio suo, che non parve men duro,
+> Quella risuonò come se fosse un tamburo; e maestro Adamo gli colpì il volto con il suo braccio, che non sembrò meno duro,
+
+106
+dicendo a lui: "Ancor che mi sia tolto
+lo muover per le membra che son gravi,
+ho io il braccio a tal mestiere sciolto".
+> dicendogli: «Anche se mi è tolto il movimento per le membra che sono pesanti, ho il braccio libero per un tale compito.»
+
+109
+Ond’ei rispuose: "Quando tu andavi
+al fuoco, non l’avei tu così presto;
+ma sì e più l’avei quando coniavi".
+> Per cui lui rispose: «Quando andavi al rogo non lo avevi così svelto; ma così e anche di più lo avevi quando coniavi.»
+
+112
+E l’idropico: "Tu di’ ver di questo:
+ma tu non fosti sì ver testimonio
+là ’ve del ver fosti a Troia richesto".
+> E l'idropico: «In questo dici il vero: ma non fosti un testimone così veritiero là dove a Troia ti fu chiesta la verità.»
+
+115
+"S’io dissi falso, e tu falsasti il conio",
+disse Sinon; "e son qui per un fallo,
+e tu per più ch’alcun altro demonio!".
+> «Se io dissi il falso, tu falsificasti il conio», disse Sinone; «e io sono qui per una sola colpa, e tu per più di qualsiasi altro demonio!»
+
+118
+"Ricorditi, spergiuro, del cavallo",
+rispuose quel ch’avëa infiata l’epa;
+"e sieti reo che tutto il mondo sallo!".
+> «Ricordati, spergiuro, del cavallo», rispose quello che aveva la pancia gonfia; «e ti sia di tormento che tutto il mondo lo sa!»
+
+121
+"E te sia rea la sete onde ti crepa",
+disse ’l Greco, "la lingua, e l’acqua marcia
+che ’l ventre innanzi a li occhi sì t’assiepa!".
+> «E a te sia di tormento la sete che ti fa screpolare la lingua», disse il Greco, «e l'acqua marcia che ti gonfia il ventre davanti agli occhi come una siepe!»
+
+124
+Allora il monetier: "Così si squarcia
+la bocca tua per tuo mal come suole;
+ché, s’i’ ho sete e omor mi rinfarcia,
+> Allora il falsario di monete: «Così la tua bocca si squarcia per il tuo male, come fa sempre; perché, se io ho sete e l'umore mi riempie,
+
+127
+tu hai l’arsura e ’l capo che ti duole,
+e per leccar lo specchio di Narcisso,
+non vorresti a ’nvitar molte parole".
+> tu hai la febbre e la testa che ti duole, e per leccare lo specchio di Narciso [l'acqua] non vorresti essere invitato con molte parole.»
+
+130
+Ad ascoltarli er’io del tutto fisso,
+quando ’l maestro mi disse: "Or pur mira,
+che per poco che teco non mi risso!".
+> Ero del tutto intento ad ascoltarli, quando il maestro mi disse: «Continua pure a guardare, che per poco non litigo con te!»
+
+133
+Quand’io ’l senti’ a me parlar con ira,
+volsimi verso lui con tal vergogna,
+ch’ancor per la memoria mi si gira.
+> Quando lo sentii parlarmi con ira, mi volsi verso di lui con una tale vergogna che ancora mi torna alla memoria.
+
+136
+Qual è colui che suo dannaggio sogna,
+che sognando desidera sognare,
+sì che quel ch’è, come non fosse, agogna,
+> Come chi sogna una sua disgrazia e, sognando, desidera di sognare, così che desidera ciò che è come se non fosse,
+
+139
+tal mi fec’io, non possendo parlare,
+che disïava scusarmi, e scusava
+me tuttavia, e nol mi credea fare.
+> così divenni io, non potendo parlare, perché desideravo scusarmi, e intanto mi scusavo, e non credevo di farlo.
+
+142
+"Maggior difetto men vergogna lava",
+disse ’l maestro, "che ’l tuo non è stato;
+però d’ogne trestizia ti disgrava.
+> «Meno vergogna lava una colpa maggiore della tua», disse il maestro; «perciò liberati da ogni tristezza.
+
+145
+E fa ragion ch’io ti sia sempre allato,
+se più avvien che fortuna t’accoglia
+dove sien genti in simigliante piato:
+> E fa' conto che io ti sia sempre accanto, se accadrà ancora che la fortuna ti porti dove ci sia gente in una lite simile:
+
+148
+ché voler ciò udire è bassa voglia".
+> perché voler ascoltare queste cose è un desiderio basso.»
+
+## personaggio | gianni-schicchi | Gianni Schicchi
+dibattuto: no
+chi_era: Fiorentino della famiglia Cavalcanti, famoso per l'abilità nel contraffare le persone. Morto Buoso Donati, su richiesta del nipote Simone ne prese il posto nel letto e dettò un falso testamento, lasciando a se stesso la migliore cavalla della scuderia.
+
+## personaggio | mirra | Mirra
+dibattuto: no
+chi_era: Figlia del re di Cipro Cinira nelle Metamorfosi di Ovidio: innamorata del padre, si unì a lui con l'inganno; trasformata in albero, generò Adone.
+
+## personaggio | maestro-adamo | Maestro Adamo
+dibattuto: no
+chi_era: Falsario forse di origine inglese, che per i conti Guidi di Romena coniò fiorini d'oro con una lega peggiore; scoperto, fu bruciato a Firenze nel 1281.
+
+## personaggio | sinone | Sinone
+dibattuto: no
+chi_era: Greco che, nell'Eneide, si finse disertore e convinse i Troiani a portare in città il cavallo di legno.
+
+## personaggio | moglie-di-putifarre | La moglie di Putifarre
+dibattuto: no
+chi_era: Nella Genesi, moglie del funzionario egiziano Putifarre: respinta da Giuseppe, lo accusò falsamente di averla insidiata e lo fece imprigionare.

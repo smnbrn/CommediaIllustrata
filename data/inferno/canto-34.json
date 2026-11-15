@@ -1,0 +1,320 @@
+{
+  "cantica": "inferno",
+  "canto": 34,
+  "titolo": "Lucifero, l'uscita a riveder le stelle",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_XXXIV",
+  "numero_versi": 139,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 15],
+      "titolo_scena": "La Giudecca",
+      "sintesi": "«Avanzano i vessilli del re dell'Inferno»: da lontano Lucifero sembra un mulino a vento nella nebbia. Dante si ripara dietro Virgilio. Nella Giudecca i traditori dei benefattori sono interamente coperti dal ghiaccio, visibili come pagliuzze nel vetro, in posizioni diverse.",
+      "luogo_id": "giudecca",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": []
+    },
+    {
+      "id": "scena-2",
+      "versi": [16, 69],
+      "titolo_scena": "Lucifero",
+      "sintesi": "Virgilio mostra Dite, l'imperatore del regno del dolore, e Dante resta né morto né vivo. Lucifero emerge dal ghiaccio a metà petto, enorme: ha tre facce di colori diversi, sei ali di pipistrello che agitano il vento che gela Cocito, e piange con sei occhi. In ogni bocca maciulla un traditore: Giuda, con la testa dentro, Bruto e Cassio.",
+      "luogo_id": "lucifero",
+      "personaggi": ["dante", "virgilio", "lucifero", "giuda", "marco-bruto", "cassio"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Lucifero",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Inferno_Canto_34_%28148619628%29.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Inferno_Canto_34_%28148619628%29.jpg/960px-Inferno_Canto_34_%28148619628%29.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Inferno_Canto_34_(148619628).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [70, 93],
+      "titolo_scena": "Il passaggio per il centro della Terra",
+      "sintesi": "Dante si aggrappa al collo di Virgilio, che scende lungo il corpo peloso di Lucifero tra il pelo e il ghiaccio. All'altezza delle anche Virgilio si capovolge, con fatica, e risale: Dante crede di tornare all'Inferno. Usciti da un foro nella roccia, Dante vede Lucifero con le gambe in su.",
+      "luogo_id": "lucifero",
+      "personaggi": ["dante", "virgilio", "lucifero"],
+      "tavole": []
+    },
+    {
+      "id": "scena-4",
+      "versi": [94, 126],
+      "titolo_scena": "La natural burella",
+      "sintesi": "Sono in una grotta naturale, buia e dal suolo accidentato. Virgilio spiega: hanno superato il centro della Terra e sono nell'emisfero opposto, dove è mattina. Lucifero, cadendo dal cielo da questa parte, fece ritirare per paura la terra, che emerse nel nostro emisfero; e la terra che fuggì verso l'alto formò forse la montagna del Purgatorio.",
+      "luogo_id": "natural-burella",
+      "personaggi": ["dante", "virgilio", "lucifero"],
+      "tavole": []
+    },
+    {
+      "id": "scena-5",
+      "versi": [127, 139],
+      "titolo_scena": "A riveder le stelle",
+      "sintesi": "Seguendo il suono di un ruscelletto che scende per una galleria scavata nella roccia, Dante e Virgilio risalgono senza riposo verso il mondo luminoso, finché da un'apertura rotonda Dante vede le cose belle del cielo. «E quindi uscimmo a riveder le stelle.»",
+      "luogo_id": "natural-burella",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "L'uscita verso le stelle",
+          "url": "img/dore/inferno-34-uscita-960.jpg",
+          "miniatura": "img/dore/inferno-34-uscita-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._1,_Die_Holle_1870_(148619672).jpg",
+          "licenza": "Pubblico dominio"
+        },
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Sotto le stelle",
+          "url": "img/dore/inferno-34-stelle-960.jpg",
+          "miniatura": "img/dore/inferno-34-stelle-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._1,_Die_Holle_1870_(148619695).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "\"Vexilla regis prodeunt inferni\nverso di noi; però dinanzi mira\",\ndisse ’l maestro mio, \"se tu ’l discerni\".",
+      "parafrasi": "«Avanzano verso di noi i vessilli del re dell'Inferno; perciò guarda davanti», disse il mio maestro, «se lo distingui.»"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "Come quando una grossa nebbia spira,\no quando l’emisperio nostro annotta,\npar di lungi un molin che ’l vento gira,",
+      "parafrasi": "Come, quando spira una nebbia densa o quando nel nostro emisfero si fa notte, appare da lontano un mulino che il vento fa girare,"
+    },
+    {
+      "versi": [7, 9],
+      "testo": "veder mi parve un tal dificio allotta;\npoi per lo vento mi ristrinsi retro\nal duca mio, ché non lì era altra grotta.",
+      "parafrasi": "così allora mi parve di vedere un edificio simile; poi, per il vento, mi strinsi dietro la mia guida, perché lì non c'era altro riparo."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "Già era, e con paura il metto in metro,\nlà dove l’ombre tutte eran coperte,\ne trasparien come festuca in vetro.",
+      "parafrasi": "Ero già, e lo metto in versi con paura, là dove le ombre erano tutte coperte e trasparivano come pagliuzze nel vetro."
+    },
+    {
+      "versi": [13, 15],
+      "testo": "Altre sono a giacere; altre stanno erte,\nquella col capo e quella con le piante;\naltra, com’arco, il volto a’ piè rinverte.",
+      "parafrasi": "Alcune sono sdraiate; altre stanno erette, una con la testa e una con i piedi in su; un'altra, come un arco, rivolge il volto verso i piedi."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "Quando noi fummo fatti tanto avante,\nch’al mio maestro piacque di mostrarmi\nla creatura ch’ebbe il bel sembiante,",
+      "parafrasi": "Quando fummo andati così avanti che al mio maestro piacque mostrarmi la creatura che ebbe il bell'aspetto,"
+    },
+    {
+      "versi": [19, 21],
+      "testo": "d’innanzi mi si tolse e fé restarmi,\n\"Ecco Dite\", dicendo, \"ed ecco il loco\nove convien che di fortezza t’armi\".",
+      "parafrasi": "si tolse da davanti a me e mi fece fermare, dicendo: «Ecco Dite, ed ecco il luogo dove bisogna che tu ti armi di fortezza.»"
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Com’io divenni allor gelato e fioco,\nnol dimandar, lettor, ch’i’ non lo scrivo,\nperò ch’ogne parlar sarebbe poco.",
+      "parafrasi": "Come divenni allora gelato e senza forze non chiederlo, lettore, perché non lo scrivo: ogni parola sarebbe poca."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Io non mori’ e non rimasi vivo;\npensa oggimai per te, s’ hai fior d’ingegno,\nqual io divenni, d’uno e d’altro privo.",
+      "parafrasi": "Non morii e non rimasi vivo; pensa ormai da te, se hai un briciolo d'ingegno, che cosa divenni, privo dell'una e dell'altra cosa."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Lo ’mperador del doloroso regno\nda mezzo ’l petto uscia fuor de la ghiaccia;\ne più con un gigante io mi convegno,",
+      "parafrasi": "L'imperatore del regno del dolore usciva dal ghiaccio da metà petto in su; e io sono più vicino in grandezza a un gigante"
+    },
+    {
+      "versi": [31, 33],
+      "testo": "che i giganti non fan con le sue braccia:\nvedi oggimai quant’esser dee quel tutto\nch’a così fatta parte si confaccia.",
+      "parafrasi": "di quanto i giganti lo siano alle sue braccia: vedi ormai quanto deve essere grande il tutto che corrisponde a una tale parte."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "S’el fu sì bel com’elli è ora brutto,\ne contra ’l suo fattore alzò le ciglia,\nben dee da lui procedere ogne lutto.",
+      "parafrasi": "Se fu tanto bello quanto ora è brutto, e alzò le ciglia contro il suo creatore, è giusto che da lui provenga ogni dolore."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Oh quanto parve a me gran maraviglia\nquand’io vidi tre facce a la sua testa!\nL’una dinanzi, e quella era vermiglia;",
+      "parafrasi": "Oh, quanto mi parve una grande meraviglia quando vidi tre facce sulla sua testa! Una davanti, ed era rossa;"
+    },
+    {
+      "versi": [40, 42],
+      "testo": "l’altr’eran due, che s’aggiugnieno a questa\nsovresso ’l mezzo di ciascuna spalla,\ne sé giugnieno al loco de la cresta:",
+      "parafrasi": "le altre erano due, che si univano a questa sopra la metà di ciascuna spalla, e si univano nel punto della cresta:"
+    },
+    {
+      "versi": [43, 45],
+      "testo": "e la destra parea tra bianca e gialla;\nla sinistra a vedere era tal, quali\nvegnon di là onde ’l Nilo s’avvalla.",
+      "parafrasi": "e la destra sembrava tra bianca e gialla; la sinistra a vederla era come quelli che vengono da dove il Nilo scende a valle [scura]."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Sotto ciascuna uscivan due grand’ali,\nquanto si convenia a tanto uccello:\nvele di mar non vid’io mai cotali.",
+      "parafrasi": "Sotto ciascuna uscivano due grandi ali, quanto si conveniva a un uccello così grande: non ho mai visto vele di mare simili."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "Non avean penne, ma di vispistrello\nera lor modo; e quelle svolazzava,\nsì che tre venti si movean da ello:",
+      "parafrasi": "Non avevano piume, ma erano fatte come quelle del pipistrello; e lui le agitava, così che da lui partivano tre venti:"
+    },
+    {
+      "versi": [52, 54],
+      "testo": "quindi Cocito tutto s’aggelava.\nCon sei occhi piangëa, e per tre menti\ngocciava ’l pianto e sanguinosa bava.",
+      "parafrasi": "per questo Cocito ghiacciava tutto. Piangeva con sei occhi, e da tre menti gocciolavano il pianto e una bava sanguinosa."
+    },
+    {
+      "versi": [55, 57],
+      "testo": "Da ogne bocca dirompea co’ denti\nun peccatore, a guisa di maciulla,\nsì che tre ne facea così dolenti.",
+      "parafrasi": "Da ogni bocca stritolava con i denti un peccatore, come una gramola, così che ne faceva soffrire tre."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "A quel dinanzi il mordere era nulla\nverso ’l graffiar, che talvolta la schiena\nrimanea de la pelle tutta brulla.",
+      "parafrasi": "Per quello davanti il morso era niente in confronto alle graffiature, per cui a volte la schiena restava tutta spellata."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "\"Quell’anima là sù c’ ha maggior pena\",\ndisse ’l maestro, \"è Giuda Scarïotto,\nche ’l capo ha dentro e fuor le gambe mena.",
+      "parafrasi": "«Quell'anima lassù che ha la pena maggiore», disse il maestro, «è Giuda Iscariota, che ha la testa dentro e agita fuori le gambe."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "De li altri due c’ hanno il capo di sotto,\nquel che pende dal nero ceffo è Bruto:\nvedi come si storce, e non fa motto!;",
+      "parafrasi": "Degli altri due, che hanno la testa di sotto, quello che pende dal muso nero è Bruto: vedi come si contorce, e non dice una parola!"
+    },
+    {
+      "versi": [67, 69],
+      "testo": "e l’altro è Cassio, che par sì membruto.\nMa la notte risurge, e oramai\nè da partir, ché tutto avem veduto\".",
+      "parafrasi": "E l'altro è Cassio, che sembra così robusto. Ma la notte risorge, e ormai bisogna partire, perché abbiamo visto tutto.»"
+    },
+    {
+      "versi": [70, 72],
+      "testo": "Com’a lui piacque, il collo li avvinghiai;\ned el prese di tempo e loco poste,\ne quando l’ali fuoro aperte assai,",
+      "parafrasi": "Come a lui piacque, gli avvinghiai il collo; e lui scelse il momento e il punto giusti e, quando le ali furono abbastanza aperte,"
+    },
+    {
+      "versi": [73, 75],
+      "testo": "appigliò sé a le vellute coste;\ndi vello in vello giù discese poscia\ntra ’l folto pelo e le gelate croste.",
+      "parafrasi": "si aggrappò ai fianchi pelosi; poi scese di ciuffo in ciuffo tra il pelo folto e le croste di ghiaccio."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "Quando noi fummo là dove la coscia\nsi volge, a punto in sul grosso de l’anche,\nlo duca, con fatica e con angoscia,",
+      "parafrasi": "Quando fummo là dove la coscia si piega, proprio sulla parte più grossa delle anche, la guida, con fatica e con affanno,"
+    },
+    {
+      "versi": [79, 81],
+      "testo": "volse la testa ov’elli avea le zanche,\ne aggrappossi al pel com’om che sale,\nsì che ’n inferno i’ credea tornar anche.",
+      "parafrasi": "voltò la testa dove prima aveva le gambe e si aggrappò al pelo come uno che sale, tanto che io credevo di tornare ancora all'Inferno."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "\"Attienti ben, ché per cotali scale\",\ndisse ’l maestro, ansando com’uom lasso,\n\"conviensi dipartir da tanto male\".",
+      "parafrasi": "«Tieniti bene, perché per scale come queste», disse il maestro, ansimando come un uomo stanco, «bisogna allontanarsi da tanto male.»"
+    },
+    {
+      "versi": [85, 87],
+      "testo": "Poi uscì fuor per lo fóro d’un sasso\ne puose me in su l’orlo a sedere;\nappresso porse a me l’accorto passo.",
+      "parafrasi": "Poi uscì fuori attraverso il foro di una roccia e mi fece sedere sull'orlo; quindi mosse verso di me il passo accorto."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Io levai li occhi e credetti vedere\nLucifero com’io l’avea lasciato,\ne vidili le gambe in sù tenere;",
+      "parafrasi": "Alzai gli occhi e credetti di vedere Lucifero come lo avevo lasciato, e gli vidi tenere le gambe in su;"
+    },
+    {
+      "versi": [91, 93],
+      "testo": "e s’io divenni allora travagliato,\nla gente grossa il pensi, che non vede\nqual è quel punto ch’io avea passato.",
+      "parafrasi": "e se allora rimasi turbato, lo immagini la gente ignorante, che non capisce quale sia il punto che avevo superato."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "\"Lèvati sù\", disse ’l maestro, \"in piede:\nla via è lunga e ’l cammino è malvagio,\ne già il sole a mezza terza riede\".",
+      "parafrasi": "«Alzati in piedi», disse il maestro: «la via è lunga e il cammino è difficile, e già il sole torna a metà della terza ora.»"
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Non era camminata di palagio\nlà ’v’eravam, ma natural burella\nch’avea mal suolo e di lume disagio.",
+      "parafrasi": "Non era una sala di palazzo quella dove eravamo, ma una grotta naturale, che aveva un suolo accidentato e scarsità di luce."
+    },
+    {
+      "versi": [100, 102],
+      "testo": "\"Prima ch’io de l’abisso mi divella,\nmaestro mio\", diss’io quando fui dritto,\n\"a trarmi d’erro un poco mi favella:",
+      "parafrasi": "«Prima che mi stacchi dall'abisso, maestro mio», dissi quando fui in piedi, «parlami un poco per togliermi dall'errore:"
+    },
+    {
+      "versi": [103, 105],
+      "testo": "ov’è la ghiaccia? e questi com’è fitto\nsì sottosopra? e come, in sì poc’ora,\nda sera a mane ha fatto il sol tragitto?\".",
+      "parafrasi": "dov'è il ghiaccio? E costui com'è confitto così capovolto? E come, in così poco tempo, il sole è passato dalla sera al mattino?»"
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Ed elli a me: \"Tu imagini ancora\nd’esser di là dal centro, ov’io mi presi\nal pel del vermo reo che ’l mondo fóra.",
+      "parafrasi": "E lui a me: «Tu immagini ancora di essere al di là del centro, dove mi aggrappai al pelo del verme malvagio che fora il mondo."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "Di là fosti cotanto quant’io scesi;\nquand’io mi volsi, tu passasti ’l punto\nal qual si traggon d’ogne parte i pesi.",
+      "parafrasi": "Fosti di là finché scesi; quando mi voltai, passasti il punto verso il quale sono attratti i pesi da ogni parte."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "E se’ or sotto l’emisperio giunto\nch’è contraposto a quel che la gran secca\ncoverchia, e sotto ’l cui colmo consunto",
+      "parafrasi": "E ora sei arrivato sotto l'emisfero opposto a quello che è coperto dalla grande distesa di terra, e sotto il cui punto più alto fu ucciso"
+    },
+    {
+      "versi": [115, 117],
+      "testo": "fu l’uom che nacque e visse sanza pecca;\ntu haï i piedi in su picciola spera\nche l’altra faccia fa de la Giudecca.",
+      "parafrasi": "l'uomo che nacque e visse senza peccato [Cristo, a Gerusalemme]; hai i piedi su una piccola sfera che forma l'altra faccia della Giudecca."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Qui è da man, quando di là è sera;\ne questi, che ne fé scala col pelo,\nfitto è ancora sì come prim’era.",
+      "parafrasi": "Qui è mattina quando di là è sera; e questo, che ci fece da scala con il suo pelo, è ancora confitto come era prima."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "Da questa parte cadde giù dal cielo;\ne la terra, che pria di qua si sporse,\nper paura di lui fé del mar velo,",
+      "parafrasi": "Da questa parte cadde giù dal cielo; e la terra, che prima emergeva qui, per paura di lui si coprì con il mare"
+    },
+    {
+      "versi": [124, 126],
+      "testo": "e venne a l’emisperio nostro; e forse\nper fuggir lui lasciò qui loco vòto\nquella ch’appar di qua, e sù ricorse\".",
+      "parafrasi": "e venne nel nostro emisfero; e forse, per fuggire da lui, la terra che appare da questa parte lasciò qui il vuoto e corse verso l'alto.»"
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Luogo è là giù da Belzebù remoto\ntanto quanto la tomba si distende,\nche non per vista, ma per suono è noto",
+      "parafrasi": "Laggiù c'è un luogo lontano da Belzebù quanto si estende la sua tomba [la natural burella], che si conosce non con la vista, ma con il suono"
+    },
+    {
+      "versi": [130, 132],
+      "testo": "d’un ruscelletto che quivi discende\nper la buca d’un sasso, ch’elli ha roso,\ncol corso ch’elli avvolge, e poco pende.",
+      "parafrasi": "di un ruscelletto che scende lì attraverso la fessura di una roccia, che ha scavato con il suo corso tortuoso e poco ripido."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "Lo duca e io per quel cammino ascoso\nintrammo a ritornar nel chiaro mondo;\ne sanza cura aver d’alcun riposo,",
+      "parafrasi": "La guida e io entrammo per quella via nascosta per tornare nel mondo luminoso; e, senza curarci di alcun riposo,"
+    },
+    {
+      "versi": [136, 138],
+      "testo": "salimmo sù, el primo e io secondo,\ntanto ch’i’ vidi de le cose belle\nche porta ’l ciel, per un pertugio tondo.",
+      "parafrasi": "salimmo su, lui per primo e io per secondo, finché vidi, attraverso un'apertura rotonda, alcune delle cose belle che il cielo porta."
+    },
+    {
+      "versi": [139, 139],
+      "testo": "E quindi uscimmo a riveder le stelle.",
+      "parafrasi": "E da lì uscimmo a rivedere le stelle."
+    }
+  ]
+}

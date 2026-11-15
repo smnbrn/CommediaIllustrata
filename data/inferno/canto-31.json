@@ -1,0 +1,322 @@
+{
+  "cantica": "inferno",
+  "canto": 31,
+  "titolo": "I giganti: Nembrot, Fialte, Anteo",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_XXXI",
+  "numero_versi": 145,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 45],
+      "titolo_scena": "Il corno e le torri",
+      "sintesi": "La lingua di Virgilio, che prima ha ferito Dante, ora lo medica. Lasciata Malebolge, nella penombra si sente un corno più forte di quello di Orlando a Roncisvalle. Dante crede di vedere alte torri; Virgilio lo prende per mano e spiega che sono giganti, immersi nel pozzo dall'ombelico in giù.",
+      "luogo_id": "pozzo-giganti",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": []
+    },
+    {
+      "id": "scena-2",
+      "versi": [46, 81],
+      "titolo_scena": "Nembrot",
+      "sintesi": "Dante distingue il volto e il busto di un gigante, enorme come la pigna di San Pietro. La natura fece bene a smettere di creare simili esseri, che univano intelligenza, cattiva volontà e forza. Il gigante grida parole incomprensibili: è Nembrot, colpevole della torre di Babele, per cui nel mondo non si parla più una sola lingua.",
+      "luogo_id": "pozzo-giganti",
+      "personaggi": ["dante", "virgilio", "nembrot"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Nembrot",
+          "url": "img/dore/inferno-31-nembrot-960.jpg",
+          "miniatura": "img/dore/inferno-31-nembrot-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._1,_Die_Holle_1870_(148619471).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [82, 111],
+      "titolo_scena": "Fialte incatenato",
+      "sintesi": "Più avanti c'è Fialte, ancora più feroce e grande, incatenato con le braccia legate: volle misurarsi con Giove nella guerra dei giganti contro gli dèi. Dante vorrebbe vedere Briareo, ma Virgilio dice che è lontano. Fialte si scuote come un terremoto, e Dante teme la morte.",
+      "luogo_id": "pozzo-giganti",
+      "personaggi": ["dante", "virgilio", "fialte", "briareo"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "I giganti: Fialte",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_65_%28Canto_XXXI_-_The_Titans%29.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_65_%28Canto_XXXI_-_The_Titans%29.jpg/960px-Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_65_%28Canto_XXXI_-_The_Titans%29.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_65_(Canto_XXXI_-_The_Titans).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [112, 145],
+      "titolo_scena": "Anteo depone i poeti sul fondo",
+      "sintesi": "Virgilio lusinga Anteo, il gigante che non combatté contro gli dèi, promettendogli fama nel mondo grazie a Dante vivo. Anteo prende i due nella mano e, chinandosi come la torre Garisenda di Bologna quando una nuvola le passa sopra, li depone sul fondo dell'Inferno, nel ghiaccio di Cocito.",
+      "luogo_id": "pozzo-giganti",
+      "personaggi": ["dante", "virgilio", "anteo"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Anteo depone Dante e Virgilio",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/DVinfernoGiantAntaeusLoweringDanteAndVirgil_m.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DVinfernoGiantAntaeusLoweringDanteAndVirgil_m.jpg/960px-DVinfernoGiantAntaeusLoweringDanteAndVirgil_m.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:DVinfernoGiantAntaeusLoweringDanteAndVirgil_m.jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Una medesma lingua pria mi morse,\nsì che mi tinse l’una e l’altra guancia,\ne poi la medicina mi riporse;",
+      "parafrasi": "La stessa lingua prima mi ferì, così che mi fece arrossire l'una e l'altra guancia, e poi mi porse la medicina;"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "così od’io che solea far la lancia\nd’Achille e del suo padre esser cagione\nprima di trista e poi di buona mancia.",
+      "parafrasi": "così ho sentito dire che faceva la lancia di Achille e di suo padre, che prima feriva e poi guariva."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "Noi demmo il dosso al misero vallone\nsu per la ripa che ’l cinge dintorno,\nattraversando sanza alcun sermone.",
+      "parafrasi": "Voltammo le spalle alla misera valle salendo per l'argine che la circonda, attraversando senza dire una parola."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "Quiv’era men che notte e men che giorno,\nsì che ’l viso m’andava innanzi poco;\nma io senti’ sonare un alto corno,",
+      "parafrasi": "Lì era meno che notte e meno che giorno, così che la vista mi arrivava poco avanti; ma sentii suonare un corno potente,"
+    },
+    {
+      "versi": [13, 15],
+      "testo": "tanto ch’avrebbe ogne tuon fatto fioco,\nche, contra sé la sua via seguitando,\ndirizzò li occhi miei tutti ad un loco.",
+      "parafrasi": "tanto che avrebbe reso fioco ogni tuono, e che, seguendo il suono a ritroso, diresse tutti i miei occhi verso un punto."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "Dopo la dolorosa rotta, quando\nCarlo Magno perdé la santa gesta,\nnon sonò sì terribilmente Orlando.",
+      "parafrasi": "Dopo la dolorosa sconfitta, quando Carlo Magno perse la santa schiera dei paladini, Orlando non suonò così terribilmente."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "Poco portäi in là volta la testa,\nche me parve veder molte alte torri;\nond’io: \"Maestro, dì, che terra è questa?\".",
+      "parafrasi": "Avevo rivolto da poco la testa da quella parte quando mi parve di vedere molte alte torri; per cui dissi: «Maestro, dimmi, che città è questa?»"
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Ed elli a me: \"Però che tu trascorri\nper le tenebre troppo da la lungi,\navvien che poi nel maginare abborri.",
+      "parafrasi": "E lui a me: «Poiché spingi lo sguardo troppo lontano attraverso le tenebre, accade che poi ti sbagli nell'immaginare."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Tu vedrai ben, se tu là ti congiungi,\nquanto ’l senso s’inganna di lontano;\nperò alquanto più te stesso pungi\".",
+      "parafrasi": "Vedrai bene, se arrivi là, quanto i sensi si ingannano da lontano; perciò affrettati un po' di più.»"
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Poi caramente mi prese per mano\ne disse: \"Pria che noi siam più avanti,\nacciò che ’l fatto men ti paia strano,",
+      "parafrasi": "Poi mi prese affettuosamente per mano e disse: «Prima che andiamo più avanti, perché la cosa ti sembri meno strana,"
+    },
+    {
+      "versi": [31, 33],
+      "testo": "sappi che non son torri, ma giganti,\ne son nel pozzo intorno da la ripa\nda l’umbilico in giuso tutti quanti\".",
+      "parafrasi": "sappi che non sono torri, ma giganti, e sono tutti nel pozzo, intorno alla riva, dall'ombelico in giù.»"
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Come quando la nebbia si dissipa,\nlo sguardo a poco a poco raffigura\nciò che cela ’l vapor che l’aere stipa,",
+      "parafrasi": "Come quando la nebbia si dissolve, lo sguardo distingue a poco a poco ciò che nasconde il vapore che riempie l'aria,"
+    },
+    {
+      "versi": [37, 39],
+      "testo": "così forando l’aura grossa e scura,\npiù e più appressando ver’ la sponda,\nfuggiemi errore e cresciemi paura;",
+      "parafrasi": "così, perforando l'aria densa e scura, avvicinandomi sempre di più alla sponda, l'errore mi fuggiva e la paura mi cresceva;"
+    },
+    {
+      "versi": [40, 42],
+      "testo": "però che, come su la cerchia tonda\nMontereggion di torri si corona,\ncosì la proda che ’l pozzo circonda",
+      "parafrasi": "perché, come sulla sua cinta circolare Monteriggioni si corona di torri, così sull'orlo che circonda il pozzo"
+    },
+    {
+      "versi": [43, 45],
+      "testo": "torreggiavan di mezza la persona\nli orribili giganti, cui minaccia\nGiove del cielo ancora quando tuona.",
+      "parafrasi": "torreggiavano con metà del corpo gli orribili giganti, che Giove minaccia ancora dal cielo quando tuona."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "E io scorgeva già d’alcun la faccia,\nle spalle e ’l petto e del ventre gran parte,\ne per le coste giù ambo le braccia.",
+      "parafrasi": "E io scorgevo già il volto di qualcuno, le spalle, il petto e gran parte del ventre, e lungo i fianchi entrambe le braccia."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "Natura certo, quando lasciò l’arte\ndi sì fatti animali, assai fé bene\nper tòrre tali essecutori a Marte.",
+      "parafrasi": "Certo la natura, quando abbandonò l'arte di creare tali animali, fece molto bene, per togliere a Marte esecutori come questi."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "E s’ella d’elefanti e di balene\nnon si pente, chi guarda sottilmente,\npiù giusta e più discreta la ne tene;",
+      "parafrasi": "E se non si pente degli elefanti e delle balene, chi guarda con acutezza la ritiene per questo più giusta e più saggia;"
+    },
+    {
+      "versi": [55, 57],
+      "testo": "ché dove l’argomento de la mente\ns’aggiugne al mal volere e a la possa,\nnessun riparo vi può far la gente.",
+      "parafrasi": "perché dove il ragionamento della mente si aggiunge alla cattiva volontà e alla forza, la gente non può farvi alcun riparo."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "La faccia sua mi parea lunga e grossa\ncome la pina di San Pietro a Roma,\ne a sua proporzione eran l’altre ossa;",
+      "parafrasi": "La sua faccia mi sembrava lunga e grossa come la pigna di San Pietro a Roma, e le altre ossa erano in proporzione;"
+    },
+    {
+      "versi": [61, 63],
+      "testo": "sì che la ripa, ch’era perizoma\ndal mezzo in giù, ne mostrava ben tanto\ndi sovra, che di giugnere a la chioma",
+      "parafrasi": "così che la riva, che gli faceva da perizoma dalla vita in giù, ne mostrava tanto al di sopra che di arrivare ai capelli"
+    },
+    {
+      "versi": [64, 66],
+      "testo": "tre Frison s’averien dato mal vanto;\nperò ch’i’ ne vedea trenta gran palmi\ndal loco in giù dov’omo affibbia ’l manto.",
+      "parafrasi": "tre Frisoni si sarebbero vantati a torto; perché ne vedevo trenta grandi palmi dal punto in cui l'uomo allaccia il mantello in giù."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "\"Raphèl maì amècche zabì almi\",\ncominciò a gridar la fiera bocca,\ncui non si convenia più dolci salmi.",
+      "parafrasi": "«Raphèl maì amècche zabì almi», cominciò a gridare la bocca feroce, alla quale non si addicevano salmi più dolci."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "E ’l duca mio ver’ lui: \"Anima sciocca,\ntienti col corno, e con quel ti disfoga\nquand’ira o altra passïon ti tocca!",
+      "parafrasi": "E la mia guida verso di lui: «Anima sciocca, tieniti al corno, e sfogati con quello quando ti prende l'ira o un'altra passione!"
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Cércati al collo, e troverai la soga\nche ’l tien legato, o anima confusa,\ne vedi lui che ’l gran petto ti doga\".",
+      "parafrasi": "Cercati al collo e troverai la cinghia che lo tiene legato, o anima confusa, e vedilo che ti cinge il grande petto.»"
+    },
+    {
+      "versi": [76, 78],
+      "testo": "Poi disse a me: \"Elli stessi s’accusa;\nquesti è Nembrotto per lo cui mal coto\npur un linguaggio nel mondo non s’usa.",
+      "parafrasi": "Poi disse a me: «Si accusa da sé; questo è Nembrot, per il cui cattivo pensiero nel mondo non si usa più una sola lingua."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Lasciànlo stare e non parliamo a vòto;\nché così è a lui ciascun linguaggio\ncome ’l suo ad altrui, ch’a nullo è noto\".",
+      "parafrasi": "Lasciamolo stare e non parliamo inutilmente; perché per lui ogni linguaggio è come il suo per gli altri, che non è noto a nessuno.»"
+    },
+    {
+      "versi": [82, 84],
+      "testo": "Facemmo adunque più lungo vïaggio,\nvòlti a sinistra; e al trar d’un balestro\ntrovammo l’altro assai più fero e maggio.",
+      "parafrasi": "Facemmo dunque un cammino più lungo, voltati a sinistra; e a un tiro di balestra trovammo l'altro, molto più feroce e più grande."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "A cigner lui qual che fosse ’l maestro,\nnon so io dir, ma el tenea soccinto\ndinanzi l’altro e dietro il braccio destro",
+      "parafrasi": "Chi fosse il maestro che lo legò non so dirlo, ma teneva stretto davanti il braccio sinistro e dietro il destro"
+    },
+    {
+      "versi": [88, 90],
+      "testo": "d’una catena che ’l tenea avvinto\ndal collo in giù, sì che ’n su lo scoperto\nsi ravvolgëa infino al giro quinto.",
+      "parafrasi": "con una catena che lo teneva avvinto dal collo in giù, così che sulla parte scoperta si avvolgeva fino a cinque giri."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "\"Questo superbo volle esser esperto\ndi sua potenza contra ’l sommo Giove\",\ndisse ’l mio duca, \"ond’elli ha cotal merto.",
+      "parafrasi": "«Questo superbo volle mettere alla prova la sua potenza contro il sommo Giove», disse la mia guida, «per cui ha una tale ricompensa."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Fïalte ha nome, e fece le gran prove\nquando i giganti fer paura a’ dèi;\nle braccia ch’el menò, già mai non move\".",
+      "parafrasi": "Si chiama Fialte, e fece le grandi imprese quando i giganti fecero paura agli dèi; le braccia che mosse allora non le muove mai più.»"
+    },
+    {
+      "versi": [97, 99],
+      "testo": "E io a lui: \"S’esser puote, io vorrei\nche de lo smisurato Brïareo\nesperïenza avesser li occhi mei\".",
+      "parafrasi": "E io a lui: «Se è possibile, vorrei che i miei occhi facessero esperienza dello smisurato Briareo.»"
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Ond’ei rispuose: \"Tu vedrai Anteo\npresso di qui che parla ed è disciolto,\nche ne porrà nel fondo d’ogne reo.",
+      "parafrasi": "Per cui rispose: «Vedrai Anteo qui vicino, che parla ed è sciolto, e che ci porrà sul fondo di ogni colpa."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Quel che tu vuo’ veder, più là è molto\ned è legato e fatto come questo,\nsalvo che più feroce par nel volto\".",
+      "parafrasi": "Quello che vuoi vedere è molto più in là, ed è legato e fatto come questo, salvo che nel volto sembra più feroce.»"
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Non fu tremoto già tanto rubesto,\nche scotesse una torre così forte,\ncome Fïalte a scuotersi fu presto.",
+      "parafrasi": "Non ci fu mai un terremoto così violento da scuotere una torre con tanta forza quanto Fialte fu pronto a scuotersi."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "Allor temett’io più che mai la morte,\ne non v’era mestier più che la dotta,\ns’io non avessi viste le ritorte.",
+      "parafrasi": "Allora temetti la morte più che mai, e non sarebbe servito altro che la paura, se non avessi visto le catene."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Noi procedemmo più avante allotta,\ne venimmo ad Anteo, che ben cinque alle,\nsanza la testa, uscia fuor de la grotta.",
+      "parafrasi": "Procedemmo allora più avanti e arrivammo ad Anteo, che usciva dalla cavità ben cinque braccia, senza contare la testa."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "\"O tu che ne la fortunata valle\nche fece Scipïon di gloria reda,\nquand’Anibàl co’ suoi diede le spalle,",
+      "parafrasi": "«O tu che nella valle fortunata, che fece Scipione erede di gloria quando Annibale con i suoi voltò le spalle,"
+    },
+    {
+      "versi": [118, 120],
+      "testo": "recasti già mille leon per preda,\ne che, se fossi stato a l’alta guerra\nde’ tuoi fratelli, ancor par che si creda",
+      "parafrasi": "catturasti un tempo mille leoni, e che, se fossi stato nell'alta guerra dei tuoi fratelli, sembra che si creda ancora"
+    },
+    {
+      "versi": [121, 123],
+      "testo": "ch’avrebber vinto i figli de la terra:\nmettine giù, e non ten vegna schifo,\ndove Cocito la freddura serra.",
+      "parafrasi": "che i figli della terra avrebbero vinto: mettici giù, e non ti dispiaccia, dove il freddo stringe Cocito."
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Non ci fare ire a Tizio né a Tifo:\nquesti può dar di quel che qui si brama;\nperò ti china e non torcer lo grifo.",
+      "parafrasi": "Non farci andare da Tizio né da Tifeo: questo può dare ciò che qui si desidera [la fama]; perciò chinati e non storcere il muso."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Ancor ti può nel mondo render fama,\nch’el vive, e lunga vita ancor aspetta\nse ’nnanzi tempo grazia a sé nol chiama\".",
+      "parafrasi": "Può ancora renderti fama nel mondo, perché è vivo, e si aspetta ancora una lunga vita, se la grazia non lo chiama a sé prima del tempo.»"
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Così disse ’l maestro; e quelli in fretta\nle man distese, e prese ’l duca mio,\nond’Ercule sentì già grande stretta.",
+      "parafrasi": "Così disse il maestro; e quello in fretta tese le mani, quelle di cui Ercole sentì un tempo la grande stretta, e prese la mia guida."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "Virgilio, quando prender si sentio,\ndisse a me: \"Fatti qua, sì ch’io ti prenda\";\npoi fece sì ch’un fascio era elli e io.",
+      "parafrasi": "Virgilio, quando si sentì prendere, mi disse: «Vieni qui, così che ti prenda»; poi fece in modo che lui e io fossimo un solo fascio."
+    },
+    {
+      "versi": [136, 138],
+      "testo": "Qual pare a riguardar la Carisenda\nsotto ’l chinato, quando un nuvol vada\nsovr’essa sì, ched ella incontro penda:",
+      "parafrasi": "Come appare a chi la guarda dal lato inclinato la Garisenda, quando una nuvola le passa sopra in direzione opposta, così che sembra cadere,"
+    },
+    {
+      "versi": [139, 141],
+      "testo": "tal parve Antëo a me che stava a bada\ndi vederlo chinare, e fu tal ora\nch’i’ avrei voluto ir per altra strada.",
+      "parafrasi": "tale mi parve Anteo mentre stavo attento a vederlo chinarsi, e fu un momento in cui avrei voluto andare per un'altra strada."
+    },
+    {
+      "versi": [142, 144],
+      "testo": "Ma lievemente al fondo che divora\nLucifero con Giuda, ci sposò;\nné, sì chinato, lì fece dimora,",
+      "parafrasi": "Ma ci depose delicatamente sul fondo che divora Lucifero con Giuda; e, così chinato, non rimase lì,"
+    },
+    {
+      "versi": [145, 145],
+      "testo": "e come albero in nave si levò.",
+      "parafrasi": "e si rialzò come l'albero di una nave."
+    }
+  ]
+}

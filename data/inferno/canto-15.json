@@ -1,0 +1,267 @@
+{
+  "cantica": "inferno",
+  "canto": 15,
+  "titolo": "Brunetto Latini",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_XV",
+  "numero_versi": 124,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 21],
+      "titolo_scena": "Sull'argine",
+      "sintesi": "I due camminano su uno degli argini di pietra, protetti dal vapore del ruscello, simili alle dighe dei Fiamminghi e dei Padovani. Una schiera di anime li scruta strizzando gli occhi, come il vecchio sarto che infila l'ago.",
+      "luogo_id": "girone-7-3",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": []
+    },
+    {
+      "id": "scena-2",
+      "versi": [22, 54],
+      "titolo_scena": "L'incontro con Brunetto",
+      "sintesi": "Un dannato prende Dante per il lembo della veste: sotto il volto bruciato Dante riconosce il suo maestro, Brunetto Latini. Non potendo fermarsi, Brunetto cammina accanto a Dante, che procede a capo chino in segno di rispetto, e gli chiede chi lo guida.",
+      "luogo_id": "girone-7-3",
+      "personaggi": ["dante", "virgilio", "brunetto-latini"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Brunetto Latini",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/DVinfernoBrunettoLatiniAccostsDante_m.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/DVinfernoBrunettoLatiniAccostsDante_m.jpg/960px-DVinfernoBrunettoLatiniAccostsDante_m.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:DVinfernoBrunettoLatiniAccostsDante_m.jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [55, 99],
+      "titolo_scena": "La profezia di Brunetto",
+      "sintesi": "Brunetto profetizza a Dante un destino glorioso, ma anche l'ostilità dei Fiorentini, gente avara, invidiosa e superba discesa da Fiesole: entrambe le parti lo vorranno, ma non lo avranno. Dante ricorda con affetto la «cara e buona immagine paterna» del maestro, che gli insegnava come l'uomo si rende eterno, e si dice pronto ad affrontare la Fortuna.",
+      "luogo_id": "girone-7-3",
+      "personaggi": ["dante", "brunetto-latini"],
+      "tavole": []
+    },
+    {
+      "id": "scena-4",
+      "versi": [100, 124],
+      "titolo_scena": "I compagni di Brunetto",
+      "sintesi": "I compagni di Brunetto furono tutti chierici e letterati famosi, macchiati dello stesso peccato: tra loro Prisciano, Francesco d'Accorso e il vescovo Andrea dei Mozzi. Vedendo arrivare un'altra schiera, Brunetto raccomanda a Dante il suo Tesoro e corre via veloce, come chi vince il palio a Verona.",
+      "luogo_id": "girone-7-3",
+      "personaggi": ["dante", "brunetto-latini", "prisciano", "francesco-daccorso", "andrea-dei-mozzi"],
+      "tavole": []
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Ora cen porta l’un de’ duri margini;\ne ’l fummo del ruscel di sopra aduggia,\nsì che dal foco salva l’acqua e li argini.",
+      "parafrasi": "Ora ci porta uno dei duri argini; e il vapore del ruscello fa ombra sopra, così che protegge dal fuoco l'acqua e gli argini."
+    },
+    {
+      "versi": [4, 6],
+      "testo": "Quali Fiamminghi tra Guizzante e Bruggia,\ntemendo ’l fiotto che ’nver’ lor s’avventa,\nfanno lo schermo perché ’l mar si fuggia;",
+      "parafrasi": "Come i Fiamminghi tra Wissant e Bruges, temendo la marea che si slancia verso di loro, fanno dighe perché il mare si ritiri;"
+    },
+    {
+      "versi": [7, 9],
+      "testo": "e quali Padoan lungo la Brenta,\nper difender lor ville e lor castelli,\nanzi che Carentana il caldo senta:",
+      "parafrasi": "e come i Padovani lungo il Brenta, per difendere i loro villaggi e i loro castelli prima che la Carinzia senta il caldo [e sciolga le nevi]:"
+    },
+    {
+      "versi": [10, 12],
+      "testo": "a tale imagine eran fatti quelli,\ntutto che né sì alti né sì grossi,\nqual che si fosse, lo maestro félli.",
+      "parafrasi": "a questa somiglianza erano fatti quegli argini, benché il costruttore, chiunque fosse, non li avesse fatti né così alti né così grossi."
+    },
+    {
+      "versi": [13, 15],
+      "testo": "Già eravam da la selva rimossi\ntanto, ch’i’ non avrei visto dov’era,\nperch’io in dietro rivolto mi fossi,",
+      "parafrasi": "Eravamo già tanto lontani dalla selva che non avrei visto dov'era, anche se mi fossi voltato indietro,"
+    },
+    {
+      "versi": [16, 18],
+      "testo": "quando incontrammo d’anime una schiera\nche venian lungo l’argine, e ciascuna\nci riguardava come suol da sera",
+      "parafrasi": "quando incontrammo una schiera di anime che venivano lungo l'argine, e ciascuna ci guardava come di sera si suole"
+    },
+    {
+      "versi": [19, 21],
+      "testo": "guardare uno altro sotto nuova luna;\ne sì ver’ noi aguzzavan le ciglia\ncome ’l vecchio sartor fa ne la cruna.",
+      "parafrasi": "guardare un altro sotto la luna nuova; e aguzzavano così le ciglia verso di noi come fa il vecchio sarto nella cruna dell'ago."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Così adocchiato da cotal famiglia,\nfui conosciuto da un, che mi prese\nper lo lembo e gridò: \"Qual maraviglia!\".",
+      "parafrasi": "Osservato così da quella brigata, fui riconosciuto da uno, che mi prese per il lembo della veste e gridò: «Che meraviglia!»"
+    },
+    {
+      "versi": [25, 27],
+      "testo": "E io, quando ’l suo braccio a me distese,\nficcaï li occhi per lo cotto aspetto,\nsì che ’l viso abbrusciato non difese",
+      "parafrasi": "E io, quando mi tese il braccio, fissai gli occhi nel suo aspetto bruciato, così che il volto bruciacchiato non impedì"
+    },
+    {
+      "versi": [28, 30],
+      "testo": "la conoscenza süa al mio ’ntelletto;\ne chinando la mano a la sua faccia,\nrispuosi: \"Siete voi qui, ser Brunetto?\".",
+      "parafrasi": "al mio intelletto di riconoscerlo; e abbassando la mano verso il suo viso risposi: «Siete qui voi, ser Brunetto?»"
+    },
+    {
+      "versi": [31, 33],
+      "testo": "E quelli: \"O figliuol mio, non ti dispiaccia\nse Brunetto Latino un poco teco\nritorna ’n dietro e lascia andar la traccia\".",
+      "parafrasi": "E lui: «O figlio mio, non ti dispiaccia se Brunetto Latini torna un poco indietro con te e lascia andare la schiera.»"
+    },
+    {
+      "versi": [34, 36],
+      "testo": "I’ dissi lui: \"Quanto posso, ven preco;\ne se volete che con voi m’asseggia,\nfaròl, se piace a costui che vo seco\".",
+      "parafrasi": "Gli dissi: «Ve ne prego quanto posso; e se volete che mi sieda con voi, lo farò, se piace a costui con cui vado.»"
+    },
+    {
+      "versi": [37, 39],
+      "testo": "\"O figliuol\", disse, \"qual di questa greggia\ns’arresta punto, giace poi cent’anni\nsanz’arrostarsi quando ’l foco il feggia.",
+      "parafrasi": "«O figlio», disse, «chiunque di questo gregge si ferma un istante giace poi per cent'anni senza potersi riparare quando il fuoco lo colpisce."
+    },
+    {
+      "versi": [40, 42],
+      "testo": "Però va oltre: i’ ti verrò a’ panni;\ne poi rigiugnerò la mia masnada,\nche va piangendo i suoi etterni danni\".",
+      "parafrasi": "Perciò va' avanti: io ti verrò accanto, ai panni; e poi raggiungerò la mia brigata, che va piangendo le sue pene eterne.»"
+    },
+    {
+      "versi": [43, 45],
+      "testo": "Io non osava scender de la strada\nper andar par di lui; ma ’l capo chino\ntenea com’uom che reverente vada.",
+      "parafrasi": "Io non osavo scendere dall'argine per camminare al suo livello; ma tenevo il capo chino come un uomo che cammina con rispetto."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "El cominciò: \"Qual fortuna o destino\nanzi l’ultimo dì qua giù ti mena?\ne chi è questi che mostra ’l cammino?\".",
+      "parafrasi": "Cominciò: «Quale fortuna o destino ti conduce quaggiù prima dell'ultimo giorno? E chi è questo che ti mostra la strada?»"
+    },
+    {
+      "versi": [49, 51],
+      "testo": "\"Là sù di sopra, in la vita serena\",\nrispuos’io lui, \"mi smarri’ in una valle,\navanti che l’età mia fosse piena.",
+      "parafrasi": "«Lassù, nella vita serena», gli risposi, «mi smarrii in una valle prima che la mia età fosse compiuta."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "Pur ier mattina le volsi le spalle:\nquesti m’apparve, tornand’ïo in quella,\ne reducemi a ca per questo calle\".",
+      "parafrasi": "Solo ieri mattina le voltai le spalle: costui mi apparve mentre ci stavo ricadendo, e mi riconduce a casa per questa via.»"
+    },
+    {
+      "versi": [55, 57],
+      "testo": "Ed elli a me: \"Se tu segui tua stella,\nnon puoi fallire a glorïoso porto,\nse ben m’accorsi ne la vita bella;",
+      "parafrasi": "E lui a me: «Se segui la tua stella, non puoi mancare il porto glorioso, se ho visto bene nella vita bella;"
+    },
+    {
+      "versi": [58, 60],
+      "testo": "e s’io non fossi sì per tempo morto,\nveggendo il cielo a te così benigno,\ndato t’avrei a l’opera conforto.",
+      "parafrasi": "e se non fossi morto così presto, vedendo il cielo a te così favorevole, ti avrei dato conforto nell'opera."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Ma quello ingrato popolo maligno\nche discese di Fiesole ab antico,\ne tiene ancor del monte e del macigno,",
+      "parafrasi": "Ma quel popolo ingrato e maligno che anticamente discese da Fiesole, e conserva ancora la rozzezza del monte e del macigno,"
+    },
+    {
+      "versi": [64, 66],
+      "testo": "ti si farà, per tuo ben far, nimico;\ned è ragion, ché tra li lazzi sorbi\nsi disconvien fruttare al dolce fico.",
+      "parafrasi": "ti diventerà nemico proprio perché agisci bene; ed è naturale, perché tra i sorbi aspri non conviene che maturi il dolce fico."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Vecchia fama nel mondo li chiama orbi;\ngent’è avara, invidiosa e superba:\ndai lor costumi fa che tu ti forbi.",
+      "parafrasi": "Un'antica fama nel mondo li chiama ciechi; è gente avara, invidiosa e superba: fa' in modo di tenerti pulito dai loro costumi."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "La tua fortuna tanto onor ti serba,\nche l’una parte e l’altra avranno fame\ndi te; ma lungi fia dal becco l’erba.",
+      "parafrasi": "La tua sorte ti riserva tanto onore che l'una e l'altra parte avranno fame di te; ma l'erba sarà lontana dal becco."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Faccian le bestie fiesolane strame\ndi lor medesme, e non tocchin la pianta,\ns’alcuna surge ancora in lor letame,",
+      "parafrasi": "Le bestie fiesolane si facciano strame di se stesse e non tocchino la pianta, se ne nasce ancora qualcuna nel loro letame,"
+    },
+    {
+      "versi": [76, 78],
+      "testo": "in cui riviva la sementa santa\ndi que’ Roman che vi rimaser quando\nfu fatto il nido di malizia tanta\".",
+      "parafrasi": "nella quale riviva il seme santo di quei Romani che vi restarono quando fu fatto il nido di tanta malizia.»"
+    },
+    {
+      "versi": [79, 81],
+      "testo": "\"Se fosse tutto pieno il mio dimando\",\nrispuos’io lui, \"voi non sareste ancora\nde l’umana natura posto in bando;",
+      "parafrasi": "«Se la mia preghiera fosse stata esaudita del tutto», gli risposi, «voi non sareste ancora bandito dalla natura umana;"
+    },
+    {
+      "versi": [82, 84],
+      "testo": "ché ’n la mente m’è fitta, e or m’accora,\nla cara e buona imagine paterna\ndi voi quando nel mondo ad ora ad ora",
+      "parafrasi": "perché ho fissa nella mente, e ora mi stringe il cuore, la cara e buona immagine paterna di voi, quando nel mondo di tanto in tanto"
+    },
+    {
+      "versi": [85, 87],
+      "testo": "m’insegnavate come l’uom s’etterna:\ne quant’io l’abbia in grado, mentr’io vivo\nconvien che ne la mia lingua si scerna.",
+      "parafrasi": "mi insegnavate come l'uomo si rende eterno: e quanto io vi sia grato, finché vivo, è giusto che si veda nelle mie parole."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Ciò che narrate di mio corso scrivo,\ne serbolo a chiosar con altro testo\na donna che saprà, s’a lei arrivo.",
+      "parafrasi": "Ciò che raccontate del mio futuro lo scrivo, e lo serbo per farlo spiegare, insieme a un'altra profezia, a una donna [Beatrice] che saprà farlo, se arriverò da lei."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Tanto vogl’io che vi sia manifesto,\npur che mia coscïenza non mi garra,\nch’a la Fortuna, come vuol, son presto.",
+      "parafrasi": "Voglio soltanto che vi sia chiaro questo: purché la mia coscienza non mi rimproveri, sono pronto alla Fortuna, come vuole."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Non è nuova a li orecchi miei tal arra:\nperò giri Fortuna la sua rota\ncome le piace, e ’l villan la sua marra\".",
+      "parafrasi": "Non è nuova alle mie orecchie una tale anticipazione: perciò la Fortuna giri la sua ruota come le piace, e il contadino la sua zappa.»"
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Lo mio maestro allora in su la gota\ndestra si volse in dietro e riguardommi;\npoi disse: \"Bene ascolta chi la nota\".",
+      "parafrasi": "Il mio maestro allora si voltò indietro sulla guancia destra e mi guardò; poi disse: «Ascolta bene chi prende nota.»"
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Né per tanto di men parlando vommi\ncon ser Brunetto, e dimando chi sono\nli suoi compagni più noti e più sommi.",
+      "parafrasi": "Non per questo smetto di parlare con ser Brunetto, e domando chi sono i suoi compagni più noti e più importanti."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Ed elli a me: \"Saper d’alcuno è buono;\nde li altri fia laudabile tacerci,\nché ’l tempo saria corto a tanto suono.",
+      "parafrasi": "E lui a me: «Di qualcuno è bene sapere; degli altri sarà lodevole tacere, perché il tempo sarebbe troppo breve per un discorso così lungo."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "In somma sappi che tutti fur cherci\ne litterati grandi e di gran fama,\nd’un peccato medesmo al mondo lerci.",
+      "parafrasi": "In breve, sappi che furono tutti chierici e grandi letterati di grande fama, sporcati nel mondo da uno stesso peccato."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "Priscian sen va con quella turba grama,\ne Francesco d’Accorso anche; e vedervi,\ns’avessi avuto di tal tigna brama,",
+      "parafrasi": "Prisciano se ne va con quella turba sventurata, e anche Francesco d'Accorso; e avresti potuto vedere, se avessi avuto desiderio di una tale rogna,"
+    },
+    {
+      "versi": [112, 114],
+      "testo": "colui potei che dal servo de’ servi\nfu trasmutato d’Arno in Bacchiglione,\ndove lasciò li mal protesi nervi.",
+      "parafrasi": "colui che dal servo dei servi [il papa] fu trasferito dall'Arno al Bacchiglione, dove lasciò i nervi tesi nel peccato."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "Di più direi; ma ’l venire e ’l sermone\npiù lungo esser non può, però ch’i’ veggio\nlà surger nuovo fummo del sabbione.",
+      "parafrasi": "Direi di più; ma il cammino e il discorso non possono essere più lunghi, perché vedo laggiù sollevarsi dal sabbione nuovo fumo."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Gente vien con la quale esser non deggio.\nSieti raccomandato il mio Tesoro,\nnel qual io vivo ancora, e più non cheggio\".",
+      "parafrasi": "Arriva gente con la quale non devo stare. Ti sia raccomandato il mio Tesoro, nel quale vivo ancora, e non chiedo altro.»"
+    },
+    {
+      "versi": [121, 123],
+      "testo": "Poi si rivolse, e parve di coloro\nche corrono a Verona il drappo verde\nper la campagna; e parve di costoro",
+      "parafrasi": "Poi si voltò, e sembrò uno di quelli che a Verona corrono per il drappo verde nella campagna; e di costoro sembrò"
+    },
+    {
+      "versi": [124, 124],
+      "testo": "quelli che vince, non colui che perde.",
+      "parafrasi": "quello che vince, non quello che perde."
+    }
+  ]
+}

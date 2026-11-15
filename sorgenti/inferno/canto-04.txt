@@ -1,0 +1,508 @@
+# Inferno, canto IV
+titolo: Il Limbo
+
+## scena-1 | cerchio-1 | Il risveglio sull'orlo dell'abisso
+personaggi: dante, virgilio
+sintesi: Un tuono sveglia Dante: è sull'orlo della valle dell'abisso, oscura e piena di lamenti. Virgilio è pallido, ma per pietà, non per paura; entrano nel primo cerchio.
+
+1
+Ruppemi l’alto sonno ne la testa
+un greve truono, sì ch’io mi riscossi
+come persona ch’è per forza desta;
+> Un tuono cupo mi ruppe il sonno profondo nella testa, così che mi riscossi come una persona svegliata a forza;
+
+4
+e l’occhio riposato intorno mossi,
+dritto levato, e fiso riguardai
+per conoscer lo loco dov’io fossi.
+> e, alzatomi in piedi, volsi intorno l'occhio riposato e guardai fisso per capire in che luogo fossi.
+
+7
+Vero è che ’n su la proda mi trovai
+de la valle d’abisso dolorosa
+che ’ntrono accoglie d’infiniti guai.
+> È vero che mi trovai sull'orlo della valle dolorosa dell'abisso, che raccoglie il fragore di infiniti lamenti.
+
+10
+Oscura e profonda era e nebulosa
+tanto che, per ficcar lo viso a fondo,
+io non vi discernea alcuna cosa.
+> Era scura, profonda e nebbiosa, tanto che, per quanto spingessi lo sguardo verso il fondo, non vi distinguevo nulla.
+
+13
+"Or discendiam qua giù nel cieco mondo",
+cominciò il poeta tutto smorto.
+"Io sarò primo, e tu sarai secondo".
+> «Ora scendiamo quaggiù nel mondo cieco», cominciò il poeta, tutto pallido. «Io sarò il primo, e tu sarai il secondo».
+
+16
+E io, che del color mi fui accorto,
+dissi: "Come verrò, se tu paventi
+che suoli al mio dubbiare esser conforto?".
+> E io, che mi ero accorto del suo colore, dissi: «Come verrò, se hai paura tu, che di solito sei il conforto dei miei dubbi?».
+
+19
+Ed elli a me: "L’angoscia de le genti
+che son qua giù, nel viso mi dipigne
+quella pietà che tu per tema senti.
+> Ed egli a me: «L'angoscia delle genti che sono quaggiù mi dipinge sul viso quella pietà che tu prendi per paura.
+
+22
+Andiam, ché la via lunga ne sospigne".
+Così si mise e così mi fé intrare
+nel primo cerchio che l’abisso cigne.
+> Andiamo, perché la lunga via ci spinge». Così si avviò e così mi fece entrare nel primo cerchio che cinge l'abisso.
+
+## scena-2 | cerchio-1 | Gli spiriti del Limbo
+personaggi: dante, virgilio, cristo, adamo, abele, noe, mose, abramo, davide, giacobbe, rachele
+tavola: dore | Il Limbo: gli spiriti senza battesimo | File:Gustave Doré - Dante Alighieri - Inferno - Plate 11 (Canto IV - Limbo, the Viruous Pagans).jpg
+sintesi: Qui non si piange: si sospira. Sono bambini, donne e uomini senza battesimo o vissuti prima di Cristo, e Virgilio è tra loro: vivono nel desiderio senza speranza. Solo una volta un «possente» scese a liberare i patriarchi.
+
+25
+Quivi, secondo che per ascoltare,
+non avea pianto mai che di sospiri
+che l’aura etterna facevan tremare;
+> Qui, per quello che si poteva udire, non c'era pianto ma soltanto sospiri, che facevano tremare l'aria eterna;
+
+28
+ciò avvenia di duol sanza martìri,
+ch’avean le turbe, ch’eran molte e grandi,
+d’infanti e di femmine e di viri.
+> ciò avveniva per un dolore senza tormenti, che provavano le folle, numerose e grandi, di bambini, di donne e di uomini.
+
+31
+Lo buon maestro a me: "Tu non dimandi
+che spiriti son questi che tu vedi?
+Or vo’ che sappi, innanzi che più andi,
+> Il buon maestro a me: «Non chiedi che spiriti sono questi che vedi? Ora voglio che tu sappia, prima di andare oltre,
+
+34
+ch’ei non peccaro; e s’elli hanno mercedi,
+non basta, perché non ebber battesmo,
+ch’è porta de la fede che tu credi;
+> che essi non peccarono; e se hanno dei meriti, non basta, perché non ebbero il battesimo, che è la porta della fede in cui tu credi;
+
+37
+e s’e’ furon dinanzi al cristianesmo,
+non adorar debitamente a Dio:
+e di questi cotai son io medesmo.
+> e se vissero prima del cristianesimo, non adorarono Dio nel modo dovuto: e tra questi sono io stesso.
+
+40
+Per tai difetti, non per altro rio,
+semo perduti, e sol di tanto offesi
+che sanza speme vivemo in disio".
+> Per queste mancanze, non per altra colpa, siamo perduti, e la nostra sola pena è che viviamo nel desiderio senza speranza».
+
+43
+Gran duol mi prese al cor quando lo ’ntesi,
+però che gente di molto valore
+conobbi che ’n quel limbo eran sospesi.
+> Un grande dolore mi prese il cuore quando lo udii, perché capii che in quel limbo erano sospese persone di grande valore.
+
+46
+"Dimmi, maestro mio, dimmi, segnore",
+comincia’ io per volere esser certo
+di quella fede che vince ogne errore:
+> «Dimmi, maestro mio, dimmi, signore», cominciai, per essere certo di quella fede che vince ogni errore:
+
+49
+"uscicci mai alcuno, o per suo merto
+o per altrui, che poi fosse beato?".
+E quei che ’ntese il mio parlar coverto,
+> «uscì mai qualcuno di qui, per merito suo o di altri, e poi fu beato?». Ed egli, che capì il mio parlare velato,
+
+52
+rispuose: "Io era nuovo in questo stato,
+quando ci vidi venire un possente,
+con segno di vittoria coronato.
+> rispose: «Ero da poco in questa condizione, quando vidi venire qui un potente, coronato con il segno della vittoria.
+
+55
+Trasseci l’ombra del primo parente,
+d’Abèl suo figlio e quella di Noè,
+di Moïsè legista e ubidente;
+> Ne trasse fuori l'ombra del primo padre, di Abele suo figlio e quella di Noè, di Mosè legislatore e obbediente;
+
+58
+Abraàm patrïarca e Davìd re,
+Israèl con lo padre e co’ suoi nati
+e con Rachele, per cui tanto fé,
+> il patriarca Abramo e il re Davide, Israele con suo padre e con i suoi figli, e con Rachele, per la quale fece tanto,
+
+61
+e altri molti, e feceli beati.
+E vo’ che sappi che, dinanzi ad essi,
+spiriti umani non eran salvati".
+> e molti altri, e li fece beati. E voglio che tu sappia che, prima di loro, nessuno spirito umano era stato salvato».
+
+64
+Non lasciavam l’andar perch’ei dicessi,
+ma passavam la selva tuttavia,
+la selva, dico, di spiriti spessi.
+> Non smettevamo di camminare mentre parlava, ma continuavamo ad attraversare la selva: la selva, dico, degli spiriti fitti.
+
+## scena-3 | cerchio-1 | I quattro grandi poeti
+personaggi: dante, virgilio, omero, orazio, ovidio, lucano
+tavola: dore | Dante accolto tra i grandi poeti | File:Gustave Doré - Dante Alighieri - Inferno - Plate 12 (Canto IV - Limbo, Dante is accepted as an equal by the great Greek and Roman poets).jpg
+sintesi: Una luce vince le tenebre: una voce saluta il ritorno di Virgilio e vengono incontro Omero, Orazio, Ovidio e Lucano. Accolgono Dante tra loro: «sesto tra cotanto senno».
+
+67
+Non era lunga ancor la nostra via
+di qua dal sonno, quand’io vidi un foco
+ch’emisperio di tenebre vincia.
+> Non avevamo ancora fatto molta strada dal luogo del mio sonno, quando vidi un fuoco che vinceva un emisfero di tenebre.
+
+70
+Di lungi n’eravamo ancora un poco,
+ma non sì ch’io non discernessi in parte
+ch’orrevol gente possedea quel loco.
+> Ne eravamo ancora un po' lontani, ma non tanto che io non distinguessi in parte che quel luogo era abitato da gente degna d'onore.
+
+73
+"O tu ch’onori scïenzïa e arte,
+questi chi son c’ hanno cotanta onranza,
+che dal modo de li altri li diparte?".
+> «O tu che onori la scienza e l'arte, chi sono questi che hanno tanto onore da essere distinti dalla condizione degli altri?».
+
+76
+E quelli a me: "L’onrata nominanza
+che di lor suona sù ne la tua vita,
+grazïa acquista in ciel che sì li avanza".
+> E quello a me: «La fama onorata che di loro risuona lassù nella tua vita ottiene in cielo una grazia che li privilegia così».
+
+79
+Intanto voce fu per me udita:
+"Onorate l’altissimo poeta;
+l’ombra sua torna, ch’era dipartita".
+> Intanto udii una voce: «Onorate l'altissimo poeta; la sua ombra, che era partita, ritorna».
+
+82
+Poi che la voce fu restata e queta,
+vidi quattro grand’ombre a noi venire:
+sembianz’avevan né trista né lieta.
+> Dopo che la voce si fu fermata e tacque, vidi venire verso di noi quattro grandi ombre: non avevano aspetto né triste né lieto.
+
+85
+Lo buon maestro cominciò a dire:
+"Mira colui con quella spada in mano,
+che vien dinanzi ai tre sì come sire:
+> Il buon maestro cominciò a dire: «Guarda quello con la spada in mano, che viene davanti agli altri tre come loro signore:
+
+88
+quelli è Omero poeta sovrano;
+l’altro è Orazio satiro che vene;
+Ovidio è ’l terzo, e l’ultimo Lucano.
+> quello è Omero, poeta sovrano; l'altro che viene è Orazio satirico; il terzo è Ovidio, e l'ultimo Lucano.
+
+91
+Però che ciascun meco si convene
+nel nome che sonò la voce sola,
+fannomi onore, e di ciò fanno bene".
+> Poiché ciascuno ha in comune con me il nome che quella voce ha pronunciato da sola, mi fanno onore, e in questo fanno bene».
+
+94
+Così vid’i’ adunar la bella scola
+di quel segnor de l’altissimo canto
+che sovra li altri com’aquila vola.
+> Così vidi riunirsi la bella scuola di quel signore dell'altissimo canto, che vola sopra gli altri come un'aquila.
+
+97
+Da ch’ebber ragionato insieme alquanto,
+volsersi a me con salutevol cenno,
+e ’l mio maestro sorrise di tanto;
+> Dopo aver parlato un po' tra loro, si volsero a me con un cenno di saluto, e il mio maestro ne sorrise;
+
+100
+e più d’onore ancora assai mi fenno,
+ch’e’ sì mi fecer de la loro schiera,
+sì ch’io fui sesto tra cotanto senno.
+> e mi fecero un onore ancora più grande, perché mi accolsero nella loro schiera, così che fui sesto tra tanta sapienza.
+
+103
+Così andammo infino a la lumera,
+parlando cose che ’l tacere è bello,
+sì com’era ’l parlar colà dov’era.
+> Così andammo fino alla luce, parlando di cose che è bello tacere, così come era bello dirle là dove ero.
+
+## scena-4 | nobile-castello | Il nobile castello e gli spiriti magni
+personaggi: dante, virgilio, elettra, ettore, enea, cesare, camilla, pentesilea, latino, lavinia, bruto, lucrezia, giulia, marzia, cornelia, saladino
+sintesi: Oltre sette mura e un fiumicello si apre un prato verde: da un'altura Dante vede gli eroi e le eroine di Troia e di Roma, e in disparte il Saladino.
+
+106
+Venimmo al piè d’un nobile castello,
+sette volte cerchiato d’alte mura,
+difeso intorno d’un bel fiumicello.
+> Giungemmo ai piedi di un nobile castello, cerchiato sette volte da alte mura e difeso tutt'intorno da un bel fiumicello.
+
+109
+Questo passammo come terra dura;
+per sette porte intrai con questi savi:
+giugnemmo in prato di fresca verdura.
+> Lo passammo come fosse terra asciutta; con questi sapienti entrai per sette porte: giungemmo in un prato di erba fresca.
+
+112
+Genti v’eran con occhi tardi e gravi,
+di grande autorità ne’ lor sembianti:
+parlavan rado, con voci soavi.
+> Vi erano genti dagli occhi lenti e gravi, di grande autorità nell'aspetto: parlavano di rado, con voci soavi.
+
+115
+Traemmoci così da l’un de’ canti,
+in loco aperto, luminoso e alto,
+sì che veder si potien tutti quanti.
+> Ci ritirammo così da uno dei lati, in un luogo aperto, luminoso e alto, da cui si potevano vedere tutti.
+
+118
+Colà diritto, sovra ’l verde smalto,
+mi fuor mostrati li spiriti magni,
+che del vedere in me stesso m’essalto.
+> Lì di fronte, sopra il verde smalto, mi furono mostrati gli spiriti magni, e di averli visti mi esalto ancora dentro di me.
+
+121
+I’ vidi Eletra con molti compagni,
+tra ’ quai conobbi Ettòr ed Enea,
+Cesare armato con li occhi grifagni.
+> Vidi Elettra con molti compagni, tra i quali riconobbi Ettore ed Enea, e Cesare armato, con gli occhi da rapace.
+
+124
+Vidi Cammilla e la Pantasilea;
+da l’altra parte vidi ’l re Latino
+che con Lavina sua figlia sedea.
+> Vidi Camilla e Pentesilea; dall'altra parte vidi il re Latino, che sedeva con sua figlia Lavinia.
+
+127
+Vidi quel Bruto che cacciò Tarquino,
+Lucrezia, Iulia, Marzïa e Corniglia;
+e solo, in parte, vidi ’l Saladino.
+> Vidi quel Bruto che cacciò Tarquinio, Lucrezia, Giulia, Marzia e Cornelia; e solo, in disparte, vidi il Saladino.
+
+## scena-5 | nobile-castello | I filosofi; la compagnia si divide
+personaggi: dante, virgilio, aristotele, socrate, platone, democrito, diogene, anassagora, talete, empedocle, eraclito, zenone, dioscoride, orfeo, cicerone, lino, seneca, euclide, tolomeo, ippocrate, avicenna, galeno, averroe
+sintesi: Più in alto siede Aristotele, «il maestro di color che sanno», tra filosofi, scienziati e medici antichi e arabi. Poi i sei si separano e Virgilio conduce Dante dove nulla riluce.
+
+130
+Poi ch’innalzai un poco più le ciglia,
+vidi ’l maestro di color che sanno
+seder tra filosofica famiglia.
+> Quando alzai un po' di più lo sguardo, vidi il maestro di coloro che sanno [Aristotele] sedere in mezzo a una famiglia di filosofi.
+
+133
+Tutti lo miran, tutti onor li fanno:
+quivi vid’ïo Socrate e Platone,
+che ’nnanzi a li altri più presso li stanno;
+> Tutti lo guardano, tutti gli rendono onore: lì vidi Socrate e Platone, che gli stanno più vicino degli altri;
+
+136
+Democrito che ’l mondo a caso pone,
+Dïogenès, Anassagora e Tale,
+Empedoclès, Eraclito e Zenone;
+> Democrito, che attribuisce il mondo al caso, Diogene, Anassagora e Talete, Empedocle, Eraclito e Zenone;
+
+139
+e vidi il buono accoglitor del quale,
+Dïascoride dico; e vidi Orfeo,
+Tulïo e Lino e Seneca morale;
+> e vidi il valente raccoglitore delle qualità delle erbe, cioè Dioscoride; e vidi Orfeo, Tullio [Cicerone], Lino e Seneca morale;
+
+142
+Euclide geomètra e Tolomeo,
+Ipocràte, Avicenna e Galïeno,
+Averoìs che ’l gran comento feo.
+> Euclide il geometra e Tolomeo, Ippocrate, Avicenna e Galeno, e Averroè, che scrisse il grande commento.
+
+145
+Io non posso ritrar di tutti a pieno,
+però che sì mi caccia il lungo tema,
+che molte volte al fatto il dir vien meno.
+> Non posso riferire di tutti in modo completo, perché il lungo argomento mi incalza tanto che molte volte le parole restano indietro rispetto ai fatti.
+
+148
+La sesta compagnia in due si scema:
+per altra via mi mena il savio duca,
+fuor de la queta, ne l’aura che trema.
+> La compagnia dei sei si riduce a due: la saggia guida mi conduce per un'altra via, fuori dall'aria quieta, nell'aria che trema.
+
+151
+E vegno in parte ove non è che luca.
+> E giungo in un luogo dove non c'è nulla che dia luce.
+
+## personaggio | cristo | Cristo (il «possente»)
+dibattuto: no
+chi_era: Il potente «con segno di vittoria coronato» che Virgilio vide scendere nel Limbo: è Cristo, che dopo la morte liberò le anime dei giusti dell'Antico Testamento. Nell'Inferno non è mai chiamato per nome.
+
+## personaggio | adamo | Adamo
+dibattuto: no
+chi_era: Il «primo parente»: il primo uomo secondo la Genesi.
+
+## personaggio | abele | Abele
+dibattuto: no
+chi_era: Secondo figlio di Adamo ed Eva, ucciso dal fratello Caino.
+
+## personaggio | noe | Noè
+dibattuto: no
+chi_era: Il patriarca biblico che si salvò dal diluvio con l'arca.
+
+## personaggio | mose | Mosè
+dibattuto: no
+chi_era: Guidò il popolo d'Israele fuori dall'Egitto e ricevette la Legge: per questo Dante lo chiama «legista e ubidente».
+
+## personaggio | abramo | Abramo
+dibattuto: no
+chi_era: Il patriarca capostipite del popolo d'Israele.
+
+## personaggio | davide | Davide
+dibattuto: no
+chi_era: Re d'Israele, a cui la tradizione attribuisce i Salmi.
+
+## personaggio | giacobbe | Giacobbe (Israele)
+dibattuto: no
+chi_era: Patriarca biblico, detto Israele; è ricordato «con lo padre» Isacco e con i suoi dodici figli, e con Rachele, per la quale servì a lungo Labano.
+
+## personaggio | omero | Omero
+dibattuto: no
+chi_era: Il poeta greco a cui la tradizione attribuisce l'Iliade e l'Odissea. Dante, che non leggeva il greco, lo conosceva di fama: lo chiama «poeta sovrano» e lo raffigura con la spada, segno della poesia epica.
+
+## personaggio | orazio | Orazio
+dibattuto: no
+chi_era: Quinto Orazio Flacco (65–8 a.C.), poeta latino. «Satiro» perché nel Medioevo era letto soprattutto come autore delle Satire e delle Epistole.
+
+## personaggio | ovidio | Ovidio
+dibattuto: no
+chi_era: Publio Ovidio Nasone (43 a.C. – 17 o 18 d.C.), poeta latino, autore delle Metamorfosi, grande fonte di miti per Dante.
+
+## personaggio | lucano | Lucano
+dibattuto: no
+chi_era: Marco Anneo Lucano (39–65 d.C.), poeta latino, autore della Farsaglia, il poema sulla guerra civile tra Cesare e Pompeo.
+
+## personaggio | elettra | Elettra
+dibattuto: no
+chi_era: Figlia di Atlante e madre di Dardano, capostipite dei Troiani: per questo è insieme a Ettore, Enea e Cesare. Non va confusa con l'Elettra figlia di Agamennone.
+
+## personaggio | ettore | Ettore
+dibattuto: no
+chi_era: Figlio di Priamo, il più forte difensore di Troia, ucciso da Achille.
+
+## personaggio | cesare | Cesare
+dibattuto: no
+chi_era: Gaio Giulio Cesare (100–44 a.C.), generale e dittatore romano; per Dante è il fondatore dell'Impero.
+
+## personaggio | pentesilea | Pentesilea
+dibattuto: no
+chi_era: Regina delle Amazzoni, accorsa in aiuto di Troia e uccisa da Achille.
+
+## personaggio | latino | Il re Latino
+dibattuto: no
+chi_era: Re del Lazio nell'Eneide: accoglie Enea e gli promette la figlia Lavinia.
+
+## personaggio | lavinia | Lavinia
+dibattuto: no
+chi_era: Figlia del re Latino e sposa di Enea: da loro discende, secondo il mito, la stirpe di Roma.
+
+## personaggio | bruto | Bruto
+dibattuto: no
+chi_era: Lucio Giunio Bruto, che secondo la tradizione cacciò l'ultimo re Tarquinio il Superbo e fu tra i primi consoli della repubblica. Non è il Bruto che uccise Cesare.
+
+## personaggio | lucrezia | Lucrezia
+dibattuto: no
+chi_era: Matrona romana, moglie di Collatino: violentata dal figlio del re Tarquinio, si uccise; il fatto portò alla cacciata dei re.
+
+## personaggio | giulia | Giulia
+dibattuto: no
+chi_era: Figlia di Giulio Cesare e moglie di Pompeo.
+
+## personaggio | marzia | Marzia
+dibattuto: no
+chi_era: Moglie di Catone Uticense, ricordata da Lucano; Dante ne riparla nel Purgatorio.
+
+## personaggio | cornelia | Cornelia
+dibattuto: no
+chi_era: Per lo più identificata con la figlia di Scipione Africano e madre dei Gracchi, modello di virtù romana.
+
+## personaggio | saladino | Il Saladino
+dibattuto: no
+chi_era: Salah ad-Din (1138–1193), sultano d'Egitto e di Siria, che nel 1187 riconquistò Gerusalemme. Nel Medioevo cristiano era ammirato per la sua liberalità: sta «solo, in parte» perché non appartiene al mondo antico.
+
+## personaggio | aristotele | Aristotele
+dibattuto: no
+chi_era: «Il maestro di color che sanno»: Dante non lo nomina, ma è il filosofo greco Aristotele (384–322 a.C.), la massima autorità filosofica del suo tempo.
+
+## personaggio | socrate | Socrate
+dibattuto: no
+chi_era: Filosofo ateniese (469–399 a.C.), maestro di Platone.
+
+## personaggio | platone | Platone
+dibattuto: no
+chi_era: Filosofo ateniese (427 ca. – 347 a.C.), allievo di Socrate e maestro di Aristotele.
+
+## personaggio | democrito | Democrito
+dibattuto: no
+chi_era: Filosofo greco (V–IV secolo a.C.): spiegava il mondo con l'incontro casuale degli atomi, da cui «che 'l mondo a caso pone».
+
+## personaggio | diogene | Diogene
+dibattuto: sì
+chi_era: Probabilmente Diogene di Sinope, il Cinico (IV secolo a.C.); alcuni pensano a Diogene di Apollonia.
+
+## personaggio | anassagora | Anassagora
+dibattuto: no
+chi_era: Filosofo greco (V secolo a.C.), maestro di Pericle.
+
+## personaggio | talete | Talete
+dibattuto: no
+chi_era: Talete di Mileto (VII–VI secolo a.C.), considerato il primo filosofo greco e uno dei sette sapienti.
+
+## personaggio | empedocle | Empedocle
+dibattuto: no
+chi_era: Filosofo di Agrigento (V secolo a.C.), autore della teoria dei quattro elementi.
+
+## personaggio | eraclito | Eraclito
+dibattuto: no
+chi_era: Filosofo di Efeso (VI–V secolo a.C.).
+
+## personaggio | zenone | Zenone
+dibattuto: sì
+chi_era: Non è certo quale: Zenone di Cizio, fondatore dello stoicismo, oppure Zenone di Elea, allievo di Parmenide.
+
+## personaggio | dioscoride | Dioscoride
+dibattuto: no
+chi_era: Medico greco del I secolo d.C., autore di un trattato sulle piante medicinali: «accoglitor del quale» significa raccoglitore delle qualità delle erbe.
+
+## personaggio | orfeo | Orfeo
+dibattuto: no
+chi_era: Mitico poeta e cantore greco, che con il canto ammansiva le fiere.
+
+## personaggio | cicerone | Cicerone (Tullio)
+dibattuto: no
+chi_era: Marco Tullio Cicerone (106–43 a.C.), oratore e scrittore romano; Dante lo leggeva come filosofo.
+
+## personaggio | lino | Lino
+dibattuto: sì
+chi_era: Mitico poeta greco, accostato a Orfeo. Alcune edizioni antiche leggono qui «Livio», lo storico romano.
+
+## personaggio | seneca | Seneca
+dibattuto: no
+chi_era: Lucio Anneo Seneca (4 a.C. ca. – 65 d.C.), filosofo stoico. «Morale» perché nel Medioevo si distingueva il filosofo dall'autore delle tragedie, creduto un'altra persona.
+
+## personaggio | euclide | Euclide
+dibattuto: no
+chi_era: Matematico greco attivo ad Alessandria intorno al 300 a.C., autore degli Elementi.
+
+## personaggio | tolomeo | Tolomeo
+dibattuto: no
+chi_era: Claudio Tolomeo (II secolo d.C.), astronomo e geografo di Alessandria: sul suo sistema, con la Terra al centro, è costruito il cosmo di Dante.
+
+## personaggio | ippocrate | Ippocrate
+dibattuto: no
+chi_era: Medico greco di Cos (V–IV secolo a.C.), considerato il fondatore della medicina.
+
+## personaggio | avicenna | Avicenna
+dibattuto: no
+chi_era: Ibn Sina (980–1037), medico e filosofo persiano; il suo Canone fu il manuale di medicina delle università medievali.
+
+## personaggio | galeno | Galeno
+dibattuto: no
+chi_era: Medico greco di Pergamo (II secolo d.C.), attivo a Roma.
+
+## personaggio | averroe | Averroè
+dibattuto: no
+chi_era: Ibn Rushd (1126–1198), filosofo arabo di Cordova, autore del «gran comento» alle opere di Aristotele.

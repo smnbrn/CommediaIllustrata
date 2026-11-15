@@ -1,0 +1,297 @@
+{
+  "cantica": "inferno",
+  "canto": 8,
+  "titolo": "Flegiàs, Filippo Argenti, le porte di Dite",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_VIII",
+  "numero_versi": 130,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 30],
+      "titolo_scena": "I segnali e la barca di Flegiàs",
+      "sintesi": "Dalla torre partono segnali di fuoco, a cui risponde una fiamma lontana. Una barchetta guidata da Flegiàs arriva veloce sull'acqua: il traghettatore crede di aver preso un dannato, ma Virgilio lo disillude. I due salgono, e la barca affonda solo sotto il peso di Dante.",
+      "luogo_id": "cerchio-5",
+      "personaggi": ["dante", "virgilio", "flegias"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "La barca di Flegiàs",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/DVinfernoFerryAcrossTheStyx_m.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/DVinfernoFerryAcrossTheStyx_m.jpg/960px-DVinfernoFerryAcrossTheStyx_m.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:DVinfernoFerryAcrossTheStyx_m.jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [31, 63],
+      "titolo_scena": "Filippo Argenti",
+      "sintesi": "Durante la traversata un dannato pieno di fango si alza davanti a Dante: è il fiorentino Filippo Argenti. Dante lo respinge con durezza, Virgilio lo ricaccia nella palude e abbraccia Dante per il suo sdegno; poi gli altri iracondi si avventano su Filippo, che si morde da sé.",
+      "luogo_id": "cerchio-5",
+      "personaggi": ["dante", "virgilio", "filippo-argenti"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Filippo Argenti",
+          "url": "img/dore/inferno-08-filippo-argenti-960.jpg",
+          "miniatura": "img/dore/inferno-08-filippo-argenti-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._1,_Die_Holle_1870_(148618452).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [64, 81],
+      "titolo_scena": "La città di Dite",
+      "sintesi": "Un lamento arriva da lontano. Appare la città di Dite, con le moschee rosse per il fuoco eterno e le mura che sembrano di ferro. Dopo un lungo giro, Flegiàs fa scendere i due davanti all'ingresso.",
+      "luogo_id": "citta-di-dite",
+      "personaggi": ["dante", "virgilio", "flegias"],
+      "tavole": []
+    },
+    {
+      "id": "scena-4",
+      "versi": [82, 130],
+      "titolo_scena": "I diavoli chiudono le porte",
+      "sintesi": "Sulle porte più di mille diavoli caduti dal cielo protestano per il vivo. Virgilio va a parlare con loro da solo, mentre Dante, abbandonato, è preso dal terrore; ma i diavoli gli chiudono le porte in faccia. Virgilio torna a capo chino, poi rassicura Dante: qualcuno sta già scendendo ad aprire.",
+      "luogo_id": "citta-di-dite",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Le porte di Dite",
+          "url": "img/dore/inferno-08-porte-di-dite-960.jpg",
+          "miniatura": "img/dore/inferno-08-porte-di-dite-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._1,_Die_Holle_1870_(148618466).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Io dico, seguitando, ch’assai prima\nche noi fossimo al piè de l’alta torre,\nli occhi nostri n’andar suso a la cima",
+      "parafrasi": "Continuando, dico che molto prima che arrivassimo ai piedi dell'alta torre, i nostri occhi andarono su alla cima"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "per due fiammette che i vedemmo porre,\ne un’altra da lungi render cenno,\ntanto ch’a pena il potea l’occhio tòrre.",
+      "parafrasi": "per due fiammelle che vedemmo mettere lassù, e un'altra che da lontano rispondeva al segnale, tanto lontana che a fatica l'occhio la distingueva."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "E io mi volsi al mar di tutto ’l senno;\ndissi: \"Questo che dice? e che risponde\nquell’altro foco? e chi son quei che ’l fenno?\".",
+      "parafrasi": "E io mi volsi al mare di ogni sapienza [Virgilio] e dissi: «Questo che cosa dice? E che cosa risponde quell'altro fuoco? E chi sono quelli che l'hanno acceso?»"
+    },
+    {
+      "versi": [10, 12],
+      "testo": "Ed elli a me: \"Su per le sucide onde\ngià scorgere puoi quello che s’aspetta,\nse ’l fummo del pantan nol ti nasconde\".",
+      "parafrasi": "E lui a me: «Sopra le onde sporche puoi già scorgere quello che si aspetta, se il fumo del pantano non te lo nasconde.»"
+    },
+    {
+      "versi": [13, 15],
+      "testo": "Corda non pinse mai da sé saetta\nche sì corresse via per l’aere snella,\ncom’io vidi una nave piccioletta",
+      "parafrasi": "Mai una corda d'arco spinse una freccia che corresse così veloce attraverso l'aria come vidi una piccola barca"
+    },
+    {
+      "versi": [16, 18],
+      "testo": "venir per l’acqua verso noi in quella,\nsotto ’l governo d’un sol galeoto,\nche gridava: \"Or se’ giunta, anima fella!\".",
+      "parafrasi": "venire in quel momento sull'acqua verso di noi, governata da un solo rematore, che gridava: «Ora sei arrivata, anima malvagia!»"
+    },
+    {
+      "versi": [19, 21],
+      "testo": "\"Flegïàs, Flegïàs, tu gridi a vòto\",\ndisse lo mio segnore, \"a questa volta:\npiù non ci avrai che sol passando il loto\".",
+      "parafrasi": "«Flegiàs, Flegiàs, questa volta gridi a vuoto», disse il mio signore: «ci avrai solo per il tempo di attraversare il pantano.»"
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Qual è colui che grande inganno ascolta\nche li sia fatto, e poi se ne rammarca,\nfecesi Flegïàs ne l’ira accolta.",
+      "parafrasi": "Come chi sente di aver subito un grande inganno e poi se ne rammarica, così divenne Flegiàs, trattenendo la sua ira."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Lo duca mio discese ne la barca,\ne poi mi fece intrare appresso lui;\ne sol quand’io fui dentro parve carca.",
+      "parafrasi": "La mia guida scese nella barca e poi mi fece entrare dopo di lui; e solo quando fui dentro sembrò carica."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Tosto che ’l duca e io nel legno fui,\nsegando se ne va l’antica prora\nde l’acqua più che non suol con altrui.",
+      "parafrasi": "Appena la guida e io fummo sulla barca, l'antica prua se ne va solcando l'acqua più a fondo di quanto faccia di solito con gli altri."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "Mentre noi corravam la morta gora,\ndinanzi mi si fece un pien di fango,\ne disse: \"Chi se’ tu che vieni anzi ora?\".",
+      "parafrasi": "Mentre correvamo sulla palude morta, mi si parò davanti uno pieno di fango e disse: «Chi sei tu che vieni prima del tempo?»"
+    },
+    {
+      "versi": [34, 36],
+      "testo": "E io a lui: \"S’i’ vegno, non rimango;\nma tu chi se’, che sì se’ fatto brutto?\".\nRispuose: \"Vedi che son un che piango\".",
+      "parafrasi": "E io a lui: «Se vengo, non rimango; ma tu chi sei, che sei diventato così brutto?» Rispose: «Vedi che sono uno che piange.»"
+    },
+    {
+      "versi": [37, 39],
+      "testo": "E io a lui: \"Con piangere e con lutto,\nspirito maladetto, ti rimani;\nch’i’ ti conosco, ancor sie lordo tutto\".",
+      "parafrasi": "E io a lui: «Resta pure nel pianto e nel lutto, spirito maledetto; perché ti riconosco, anche se sei tutto sporco.»"
+    },
+    {
+      "versi": [40, 42],
+      "testo": "Allor distese al legno ambo le mani;\nper che ’l maestro accorto lo sospinse,\ndicendo: \"Via costà con li altri cani!\".",
+      "parafrasi": "Allora tese verso la barca entrambe le mani; per cui il maestro, accorto, lo respinse dicendo: «Via di là, con gli altri cani!»"
+    },
+    {
+      "versi": [43, 45],
+      "testo": "Lo collo poi con le braccia mi cinse;\nbasciommi ’l volto e disse: \"Alma sdegnosa,\nbenedetta colei che ’n te s’incinse!",
+      "parafrasi": "Poi mi cinse il collo con le braccia, mi baciò il volto e disse: «Anima sdegnosa, benedetta colei che ti portò in grembo!"
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Quei fu al mondo persona orgogliosa;\nbontà non è che sua memoria fregi:\ncosì s’è l’ombra sua qui furïosa.",
+      "parafrasi": "Quello nel mondo fu una persona superba; non c'è bontà che adorni il suo ricordo: per questo la sua ombra qui è furiosa."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "Quanti si tegnon or là sù gran regi\nche qui staranno come porci in brago,\ndi sé lasciando orribili dispregi!\".",
+      "parafrasi": "Quanti lassù si credono ora grandi re che qui staranno come porci nel fango, lasciando di sé un ricordo di orribile disprezzo!»"
+    },
+    {
+      "versi": [52, 54],
+      "testo": "E io: \"Maestro, molto sarei vago\ndi vederlo attuffare in questa broda\nprima che noi uscissimo del lago\".",
+      "parafrasi": "E io: «Maestro, avrei molto desiderio di vederlo tuffare in questa broda prima che uscissimo dal lago.»"
+    },
+    {
+      "versi": [55, 57],
+      "testo": "Ed elli a me: \"Avante che la proda\nti si lasci veder, tu sarai sazio:\ndi tal disïo convien che tu goda\".",
+      "parafrasi": "E lui a me: «Prima che ti si mostri la riva sarai soddisfatto: è giusto che tu goda di un tale desiderio.»"
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Dopo ciò poco vid’io quello strazio\nfar di costui a le fangose genti,\nche Dio ancor ne lodo e ne ringrazio.",
+      "parafrasi": "Poco dopo vidi fare di lui un tale strazio da parte della gente fangosa che ancora ne lodo e ringrazio Dio."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Tutti gridavano: \"A Filippo Argenti!\";\ne ’l fiorentino spirito bizzarro\nin sé medesmo si volvea co’ denti.",
+      "parafrasi": "Tutti gridavano: «Addosso a Filippo Argenti!», e quello spirito fiorentino iroso si rivoltava contro se stesso con i denti."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Quivi il lasciammo, che più non ne narro;\nma ne l’orecchie mi percosse un duolo,\nper ch’io avante l’occhio intento sbarro.",
+      "parafrasi": "Lì lo lasciammo, e di lui non racconto altro; ma alle orecchie mi colpì un lamento, per cui spalanco gli occhi in avanti, attento."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Lo buon maestro disse: \"Omai, figliuolo,\ns’appressa la città c’ ha nome Dite,\ncoi gravi cittadin, col grande stuolo\".",
+      "parafrasi": "Il buon maestro disse: «Ormai, figliolo, si avvicina la città che si chiama Dite, con i suoi cittadini colpevoli e la grande schiera.»"
+    },
+    {
+      "versi": [70, 72],
+      "testo": "E io: \"Maestro, già le sue meschite\nlà entro certe ne la valle cerno,\nvermiglie come se di foco uscite",
+      "parafrasi": "E io: «Maestro, distinguo già chiaramente le sue moschee là dentro, nella valle, rosse come se fossero uscite dal fuoco.»"
+    },
+    {
+      "versi": [73, 75],
+      "testo": "fossero\". Ed ei mi disse: \"Il foco etterno\nch’entro l’affoca le dimostra rosse,\ncome tu vedi in questo basso inferno\".",
+      "parafrasi": "E lui mi disse: «Il fuoco eterno che le arroventa da dentro le fa apparire rosse, come vedi in questo basso Inferno.»"
+    },
+    {
+      "versi": [76, 78],
+      "testo": "Noi pur giugnemmo dentro a l’alte fosse\nche vallan quella terra sconsolata:\nle mura mi parean che ferro fosse.",
+      "parafrasi": "Arrivammo infine dentro i profondi fossati che circondano quella terra sconsolata: le mura mi sembravano di ferro."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Non sanza prima far grande aggirata,\nvenimmo in parte dove il nocchier forte\n\"Usciteci\", gridò: \"qui è l’intrata\".",
+      "parafrasi": "Non senza aver fatto prima un grande giro, arrivammo in un punto dove il nocchiero gridò forte: «Scendete: qui è l'entrata.»"
+    },
+    {
+      "versi": [82, 84],
+      "testo": "Io vidi più di mille in su le porte\nda ciel piovuti, che stizzosamente\ndicean: \"Chi è costui che sanza morte",
+      "parafrasi": "Vidi sulle porte più di mille angeli piovuti dal cielo, che dicevano con rabbia: «Chi è costui che senza essere morto"
+    },
+    {
+      "versi": [85, 87],
+      "testo": "va per lo regno de la morta gente?\".\nE ’l savio mio maestro fece segno\ndi voler lor parlar segretamente.",
+      "parafrasi": "va per il regno dei morti?» E il mio saggio maestro fece segno di voler parlare loro in segreto."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Allor chiusero un poco il gran disdegno\ne disser: \"Vien tu solo, e quei sen vada\nche sì ardito intrò per questo regno.",
+      "parafrasi": "Allora frenarono un poco il loro grande sdegno e dissero: «Vieni tu da solo, e se ne vada quello che è entrato tanto ardito in questo regno."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Sol si ritorni per la folle strada:\npruovi, se sa; ché tu qui rimarrai,\nche li ha’ iscorta sì buia contrada\".",
+      "parafrasi": "Ritorni da solo per la strada folle: provi, se è capace; perché tu, che gli hai fatto da guida in una regione così buia, resterai qui.»"
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Pensa, lettor, se io mi sconfortai\nnel suon de le parole maladette,\nché non credetti ritornarci mai.",
+      "parafrasi": "Pensa, lettore, se mi persi d'animo al suono di quelle parole maledette, perché credetti di non tornare mai più nel mondo."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "\"O caro duca mio, che più di sette\nvolte m’ hai sicurtà renduta e tratto\nd’alto periglio che ’ncontra mi stette,",
+      "parafrasi": "«O mia cara guida, che più di sette volte mi hai ridato sicurezza e mi hai tratto da gravi pericoli che mi stavano di fronte,"
+    },
+    {
+      "versi": [100, 102],
+      "testo": "non mi lasciar\", diss’io, \"così disfatto;\ne se ’l passar più oltre ci è negato,\nritroviam l’orme nostre insieme ratto\".",
+      "parafrasi": "non lasciarmi», dissi, «così disfatto; e se andare oltre ci è negato, ritroviamo insieme in fretta le nostre orme.»"
+    },
+    {
+      "versi": [103, 105],
+      "testo": "E quel segnor che lì m’avea menato,\nmi disse: \"Non temer; ché ’l nostro passo\nnon ci può tòrre alcun: da tal n’è dato.",
+      "parafrasi": "E quel signore che mi aveva condotto lì mi disse: «Non temere, perché nessuno può toglierci il nostro passaggio: è concesso da Tale [Dio]."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Ma qui m’attendi, e lo spirito lasso\nconforta e ciba di speranza buona,\nch’i’ non ti lascerò nel mondo basso\".",
+      "parafrasi": "Ma aspettami qui, e conforta e nutri di buona speranza il tuo spirito stanco, perché non ti lascerò nel mondo basso.»"
+    },
+    {
+      "versi": [109, 111],
+      "testo": "Così sen va, e quivi m’abbandona\nlo dolce padre, e io rimagno in forse,\nche sì e no nel capo mi tenciona.",
+      "parafrasi": "Così se ne va, e lì mi abbandona il dolce padre, e io resto nel dubbio, perché il sì e il no mi combattono nella testa."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Udir non potti quello ch’a lor porse;\nma ei non stette là con essi guari,\nche ciascun dentro a pruova si ricorse.",
+      "parafrasi": "Non potei sentire quello che disse loro; ma non rimase molto con loro, perché ciascuno corse a gara dentro."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "Chiuser le porte que’ nostri avversari\nnel petto al mio segnor, che fuor rimase\ne rivolsesi a me con passi rari.",
+      "parafrasi": "Quei nostri avversari chiusero le porte in faccia al mio signore, che restò fuori e tornò verso di me a passi lenti."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Li occhi a la terra e le ciglia avea rase\nd’ogne baldanza, e dicea ne’ sospiri:\n\"Chi m’ ha negate le dolenti case!\".",
+      "parafrasi": "Aveva gli occhi a terra e le ciglia prive di ogni baldanza, e diceva sospirando: «Chi mi ha negato le case del dolore!»"
+    },
+    {
+      "versi": [121, 123],
+      "testo": "E a me disse: \"Tu, perch’io m’adiri,\nnon sbigottir, ch’io vincerò la prova,\nqual ch’a la difension dentro s’aggiri.",
+      "parafrasi": "E a me disse: «Tu, anche se io mi adiro, non spaventarti, perché vincerò la prova, chiunque si dia da fare là dentro per difendersi."
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Questa lor tracotanza non è nova;\nché già l’usaro a men segreta porta,\nla qual sanza serrame ancor si trova.",
+      "parafrasi": "Questa loro arroganza non è nuova; la usarono già presso una porta meno nascosta, che si trova ancora senza serratura."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Sovr’essa vedestù la scritta morta:\ne già di qua da lei discende l’erta,\npassando per li cerchi sanza scorta,",
+      "parafrasi": "Sopra di essa hai visto la scritta di morte: e già al di qua di essa scende il pendio, passando per i cerchi senza scorta,"
+    },
+    {
+      "versi": [130, 130],
+      "testo": "tal che per lui ne fia la terra aperta\".",
+      "parafrasi": "uno tale che per merito suo la città ci sarà aperta.»"
+    }
+  ]
+}

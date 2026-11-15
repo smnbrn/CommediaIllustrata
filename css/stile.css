@@ -150,6 +150,14 @@ button, select { font: inherit; color: inherit; }
 }
 .tavola-vuota-titolo { font-style: normal; font-size: 1.35rem; font-variant: small-caps; color: #e7dcc6; margin: 0 0 0.25rem; }
 .tavola-vuota p { margin: 0.25rem 0; max-width: 22rem; }
+/* etichetta sulle immagini generate con IA: visibile anche quando la didascalia è tagliata (telefono) */
+.tavola[data-ia="1"] .tavola-cornice::after {
+  content: "Immagine IA";
+  position: absolute; left: 0.6rem; top: 0.6rem; z-index: 2;
+  padding: 0.2rem 0.6rem; border-radius: 999px;
+  background: rgb(0 0 0 / 0.65); color: #f1e7d3;
+  font-size: 0.8rem; letter-spacing: 0.04em; pointer-events: none;
+}
 .tavola-pagina {
   position: absolute; right: 0.6rem; top: 0.6rem;
   min-width: 2.75rem; min-height: 2.75rem; padding: 0 0.75rem;
@@ -350,6 +358,7 @@ button, select { font: inherit; color: inherit; }
   .posizione { margin: 0; font-size: 0.98rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   .posizione span { font-size: 0.72rem; }
   .avviso:empty { display: none; }
+  .pannello:has(.tavola[data-ia="1"]) .avviso { display: none; }   /* su telefono bastano etichetta e didascalia */
   .illustratori { flex-wrap: nowrap; overflow-x: auto; max-width: 100%; scrollbar-width: none; }
   .illustratori::-webkit-scrollbar { display: none; }
   .illustratore { min-height: 2.75rem; padding: 0 0.65rem; font-size: 0.95rem; white-space: nowrap; }

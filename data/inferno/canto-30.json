@@ -1,0 +1,298 @@
+{
+  "cantica": "inferno",
+  "canto": 30,
+  "titolo": "Gianni Schicchi, Mirra, maestro Adamo e Sinone",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_XXX",
+  "numero_versi": 148,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 45],
+      "titolo_scena": "Gianni Schicchi e Mirra",
+      "sintesi": "Più furiose di Atamante e di Ecuba impazziti, due ombre corrono mordendo come porci: una azzanna Capocchio al collo e lo trascina. Griffolino spiega: è Gianni Schicchi, che si finse Buoso Donati per dettare un falso testamento; l'altra è Mirra, che si travestì per unirsi al padre.",
+      "luogo_id": "bolgia-10",
+      "personaggi": ["dante", "capocchio", "griffolino", "gianni-schicchi", "mirra"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Gianni Schicchi azzanna Capocchio",
+          "url": "img/dore/inferno-30-gianni-schicchi-960.jpg",
+          "miniatura": "img/dore/inferno-30-gianni-schicchi-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._1,_Die_Holle_1870_(148619397).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [46, 90],
+      "titolo_scena": "Maestro Adamo, il falsario di monete",
+      "sintesi": "Un dannato gonfio d'idropisia, a forma di liuto, con le labbra aperte per la sete, è maestro Adamo: falsificò il fiorino d'oro per i conti Guidi di Romena e fu bruciato. Sogna i ruscelli del Casentino e vorrebbe vedere qui i Guidi più di ogni sorgente.",
+      "luogo_id": "bolgia-10",
+      "personaggi": ["dante", "virgilio", "maestro-adamo"],
+      "tavole": []
+    },
+    {
+      "id": "scena-3",
+      "versi": [91, 148],
+      "titolo_scena": "La rissa tra maestro Adamo e Sinone",
+      "sintesi": "Accanto ad Adamo giacciono, fumanti di febbre, la moglie di Putifarre, che accusò falsamente Giuseppe, e il greco Sinone, che ingannò i Troiani. Sinone colpisce il ventre di Adamo, che risponde con un pugno in faccia; segue uno scambio di insulti. Dante ascolta incantato, finché Virgilio lo rimprovera: voler ascoltare queste cose è un desiderio basso. Dante si vergogna, e Virgilio lo perdona.",
+      "luogo_id": "bolgia-10",
+      "personaggi": ["dante", "virgilio", "maestro-adamo", "sinone", "moglie-di-putifarre"],
+      "tavole": []
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Nel tempo che Iunone era crucciata\nper Semelè contra ’l sangue tebano,\ncome mostrò una e altra fïata,",
+      "parafrasi": "Al tempo in cui Giunone era adirata contro la stirpe tebana a causa di Semele, come mostrò più di una volta,"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "Atamante divenne tanto insano,\nche veggendo la moglie con due figli\nandar carcata da ciascuna mano,",
+      "parafrasi": "Atamante divenne così pazzo che, vedendo la moglie andare con i due figli in braccio, uno per mano,"
+    },
+    {
+      "versi": [7, 9],
+      "testo": "gridò: \"Tendiam le reti, sì ch’io pigli\nla leonessa e ’ leoncini al varco\";\ne poi distese i dispietati artigli,",
+      "parafrasi": "gridò: «Tendiamo le reti, così che io prenda al passaggio la leonessa e i leoncini»; e poi tese gli artigli spietati,"
+    },
+    {
+      "versi": [10, 12],
+      "testo": "prendendo l’un ch’avea nome Learco,\ne rotollo e percosselo ad un sasso;\ne quella s’annegò con l’altro carco.",
+      "parafrasi": "prendendo quello che si chiamava Learco, e lo fece roteare e lo sbatté contro un sasso; e lei si annegò con l'altro carico."
+    },
+    {
+      "versi": [13, 15],
+      "testo": "E quando la fortuna volse in basso\nl’altezza de’ Troian che tutto ardiva,\nsì che ’nsieme col regno il re fu casso,",
+      "parafrasi": "E quando la fortuna abbatté la grandezza dei Troiani che osava tutto, così che con il regno fu distrutto il re,"
+    },
+    {
+      "versi": [16, 18],
+      "testo": "Ecuba trista, misera e cattiva,\nposcia che vide Polissena morta,\ne del suo Polidoro in su la riva",
+      "parafrasi": "Ecuba, triste, misera e prigioniera, dopo aver visto Polissena morta e aver scoperto, dolorosa, il suo Polidoro"
+    },
+    {
+      "versi": [19, 21],
+      "testo": "del mar si fu la dolorosa accorta,\nforsennata latrò sì come cane;\ntanto il dolor le fé la mente torta.",
+      "parafrasi": "sulla riva del mare, impazzita latrò come un cane; tanto il dolore le stravolse la mente."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Ma né di Tebe furie né troiane\nsi vider mäi in alcun tanto crude,\nnon punger bestie, nonché membra umane,",
+      "parafrasi": "Ma né le furie di Tebe né quelle troiane si videro mai così crudeli contro qualcuno, nel colpire animali e tanto meno membra umane,"
+    },
+    {
+      "versi": [25, 27],
+      "testo": "quant’io vidi in due ombre smorte e nude,\nche mordendo correvan di quel modo\nche ’l porco quando del porcil si schiude.",
+      "parafrasi": "quanto ne vidi in due ombre pallide e nude, che correvano mordendo nel modo in cui fa il porco quando esce dal porcile."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "L’una giunse a Capocchio, e in sul nodo\ndel collo l’assannò, sì che, tirando,\ngrattar li fece il ventre al fondo sodo.",
+      "parafrasi": "Una arrivò a Capocchio e lo azzannò alla nuca, così che, tirandolo, gli fece grattare il ventre sul fondo duro."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "E l’Aretin che rimase, tremando\nmi disse: \"Quel folletto è Gianni Schicchi,\ne va rabbioso altrui così conciando\".",
+      "parafrasi": "E l'Aretino che rimase, tremando, mi disse: «Quello spirito furioso è Gianni Schicchi, e va così, rabbioso, a conciare gli altri.»"
+    },
+    {
+      "versi": [34, 36],
+      "testo": "\"Oh\", diss’io lui, \"se l’altro non ti ficchi\nli denti a dosso, non ti sia fatica\na dir chi è, pria che di qui si spicchi\".",
+      "parafrasi": "«Oh», gli dissi, «così l'altro non ti affondi i denti addosso, non ti sia fatica dire chi è, prima che si allontani da qui.»"
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Ed elli a me: \"Quell’è l’anima antica\ndi Mirra scellerata, che divenne\nal padre, fuor del dritto amore, amica.",
+      "parafrasi": "E lui a me: «Quella è l'anima antica della scellerata Mirra, che divenne amante del padre, fuori dal giusto amore."
+    },
+    {
+      "versi": [40, 42],
+      "testo": "Questa a peccar con esso così venne,\nfalsificando sé in altrui forma,\ncome l’altro che là sen va, sostenne,",
+      "parafrasi": "Costei arrivò a peccare con lui così, falsificando se stessa sotto un'altra forma, come l'altro che se ne va là osò,"
+    },
+    {
+      "versi": [43, 45],
+      "testo": "per guadagnar la donna de la torma,\nfalsificare in sé Buoso Donati,\ntestando e dando al testamento norma\".",
+      "parafrasi": "per guadagnarsi la signora della mandria [una cavalla], falsificare in sé Buoso Donati, facendo testamento e dandogli forma legale.»"
+    },
+    {
+      "versi": [46, 48],
+      "testo": "E poi che i due rabbiosi fuor passati\nsovra cu’ io avea l’occhio tenuto,\nrivolsilo a guardar li altri mal nati.",
+      "parafrasi": "E dopo che furono passati i due rabbiosi, su cui avevo tenuto l'occhio, lo rivolsi a guardare gli altri nati per il male."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "Io vidi un, fatto a guisa di lëuto,\npur ch’elli avesse avuta l’anguinaia\ntronca da l’altro che l’uomo ha forcuto.",
+      "parafrasi": "Vidi uno fatto a forma di liuto, se soltanto avesse avuto l'inguine troncato dalla parte dove l'uomo è biforcuto."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "La grave idropesì, che sì dispaia\nle membra con l’omor che mal converte,\nche ’l viso non risponde a la ventraia,",
+      "parafrasi": "La grave idropisia, che rende così sproporzionate le membra con l'umore che trasforma male, tanto che il viso non corrisponde al ventre,"
+    },
+    {
+      "versi": [55, 57],
+      "testo": "faceva lui tener le labbra aperte\ncome l’etico fa, che per la sete\nl’un verso ’l mento e l’altro in sù rinverte.",
+      "parafrasi": "gli faceva tenere le labbra aperte come fa il tisico, che per la sete ne rovescia uno verso il mento e l'altro verso l'alto."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "\"O voi che sanz’alcuna pena siete,\ne non so io perché, nel mondo gramo\",\ndiss’elli a noi, \"guardate e attendete",
+      "parafrasi": "«O voi che siete senza alcuna pena, e non so perché, nel mondo del dolore», ci disse, «guardate e fate attenzione"
+    },
+    {
+      "versi": [61, 63],
+      "testo": "a la miseria del maestro Adamo;\nio ebbi, vivo, assai di quel ch’i’ volli,\ne ora, lasso!, un gocciol d’acqua bramo.",
+      "parafrasi": "alla miseria di maestro Adamo; da vivo ebbi in abbondanza ciò che volli, e ora, ahimè!, desidero una goccia d'acqua."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Li ruscelletti che d’i verdi colli\ndel Casentin discendon giuso in Arno,\nfaccendo i lor canali freddi e molli,",
+      "parafrasi": "I ruscelletti che dai verdi colli del Casentino scendono giù nell'Arno, rendendo i loro canali freschi e umidi,"
+    },
+    {
+      "versi": [67, 69],
+      "testo": "sempre mi stanno innanzi, e non indarno,\nché l’imagine lor vie più m’asciuga\nche ’l male ond’io nel volto mi discarno.",
+      "parafrasi": "mi stanno sempre davanti, e non inutilmente, perché la loro immagine mi secca molto più del male per cui mi si scarna il volto."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "La rigida giustizia che mi fruga\ntragge cagion del loco ov’io peccai\na metter più li miei sospiri in fuga.",
+      "parafrasi": "La rigida giustizia che mi tormenta trae motivo dal luogo dove peccai per far uscire più in fretta i miei sospiri."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Ivi è Romena, là dov’io falsai\nla lega suggellata del Batista;\nper ch’io il corpo sù arso lasciai.",
+      "parafrasi": "Lì c'è Romena, dove falsificai la lega che porta impresso il Battista; per cui lassù lasciai il corpo bruciato."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "Ma s’io vedessi qui l’anima trista\ndi Guido o d’Alessandro o di lor frate,\nper Fonte Branda non darei la vista.",
+      "parafrasi": "Ma se vedessi qui l'anima triste di Guido o di Alessandro o del loro fratello, non darei quella vista per Fonte Branda."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Dentro c’è l’una già, se l’arrabbiate\nombre che vanno intorno dicon vero;\nma che mi val, c’ ho le membra legate?",
+      "parafrasi": "Una è già dentro, se le ombre rabbiose che vanno intorno dicono il vero; ma che mi serve, se ho le membra legate?"
+    },
+    {
+      "versi": [82, 84],
+      "testo": "S’io fossi pur di tanto ancor leggero\nch’i’ potessi in cent’anni andare un’oncia,\nio sarei messo già per lo sentiero,",
+      "parafrasi": "Se fossi ancora tanto leggero da poter andare avanti di un'oncia in cent'anni, mi sarei già messo per la strada"
+    },
+    {
+      "versi": [85, 87],
+      "testo": "cercando lui tra questa gente sconcia,\ncon tutto ch’ella volge undici miglia,\ne men d’un mezzo di traverso non ci ha.",
+      "parafrasi": "a cercarlo tra questa gente sconcia, benché la bolgia giri per undici miglia e non sia meno di mezzo miglio di larghezza."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Io son per lor tra sì fatta famiglia;\ne’ m’indussero a batter li fiorini\nch’avevan tre carati di mondiglia\".",
+      "parafrasi": "Sono tra una tale famiglia a causa loro; mi indussero a battere i fiorini che avevano tre carati di metallo vile.»"
+    },
+    {
+      "versi": [91, 93],
+      "testo": "E io a lui: \"Chi son li due tapini\nche fumman come man bagnate ’l verno,\ngiacendo stretti a’ tuoi destri confini?\".",
+      "parafrasi": "E io a lui: «Chi sono i due poveretti che fumano come mani bagnate d'inverno, stesi stretti al tuo fianco destro?»"
+    },
+    {
+      "versi": [94, 96],
+      "testo": "\"Qui li trovai - e poi volta non dierno -\",\nrispuose, \"quando piovvi in questo greppo,\ne non credo che dieno in sempiterno.",
+      "parafrasi": "«Li trovai qui, e poi non si sono più voltati», rispose, «quando piovvi in questo dirupo, e non credo che si volteranno per l'eternità."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "L’una è la falsa ch’accusò Gioseppo;\nl’altr’è ’l falso Sinon greco di Troia:\nper febbre aguta gittan tanto leppo\".",
+      "parafrasi": "Una è la bugiarda che accusò Giuseppe; l'altro è il bugiardo Sinone, greco di Troia: per la febbre acuta mandano un tale fetore.»"
+    },
+    {
+      "versi": [100, 102],
+      "testo": "E l’un di lor, che si recò a noia\nforse d’esser nomato sì oscuro,\ncol pugno li percosse l’epa croia.",
+      "parafrasi": "E uno di loro, che forse si offese di essere nominato in modo così infamante, gli colpì con il pugno la pancia tesa."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Quella sonò come fosse un tamburo;\ne mastro Adamo li percosse il volto\ncol braccio suo, che non parve men duro,",
+      "parafrasi": "Quella risuonò come se fosse un tamburo; e maestro Adamo gli colpì il volto con il suo braccio, che non sembrò meno duro,"
+    },
+    {
+      "versi": [106, 108],
+      "testo": "dicendo a lui: \"Ancor che mi sia tolto\nlo muover per le membra che son gravi,\nho io il braccio a tal mestiere sciolto\".",
+      "parafrasi": "dicendogli: «Anche se mi è tolto il movimento per le membra che sono pesanti, ho il braccio libero per un tale compito.»"
+    },
+    {
+      "versi": [109, 111],
+      "testo": "Ond’ei rispuose: \"Quando tu andavi\nal fuoco, non l’avei tu così presto;\nma sì e più l’avei quando coniavi\".",
+      "parafrasi": "Per cui lui rispose: «Quando andavi al rogo non lo avevi così svelto; ma così e anche di più lo avevi quando coniavi.»"
+    },
+    {
+      "versi": [112, 114],
+      "testo": "E l’idropico: \"Tu di’ ver di questo:\nma tu non fosti sì ver testimonio\nlà ’ve del ver fosti a Troia richesto\".",
+      "parafrasi": "E l'idropico: «In questo dici il vero: ma non fosti un testimone così veritiero là dove a Troia ti fu chiesta la verità.»"
+    },
+    {
+      "versi": [115, 117],
+      "testo": "\"S’io dissi falso, e tu falsasti il conio\",\ndisse Sinon; \"e son qui per un fallo,\ne tu per più ch’alcun altro demonio!\".",
+      "parafrasi": "«Se io dissi il falso, tu falsificasti il conio», disse Sinone; «e io sono qui per una sola colpa, e tu per più di qualsiasi altro demonio!»"
+    },
+    {
+      "versi": [118, 120],
+      "testo": "\"Ricorditi, spergiuro, del cavallo\",\nrispuose quel ch’avëa infiata l’epa;\n\"e sieti reo che tutto il mondo sallo!\".",
+      "parafrasi": "«Ricordati, spergiuro, del cavallo», rispose quello che aveva la pancia gonfia; «e ti sia di tormento che tutto il mondo lo sa!»"
+    },
+    {
+      "versi": [121, 123],
+      "testo": "\"E te sia rea la sete onde ti crepa\",\ndisse ’l Greco, \"la lingua, e l’acqua marcia\nche ’l ventre innanzi a li occhi sì t’assiepa!\".",
+      "parafrasi": "«E a te sia di tormento la sete che ti fa screpolare la lingua», disse il Greco, «e l'acqua marcia che ti gonfia il ventre davanti agli occhi come una siepe!»"
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Allora il monetier: \"Così si squarcia\nla bocca tua per tuo mal come suole;\nché, s’i’ ho sete e omor mi rinfarcia,",
+      "parafrasi": "Allora il falsario di monete: «Così la tua bocca si squarcia per il tuo male, come fa sempre; perché, se io ho sete e l'umore mi riempie,"
+    },
+    {
+      "versi": [127, 129],
+      "testo": "tu hai l’arsura e ’l capo che ti duole,\ne per leccar lo specchio di Narcisso,\nnon vorresti a ’nvitar molte parole\".",
+      "parafrasi": "tu hai la febbre e la testa che ti duole, e per leccare lo specchio di Narciso [l'acqua] non vorresti essere invitato con molte parole.»"
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Ad ascoltarli er’io del tutto fisso,\nquando ’l maestro mi disse: \"Or pur mira,\nche per poco che teco non mi risso!\".",
+      "parafrasi": "Ero del tutto intento ad ascoltarli, quando il maestro mi disse: «Continua pure a guardare, che per poco non litigo con te!»"
+    },
+    {
+      "versi": [133, 135],
+      "testo": "Quand’io ’l senti’ a me parlar con ira,\nvolsimi verso lui con tal vergogna,\nch’ancor per la memoria mi si gira.",
+      "parafrasi": "Quando lo sentii parlarmi con ira, mi volsi verso di lui con una tale vergogna che ancora mi torna alla memoria."
+    },
+    {
+      "versi": [136, 138],
+      "testo": "Qual è colui che suo dannaggio sogna,\nche sognando desidera sognare,\nsì che quel ch’è, come non fosse, agogna,",
+      "parafrasi": "Come chi sogna una sua disgrazia e, sognando, desidera di sognare, così che desidera ciò che è come se non fosse,"
+    },
+    {
+      "versi": [139, 141],
+      "testo": "tal mi fec’io, non possendo parlare,\nche disïava scusarmi, e scusava\nme tuttavia, e nol mi credea fare.",
+      "parafrasi": "così divenni io, non potendo parlare, perché desideravo scusarmi, e intanto mi scusavo, e non credevo di farlo."
+    },
+    {
+      "versi": [142, 144],
+      "testo": "\"Maggior difetto men vergogna lava\",\ndisse ’l maestro, \"che ’l tuo non è stato;\nperò d’ogne trestizia ti disgrava.",
+      "parafrasi": "«Meno vergogna lava una colpa maggiore della tua», disse il maestro; «perciò liberati da ogni tristezza."
+    },
+    {
+      "versi": [145, 147],
+      "testo": "E fa ragion ch’io ti sia sempre allato,\nse più avvien che fortuna t’accoglia\ndove sien genti in simigliante piato:",
+      "parafrasi": "E fa' conto che io ti sia sempre accanto, se accadrà ancora che la fortuna ti porti dove ci sia gente in una lite simile:"
+    },
+    {
+      "versi": [148, 148],
+      "testo": "ché voler ciò udire è bassa voglia\".",
+      "parafrasi": "perché voler ascoltare queste cose è un desiderio basso.»"
+    }
+  ]
+}

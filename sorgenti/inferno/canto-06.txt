@@ -1,0 +1,288 @@
+# Inferno, canto VI
+titolo: Cerbero, i golosi, Ciacco
+
+## scena-1 | cerchio-3 | La pioggia eterna
+personaggi: dante, virgilio
+sintesi: Dante riprende i sensi nel terzo cerchio: una pioggia eterna, fredda e pesante di grandine, acqua sporca e neve cade sulla terra puzzolente, dove giacciono i golosi.
+
+1
+Al tornar de la mente, che si chiuse
+dinanzi a la pietà d’i due cognati,
+che di trestizia tutto mi confuse,
+> Quando ripresi i sensi, che si erano chiusi davanti alla pena dei due cognati [Paolo e Francesca] e che la tristezza aveva del tutto sconvolto,
+
+4
+novi tormenti e novi tormentati
+mi veggio intorno, come ch’io mi mova
+e ch’io mi volga, e come che io guati.
+> mi vedo intorno nuovi tormenti e nuovi tormentati, comunque mi muova, mi volti e guardi.
+
+7
+Io sono al terzo cerchio, de la piova
+etterna, maladetta, fredda e greve;
+regola e qualità mai non l’è nova.
+> Sono nel terzo cerchio, quello della pioggia eterna, maledetta, fredda e pesante; il suo ritmo e la sua natura non cambiano mai.
+
+10
+Grandine grossa, acqua tinta e neve
+per l’aere tenebroso si riversa;
+pute la terra che questo riceve.
+> Grandine grossa, acqua sporca e neve si rovesciano attraverso l'aria buia; la terra che le riceve manda un fetore.
+
+## scena-2 | cerchio-3 | Cerbero
+personaggi: dante, virgilio, cerbero
+tavola: dore | Cerbero | File:Inferno Canto 6 (148618330).jpg
+sintesi: Cerbero, belva con tre teste di cane, latra sui dannati, li graffia e li squarta. Quando vede i due poeti spalanca le bocche: Virgilio gli getta in gola manciate di terra e lo fa tacere.
+
+13
+Cerbero, fiera crudele e diversa,
+con tre gole caninamente latra
+sovra la gente che quivi è sommersa.
+> Cerbero, belva crudele e mostruosa, latra come un cane con tre gole sopra la gente che qui è sommersa.
+
+16
+Li occhi ha vermigli, la barba unta e atra,
+e ’l ventre largo, e unghiate le mani;
+graffia li spirti ed iscoia ed isquatra.
+> Ha gli occhi rossi, la barba sudicia e nera, il ventre largo e le mani armate di unghie; graffia gli spiriti, li scuoia e li squarta.
+
+19
+Urlar li fa la pioggia come cani;
+de l’un de’ lati fanno a l’altro schermo;
+volgonsi spesso i miseri profani.
+> La pioggia li fa urlare come cani; con un fianco fanno riparo all'altro, e quei miseri empi si rigirano spesso.
+
+22
+Quando ci scorse Cerbero, il gran vermo,
+le bocche aperse e mostrocci le sanne;
+non avea membro che tenesse fermo.
+> Quando ci vide Cerbero, il grande mostro, spalancò le bocche e ci mostrò le zanne; non aveva membro che stesse fermo.
+
+25
+E ’l duca mio distese le sue spanne,
+prese la terra, e con piene le pugna
+la gittò dentro a le bramose canne.
+> E la mia guida allargò le mani, prese la terra e la gettò a pugni pieni dentro quelle gole affamate.
+
+28
+Qual è quel cane ch’abbaiando agogna,
+e si racqueta poi che ’l pasto morde,
+ché solo a divorarlo intende e pugna,
+> Come il cane che abbaiando smania per il cibo e si calma appena morde il pasto, perché pensa e lotta solo per divorarlo,
+
+31
+cotai si fecer quelle facce lorde
+de lo demonio Cerbero, che ’ntrona
+l’anime sì, ch’esser vorrebber sorde.
+> così fecero quei musi sporchi del demonio Cerbero, che stordisce le anime con tanto rumore che vorrebbero essere sorde.
+
+## scena-3 | cerchio-3 | Ciacco
+personaggi: dante, virgilio, ciacco
+tavola: dore | Ciacco | img/dore/inferno-06-ciacco-960.jpg | File:Gottliche Komodie. T. 1, Die Holle 1870 (148618352).jpg
+sintesi: Camminando sulle ombre stese nel fango, i due incontrano un'anima che si alza a sedere: è il fiorentino Ciacco, punito per la gola. Dice di essere conosciuto da Dante, che però, per lo strazio del suo aspetto, non lo riconosce.
+
+34
+Noi passavam su per l’ombre che adona
+la greve pioggia, e ponavam le piante
+sovra lor vanità che par persona.
+> Passavamo sopra le ombre che la pioggia pesante abbatte, e mettevamo i piedi sulla loro vana apparenza, che sembra un corpo.
+
+37
+Elle giacean per terra tutte quante,
+fuor d’una ch’a seder si levò, ratto
+ch’ella ci vide passarsi davante.
+> Giacevano tutte a terra, tranne una che si levò a sedere appena ci vide passarle davanti.
+
+40
+"O tu che se’ per questo ’nferno tratto",
+mi disse, "riconoscimi, se sai:
+tu fosti, prima ch’io disfatto, fatto".
+> «O tu che sei condotto attraverso questo Inferno», mi disse, «riconoscimi, se puoi: tu nascesti prima che io morissi.»
+
+43
+E io a lui: "L’angoscia che tu hai
+forse ti tira fuor de la mia mente,
+sì che non par ch’i’ ti vedessi mai.
+> E io a lui: «L'angoscia che soffri forse ti cancella dalla mia memoria, tanto che non mi sembra di averti mai visto.
+
+46
+Ma dimmi chi tu se’ che ’n sì dolente
+loco se’ messo, e hai sì fatta pena,
+che, s’altra è maggio, nulla è sì spiacente".
+> Ma dimmi chi sei, tu che sei stato messo in un luogo così doloroso e hai una pena tale che, se ce n'è di più grandi, nessuna è così ripugnante.»
+
+49
+Ed elli a me: "La tua città, ch’è piena
+d’invidia sì che già trabocca il sacco,
+seco mi tenne in la vita serena.
+> E lui a me: «La tua città, che è tanto piena d'invidia che ormai il sacco trabocca, mi ebbe con sé nella vita serena.
+
+52
+Voi Cittadini mi chiamaste Ciacco
+per la dannosa colpa de la gola,
+come tu vedi, a la pioggia mi fiacco.
+> Voi cittadini mi chiamaste Ciacco: per la colpa rovinosa della gola, come vedi, mi accascio sotto la pioggia.
+
+55
+E io anima trista non son sola,
+ché tutte queste a simil pena stanno
+per simil colpa". E più non fé parola.
+> E io, anima triste, non sono sola, perché tutte queste stanno a una pena simile per una colpa simile.» E non disse altro.
+
+## scena-4 | cerchio-3 | La profezia su Firenze
+personaggi: dante, virgilio, ciacco, farinata, tegghiaio, iacopo-rusticucci, arrigo, mosca
+sintesi: Dante chiede del destino di Firenze divisa. Ciacco predice gli scontri tra Bianchi e Neri, la vittoria e poi la caduta dei Bianchi; i giusti sono due e inascoltati. Dei grandi fiorentini del passato dice che sono più in basso, tra le anime più nere; poi chiede di essere ricordato nel mondo e ricade nel fango.
+
+58
+Io li rispuosi: "Ciacco, il tuo affanno
+mi pesa sì, ch’a lagrimar mi ’nvita;
+ma dimmi, se tu sai, a che verranno
+> Io gli risposi: «Ciacco, la tua sofferenza mi pesa tanto che mi spinge a piangere; ma dimmi, se lo sai, a che cosa arriveranno
+
+61
+li cittadin de la città partita;
+s’alcun v’è giusto; e dimmi la cagione
+per che l’ ha tanta discordia assalita".
+> i cittadini della città divisa; se c'è qualcuno giusto; e dimmi il motivo per cui tanta discordia l'ha assalita.»
+
+64
+E quelli a me: "Dopo lunga tencione
+verranno al sangue, e la parte selvaggia
+caccerà l’altra con molta offensione.
+> E lui a me: «Dopo una lunga contesa arriveranno al sangue, e la parte selvaggia [i Bianchi] caccerà l'altra [i Neri] con molto danno.
+
+67
+Poi appresso convien che questa caggia
+infra tre soli, e che l’altra sormonti
+con la forza di tal che testé piaggia.
+> Poi è destino che questa cada entro tre anni e che l'altra prevalga con la forza di uno che ora sta in bilico [papa Bonifacio VIII].
+
+70
+Alte terrà lungo tempo le fronti,
+tenendo l’altra sotto gravi pesi,
+come che di ciò pianga o che n’aonti.
+> Terrà a lungo la fronte alta, tenendo l'altra sotto pesi gravi, per quanto questa ne pianga e se ne sdegni.
+
+73
+Giusti son due, e non vi sono intesi;
+superbia, invidia e avarizia sono
+le tre faville c’ hanno i cuori accesi".
+> I giusti sono due, e nessuno li ascolta; superbia, invidia e avarizia sono le tre scintille che hanno incendiato i cuori.»
+
+76
+Qui puose fine al lagrimabil suono.
+E io a lui: "Ancor vo’ che mi ’nsegni
+e che di più parlar mi facci dono.
+> Qui pose fine al suo discorso doloroso. E io a lui: «Voglio ancora che tu mi insegni e che mi faccia dono di altre parole.
+
+79
+Farinata e ’l Tegghiaio, che fuor sì degni,
+Iacopo Rusticucci, Arrigo e ’l Mosca
+e li altri ch’a ben far puoser li ’ngegni,
+> Farinata e il Tegghiaio, che furono così degni, Iacopo Rusticucci, Arrigo e il Mosca e gli altri che misero l'ingegno nel fare il bene,
+
+82
+dimmi ove sono e fa ch’io li conosca;
+ché gran disio mi stringe di savere
+se ’l ciel li addolcia o lo ’nferno li attosca".
+> dimmi dove sono e fa' che io li conosca, perché un grande desiderio mi stringe di sapere se il cielo li addolcisce o l'Inferno li avvelena.»
+
+85
+E quelli: "Ei son tra l’anime più nere;
+diverse colpe giù li grava al fondo:
+se tanto scendi, là i potrai vedere.
+> E lui: «Sono tra le anime più nere; colpe diverse li spingono giù verso il fondo: se scendi tanto, là li potrai vedere.
+
+88
+Ma quando tu sarai nel dolce mondo,
+priegoti ch’a la mente altrui mi rechi:
+più non ti dico e più non ti rispondo".
+> Ma quando sarai nel dolce mondo, ti prego di riportarmi alla memoria degli altri: non ti dico più nulla e non ti rispondo più.»
+
+91
+Li diritti occhi torse allora in biechi;
+guardommi un poco e poi chinò la testa:
+cadde con essa a par de li altri ciechi.
+> Allora torse gli occhi, che prima guardavano diritti, in uno sguardo storto; mi guardò un poco e poi chinò la testa: cadde con essa al pari degli altri ciechi.
+
+## scena-5 | cerchio-3 | Il giudizio universale e Pluto
+personaggi: dante, virgilio, pluto
+sintesi: Virgilio spiega che Ciacco non si rialzerà fino al giudizio universale, quando ogni anima riprenderà il suo corpo; dopo, i dannati soffriranno di più, perché più perfetti. Girando il cerchio i due arrivano al punto della discesa, dove trovano Pluto.
+
+94
+E ’l duca disse a me: "Più non si desta
+di qua dal suon de l’angelica tromba,
+quando verrà la nimica podesta:
+> E la mia guida mi disse: «Non si risveglia più fino al suono della tromba dell'angelo, quando verrà il giudice nemico [Cristo, nemico dei dannati]:
+
+97
+ciascun rivederà la trista tomba,
+ripiglierà sua carne e sua figura,
+udirà quel ch’in etterno rimbomba".
+> ognuno rivedrà la sua triste tomba, riprenderà la sua carne e il suo aspetto, e udrà la sentenza che risuona in eterno.»
+
+100
+Sì trapassammo per sozza mistura
+de l’ombre e de la pioggia, a passi lenti,
+toccando un poco la vita futura;
+> Così attraversammo a passi lenti quella sporca mescolanza di ombre e di pioggia, parlando un poco della vita futura;
+
+103
+per ch’io dissi: "Maestro, esti tormenti
+crescerann’ei dopo la gran sentenza,
+o fier minori, o saran sì cocenti?".
+> per cui dissi: «Maestro, questi tormenti cresceranno dopo la grande sentenza, o diventeranno minori, o resteranno così brucianti?»
+
+106
+Ed elli a me: "Ritorna a tua scïenza,
+che vuol, quanto la cosa è più perfetta,
+più senta il bene, e così la doglienza.
+> E lui a me: «Torna alla tua dottrina, che vuole che quanto più una cosa è perfetta, tanto più senta il piacere, e così il dolore.
+
+109
+Tutto che questa gente maladetta
+in vera perfezion già mai non vada,
+di là più che di qua essere aspetta".
+> Benché questa gente maledetta non arrivi mai alla vera perfezione, si aspetta di essere, dopo il giudizio, più completa di adesso.»
+
+112
+Noi aggirammo a tondo quella strada,
+parlando più assai ch’i’ non ridico;
+venimmo al punto dove si digrada:
+> Girammo intorno lungo quella strada, parlando molto più di quanto io non riferisca; arrivammo al punto dove si scende:
+
+115
+quivi trovammo Pluto, il gran nemico.
+> lì trovammo Pluto, il grande nemico.
+
+## personaggio | cerbero | Cerbero
+dibattuto: no
+chi_era: Mostro della mitologia greca, cane a tre teste guardiano dell'Ade. Dante ne fa un demonio con tratti umani (barba, mani), custode e tormentatore dei golosi.
+
+## personaggio | ciacco | Ciacco
+dibattuto: sì
+chi_era: Fiorentino contemporaneo di Dante, morto prima del 1300; il soprannome, forse «porco», ne indica la golosità. Boccaccio ne fa un parassita arguto nel Decameron; chi fosse davvero è incerto.
+
+## personaggio | farinata | Farinata degli Uberti
+dibattuto: no
+chi_era: Manente degli Uberti (morto nel 1264), capo dei ghibellini di Firenze, vincitore a Montaperti nel 1260. Nel successivo convegno di Empoli si oppose da solo alla distruzione della città. Dante lo incontra tra gli eretici (canto X).
+
+## personaggio | tegghiaio | Tegghiaio Aldobrandi
+dibattuto: no
+chi_era: Guelfo fiorentino degli Adimari, podestà di Arezzo; sconsigliò ai Fiorentini la spedizione che finì nella sconfitta di Montaperti (1260). Dante lo trova tra i sodomiti (canto XVI).
+
+## personaggio | iacopo-rusticucci | Iacopo Rusticucci
+dibattuto: no
+chi_era: Cavaliere guelfo fiorentino di condizione modesta, attivo a metà del Duecento. Dante lo incontra tra i sodomiti (canto XVI), dove accusa la moglie del suo destino.
+
+## personaggio | arrigo | Arrigo
+dibattuto: sì
+chi_era: Fiorentino non più nominato nel poema: forse Odarrigo dei Fifanti, tra gli uccisori di Buondelmonte (1216). L'identificazione è incerta.
+
+## personaggio | mosca | Mosca dei Lamberti
+dibattuto: no
+chi_era: Nobile fiorentino che consigliò l'uccisione di Buondelmonte dei Buondelmonti (1216), da cui la tradizione fa nascere la divisione di Firenze in guelfi e ghibellini. Dante lo trova tra i seminatori di discordia (canto XXVIII).
+
+## personaggio | pluto | Pluto
+dibattuto: sì
+chi_era: Pluto, dio greco della ricchezza (spesso confuso con Plutone, dio dell'Ade). Dante ne fa il demonio custode degli avari e dei prodighi; non è chiaro quale dei due intendesse.

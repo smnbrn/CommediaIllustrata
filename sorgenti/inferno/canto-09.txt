@@ -1,0 +1,305 @@
+# Inferno, canto IX
+titolo: Le Furie, il messo celeste, gli eretici
+
+## scena-1 | citta-di-dite | L'attesa davanti a Dite
+personaggi: dante, virgilio, eritone
+sintesi: Virgilio, in ascolto, aspetta un aiuto e lascia a metà una frase che spaventa Dante. Alla domanda se qualcuno del Limbo scenda mai fin qui, risponde di aver già fatto quel cammino, evocato dalla maga Eritone fino al cerchio più profondo: conosce bene la strada.
+
+1
+Quel color che viltà di fuor mi pinse
+veggendo il duca mio tornare in volta,
+più tosto dentro il suo novo ristrinse.
+> Il pallore che la paura mi dipinse in volto vedendo la mia guida tornare indietro fece ritirare più in fretta il suo, insolito.
+
+4
+Attento si fermò com’uom ch’ascolta;
+ché l’occhio nol potea menare a lunga
+per l’aere nero e per la nebbia folta.
+> Si fermò attento come chi ascolta, perché l'occhio non poteva portarlo lontano attraverso l'aria nera e la nebbia fitta.
+
+7
+"Pur a noi converrà vincer la punga",
+cominciò el, "se non ... Tal ne s’offerse.
+Oh quanto tarda a me ch’altri qui giunga!".
+> «Eppure dovremo vincere la battaglia», cominciò, «se no... Tale [aiuto] ci si è offerto. Oh, quanto mi tarda che arrivi qui qualcuno!»
+
+10
+I’ vidi ben sì com’ei ricoperse
+lo cominciar con l’altro che poi venne,
+che fur parole a le prime diverse;
+> Vidi bene come coprì l'inizio del discorso con quello che venne dopo, parole diverse dalle prime;
+
+13
+ma nondimen paura il suo dir dienne,
+perch’io traeva la parola tronca
+forse a peggior sentenzia che non tenne.
+> ma tuttavia il suo dire mi fece paura, perché io davo alla frase interrotta forse un senso peggiore di quello che aveva.
+
+16
+"In questo fondo de la trista conca
+discende mai alcun del primo grado,
+che sol per pena ha la speranza cionca?".
+> «In questo fondo della triste conca scende mai qualcuno del primo cerchio, che ha come unica pena la speranza troncata?»
+
+19
+Questa question fec’io; e quei "Di rado
+incontra", mi rispuose, "che di noi
+faccia il cammino alcun per qual io vado.
+> Questa domanda feci io; e lui: «Capita di rado», mi rispose, «che qualcuno di noi faccia il cammino per cui vado io.
+
+22
+Ver è ch’altra fïata qua giù fui,
+congiurato da quella Eritón cruda
+che richiamava l’ombre a’ corpi sui.
+> È vero che un'altra volta venni quaggiù, evocato da quella crudele Eritone che richiamava le ombre nei loro corpi.
+
+25
+Di poco era di me la carne nuda,
+ch’ella mi fece intrar dentr’a quel muro,
+per trarne un spirto del cerchio di Giuda.
+> Da poco la mia carne era rimasta priva di me quando lei mi fece entrare dentro quel muro per trarne uno spirito dal cerchio di Giuda.
+
+28
+Quell’è ’l più basso loco e ’l più oscuro,
+e ’l più lontan dal ciel che tutto gira:
+ben so ’l cammin; però ti fa sicuro.
+> Quello è il luogo più basso e più buio e il più lontano dal cielo che fa girare ogni cosa: conosco bene la strada, perciò stai sicuro.
+
+31
+Questa palude che ’l gran puzzo spira
+cigne dintorno la città dolente,
+u’ non potemo intrare omai sanz’ira".
+> Questa palude che esala un grande puzzo circonda tutt'intorno la città del dolore, dove ormai non possiamo entrare senza contrasto.»
+
+## scena-2 | citta-di-dite | Le Furie e la minaccia di Medusa
+personaggi: dante, virgilio, furie, medusa
+tavola: dore | Le Furie | File:DVinfernoMegaeraTisifphoneAlecto m.jpg
+sintesi: Sulla torre compaiono le tre Furie, coperte di sangue, con serpenti al posto dei capelli: Megera, Aletto e Tesifone. Si graffiano il petto e invocano Medusa per trasformare Dante in pietra. Virgilio lo fa voltare e gli copre gli occhi con le sue mani. Dante invita il lettore a cercare il significato nascosto sotto i versi.
+
+34
+E altro disse, ma non l’ ho a mente;
+però che l’occhio m’avea tutto tratto
+ver’ l’alta torre a la cima rovente,
+> E disse altro, ma non lo ricordo, perché l'occhio mi aveva tutto attirato verso l'alta torre dalla cima infuocata,
+
+37
+dove in un punto furon dritte ratto
+tre furïe infernal di sangue tinte,
+che membra feminine avieno e atto,
+> dove in un attimo si erano drizzate tre Furie infernali tinte di sangue, che avevano membra e atteggiamenti femminili,
+
+40
+e con idre verdissime eran cinte;
+serpentelli e ceraste avien per crine,
+onde le fiere tempie erano avvinte.
+> ed erano cinte di idre verdissime; avevano per capelli serpentelli e ceraste, che avvolgevano le tempie feroci.
+
+43
+E quei, che ben conobbe le meschine
+de la regina de l’etterno pianto,
+"Guarda", mi disse, "le feroci Erine.
+> E lui, che conosceva bene le ancelle della regina del pianto eterno [Proserpina], mi disse: «Guarda le feroci Erinni.
+
+46
+Quest’è Megera dal sinistro canto;
+quella che piange dal destro è Aletto;
+Tesifón è nel mezzo"; e tacque a tanto.
+> Questa a sinistra è Megera; quella che piange a destra è Aletto; Tesifone è nel mezzo»; e a questo punto tacque.
+
+49
+Con l’unghie si fendea ciascuna il petto;
+battiensi a palme e gridavan sì alto,
+ch’i’ mi strinsi al poeta per sospetto.
+> Ciascuna si squarciava il petto con le unghie; si battevano con le palme e gridavano così forte che per timore mi strinsi al poeta.
+
+52
+"Vegna Medusa: sì ’l farem di smalto",
+dicevan tutte riguardando in giuso;
+"mal non vengiammo in Tesëo l’assalto".
+> «Venga Medusa: così lo faremo di pietra», dicevano tutte guardando in giù; «abbiamo fatto male a non vendicare l'assalto di Teseo.»
+
+55
+"Volgiti ’n dietro e tien lo viso chiuso;
+ché se ’l Gorgón si mostra e tu ’l vedessi,
+nulla sarebbe di tornar mai suso".
+> «Voltati indietro e tieni gli occhi chiusi, perché se la Gorgone si mostra e tu la vedessi, non ci sarebbe più modo di tornare su.»
+
+58
+Così disse ’l maestro; ed elli stessi
+mi volse, e non si tenne a le mie mani,
+che con le sue ancor non mi chiudessi.
+> Così disse il maestro; e lui stesso mi voltò, e non si fidò delle mie mani, tanto che mi coprì gli occhi anche con le sue.
+
+61
+O voi ch’avete li ’ntelletti sani,
+mirate la dottrina che s’asconde
+sotto ’l velame de li versi strani.
+> O voi che avete l'intelletto sano, osservate l'insegnamento che si nasconde sotto il velo di questi versi misteriosi.
+
+## scena-3 | citta-di-dite | Il messo celeste apre la porta
+personaggi: dante, virgilio, messo-celeste
+tavola: dore | Il messo celeste | img/dore/inferno-09-messo-celeste-960.jpg | File:Gottliche Komodie. T. 1, Die Holle 1870 (148618511).jpg
+sintesi: Con un fragore come di uragano arriva un messo del cielo che attraversa lo Stige a piedi asciutti, mentre i dannati fuggono come rane davanti alla biscia. Sdegnato, apre la porta con una verghetta, rimprovera i diavoli per la loro arroganza e se ne va senza una parola per i due poeti.
+
+64
+E già venìa su per le torbide onde
+un fracasso d’un suon, pien di spavento,
+per cui tremavano amendue le sponde,
+> E già veniva su per le onde torbide il fracasso di un suono pieno di spavento, che faceva tremare entrambe le rive,
+
+67
+non altrimenti fatto che d’un vento
+impetüoso per li avversi ardori,
+che fier la selva e sanz’alcun rattento
+> simile a quello di un vento impetuoso, nato dallo scontro di correnti calde, che colpisce la foresta e senza alcun freno
+
+70
+li rami schianta, abbatte e porta fori;
+dinanzi polveroso va superbo,
+e fa fuggir le fiere e li pastori.
+> schianta i rami, li abbatte e li porta via; avanza superbo, preceduto dalla polvere, e fa fuggire le belve e i pastori.
+
+73
+Li occhi mi sciolse e disse: "Or drizza il nerbo
+del viso su per quella schiuma antica
+per indi ove quel fummo è più acerbo".
+> Mi liberò gli occhi e disse: «Ora drizza la forza dello sguardo su quella schiuma antica, verso il punto dove quel fumo è più denso.»
+
+76
+Come le rane innanzi a la nimica
+biscia per l’acqua si dileguan tutte,
+fin ch’a la terra ciascuna s’abbica,
+> Come le rane davanti alla biscia nemica scompaiono tutte nell'acqua, finché ciascuna si rannicchia sul fondo,
+
+79
+vid’io più di mille anime distrutte
+fuggir così dinanzi ad un ch’al passo
+passava Stige con le piante asciutte.
+> così vidi più di mille anime dannate fuggire davanti a uno che a passo attraversava lo Stige con i piedi asciutti.
+
+82
+Dal volto rimovea quell’aere grasso,
+menando la sinistra innanzi spesso;
+e sol di quell’angoscia parea lasso.
+> Allontanava dal volto quell'aria densa, agitando spesso davanti a sé la mano sinistra; e solo di quel fastidio sembrava stanco.
+
+85
+Ben m’accorsi ch’elli era da ciel messo,
+e volsimi al maestro; e quei fé segno
+ch’i’ stessi queto ed inchinassi ad esso.
+> Capii bene che era un messo del cielo e mi volsi al maestro; e lui mi fece segno di stare zitto e di inchinarmi davanti a lui.
+
+88
+Ahi quanto mi parea pien di disdegno!
+Venne a la porta e con una verghetta
+l’aperse, che non v’ebbe alcun ritegno.
+> Ah, quanto mi sembrava pieno di sdegno! Arrivò alla porta e la aprì con una verghetta, senza che ci fosse alcuna resistenza.
+
+91
+"O cacciati del ciel, gente dispetta",
+cominciò elli in su l’orribil soglia,
+"ond’esta oltracotanza in voi s’alletta?
+> «O cacciati dal cielo, gente disprezzata», cominciò sull'orribile soglia, «da dove nasce in voi questa arroganza?
+
+94
+Perché recalcitrate a quella voglia
+a cui non puote il fin mai esser mozzo,
+e che più volte v’ ha cresciuta doglia?
+> Perché vi ribellate a quella volontà che non può mai essere fermata nel suo fine e che più volte vi ha accresciuto il dolore?
+
+97
+Che giova ne le fata dar di cozzo?
+Cerbero vostro, se ben vi ricorda,
+ne porta ancor pelato il mento e ’l gozzo".
+> A che serve dare cornate contro il destino? Il vostro Cerbero, se ben ricordate, ne porta ancora il mento e il collo spelati.»
+
+100
+Poi si rivolse per la strada lorda,
+e non fé motto a noi, ma fé sembiante
+d’omo cui altra cura stringa e morda
+> Poi tornò indietro per la strada fangosa e non ci disse una parola, ma ebbe l'aspetto di un uomo stretto e pungolato da altre preoccupazioni
+
+103
+che quella di colui che li è davante;
+e noi movemmo i piedi inver’ la terra,
+sicuri appresso le parole sante.
+> che non quella di chi gli sta davanti; e noi muovemmo i piedi verso la città, sicuri dopo le parole sante.
+
+## scena-4 | cerchio-6 | Le tombe infuocate degli eretici
+personaggi: dante, virgilio
+tavola: dore | Le tombe degli eretici | img/dore/inferno-09-tombe-eretici-960.jpg | File:Gottliche Komodie. T. 1, Die Holle 1870 (148618533).jpg
+sintesi: Dentro le mura si apre una pianura piena di sepolcri, come i cimiteri di Arles e di Pola, ma arroventati da fiamme sparse tra le tombe. I coperchi sono sollevati e ne escono lamenti: sono gli eresiarchi con i loro seguaci. I due proseguono tra le tombe e le mura.
+
+106
+Dentro li ’ntrammo sanz’alcuna guerra;
+e io, ch’avea di riguardar disio
+la condizion che tal fortezza serra,
+> Entrammo senza alcuna battaglia; e io, che avevo desiderio di osservare la condizione rinchiusa in una tale fortezza,
+
+109
+com’io fui dentro, l’occhio intorno invio:
+e veggio ad ogne man grande campagna,
+piena di duolo e di tormento rio.
+> appena fui dentro mando l'occhio intorno: e vedo da ogni parte una grande pianura piena di dolore e di tormento crudele.
+
+112
+Sì come ad Arli, ove Rodano stagna,
+sì com’a Pola, presso del Carnaro
+ch’Italia chiude e suoi termini bagna,
+> Come ad Arles, dove il Rodano ristagna, e come a Pola, vicino al Quarnaro che chiude l'Italia e bagna i suoi confini,
+
+115
+fanno i sepulcri tutt’il loco varo,
+così facevan quivi d’ogne parte,
+salvo che ’l modo v’era più amaro;
+> i sepolcri rendono tutto il terreno irregolare, così facevano qui da ogni parte, salvo che il modo era più amaro;
+
+118
+ché tra li avelli fiamme erano sparte,
+per le quali eran sì del tutto accesi,
+che ferro più non chiede verun’arte.
+> perché tra le tombe erano sparse fiamme, che le arroventavano tanto che nessun mestiere richiede un ferro più rovente.
+
+121
+Tutti li lor coperchi eran sospesi,
+e fuor n’uscivan sì duri lamenti,
+che ben parean di miseri e d’offesi.
+> Tutti i loro coperchi erano sollevati, e ne uscivano lamenti così duri che sembravano proprio di gente misera e tormentata.
+
+124
+E io: "Maestro, quai son quelle genti
+che, seppellite dentro da quell’arche,
+si fan sentir coi sospiri dolenti?".
+> E io: «Maestro, chi sono quelle persone che, sepolte dentro quelle arche, si fanno sentire con sospiri di dolore?»
+
+127
+E quelli a me: "Qui son li eresïarche
+con lor seguaci, d’ogne setta, e molto
+più che non credi son le tombe carche.
+> E lui a me: «Qui ci sono gli eresiarchi con i loro seguaci, di ogni setta, e le tombe sono piene molto più di quanto credi.
+
+130
+Simile qui con simile è sepolto,
+e i monimenti son più e men caldi".
+E poi ch’a la man destra si fu vòlto,
+> Qui il simile è sepolto con il simile, e le tombe sono più o meno roventi.» E dopo che si fu voltato a destra,
+
+133
+passammo tra i martìri e li alti spaldi.
+> passammo tra i tormenti e le alte mura.
+
+## personaggio | eritone | Eritone
+dibattuto: no
+chi_era: Maga della Tessaglia che, nella Farsaglia di Lucano, richiama in vita un soldato morto per predire l'esito della guerra civile. L'evocazione di Virgilio da parte sua è un'invenzione di Dante.
+
+## personaggio | furie | Le Furie
+dibattuto: no
+chi_era: Le Erinni della mitologia greca, Megera, Aletto e Tesifone, divinità della vendetta; nel poema sono ancelle di Proserpina e custodi della città di Dite.
+
+## personaggio | medusa | Medusa
+dibattuto: sì
+chi_era: Una delle Gorgoni del mito greco, con serpenti per capelli: chi la guardava diventava di pietra. Nel canto è solo invocata dalle Furie; il suo significato allegorico (disperazione, eresia, lussuria) è discusso.
+
+## personaggio | messo-celeste | Il messo celeste
+dibattuto: sì
+chi_era: Inviato del cielo che apre a Dante e Virgilio la porta di Dite. Per lo più è inteso come un angelo; alcuni commentatori vi hanno visto Mercurio, Enea o altri.

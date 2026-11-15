@@ -1,0 +1,297 @@
+{
+  "cantica": "inferno",
+  "canto": 7,
+  "titolo": "Pluto, avari e prodighi, la Fortuna, lo Stige",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_VII",
+  "numero_versi": 130,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 15],
+      "titolo_scena": "Pluto",
+      "sintesi": "Pluto grida parole oscure e minacciose. Virgilio rassicura Dante e zittisce il demonio ricordando che il viaggio è voluto in cielo: Pluto crolla a terra come una vela quando si spezza l'albero.",
+      "luogo_id": "cerchio-4",
+      "personaggi": ["dante", "virgilio", "pluto"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Pluto",
+          "url": "img/dore/inferno-07-pluto-960.jpg",
+          "miniatura": "img/dore/inferno-07-pluto-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._1,_Die_Holle_1870_(148618374).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [16, 60],
+      "titolo_scena": "Avari e prodighi",
+      "sintesi": "Nel quarto cerchio due schiere di anime spingono col petto enormi pesi lungo mezzo cerchio, si scontrano gridandosi insulti e tornano indietro. Sono gli avari e i prodighi, tra cui molti chierici, papi e cardinali: irriconoscibili, perché la loro vita fu senza discernimento.",
+      "luogo_id": "cerchio-4",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Avari e prodighi",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_22_%28Canto_VII_-_Hoarders_and_Wasters%29.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_22_%28Canto_VII_-_Hoarders_and_Wasters%29.jpg/960px-Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_22_%28Canto_VII_-_Hoarders_and_Wasters%29.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_22_(Canto_VII_-_Hoarders_and_Wasters).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [61, 96],
+      "titolo_scena": "La Fortuna",
+      "sintesi": "Virgilio spiega chi è la Fortuna: un'intelligenza celeste che Dio ha messo a governare i beni del mondo, spostandoli da un popolo all'altro secondo un giudizio nascosto agli uomini. Chi la maledice ha torto: lei è beata e non ascolta.",
+      "luogo_id": "cerchio-4",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": []
+    },
+    {
+      "id": "scena-4",
+      "versi": [97, 130],
+      "titolo_scena": "La palude Stige e gli iracondi",
+      "sintesi": "È passata la mezzanotte. I due scendono lungo un ruscello scuro che forma la palude Stige: nel fango gli iracondi si percuotono e si mordono, mentre sott'acqua gli accidiosi sospirano facendo gorgogliare la superficie. Girando la palude arrivano ai piedi di una torre.",
+      "luogo_id": "cerchio-5",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Gli iracondi nello Stige",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/DVinfernoVirgilShowSoulsOfWrathful_m.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/DVinfernoVirgilShowSoulsOfWrathful_m.jpg/960px-DVinfernoVirgilShowSoulsOfWrathful_m.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:DVinfernoVirgilShowSoulsOfWrathful_m.jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "\"Pape Satàn, pape Satàn aleppe!\",\ncominciò Pluto con la voce chioccia;\ne quel savio gentil, che tutto seppe,",
+      "parafrasi": "«Pape Satàn, pape Satàn aleppe!» cominciò Pluto con la voce rauca; e quel saggio gentile, che sapeva tutto,"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "disse per confortarmi: \"Non ti noccia\nla tua paura; ché, poder ch’elli abbia,\nnon ci torrà lo scender questa roccia\".",
+      "parafrasi": "disse per confortarmi: «Non ti faccia male la paura: per quanto potere abbia, non ci impedirà di scendere questa roccia.»"
+    },
+    {
+      "versi": [7, 9],
+      "testo": "Poi si rivolse a quella ’nfiata labbia,\ne disse: \"Taci, maladetto lupo!\nconsuma dentro te con la tua rabbia.",
+      "parafrasi": "Poi si rivolse a quella faccia gonfia e disse: «Taci, lupo maledetto! Consumati dentro con la tua rabbia."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "Non è sanza cagion l’andare al cupo:\nvuolsi ne l’alto, là dove Michele\nfé la vendetta del superbo strupo\".",
+      "parafrasi": "Non è senza ragione questo andare nel profondo: lo si vuole in cielo, là dove Michele punì la ribellione superba [degli angeli].»"
+    },
+    {
+      "versi": [13, 15],
+      "testo": "Quali dal vento le gonfiate vele\ncaggiono avvolte, poi che l’alber fiacca,\ntal cadde a terra la fiera crudele.",
+      "parafrasi": "Come le vele gonfiate dal vento cadono afflosciate quando l'albero si spezza, così cadde a terra la belva crudele."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "Così scendemmo ne la quarta lacca,\npigliando più de la dolente ripa\nche ’l mal de l’universo tutto insacca.",
+      "parafrasi": "Così scendemmo nella quarta conca, avanzando lungo la riva dolorosa che racchiude tutto il male dell'universo."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "Ahi giustizia di Dio! tante chi stipa\nnove travaglie e pene quant’io viddi?\ne perché nostra colpa sì ne scipa?",
+      "parafrasi": "Ah, giustizia di Dio! Chi accumula tante nuove fatiche e pene quante io ne vidi? E perché la nostra colpa ci strazia così?"
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Come fa l’onda là sovra Cariddi,\nche si frange con quella in cui s’intoppa,\ncosì convien che qui la gente riddi.",
+      "parafrasi": "Come fa l'onda là sopra Cariddi, che si infrange contro quella che le viene incontro, così qui la gente è costretta a girare in tondo."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Qui vid’i’ gente più ch’altrove troppa,\ne d’una parte e d’altra, con grand’urli,\nvoltando pesi per forza di poppa.",
+      "parafrasi": "Qui vidi gente più numerosa che altrove, da una parte e dall'altra, che con grandi urla rotolava pesi spingendoli col petto."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Percotëansi ’ncontro; e poscia pur lì\nsi rivolgea ciascun, voltando a retro,\ngridando: \"Perché tieni?\" e \"Perché burli?\".",
+      "parafrasi": "Si urtavano l'una contro l'altra, e poi proprio lì ciascuno si voltava, tornando indietro e gridando: «Perché tieni?» e «Perché sprechi?»."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "Così tornavan per lo cerchio tetro\nda ogne mano a l’opposito punto,\ngridandosi anche loro ontoso metro;",
+      "parafrasi": "Così tornavano per il cerchio buio, da entrambi i lati, fino al punto opposto, gridandosi ancora il loro ritornello di insulti;"
+    },
+    {
+      "versi": [34, 36],
+      "testo": "poi si volgea ciascun, quand’era giunto,\nper lo suo mezzo cerchio a l’altra giostra.\nE io, ch’avea lo cor quasi compunto,",
+      "parafrasi": "poi, arrivato lì, ciascuno si voltava lungo il suo mezzo cerchio verso l'altro scontro. E io, che avevo il cuore quasi trafitto,"
+    },
+    {
+      "versi": [37, 39],
+      "testo": "dissi: \"Maestro mio, or mi dimostra\nche gente è questa, e se tutti fuor cherci\nquesti chercuti a la sinistra nostra\".",
+      "parafrasi": "dissi: «Maestro mio, ora spiegami che gente è questa, e se furono tutti chierici questi con la tonsura alla nostra sinistra.»"
+    },
+    {
+      "versi": [40, 42],
+      "testo": "Ed elli a me: \"Tutti quanti fuor guerci\nsì de la mente in la vita primaia,\nche con misura nullo spendio ferci.",
+      "parafrasi": "E lui a me: «Furono tutti così storti di mente nella prima vita che non vi fecero alcuna spesa con misura."
+    },
+    {
+      "versi": [43, 45],
+      "testo": "Assai la voce lor chiaro l’abbaia,\nquando vegnono a’ due punti del cerchio\ndove colpa contraria li dispaia.",
+      "parafrasi": "Lo grida ben chiaro la loro voce quando arrivano ai due punti del cerchio dove la colpa opposta li separa."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Questi fuor cherci, che non han coperchio\npiloso al capo, e papi e cardinali,\nin cui usa avarizia il suo soperchio\".",
+      "parafrasi": "Questi, che non hanno capelli in testa, furono chierici, e papi e cardinali, nei quali l'avarizia raggiunge il suo eccesso.»"
+    },
+    {
+      "versi": [49, 51],
+      "testo": "E io: \"Maestro, tra questi cotali\ndovre’ io ben riconoscere alcuni\nche furo immondi di cotesti mali\".",
+      "parafrasi": "E io: «Maestro, tra questi dovrei ben riconoscere alcuni che furono sporcati da questi vizi.»"
+    },
+    {
+      "versi": [52, 54],
+      "testo": "Ed elli a me: \"Vano pensiero aduni:\nla sconoscente vita che i fé sozzi,\nad ogne conoscenza or li fa bruni.",
+      "parafrasi": "E lui a me: «Fai un pensiero vano: la vita senza discernimento che li rese sozzi ora li rende scuri a ogni riconoscimento."
+    },
+    {
+      "versi": [55, 57],
+      "testo": "In etterno verranno a li due cozzi:\nquesti resurgeranno del sepulcro\ncol pugno chiuso, e questi coi crin mozzi.",
+      "parafrasi": "Per l'eternità verranno ai due scontri: questi risorgeranno dal sepolcro con il pugno chiuso, e questi con i capelli tagliati."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Mal dare e mal tener lo mondo pulcro\nha tolto loro, e posti a questa zuffa:\nqual ella sia, parole non ci appulcro.",
+      "parafrasi": "Il dare male e il tenere male ha tolto loro il bel mondo [il Paradiso] e li ha messi in questa zuffa: quale sia, non sto ad abbellirlo con parole."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Or puoi, figliuol, veder la corta buffa\nd’i ben che son commessi a la fortuna,\nper che l’umana gente si rabuffa;",
+      "parafrasi": "Ora, figlio, puoi vedere la breve beffa dei beni affidati alla fortuna, per i quali gli uomini si accapigliano;"
+    },
+    {
+      "versi": [64, 66],
+      "testo": "ché tutto l’oro ch’è sotto la luna\ne che già fu, di quest’anime stanche\nnon poterebbe farne posare una\".",
+      "parafrasi": "perché tutto l'oro che c'è sotto la luna, e che ci fu, non potrebbe far riposare una sola di queste anime stanche.»"
+    },
+    {
+      "versi": [67, 69],
+      "testo": "\"Maestro mio\", diss’io, \"or mi dì anche:\nquesta fortuna di che tu mi tocche,\nche è, che i ben del mondo ha sì tra branche?\".",
+      "parafrasi": "«Maestro mio», dissi, «ora dimmi anche: questa fortuna di cui mi parli, che cos'è, che tiene così tra gli artigli i beni del mondo?»"
+    },
+    {
+      "versi": [70, 72],
+      "testo": "E quelli a me: \"Oh creature sciocche,\nquanta ignoranza è quella che v’offende!\nOr vo’ che tu mia sentenza ne ’mbocche.",
+      "parafrasi": "E lui a me: «O creature sciocche, quanta ignoranza vi danneggia! Ora voglio che tu accolga il mio insegnamento."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Colui lo cui saver tutto trascende,\nfece li cieli e diè lor chi conduce\nsì, ch’ogne parte ad ogne parte splende,",
+      "parafrasi": "Colui la cui sapienza supera ogni cosa [Dio] fece i cieli e diede loro chi li guida [le intelligenze angeliche], in modo che ogni parte risplenda su ogni parte,"
+    },
+    {
+      "versi": [76, 78],
+      "testo": "distribuendo igualmente la luce.\nSimilemente a li splendor mondani\nordinò general ministra e duce",
+      "parafrasi": "distribuendo la luce in modo uguale. Allo stesso modo per gli splendori del mondo stabilì una ministra e guida generale"
+    },
+    {
+      "versi": [79, 81],
+      "testo": "che permutasse a tempo li ben vani\ndi gente in gente e d’uno in altro sangue,\noltre la difension d’i senni umani;",
+      "parafrasi": "che di tempo in tempo spostasse i beni vani da popolo a popolo e da una famiglia all'altra, al di là di ogni difesa della prudenza umana;"
+    },
+    {
+      "versi": [82, 84],
+      "testo": "per ch’una gente impera e l’altra langue,\nseguendo lo giudicio di costei,\nche è occulto come in erba l’angue.",
+      "parafrasi": "per cui un popolo domina e l'altro decade, seguendo il giudizio di costei, che è nascosto come il serpente nell'erba."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "Vostro saver non ha contasto a lei:\nquesta provede, giudica, e persegue\nsuo regno come il loro li altri dèi.",
+      "parafrasi": "La vostra sapienza non può contrastarla: lei provvede, giudica e governa il suo regno come gli altri dèi [le altre intelligenze] il loro."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Le sue permutazion non hanno triegue:\nnecessità la fa esser veloce;\nsì spesso vien chi vicenda consegue.",
+      "parafrasi": "I suoi mutamenti non hanno tregua: la necessità la fa essere veloce, perciò spesso arriva chi ottiene il cambiamento."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Quest’è colei ch’è tanto posta in croce\npur da color che le dovrien dar lode,\ndandole biasmo a torto e mala voce;",
+      "parafrasi": "Questa è colei che viene tanto crocifissa proprio da quelli che dovrebbero lodarla, biasimandola a torto e parlandone male;"
+    },
+    {
+      "versi": [94, 96],
+      "testo": "ma ella s’è beata e ciò non ode:\ncon l’altre prime creature lieta\nvolve sua spera e beata si gode.",
+      "parafrasi": "ma lei è beata e non sente: lieta con le altre prime creature fa girare la sua sfera e gode della sua beatitudine."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Or discendiamo omai a maggior pieta;\ngià ogne stella cade che saliva\nquand’io mi mossi, e ’l troppo star si vieta\".",
+      "parafrasi": "Ora scendiamo ormai verso una pena maggiore: già tramonta ogni stella che saliva quando mi mossi, e fermarsi troppo è vietato.»"
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Noi ricidemmo il cerchio a l’altra riva\nsovr’una fonte che bolle e riversa\nper un fossato che da lei deriva.",
+      "parafrasi": "Attraversammo il cerchio fino all'altra riva, sopra una sorgente che bolle e si riversa in un fossato che nasce da lei."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "L’acqua era buia assai più che persa;\ne noi, in compagnia de l’onde bige,\nintrammo giù per una via diversa.",
+      "parafrasi": "L'acqua era molto più scura che violacea; e noi, accompagnati dalle onde grigie, entrammo giù per una via strana."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "In la palude va c’ ha nome Stige\nquesto tristo ruscel, quand’è disceso\nal piè de le maligne piagge grige.",
+      "parafrasi": "Questo ruscello triste, quando è sceso ai piedi dei pendii grigi e malvagi, va a finire nella palude che si chiama Stige."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "E io, che di mirare stava inteso,\nvidi genti fangose in quel pantano,\nignude tutte, con sembiante offeso.",
+      "parafrasi": "E io, che stavo intento a guardare, vidi in quel pantano gente coperta di fango, tutta nuda, con l'aspetto furioso."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Queste si percotean non pur con mano,\nma con la testa e col petto e coi piedi,\ntroncandosi co’ denti a brano a brano.",
+      "parafrasi": "Questi si percuotevano non solo con le mani, ma con la testa, il petto e i piedi, strappandosi a morsi la carne a pezzo a pezzo."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "Lo buon maestro disse: \"Figlio, or vedi\nl’anime di color cui vinse l’ira;\ne anche vo’ che tu per certo credi",
+      "parafrasi": "Il buon maestro disse: «Figlio, ora vedi le anime di coloro che furono vinti dall'ira; e voglio anche che tu creda per certo"
+    },
+    {
+      "versi": [118, 120],
+      "testo": "che sotto l’acqua è gente che sospira,\ne fanno pullular quest’acqua al summo,\ncome l’occhio ti dice, u’ che s’aggira.",
+      "parafrasi": "che sotto l'acqua c'è gente che sospira e fa gorgogliare la superficie, come ti dice l'occhio dovunque si volga."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "Fitti nel limo dicon: \"Tristi fummo\nne l’aere dolce che dal sol s’allegra,\nportando dentro accidïoso fummo:",
+      "parafrasi": "Confitti nel fango dicono: \"Fummo tristi nell'aria dolce che si rallegra del sole, portando dentro un fumo di accidia:"
+    },
+    {
+      "versi": [124, 126],
+      "testo": "or ci attristiam ne la belletta negra\".\nQuest’inno si gorgoglian ne la strozza,\nché dir nol posson con parola integra\".",
+      "parafrasi": "ora ci rattristiamo nella melma nera\". Questo inno se lo gorgogliano in gola, perché non possono dirlo con parole intere.»"
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Così girammo de la lorda pozza\ngrand’arco, tra la ripa secca e ’l mézzo,\ncon li occhi vòlti a chi del fango ingozza.",
+      "parafrasi": "Così girammo un grande arco di quella pozza sporca, tra la riva asciutta e il pantano, con gli occhi rivolti a chi ingoia il fango."
+    },
+    {
+      "versi": [130, 130],
+      "testo": "Venimmo al piè d’una torre al da sezzo.",
+      "parafrasi": "Alla fine arrivammo ai piedi di una torre."
+    }
+  ]
+}

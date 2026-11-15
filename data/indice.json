@@ -5,6 +5,13 @@
       "nome": "Gustave Doré",
       "breve": "Doré",
       "opera": "Incisioni per l'Inferno, 1861"
+    },
+    {
+      "id": "ia",
+      "nome": "Illustrazione generata con IA",
+      "breve": "IA",
+      "opera": "Gemini, nello stile di Doré",
+      "secondario": true
     }
   ],
   "cantiche": [
@@ -40,6 +47,180 @@
           "canto": 5,
           "titolo": "Minosse, i lussuriosi, Paolo e Francesca",
           "file": "data/inferno/canto-05.json",
+          "disponibile": true
+        },
+        {
+          "canto": 6,
+          "titolo": "Cerbero, i golosi, Ciacco",
+          "file": "data/inferno/canto-06.json",
+          "disponibile": true
+        },
+        {
+          "canto": 7,
+          "titolo": "Pluto, avari e prodighi, la Fortuna, lo Stige",
+          "file": "data/inferno/canto-07.json",
+          "disponibile": true
+        },
+        {
+          "canto": 8,
+          "titolo": "Flegiàs, Filippo Argenti, le porte di Dite",
+          "file": "data/inferno/canto-08.json",
+          "disponibile": true
+        },
+        {
+          "canto": 9,
+          "titolo": "Le Furie, il messo celeste, gli eretici",
+          "file": "data/inferno/canto-09.json",
+          "disponibile": true
+        },
+        {
+          "canto": 10,
+          "titolo": "Farinata e Cavalcante",
+          "file": "data/inferno/canto-10.json",
+          "disponibile": true
+        },
+        {
+          "canto": 11,
+          "titolo": "L'ordinamento dell'Inferno",
+          "file": "data/inferno/canto-11.json",
+          "disponibile": true
+        },
+        {
+          "canto": 12,
+          "titolo": "Il Minotauro, i centauri, i violenti nel Flegetonte",
+          "file": "data/inferno/canto-12.json",
+          "disponibile": true
+        },
+        {
+          "canto": 13,
+          "titolo": "La selva dei suicidi, Pier delle Vigne, gli scialacquatori",
+          "file": "data/inferno/canto-13.json",
+          "disponibile": true
+        },
+        {
+          "canto": 14,
+          "titolo": "Il sabbione infuocato, Capaneo, il Veglio di Creta",
+          "file": "data/inferno/canto-14.json",
+          "disponibile": true
+        },
+        {
+          "canto": 15,
+          "titolo": "Brunetto Latini",
+          "file": "data/inferno/canto-15.json",
+          "disponibile": true
+        },
+        {
+          "canto": 16,
+          "titolo": "I tre fiorentini, la cascata, il segnale per Gerione",
+          "file": "data/inferno/canto-16.json",
+          "disponibile": true
+        },
+        {
+          "canto": 17,
+          "titolo": "Gerione e gli usurai",
+          "file": "data/inferno/canto-17.json",
+          "disponibile": true
+        },
+        {
+          "canto": 18,
+          "titolo": "Malebolge: ruffiani, seduttori, adulatori",
+          "file": "data/inferno/canto-18.json",
+          "disponibile": true
+        },
+        {
+          "canto": 19,
+          "titolo": "I simoniaci, papa Niccolò III",
+          "file": "data/inferno/canto-19.json",
+          "disponibile": true
+        },
+        {
+          "canto": 20,
+          "titolo": "Gli indovini",
+          "file": "data/inferno/canto-20.json",
+          "disponibile": true
+        },
+        {
+          "canto": 21,
+          "titolo": "I barattieri e i Malebranche",
+          "file": "data/inferno/canto-21.json",
+          "disponibile": true
+        },
+        {
+          "canto": 22,
+          "titolo": "Ciampolo di Navarra e la zuffa dei diavoli",
+          "file": "data/inferno/canto-22.json",
+          "disponibile": true
+        },
+        {
+          "canto": 23,
+          "titolo": "La fuga dai Malebranche, gli ipocriti",
+          "file": "data/inferno/canto-23.json",
+          "disponibile": true
+        },
+        {
+          "canto": 24,
+          "titolo": "La salita, i ladri e i serpenti, Vanni Fucci",
+          "file": "data/inferno/canto-24.json",
+          "disponibile": true
+        },
+        {
+          "canto": 25,
+          "titolo": "Caco e le metamorfosi dei ladri",
+          "file": "data/inferno/canto-25.json",
+          "disponibile": true
+        },
+        {
+          "canto": 26,
+          "titolo": "I consiglieri fraudolenti, Ulisse",
+          "file": "data/inferno/canto-26.json",
+          "disponibile": true
+        },
+        {
+          "canto": 27,
+          "titolo": "Guido da Montefeltro",
+          "file": "data/inferno/canto-27.json",
+          "disponibile": true
+        },
+        {
+          "canto": 28,
+          "titolo": "I seminatori di discordia, Bertran de Born",
+          "file": "data/inferno/canto-28.json",
+          "disponibile": true
+        },
+        {
+          "canto": 29,
+          "titolo": "Geri del Bello, i falsari: Griffolino e Capocchio",
+          "file": "data/inferno/canto-29.json",
+          "disponibile": true
+        },
+        {
+          "canto": 30,
+          "titolo": "Gianni Schicchi, Mirra, maestro Adamo e Sinone",
+          "file": "data/inferno/canto-30.json",
+          "disponibile": true
+        },
+        {
+          "canto": 31,
+          "titolo": "I giganti: Nembrot, Fialte, Anteo",
+          "file": "data/inferno/canto-31.json",
+          "disponibile": true
+        },
+        {
+          "canto": 32,
+          "titolo": "Cocito: Caina e Antenora, Bocca degli Abati",
+          "file": "data/inferno/canto-32.json",
+          "disponibile": true
+        },
+        {
+          "canto": 33,
+          "titolo": "Il conte Ugolino, frate Alberigo",
+          "file": "data/inferno/canto-33.json",
+          "disponibile": true
+        },
+        {
+          "canto": 34,
+          "titolo": "Lucifero, l'uscita a riveder le stelle",
+          "file": "data/inferno/canto-34.json",
           "disponibile": true
         }
       ]

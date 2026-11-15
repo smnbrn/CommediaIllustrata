@@ -1,0 +1,346 @@
+# Inferno, canto I
+titolo: La selva oscura
+
+## scena-1 | selva-oscura | Lo smarrimento nella selva
+personaggi: dante
+tavola: dore | Dante smarrito nella selva oscura | File:Gustave Doré - Dante Alighieri - Inferno - Plate 1 (I found myself within a forest dark...).jpg
+sintesi: A metà della vita Dante si ritrova in una selva oscura, avendo perso la via giusta; non sa dire come vi sia entrato, tanto era pieno di sonno.
+
+1
+Nel mezzo del cammin di nostra vita
+mi ritrovai per una selva oscura,
+ché la diritta via era smarrita.
+> A metà del cammino della nostra vita mi ritrovai in una selva buia, perché avevo smarrito la strada giusta.
+
+4
+Ahi quanto a dir qual era è cosa dura
+esta selva selvaggia e aspra e forte
+che nel pensier rinova la paura!
+> Ah, quanto è difficile dire com'era questa selva selvaggia, intricata e impenetrabile, che solo a ripensarci rinnova la paura!
+
+7
+Tant’è amara che poco è più morte;
+ma per trattar del ben ch’i’ vi trovai,
+dirò de l’altre cose ch’i’ v’ ho scorte.
+> È così amara che la morte lo è poco di più; ma per parlare del bene che vi trovai, racconterò anche le altre cose che lì ho visto.
+
+10
+Io non so ben ridir com’i’ v’intrai,
+tant’era pien di sonno a quel punto
+che la verace via abbandonai.
+> Non so ridire bene come vi entrai, tanto ero pieno di sonno nel momento in cui abbandonai la strada vera.
+
+## scena-2 | colle | Il colle illuminato dal sole
+personaggi: dante
+tavola: ia | Dante ai piedi del colle illuminato dal sole | img/ia/inferno-01-scena-2.jpg
+sintesi: Giunto ai piedi di un colle, Dante vede la cima già illuminata dal sole e la paura si calma; come un naufrago scampato si volta a guardare il passo pericoloso, poi riprende a salire.
+
+13
+Ma poi ch’i’ fui al piè d’un colle giunto,
+là dove terminava quella valle
+che m’avea di paura il cor compunto,
+> Ma quando giunsi ai piedi di un colle, là dove finiva quella valle che mi aveva trafitto il cuore di paura,
+
+16
+guardai in alto e vidi le sue spalle
+vestite già de’ raggi del pianeta
+che mena dritto altrui per ogne calle.
+> guardai in alto e vidi la sua cima già rivestita dai raggi del sole, il pianeta che guida chiunque per la strada giusta.
+
+19
+Allor fu la paura un poco queta,
+che nel lago del cor m’era durata
+la notte ch’i’ passai con tanta pieta.
+> Allora si calmò un poco la paura che mi era rimasta nel profondo del cuore per tutta la notte, passata in tanta angoscia.
+
+22
+E come quei che con lena affannata,
+uscito fuor del pelago a la riva,
+si volge a l’acqua perigliosa e guata,
+> E come chi, col respiro affannato, uscito dal mare sulla riva, si volta verso l'acqua pericolosa e la fissa,
+
+25
+così l’animo mio, ch’ancor fuggiva,
+si volse a retro a rimirar lo passo
+che non lasciò già mai persona viva.
+> così il mio animo, che ancora fuggiva, si voltò indietro a guardare quel passaggio da cui nessuno è mai uscito vivo.
+
+28
+Poi ch’èi posato un poco il corpo lasso,
+ripresi via per la piaggia diserta,
+sì che ’l piè fermo sempre era ’l più basso.
+> Dopo aver fatto riposare un poco il corpo stanco, ripresi il cammino per il pendio deserto, salendo così che il piede fermo era sempre quello più in basso.
+
+## scena-3 | colle | La lonza
+personaggi: dante, lonza
+tavola: dore | La lonza | File:Gustave Doré - Dante Alighieri - Inferno - Plate 2 (the panther).jpg
+sintesi: All'inizio della salita una lonza agile e maculata gli sbarra la strada; l'ora del mattino e la primavera gli danno però speranza.
+
+31
+Ed ecco, quasi al cominciar de l’erta,
+una lonza leggera e presta molto,
+che di pel macolato era coverta;
+> Ed ecco, quasi all'inizio della salita, una lonza agile e molto veloce, coperta di pelo maculato;
+
+34
+e non mi si partia dinanzi al volto,
+anzi ’mpediva tanto il mio cammino,
+ch’i’ fui per ritornar più volte vòlto.
+> e non si toglieva da davanti a me, anzi mi ostacolava tanto il cammino che più volte mi voltai per tornare indietro.
+
+37
+Temp’era dal principio del mattino,
+e ’l sol montava ’n sù con quelle stelle
+ch’eran con lui quando l’amor divino
+> Era il principio del mattino, e il sole saliva con quelle stelle che erano con lui quando l'amore divino
+
+40
+mosse di prima quelle cose belle;
+sì ch’a bene sperar m’era cagione
+di quella fiera a la gaetta pelle
+> mise in moto per la prima volta le cose belle del creato; così mi davano motivo di sperare bene riguardo a quella fiera dalla pelle screziata
+
+## scena-4 | colle | Il leone e la lupa
+personaggi: dante, leone, lupa
+tavola: dore | Il leone | File:Gustave Doré - Dante Alighieri - Inferno - Plate 3 (The lion).jpg
+sintesi: Appare un leone, a testa alta e affamato, poi una lupa magrissima e carica di brame: Dante perde la speranza di salire e viene respinto verso la selva.
+
+43
+l’ora del tempo e la dolce stagione;
+ma non sì che paura non mi desse
+la vista che m’apparve d’un leone.
+> l'ora del giorno e la dolce stagione; ma non tanto che non mi facesse paura la vista di un leone che mi apparve.
+
+46
+Questi parea che contra me venisse
+con la test’alta e con rabbiosa fame,
+sì che parea che l’aere ne tremesse.
+> Questo sembrava venire contro di me a testa alta e con una fame rabbiosa, tanto che pareva che l'aria ne tremasse.
+
+49
+Ed una lupa, che di tutte brame
+sembiava carca ne la sua magrezza,
+e molte genti fé già viver grame,
+> E una lupa, che nella sua magrezza sembrava carica di tutte le brame, e che già fece vivere infelici molte genti,
+
+52
+questa mi porse tanto di gravezza
+con la paura ch’uscia di sua vista,
+ch’io perdei la speranza de l’altezza.
+> mi diede tanta angoscia, con la paura che usciva dal suo aspetto, che persi la speranza di raggiungere la cima.
+
+55
+E qual è quei che volontieri acquista,
+e giugne ’l tempo che perder lo face,
+che ’n tutti suoi pensier piange e s’attrista;
+> E come chi accumula volentieri, e arriva il momento che gli fa perdere tutto, e allora in ogni suo pensiero piange e si rattrista,
+
+58
+tal mi fece la bestia sanza pace,
+che, venendomi ’ncontro, a poco a poco
+mi ripigneva là dove ’l sol tace.
+> così mi ridusse quella bestia senza pace, che, venendomi incontro, a poco a poco mi respingeva là dove il sole tace.
+
+## scena-5 | selva-oscura | L'incontro con Virgilio
+personaggi: dante, virgilio, enea, lupa
+tavola: dore | Dante incontra Virgilio | File:Gustave Doré - Dante Alighieri - Inferno - Plate 4 (Dante meets Virgil).jpg
+sintesi: Mentre precipita in basso, Dante vede un'ombra e le chiede aiuto: è Virgilio, il poeta dell'Eneide, suo maestro e modello di stile.
+
+61
+Mentre ch’i’ rovinava in basso loco,
+dinanzi a li occhi mi si fu offerto
+chi per lungo silenzio parea fioco.
+> Mentre precipitavo verso il basso, mi si offrì davanti agli occhi uno che, per il lungo silenzio, sembrava avere la voce fioca.
+
+64
+Quando vidi costui nel gran diserto,
+"Miserere di me", gridai a lui,
+"qual che tu sii, od ombra od omo certo!".
+> Quando lo vidi in quel grande deserto, gli gridai: «Abbi pietà di me, chiunque tu sia, ombra o uomo vero!».
+
+67
+Rispuosemi: "Non omo, omo già fui,
+e li parenti miei furon lombardi,
+mantoani per patrïa ambedui.
+> Mi rispose: «Non sono un uomo, lo fui un tempo; i miei genitori furono lombardi, entrambi mantovani di patria.
+
+70
+Nacqui sub Iulio, ancor che fosse tardi,
+e vissi a Roma sotto ’l buono Augusto
+nel tempo de li dèi falsi e bugiardi.
+> Nacqui sotto Giulio Cesare, benché tardi, e vissi a Roma sotto il buon Augusto, al tempo degli dèi falsi e bugiardi.
+
+73
+Poeta fui, e cantai di quel giusto
+figliuol d’Anchise che venne di Troia,
+poi che ’l superbo Ilïón fu combusto.
+> Fui poeta, e cantai di quel giusto figlio di Anchise [Enea] che venne da Troia, dopo che la superba Ilio fu bruciata.
+
+76
+Ma tu perché ritorni a tanta noia?
+perché non sali il dilettoso monte
+ch’è principio e cagion di tutta gioia?".
+> Ma tu, perché torni verso tanta pena? Perché non sali il monte delizioso, che è principio e causa di ogni gioia?».
+
+79
+"Or se’ tu quel Virgilio e quella fonte
+che spandi di parlar sì largo fiume?",
+rispuos’io lui con vergognosa fronte.
+> «Sei dunque tu quel Virgilio, quella fonte da cui sgorga un così largo fiume di parole?», gli risposi con la fronte bassa per la vergogna.
+
+82
+"O de li altri poeti onore e lume,
+vagliami ’l lungo studio e ’l grande amore
+che m’ ha fatto cercar lo tuo volume.
+> «O onore e luce degli altri poeti, mi valgano il lungo studio e il grande amore che mi hanno fatto cercare la tua opera.
+
+85
+Tu se’ lo mio maestro e ’l mio autore,
+tu se’ solo colui da cu’ io tolsi
+lo bello stilo che m’ ha fatto onore.
+> Tu sei il mio maestro e il mio autore; tu solo sei colui da cui ho preso il bello stile che mi ha dato onore.
+
+88
+Vedi la bestia per cu’ io mi volsi;
+aiutami da lei, famoso saggio,
+ch’ella mi fa tremar le vene e i polsi".
+> Vedi la bestia per cui mi sono voltato indietro: aiutami contro di lei, famoso saggio, perché mi fa tremare le vene e i polsi».
+
+## scena-6 | selva-oscura | La profezia del veltro
+personaggi: virgilio, lupa, veltro, camilla
+sintesi: Virgilio spiega che la lupa non lascia passare nessuno e annuncia la venuta di un veltro che la ricaccerà nell'Inferno.
+
+91
+"A te convien tenere altro vïaggio",
+rispuose, poi che lagrimar mi vide,
+"se vuo’ campar d’esto loco selvaggio;
+> «A te conviene prendere un'altra strada», rispose, dopo che mi vide piangere, «se vuoi salvarti da questo luogo selvaggio;
+
+94
+ché questa bestia, per la qual tu gride,
+non lascia altrui passar per la sua via,
+ma tanto lo ’mpedisce che l’uccide;
+> perché questa bestia, per la quale tu gridi, non lascia passare nessuno per la sua via, ma lo ostacola tanto da ucciderlo;
+
+97
+e ha natura sì malvagia e ria,
+che mai non empie la bramosa voglia,
+e dopo ’l pasto ha più fame che pria.
+> e ha una natura così malvagia e crudele che non sazia mai la sua voglia avida, e dopo il pasto ha più fame di prima.
+
+100
+Molti son li animali a cui s’ammoglia,
+e più saranno ancora, infin che ’l veltro
+verrà, che la farà morir con doglia.
+> Molti sono gli animali a cui si accoppia, e saranno ancora di più, finché verrà il veltro, che la farà morire nel dolore.
+
+103
+Questi non ciberà terra né peltro,
+ma sapïenza, amore e virtute,
+e sua nazion sarà tra feltro e feltro.
+> Questi non si nutrirà di terre né di denaro, ma di sapienza, amore e virtù, e la sua nascita sarà tra feltro e feltro.
+
+106
+Di quella umile Italia fia salute
+per cui morì la vergine Cammilla,
+Eurialo e Turno e Niso di ferute.
+> Sarà la salvezza di quell'umile Italia per la quale morirono di ferite la vergine Camilla, Eurialo, Turno e Niso.
+
+109
+Questi la caccerà per ogne villa,
+fin che l’avrà rimessa ne lo ’nferno,
+là onde ’nvidia prima dipartilla.
+> Egli le darà la caccia per ogni città, finché l'avrà ricacciata nell'Inferno, là da dove l'invidia per prima la fece uscire.
+
+## scena-7 | selva-oscura | Il viaggio proposto
+personaggi: dante, virgilio, beatrice
+tavola: dore | Dante segue Virgilio (fine del canto I) | File:Gustave Doré - Dante Alighieri - Inferno - Plate 5 (End of Canto I).jpg
+sintesi: Virgilio si offre come guida per l'Inferno e il Purgatorio; per il Paradiso lo affiderà a un'anima più degna. Dante accetta e lo segue.
+
+112
+Ond’io per lo tuo me’ penso e discerno
+che tu mi segui, e io sarò tua guida,
+e trarrotti di qui per loco etterno;
+> Perciò, per il tuo bene, penso e giudico che tu mi debba seguire: io sarò la tua guida e ti porterò via di qui attraverso un luogo eterno,
+
+115
+ove udirai le disperate strida,
+vedrai li antichi spiriti dolenti,
+ch’a la seconda morte ciascun grida;
+> dove udrai le grida disperate e vedrai gli antichi spiriti sofferenti, ciascuno dei quali invoca la seconda morte;
+
+118
+e vederai color che son contenti
+nel foco, perché speran di venire
+quando che sia a le beate genti.
+> e vedrai coloro che sono contenti nel fuoco, perché sperano di giungere, quando sarà, tra le genti beate.
+
+121
+A le quai poi se tu vorrai salire,
+anima fia a ciò più di me degna:
+con lei ti lascerò nel mio partire;
+> E se poi vorrai salire fino a queste, ci sarà per questo un'anima più degna di me: con lei ti lascerò quando me ne andrò;
+
+124
+ché quello imperador che là sù regna,
+perch’i’ fu’ ribellante a la sua legge,
+non vuol che ’n sua città per me si vegna.
+> perché quell'imperatore che regna lassù, poiché io fui ribelle alla sua legge, non vuole che per mezzo mio si entri nella sua città.
+
+127
+In tutte parti impera e quivi regge;
+quivi è la sua città e l’alto seggio:
+oh felice colui cu’ ivi elegge!".
+> Egli comanda dappertutto, e là regna; là sono la sua città e il suo alto trono: felice colui che egli sceglie per quel luogo!».
+
+130
+E io a lui: "Poeta, io ti richeggio
+per quello Dio che tu non conoscesti,
+acciò ch’io fugga questo male e peggio,
+> E io a lui: «Poeta, ti chiedo, in nome di quel Dio che tu non hai conosciuto, affinché io sfugga a questo male e a uno peggiore,
+
+133
+che tu mi meni là dov’or dicesti,
+sì ch’io veggia la porta di san Pietro
+e color cui tu fai cotanto mesti".
+> di condurmi là dove hai detto ora, così che io veda la porta di san Pietro e coloro che tu descrivi tanto infelici».
+
+136
+Allor si mosse, e io li tenni dietro.
+> Allora si mosse, e io gli andai dietro.
+
+## personaggio | dante | Dante Alighieri
+dibattuto: no
+chi_era: Poeta e uomo politico fiorentino (Firenze 1265 – Ravenna 1321), esiliato da Firenze nel 1302. È autore e protagonista del poema: compie il viaggio nell'aldilà nella primavera del 1300.
+
+## personaggio | virgilio | Virgilio
+dibattuto: no
+chi_era: Publio Virgilio Marone (70–19 a.C.), poeta latino nato presso Mantova, autore delle Bucoliche, delle Georgiche e dell'Eneide. Nel poema è la guida di Dante attraverso Inferno e Purgatorio; come pagano, la sua sede è il Limbo.
+
+## personaggio | lonza | La lonza
+dibattuto: sì
+chi_era: Prima delle tre fiere: un felino agile dal pelo maculato (lince, ghepardo o pantera). Il significato allegorico è dibattuto: per molti commentatori la lussuria, per altri la frode o l'invidia.
+
+## personaggio | leone | Il leone
+dibattuto: sì
+chi_era: Seconda fiera, avanza a testa alta e affamato. Di solito è interpretato come la superbia; altri vi leggono la violenza.
+
+## personaggio | lupa | La lupa
+dibattuto: sì
+chi_era: Terza fiera, magrissima e piena di brame: è lei a respingere Dante verso la selva. È interpretata quasi concordemente come la cupidigia (l'avidità di beni).
+
+## personaggio | veltro | Il veltro
+dibattuto: sì
+chi_era: Il cane da caccia che, secondo la profezia di Virgilio, ricaccerà la lupa nell'Inferno. L'identificazione è tra le più discusse del poema: Cangrande della Scala, un imperatore, un papa riformatore, Cristo che torna a giudicare; anche «tra feltro e feltro» resta oscuro.
+
+## personaggio | beatrice | Beatrice
+dibattuto: no
+chi_era: La donna amata da Dante, identificata secondo una tradizione risalente a Boccaccio con Bice di Folco Portinari, morta nel 1290. Nel canto I è solo accennata come l'«anima più degna»; nel II scende dal cielo nel Limbo per chiedere a Virgilio di soccorrere Dante.
+
+## personaggio | enea | Enea
+dibattuto: no
+chi_era: Eroe troiano, figlio di Anchise e padre di Silvio, protagonista dell'Eneide di Virgilio: nel VI libro scende da vivo nel regno dei morti. Per i Romani era il capostipite della loro stirpe. Dante lo rivede tra gli spiriti magni del Limbo.
+
+## personaggio | camilla | Camilla
+dibattuto: no
+chi_era: Vergine guerriera dei Volsci nell'Eneide: muore combattendo contro i Troiani di Enea. Virgilio la ricorda nel canto I tra i caduti per l'Italia; Dante la rivede nel Limbo.

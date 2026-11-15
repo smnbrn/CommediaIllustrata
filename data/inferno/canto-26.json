@@ -1,0 +1,297 @@
+{
+  "cantica": "inferno",
+  "canto": 26,
+  "titolo": "I consiglieri fraudolenti, Ulisse",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_XXVI",
+  "numero_versi": 142,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 18],
+      "titolo_scena": "L'invettiva contro Firenze",
+      "sintesi": "Dante ironizza amaramente su Firenze, che spande il suo nome perfino all'Inferno: tra i ladri ha trovato cinque fiorentini. Predice alla città le sventure che le augurano anche i vicini. Poi i due risalgono e riprendono la strada sul ponte, aiutandosi con le mani.",
+      "luogo_id": "bolgia-7",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": []
+    },
+    {
+      "id": "scena-2",
+      "versi": [19, 45],
+      "titolo_scena": "Le fiamme dell'ottava bolgia",
+      "sintesi": "Dante si addolora ancora ricordando ciò che vide, e frena il proprio ingegno perché non corra senza virtù. L'ottava bolgia brilla di fiamme come lucciole viste dal contadino in una sera d'estate; ogni fiamma nasconde un peccatore, come il carro di Elia che salì al cielo.",
+      "luogo_id": "bolgia-8",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": []
+    },
+    {
+      "id": "scena-3",
+      "versi": [46, 84],
+      "titolo_scena": "La fiamma a due punte",
+      "sintesi": "Virgilio spiega che dentro le fiamme ci sono gli spiriti. Una fiamma divisa in due punte racchiude Ulisse e Diomede, puniti insieme per l'inganno del cavallo di Troia, per Achille sottratto a Deidamia e per il furto del Palladio. Dante prega di poter parlare con loro; Virgilio parlerà al suo posto, perché erano greci.",
+      "luogo_id": "bolgia-8",
+      "personaggi": ["dante", "virgilio", "ulisse", "diomede"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "La fiamma di Ulisse e Diomede",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Inferno_Canto_26_%28148619124%29.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Inferno_Canto_26_%28148619124%29.jpg/960px-Inferno_Canto_26_%28148619124%29.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Inferno_Canto_26_(148619124).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [85, 142],
+      "titolo_scena": "L'ultimo viaggio di Ulisse",
+      "sintesi": "Il corno più grande della fiamma parla: è Ulisse. Lasciata Circe, né l'affetto per il figlio, né il padre, né Penelope vinsero il suo desiderio di conoscere il mondo. Con pochi compagni oltrepassò le colonne d'Ercole con l'«orazion picciola»: «fatti non foste a viver come bruti». Dopo cinque mesi di navigazione videro una montagna altissima, ma un turbine affondò la nave.",
+      "luogo_id": "bolgia-8",
+      "personaggi": ["ulisse"],
+      "tavole": []
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Godi, Fiorenza, poi che se’ sì grande\nche per mare e per terra batti l’ali,\ne per lo ’nferno tuo nome si spande!",
+      "parafrasi": "Rallegrati, Firenze, perché sei così grande che batti le ali per mare e per terra, e il tuo nome si diffonde per l'Inferno!"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "Tra li ladron trovai cinque cotali\ntuoi cittadini onde mi ven vergogna,\ne tu in grande orranza non ne sali.",
+      "parafrasi": "Tra i ladri trovai cinque tuoi cittadini come questi, per cui provo vergogna, e tu non ne ricevi grande onore."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "Ma se presso al mattin del ver si sogna,\ntu sentirai, di qua da picciol tempo,\ndi quel che Prato, non ch’altri, t’agogna.",
+      "parafrasi": "Ma se all'alba si sognano cose vere, entro poco tempo sentirai quello che ti augura Prato, per non dire altri."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "E se già fosse, non saria per tempo.\nCosì foss’ei, da che pur esser dee!\nché più mi graverà, com’ più m’attempo.",
+      "parafrasi": "E se fosse già accaduto, non sarebbe troppo presto. Così fosse già, dal momento che deve comunque accadere! Perché più invecchio, più mi peserà."
+    },
+    {
+      "versi": [13, 15],
+      "testo": "Noi ci partimmo, e su per le scalee\nche n’avea fatto iborni a scender pria,\nrimontò ’l duca mio e trasse mee;",
+      "parafrasi": "Ce ne andammo, e su per i gradini che ci avevano fatto scendere prima, pallidi, risalì la mia guida e mi tirò su;"
+    },
+    {
+      "versi": [16, 18],
+      "testo": "e proseguendo la solinga via,\ntra le schegge e tra ’ rocchi de lo scoglio\nlo piè sanza la man non si spedia.",
+      "parafrasi": "e proseguendo la via solitaria tra le schegge e i massi dello scoglio, il piede non procedeva senza l'aiuto della mano."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "Allor mi dolsi, e ora mi ridoglio\nquando drizzo la mente a ciò ch’io vidi,\ne più lo ’ngegno affreno ch’i’ non soglio,",
+      "parafrasi": "Allora mi addolorai, e ora mi addoloro di nuovo quando rivolgo la mente a ciò che vidi, e freno l'ingegno più del solito,"
+    },
+    {
+      "versi": [22, 24],
+      "testo": "perché non corra che virtù nol guidi;\nsì che, se stella bona o miglior cosa\nm’ ha dato ’l ben, ch’io stessi nol m’invidi.",
+      "parafrasi": "perché non corra senza che la virtù lo guidi; così che, se una buona stella o qualcosa di meglio mi ha dato il bene, io stesso non me lo tolga."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Quante ’l villan ch’al poggio si riposa,\nnel tempo che colui che ’l mondo schiara\nla faccia sua a noi tien meno ascosa,",
+      "parafrasi": "Quante lucciole vede giù per la valle, forse là dove vendemmia e ara, il contadino che riposa sul colle, nella stagione in cui chi illumina il mondo ci tiene meno nascosta la sua faccia,"
+    },
+    {
+      "versi": [28, 30],
+      "testo": "come la mosca cede a la zanzara,\nvede lucciole giù per la vallea,\nforse colà dov’e’ vendemmia e ara:",
+      "parafrasi": "nell'ora in cui la mosca cede il posto alla zanzara,"
+    },
+    {
+      "versi": [31, 33],
+      "testo": "di tante fiamme tutta risplendea\nl’ottava bolgia, sì com’io m’accorsi\ntosto che fui là ’ve ’l fondo parea.",
+      "parafrasi": "di altrettante fiamme risplendeva tutta l'ottava bolgia, come mi accorsi appena fui là dove si vedeva il fondo."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "E qual colui che si vengiò con li orsi\nvide ’l carro d’Elia al dipartire,\nquando i cavalli al cielo erti levorsi,",
+      "parafrasi": "E come colui che si vendicò con gli orsi [il profeta Eliseo] vide il carro di Elia alla partenza, quando i cavalli si levarono ritti al cielo,"
+    },
+    {
+      "versi": [37, 39],
+      "testo": "che nol potea sì con li occhi seguire,\nch’el vedesse altro che la fiamma sola,\nsì come nuvoletta, in sù salire:",
+      "parafrasi": "e non poteva seguirlo con gli occhi così da vedere altro che la fiamma sola salire in alto come una nuvoletta:"
+    },
+    {
+      "versi": [40, 42],
+      "testo": "tal si move ciascuna per la gola\ndel fosso, ché nessuna mostra ’l furto,\ne ogne fiamma un peccatore invola.",
+      "parafrasi": "così ciascuna fiamma si muove per la gola del fosso, perché nessuna mostra il suo furto, e ogni fiamma nasconde un peccatore."
+    },
+    {
+      "versi": [43, 45],
+      "testo": "Io stava sovra ’l ponte a veder surto,\nsì che s’io non avessi un ronchion preso,\ncaduto sarei giù sanz’esser urto.",
+      "parafrasi": "Io stavo sul ponte, sporto per vedere, tanto che, se non mi fossi aggrappato a una sporgenza, sarei caduto giù senza essere spinto."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "E ’l duca, che mi vide tanto atteso,\ndisse: \"Dentro dai fuochi son li spirti;\ncatun si fascia di quel ch’elli è inceso\".",
+      "parafrasi": "E la guida, che mi vide così attento, disse: «Dentro i fuochi ci sono gli spiriti; ciascuno si avvolge di ciò da cui è bruciato.»"
+    },
+    {
+      "versi": [49, 51],
+      "testo": "\"Maestro mio\", rispuos’io, \"per udirti\nson io più certo; ma già m’era avviso\nche così fosse, e già voleva dirti:",
+      "parafrasi": "«Maestro mio», risposi, «sentendoti ne sono più sicuro; ma già pensavo che fosse così, e già volevo chiederti:"
+    },
+    {
+      "versi": [52, 54],
+      "testo": "chi è ’n quel foco che vien sì diviso\ndi sopra, che par surger de la pira\ndov’Eteòcle col fratel fu miso?\".",
+      "parafrasi": "chi c'è in quel fuoco che viene così diviso in alto, che sembra sorgere dalla pira dove Eteocle fu messo con il fratello?»"
+    },
+    {
+      "versi": [55, 57],
+      "testo": "Rispuose a me: \"Là dentro si martira\nUlisse e Dïomede, e così insieme\na la vendetta vanno come a l’ira;",
+      "parafrasi": "Mi rispose: «Là dentro sono tormentati Ulisse e Diomede, e vanno così insieme alla punizione come andarono insieme all'ira;"
+    },
+    {
+      "versi": [58, 60],
+      "testo": "e dentro da la lor fiamma si geme\nl’agguato del caval che fé la porta\nonde uscì de’ Romani il gentil seme.",
+      "parafrasi": "e dentro la loro fiamma si piange l'agguato del cavallo, che fece la breccia da cui uscì il nobile seme dei Romani [Enea]."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Piangevisi entro l’arte per che, morta,\nDeïdamìa ancor si duol d’Achille,\ne del Palladio pena vi si porta\".",
+      "parafrasi": "Vi si piange l'inganno per cui Deidamia, anche da morta, si duole ancora di Achille, e vi si sconta la pena del Palladio.»"
+    },
+    {
+      "versi": [64, 66],
+      "testo": "\"S’ei posson dentro da quelle faville\nparlar\", diss’io, \"maestro, assai ten priego\ne ripriego, che ’l priego vaglia mille,",
+      "parafrasi": "«Se possono parlare dentro quelle fiamme», dissi, «maestro, te ne prego molto, e ti riprego, che la preghiera valga per mille,"
+    },
+    {
+      "versi": [67, 69],
+      "testo": "che non mi facci de l’attender niego\nfin che la fiamma cornuta qua vegna;\nvedi che del disio ver’ lei mi piego!\".",
+      "parafrasi": "di non negarmi di aspettare finché la fiamma con le corna venga qui; vedi come per il desiderio mi piego verso di lei!»"
+    },
+    {
+      "versi": [70, 72],
+      "testo": "Ed elli a me: \"La tua preghiera è degna\ndi molta loda, e io però l’accetto;\nma fa che la tua lingua si sostegna.",
+      "parafrasi": "E lui a me: «La tua preghiera è degna di molta lode, e perciò l'accetto; ma fa' in modo che la tua lingua si trattenga."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Lascia parlare a me, ch’i’ ho concetto\nciò che tu vuoi; ch’ei sarebbero schivi,\nperch’e’ fuor greci, forse del tuo detto\".",
+      "parafrasi": "Lascia parlare me, perché ho capito ciò che vuoi; perché, essendo greci, forse sarebbero sdegnosi delle tue parole.»"
+    },
+    {
+      "versi": [76, 78],
+      "testo": "Poi che la fiamma fu venuta quivi\ndove parve al mio duca tempo e loco,\nin questa forma lui parlare audivi:",
+      "parafrasi": "Quando la fiamma fu arrivata là dove alla mia guida parve il tempo e il luogo opportuno, lo sentii parlare in questa forma:"
+    },
+    {
+      "versi": [79, 81],
+      "testo": "\"O voi che siete due dentro ad un foco,\ns’io meritai di voi mentre ch’io vissi,\ns’io meritai di voi assai o poco",
+      "parafrasi": "«O voi che siete due dentro un solo fuoco, se ebbi merito verso di voi mentre vissi, se ebbi merito verso di voi molto o poco"
+    },
+    {
+      "versi": [82, 84],
+      "testo": "quando nel mondo li alti versi scrissi,\nnon vi movete; ma l’un di voi dica\ndove, per lui, perduto a morir gissi\".",
+      "parafrasi": "quando nel mondo scrissi gli alti versi, non andatevene; ma uno di voi dica dove andò a morire, perdendosi.»"
+    },
+    {
+      "versi": [85, 87],
+      "testo": "Lo maggior corno de la fiamma antica\ncominciò a crollarsi mormorando,\npur come quella cui vento affatica;",
+      "parafrasi": "Il corno più grande della fiamma antica cominciò a scuotersi mormorando, proprio come una fiamma che il vento agita;"
+    },
+    {
+      "versi": [88, 90],
+      "testo": "indi la cima qua e là menando,\ncome fosse la lingua che parlasse,\ngittò voce di fuori e disse: \"Quando",
+      "parafrasi": "poi, muovendo qua e là la cima come se fosse la lingua che parlasse, mandò fuori una voce e disse: «Quando"
+    },
+    {
+      "versi": [91, 93],
+      "testo": "mi diparti’ da Circe, che sottrasse\nme più d’un anno là presso a Gaeta,\nprima che sì Enëa la nomasse,",
+      "parafrasi": "mi separai da Circe, che mi trattenne più di un anno là vicino a Gaeta, prima che Enea la chiamasse così,"
+    },
+    {
+      "versi": [94, 96],
+      "testo": "né dolcezza di figlio, né la pieta\ndel vecchio padre, né ’l debito amore\nlo qual dovea Penelopè far lieta,",
+      "parafrasi": "né la dolcezza del figlio, né la pietà per il vecchio padre, né l'amore dovuto che doveva rendere felice Penelope"
+    },
+    {
+      "versi": [97, 99],
+      "testo": "vincer potero dentro a me l’ardore\nch’i’ ebbi a divenir del mondo esperto\ne de li vizi umani e del valore;",
+      "parafrasi": "poterono vincere dentro di me l'ardore che ebbi di diventare esperto del mondo, dei vizi umani e del valore;"
+    },
+    {
+      "versi": [100, 102],
+      "testo": "ma misi me per l’alto mare aperto\nsol con un legno e con quella compagna\npicciola da la qual non fui diserto.",
+      "parafrasi": "ma mi misi per l'alto mare aperto soltanto con una nave e con quella piccola compagnia dalla quale non fui abbandonato."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "L’un lito e l’altro vidi infin la Spagna,\nfin nel Morrocco, e l’isola d’i Sardi,\ne l’altre che quel mare intorno bagna.",
+      "parafrasi": "Vidi l'una e l'altra costa fino alla Spagna, fino al Marocco, e l'isola dei Sardi, e le altre che quel mare bagna intorno."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Io e’ compagni eravam vecchi e tardi\nquando venimmo a quella foce stretta\ndov’Ercule segnò li suoi riguardi",
+      "parafrasi": "Io e i compagni eravamo vecchi e lenti quando arrivammo a quello stretto passaggio dove Ercole pose i suoi segnali"
+    },
+    {
+      "versi": [109, 111],
+      "testo": "acciò che l’uom più oltre non si metta;\nda la man destra mi lasciai Sibilia,\nda l’altra già m’avea lasciata Setta.",
+      "parafrasi": "perché l'uomo non si spinga più in là; alla destra mi lasciai Siviglia, dall'altra parte mi ero già lasciato Ceuta."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "\"O frati,\" dissi, \"che per cento milia\nperigli siete giunti a l’occidente,\na questa tanto picciola vigilia",
+      "parafrasi": "\"O fratelli\", dissi, \"che attraverso centomila pericoli siete arrivati a occidente, a questa così breve veglia"
+    },
+    {
+      "versi": [115, 117],
+      "testo": "d’i nostri sensi ch’è del rimanente\nnon vogliate negar l’esperïenza,\ndi retro al sol, del mondo sanza gente.",
+      "parafrasi": "dei nostri sensi che ci resta, non vogliate negare l'esperienza, seguendo il sole, del mondo disabitato."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Considerate la vostra semenza:\nfatti non foste a viver come bruti,\nma per seguir virtute e canoscenza\".",
+      "parafrasi": "Considerate la vostra origine: non foste fatti per vivere come bestie, ma per seguire la virtù e la conoscenza\"."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "Li miei compagni fec’io sì aguti,\ncon questa orazion picciola, al cammino,\nche a pena poscia li avrei ritenuti;",
+      "parafrasi": "Con questo breve discorso resi i miei compagni così desiderosi del viaggio che poi a stento li avrei trattenuti;"
+    },
+    {
+      "versi": [124, 126],
+      "testo": "e volta nostra poppa nel mattino,\nde’ remi facemmo ali al folle volo,\nsempre acquistando dal lato mancino.",
+      "parafrasi": "e, volta la nostra poppa verso oriente, facemmo dei remi ali per il folle volo, guadagnando sempre verso sinistra."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Tutte le stelle già de l’altro polo\nvedea la notte, e ’l nostro tanto basso,\nche non surgëa fuor del marin suolo.",
+      "parafrasi": "La notte vedeva già tutte le stelle dell'altro polo, e il nostro così basso che non si alzava sopra la superficie del mare."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Cinque volte racceso e tante casso\nlo lume era di sotto da la luna,\npoi che ’ntrati eravam ne l’alto passo,",
+      "parafrasi": "Cinque volte si era riaccesa e altrettante spenta la luce sotto la luna, da quando eravamo entrati nell'alto passaggio,"
+    },
+    {
+      "versi": [133, 135],
+      "testo": "quando n’apparve una montagna, bruna\nper la distanza, e parvemi alta tanto\nquanto veduta non avëa alcuna.",
+      "parafrasi": "quando ci apparve una montagna, scura per la distanza, e mi sembrò tanto alta quanto non ne avevo mai vista nessuna."
+    },
+    {
+      "versi": [136, 138],
+      "testo": "Noi ci allegrammo, e tosto tornò in pianto;\nché de la nova terra un turbo nacque\ne percosse del legno il primo canto.",
+      "parafrasi": "Ci rallegrammo, e presto la gioia si mutò in pianto; perché dalla nuova terra nacque un turbine e colpì la parte anteriore della nave."
+    },
+    {
+      "versi": [139, 141],
+      "testo": "Tre volte il fé girar con tutte l’acque;\na la quarta levar la poppa in suso\ne la prora ire in giù, com’altrui piacque,",
+      "parafrasi": "Tre volte la fece girare con tutte le acque; alla quarta fece alzare la poppa e andare giù la prua, come piacque a un Altro,"
+    },
+    {
+      "versi": [142, 142],
+      "testo": "infin che ’l mar fu sovra noi richiuso\".",
+      "parafrasi": "finché il mare si richiuse sopra di noi.»"
+    }
+  ]
+}

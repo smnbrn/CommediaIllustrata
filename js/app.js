@@ -16,6 +16,7 @@
   function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
   function mobile() { return window.matchMedia('(max-width: 899px)').matches; }
   var PERSONAGGI_VISIBILI = 6;   // oltre questo numero: «e altri N»
+  var IA = 'ia';                 // autore_id delle immagini generate con IA (sempre segnalate come tali)
 
   /* ---------- indirizzi ---------- */
   function leggiIndirizzo() {
@@ -257,7 +258,11 @@
 
   function disegnaSelettore(s, mostrato) {
     var box = $('illustratori');
-    box.hidden = stato.indice.illustratori.length < 2;      // un solo illustratore: niente selettore
+    // il selettore serve solo se almeno una scena del canto ha tavole di due autori diversi
+    box.hidden = !stato.canto.scene.some(function (x) {
+      var a = {}; (x.tavole || []).forEach(function (t) { a[t.autore_id] = true; });
+      return Object.keys(a).length > 1;
+    });
     if (box.hidden) return;
     var usati = {};
     stato.canto.scene.forEach(function (x) { (x.tavole || []).forEach(function (t) { usati[t.autore_id] = true; }); });
@@ -297,13 +302,15 @@
     var c = sceltaPer(s);
     disegnaSelettore(s, c.autore);
     var avviso = '';
-    if (c.autore && c.autore !== stato.illustratore) avviso = nomeAutore(stato.illustratore) + ' non ha illustrato questa scena: tavola di ' + nomeAutore(c.autore) + '.';
+    if (c.autore === IA) avviso = nomeAutore(stato.illustratore) + ' non ha illustrato questa scena: immagine generata con IA nello stile di Doré.';
+    else if (c.autore && c.autore !== stato.illustratore) avviso = nomeAutore(stato.illustratore) + ' non ha illustrato questa scena: tavola di ' + nomeAutore(c.autore) + '.';
     $('avviso').textContent = avviso;
+    $('tavola').dataset.ia = c.autore === IA ? '1' : '';
 
     var vuota = !c.lista.length;
     $('tavola-vuota').hidden = !vuota;
     $('tavola-vuota-titolo').textContent = vuota ? s.titolo_scena : '';
-    var ill = stato.indice.illustratori;
+    var ill = stato.indice.illustratori.filter(function (a) { return !a.secondario; });
     $('tavola-vuota-testo').textContent = ill.length === 1 ? 'Nessuna tavola di ' + ill[0].breve + ' per questa scena.' : 'Nessuna tavola per questa scena.';
     var pag = $('tavola-pagina');
     if (vuota) {
@@ -317,8 +324,11 @@
     pag.hidden = c.lista.length < 2;
     pag.textContent = (k + 1) + ' / ' + c.lista.length;
     pag.setAttribute('aria-label', 'Tavola ' + (k + 1) + ' di ' + c.lista.length + ': mostra la successiva');
-    $('didascalia').innerHTML = '<b>' + esc(t.autore) + '</b>, <i>' + esc(t.titolo) + '</i> · ' + esc(t.licenza) +
-      ' · <a href="' + esc(t.fonte) + '" target="_blank" rel="noopener">Commons</a>';
+    $('didascalia').innerHTML = t.autore_id === IA
+      ? '<b>Immagine generata con IA</b> (Gemini), <i>' + esc(t.titolo) + '</i> · nello stile di Doré, non è un\'opera di Doré' +
+        ' · <a href="' + esc(t.fonte) + '" target="_blank" rel="noopener">come è fatta</a>'
+      : '<b>' + esc(t.autore) + '</b>, <i>' + esc(t.titolo) + '</i> · ' + esc(t.licenza) +
+        ' · <a href="' + esc(t.fonte) + '" target="_blank" rel="noopener">Commons</a>';
     carica(t);
   }
 
@@ -343,11 +353,13 @@
     imposta(img, t);
   }
 
-  // 500 px per gli schermi piccoli, 960 px per gli altri (Wikimedia accetta solo larghezze standard)
+  // 500 px per gli schermi piccoli, 960 px per gli altri (Wikimedia accetta solo larghezze standard;
+  // i ritagli in img/dore/ hanno le due versioni …-960.jpg e …-500.jpg)
   var DIMENSIONI = '(max-width: 899px) 60vw, 46vw';
   function imposta(img, t) {
     var grande = t.miniatura || t.url, piccola = null;
     if (grande.indexOf('/960px-') >= 0) piccola = grande.replace('/960px-', '/500px-');
+    else if (/^img\/dore\/.*-960\.jpg$/.test(grande)) piccola = grande.replace(/-960\.jpg$/, '-500.jpg');  // ritagli nel repository
     else if (/^https:\/\/upload\.wikimedia\.org\/wikipedia\/commons\/[0-9a-f]\//.test(t.url)) {
       piccola = t.url.replace('/commons/', '/commons/thumb/') + '/500px-' + t.url.split('/').pop();
     }

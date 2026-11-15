@@ -1,0 +1,353 @@
+# Inferno, canto XXXIII
+titolo: Il conte Ugolino, frate Alberigo
+
+## scena-1 | antenora | Ugolino comincia a parlare
+personaggi: dante, ugolino, ruggieri
+sintesi: Il dannato solleva la bocca dal «fiero pasto» e si pulisce sui capelli del cranio che rode. Rinnovare il dolore gli costa, ma parlerà se le sue parole porteranno infamia al traditore: è il conte Ugolino, e l'altro è l'arcivescovo Ruggieri. Racconterà ciò che Dante non può sapere: quanto fu crudele la sua morte.
+
+1
+La bocca sollevò dal fiero pasto
+quel peccator, forbendola a’ capelli
+del capo ch’elli avea di retro guasto.
+> Quel peccatore sollevò la bocca dal pasto feroce, pulendola ai capelli della testa che aveva rovinato da dietro.
+
+4
+Poi cominciò: "Tu vuo’ ch’io rinovelli
+disperato dolor che ’l cor mi preme
+già pur pensando, pria ch’io ne favelli.
+> Poi cominciò: «Tu vuoi che io rinnovi un dolore disperato che mi stringe il cuore già solo a pensarci, prima ancora di parlarne.
+
+7
+Ma se le mie parole esser dien seme
+che frutti infamia al traditor ch’i’ rodo,
+parlare e lagrimar vedrai insieme.
+> Ma se le mie parole devono essere un seme che dia frutto di infamia al traditore che rodo, mi vedrai parlare e piangere insieme.
+
+10
+Io non so chi tu se’ né per che modo
+venuto se’ qua giù; ma fiorentino
+mi sembri veramente quand’io t’odo.
+> Non so chi sei né in che modo sei venuto quaggiù; ma, quando ti sento, mi sembri davvero fiorentino.
+
+13
+Tu dei saper ch’i’ fui conte Ugolino,
+e questi è l’arcivescovo Ruggieri:
+or ti dirò perché i son tal vicino.
+> Devi sapere che io fui il conte Ugolino, e questo è l'arcivescovo Ruggieri: ora ti dirò perché gli sono un tale vicino.
+
+16
+Che per l’effetto de’ suo’ mai pensieri,
+fidandomi di lui, io fossi preso
+e poscia morto, dir non è mestieri;
+> Che per effetto dei suoi pensieri malvagi, fidandomi di lui, io fui preso e poi ucciso, non c'è bisogno di dirlo;
+
+19
+però quel che non puoi avere inteso,
+cioè come la morte mia fu cruda,
+udirai, e saprai s’e’ m’ ha offeso.
+> perciò ascolterai ciò che non puoi aver saputo, cioè quanto fu crudele la mia morte, e saprai se mi ha offeso.
+
+## scena-2 | antenora | Il sogno nella torre della fame
+personaggi: ugolino, ruggieri, figli-di-ugolino
+sintesi: Rinchiuso da mesi nella torre della Muda con i figli e i nipoti, Ugolino fa un sogno premonitore: Ruggieri guida una caccia al lupo e ai lupacchiotti, che le cagne sbranano. Al risveglio sente i figli piangere nel sonno e chiedere pane. All'ora del cibo sente inchiodare la porta della torre.
+
+22
+Breve pertugio dentro da la Muda,
+la qual per me ha ’l titol de la fame,
+e che conviene ancor ch’altrui si chiuda,
+> Una piccola feritoia dentro la Muda, che per causa mia ha il nome della fame, e nella quale bisogna che altri siano ancora rinchiusi,
+
+25
+m’avea mostrato per lo suo forame
+più lune già, quand’io feci ’l mal sonno
+che del futuro mi squarciò ’l velame.
+> mi aveva già mostrato attraverso la sua apertura più lune, quando feci il sogno cattivo che squarciò per me il velo del futuro.
+
+28
+Questi pareva a me maestro e donno,
+cacciando il lupo e ’ lupicini al monte
+per che i Pisan veder Lucca non ponno.
+> Costui mi sembrava maestro e signore, mentre cacciava il lupo e i lupacchiotti verso il monte [San Giuliano] per cui i Pisani non possono vedere Lucca.
+
+31
+Con cagne magre, studïose e conte
+Gualandi con Sismondi e con Lanfranchi
+s’avea messi dinanzi da la fronte.
+> Con cagne magre, bramose e addestrate, si era messo davanti, in prima fila, i Gualandi, i Sismondi e i Lanfranchi.
+
+34
+In picciol corso mi parieno stanchi
+lo padre e ’ figli, e con l’agute scane
+mi parea lor veder fender li fianchi.
+> Dopo una breve corsa il padre e i figli mi sembravano stanchi, e mi pareva di vedere le zanne acute squarciare loro i fianchi.
+
+37
+Quando fui desto innanzi la dimane,
+pianger senti’ fra ’l sonno i miei figliuoli
+ch’eran con meco, e dimandar del pane.
+> Quando mi svegliai prima del mattino, sentii piangere nel sonno i miei figli, che erano con me, e chiedere del pane.
+
+40
+Ben se’ crudel, se tu già non ti duoli
+pensando ciò che ’l mio cor s’annunziava;
+e se non piangi, di che pianger suoli?
+> Sei proprio crudele se non ti addolori già pensando a ciò che il mio cuore presagiva; e se non piangi, di che cosa sei solito piangere?
+
+43
+Già eran desti, e l’ora s’appressava
+che ’l cibo ne solëa essere addotto,
+e per suo sogno ciascun dubitava;
+> Erano già svegli, e si avvicinava l'ora in cui di solito ci veniva portato il cibo, e per il suo sogno ciascuno dubitava;
+
+46
+e io senti’ chiavar l’uscio di sotto
+a l’orribile torre; ond’io guardai
+nel viso a’ mie’ figliuoi sanza far motto.
+> e io sentii inchiodare la porta di sotto dell'orribile torre; per cui guardai in viso i miei figli senza dire una parola.
+
+## scena-3 | antenora | La morte dei figli
+personaggi: ugolino, figli-di-ugolino
+tavola: dore | I figli si offrono a Ugolino | img/dore/inferno-33-figli-si-offrono-960.jpg | File:Gottliche Komodie. T. 1, Die Holle 1870 (148619571).jpg
+tavola: dore | Gaddo muore ai piedi del padre | img/dore/inferno-33-gaddo-960.jpg | File:Gottliche Komodie. T. 1, Die Holle 1870 (148619575).jpg
+tavola: dore | Ugolino tra i figli morti | img/dore/inferno-33-ugolino-figli-morti-960.jpg | File:Gottliche Komodie. T. 1, Die Holle 1870 (148619585).jpg
+sintesi: Ugolino si impietrisce e non piange; i figli piangono. Quando si morde le mani per il dolore, i figli gli offrono la propria carne. Il quarto giorno muore Gaddo, poi uno dopo l'altro gli altri tre. Cieco, Ugolino brancola sui loro corpi e li chiama per due giorni: «Poscia, più che 'l dolor, poté 'l digiuno».
+
+49
+Io non piangëa, sì dentro impetrai:
+piangevan elli; e Anselmuccio mio
+disse: "Tu guardi sì, padre! che hai?".
+> Io non piangevo, tanto dentro diventai di pietra: piangevano loro; e il mio Anselmuccio disse: "Come guardi, padre! Che cos'hai?"
+
+52
+Perciò non lagrimai né rispuos’io
+tutto quel giorno né la notte appresso,
+infin che l’altro sol nel mondo uscìo.
+> Perciò non piansi né risposi per tutto quel giorno né la notte seguente, finché il sole successivo uscì nel mondo.
+
+55
+Come un poco di raggio si fu messo
+nel doloroso carcere, e io scorsi
+per quattro visi il mio aspetto stesso,
+> Appena un poco di luce entrò nel carcere doloroso, e io scorsi su quattro visi il mio stesso aspetto,
+
+58
+ambo le man per lo dolor mi morsi;
+ed ei, pensando ch’io ’l fessi per voglia
+di manicar, di sùbito levorsi
+> mi morsi entrambe le mani per il dolore; e loro, pensando che lo facessi per voglia di mangiare, si alzarono subito
+
+61
+e disser: "Padre, assai ci fia men doglia
+se tu mangi di noi: tu ne vestisti
+queste misere carni, e tu le spoglia".
+> e dissero: "Padre, avremo molto meno dolore se mangi di noi: tu ci hai rivestito di queste misere carni, e tu spogliacene".
+
+64
+Queta’ mi allor per non farli più tristi;
+lo dì e l’altro stemmo tutti muti;
+ahi dura terra, perché non t’apristi?
+> Allora mi calmai per non renderli più tristi; quel giorno e il seguente restammo tutti muti; ah, terra crudele, perché non ti apristi?
+
+67
+Poscia che fummo al quarto dì venuti,
+Gaddo mi si gittò disteso a’ piedi,
+dicendo: "Padre mio, ché non m’aiuti?".
+> Quando arrivammo al quarto giorno, Gaddo mi si gettò disteso ai piedi, dicendo: "Padre mio, perché non mi aiuti?"
+
+70
+Quivi morì; e come tu mi vedi,
+vid’io cascar li tre ad uno ad uno
+tra ’l quinto dì e ’l sesto; ond’io mi diedi,
+> Lì morì; e come tu vedi me, così io vidi cadere gli altri tre uno a uno tra il quinto giorno e il sesto; per cui mi misi,
+
+73
+già cieco, a brancolar sovra ciascuno,
+e due dì li chiamai, poi che fur morti.
+Poscia, più che ’l dolor, poté ’l digiuno".
+> già cieco, a brancolare su ciascuno, e li chiamai per due giorni dopo che furono morti. Poi, più del dolore, poté il digiuno.»
+
+## scena-4 | antenora | L'invettiva contro Pisa
+personaggi: dante, ugolino, ruggieri, figli-di-ugolino
+sintesi: Ugolino riprende a rodere il cranio con denti forti come quelli di un cane. Dante maledice Pisa, «vituperio de le genti»: le isole di Capraia e Gorgona chiudano la foce dell'Arno e la anneghino, perché, se anche il conte era colpevole, i figli innocenti non meritavano quella croce.
+
+76
+Quand’ebbe detto ciò, con li occhi torti
+riprese ’l teschio misero co’ denti,
+che furo a l’osso, come d’un can, forti.
+> Quando ebbe detto questo, con gli occhi storti riprese tra i denti il misero cranio, che furono forti sull'osso come quelli di un cane.
+
+79
+Ahi Pisa, vituperio de le genti
+del bel paese là dove ’l sì suona,
+poi che i vicini a te punir son lenti,
+> Ah, Pisa, vergogna delle genti del bel paese dove si dice «sì», poiché i vicini sono lenti a punirti,
+
+82
+muovasi la Capraia e la Gorgona,
+e faccian siepe ad Arno in su la foce,
+sì ch’elli annieghi in te ogne persona!
+> si muovano la Capraia e la Gorgona e facciano siepe all'Arno sulla foce, così che anneghi in te ogni persona!
+
+85
+Che se ’l conte Ugolino aveva voce
+d’aver tradita te de le castella,
+non dovei tu i figliuoi porre a tal croce.
+> Perché se il conte Ugolino aveva fama di averti tradita con i castelli, tu non dovevi mettere i figli a una tale croce.
+
+88
+Innocenti facea l’età novella,
+novella Tebe, Uguiccione e ’l Brigata
+e li altri due che ’l canto suso appella.
+> L'età giovane, o nuova Tebe, rendeva innocenti Uguccione e il Brigata e gli altri due che il canto nomina sopra.
+
+## scena-5 | tolomea | La Tolomea e frate Alberigo
+personaggi: dante, virgilio, frate-alberigo, branca-doria, michel-zanche
+sintesi: Nella Tolomea i traditori degli ospiti giacciono supini e le lacrime gelano negli occhi come visiere di cristallo. Dante sente un vento. Frate Alberigo, che fece uccidere i parenti a un banchetto, rivela che qui l'anima può cadere prima della morte, mentre un demonio governa il corpo sulla terra: così è per Branca Doria, che sembra ancora vivo. Dante non gli libera gli occhi: «e cortesia fu lui esser villano».
+
+91
+Noi passammo oltre, là ’ve la gelata
+ruvidamente un’altra gente fascia,
+non volta in giù, ma tutta riversata.
+> Passammo oltre, là dove il ghiaccio avvolge duramente un'altra gente, non rivolta in giù, ma tutta supina.
+
+94
+Lo pianto stesso lì pianger non lascia,
+e ’l duol che truova in su li occhi rintoppo,
+si volge in entro a far crescer l’ambascia;
+> Lì il pianto stesso non lascia piangere, e il dolore, che trova un ostacolo sugli occhi, si volge all'interno ad accrescere l'angoscia;
+
+97
+ché le lagrime prime fanno groppo,
+e sì come visiere di cristallo,
+rïempion sotto ’l ciglio tutto il coppo.
+> perché le prime lacrime fanno un grumo e, come visiere di cristallo, riempiono sotto il ciglio tutta la cavità.
+
+100
+E avvegna che, sì come d’un callo,
+per la freddura ciascun sentimento
+cessato avesse del mio viso stallo,
+> E benché, come in un callo, per il freddo ogni sensibilità avesse abbandonato il mio viso,
+
+103
+già mi parea sentire alquanto vento;
+per ch’io: "Maestro mio, questo chi move?
+non è qua giù ogne vapore spento?".
+> mi sembrava già di sentire un po' di vento; per cui dissi: «Maestro mio, chi muove questo? Quaggiù non è spento ogni vapore?»
+
+106
+Ond’elli a me: "Avaccio sarai dove
+di ciò ti farà l’occhio la risposta,
+veggendo la cagion che ’l fiato piove".
+> Per cui lui a me: «Presto sarai dove l'occhio ti darà la risposta, vedendo la causa che fa piovere quel soffio.»
+
+109
+E un de’ tristi de la fredda crosta
+gridò a noi: "O anime crudeli
+tanto che data v’è l’ultima posta,
+> E uno dei tristi della crosta fredda ci gridò: «O anime così crudeli che vi è stato dato l'ultimo posto,
+
+112
+levatemi dal viso i duri veli,
+sì ch’ïo sfoghi ’l duol che ’l cor m’impregna,
+un poco, pria che ’l pianto si raggeli".
+> toglietemi dal viso i duri veli, così che io sfoghi un poco il dolore che mi riempie il cuore, prima che il pianto si ghiacci di nuovo.»
+
+115
+Per ch’io a lui: "Se vuo’ ch’i’ ti sovvegna,
+dimmi chi se’, e s’io non ti disbrigo,
+al fondo de la ghiaccia ir mi convegna".
+> Per cui io a lui: «Se vuoi che ti aiuti, dimmi chi sei, e se non ti libero, mi tocchi andare in fondo al ghiaccio.»
+
+118
+Rispuose adunque: "I’ son frate Alberigo;
+i’ son quel da le frutta del mal orto,
+che qui riprendo dattero per figo".
+> Rispose dunque: «Sono frate Alberigo; sono quello della frutta dell'orto malvagio, che qui ricevo un dattero per un fico.»
+
+121
+"Oh", diss’io lui, "or se’ tu ancor morto?".
+Ed elli a me: "Come ’l mio corpo stea
+nel mondo sù, nulla scïenza porto.
+> «Oh», gli dissi, «sei dunque già morto?» E lui a me: «Di come stia il mio corpo nel mondo di sopra non ho alcuna notizia.
+
+124
+Cotal vantaggio ha questa Tolomea,
+che spesse volte l’anima ci cade
+innanzi ch’Atropòs mossa le dea.
+> Questa Tolomea ha questo privilegio, che spesso l'anima ci cade prima che Atropo le dia la spinta.
+
+127
+E perché tu più volontier mi rade
+le ’nvetrïate lagrime dal volto,
+sappie che, tosto che l’anima trade
+> E perché tu mi tolga più volentieri le lacrime invetriate dal volto, sappi che, appena l'anima tradisce
+
+130
+come fec’ïo, il corpo suo l’è tolto
+da un demonio, che poscia il governa
+mentre che ’l tempo suo tutto sia vòlto.
+> come feci io, il suo corpo le è tolto da un demonio, che poi lo governa finché il suo tempo non sia tutto compiuto.
+
+133
+Ella ruina in sì fatta cisterna;
+e forse pare ancor lo corpo suso
+de l’ombra che di qua dietro mi verna.
+> Lei precipita in questa cisterna; e forse lassù appare ancora il corpo dell'ombra che sverna qui dietro di me.
+
+136
+Tu ’l dei saper, se tu vien pur mo giuso:
+elli è ser Branca Doria, e son più anni
+poscia passati ch’el fu sì racchiuso".
+> Tu devi saperlo, se vieni proprio ora da laggiù: è ser Branca Doria, e sono passati parecchi anni da quando fu rinchiuso così.»
+
+139
+"Io credo", diss’io lui, "che tu m’inganni;
+ché Branca Doria non morì unquanche,
+e mangia e bee e dorme e veste panni".
+> «Credo», gli dissi, «che tu mi inganni; perché Branca Doria non è mai morto, e mangia, beve, dorme e veste panni.»
+
+142
+"Nel fosso sù", diss’el, "de’ Malebranche,
+là dove bolle la tenace pece,
+non era ancora giunto Michel Zanche,
+> «Nel fosso di sopra dei Malebranche», disse lui, «là dove bolle la pece tenace, non era ancora arrivato Michele Zanche,
+
+145
+che questi lasciò il diavolo in sua vece
+nel corpo suo, ed un suo prossimano
+che ’l tradimento insieme con lui fece.
+> che costui lasciò al suo posto un diavolo nel suo corpo, e così un suo parente che fece il tradimento insieme a lui.
+
+148
+Ma distendi oggimai in qua la mano;
+aprimi li occhi". E io non gliel’apersi;
+e cortesia fu lui esser villano.
+> Ma ormai tendi qui la mano; aprimi gli occhi.» E io non glieli aprii; e fu cortesia essere villano con lui.
+
+151
+Ahi Genovesi, uomini diversi
+d’ogne costume e pien d’ogne magagna,
+perché non siete voi del mondo spersi?
+> Ah, Genovesi, uomini estranei a ogni buon costume e pieni di ogni vizio, perché non siete cacciati dal mondo?
+
+154
+Ché col peggiore spirto di Romagna
+trovai di voi un tal, che per sua opra
+in anima in Cocito già si bagna,
+> Perché con il peggior spirito della Romagna trovai uno di voi tale che per le sue azioni con l'anima si bagna già in Cocito,
+
+157
+e in corpo par vivo ancor di sopra.
+> e con il corpo sembra ancora vivo lassù.
+
+## personaggio | figli-di-ugolino | I figli e i nipoti di Ugolino
+dibattuto: no
+chi_era: Gaddo e Uguccione, figli di Ugolino, e i nipoti Anselmuccio e Nino detto il Brigata, imprigionati e morti con lui nel 1289. Dante li presenta tutti come fanciulli innocenti, ma alcuni erano adulti.
+
+## personaggio | frate-alberigo | Frate Alberigo
+dibattuto: no
+chi_era: Alberigo dei Manfredi, signore di Faenza e frate godente. Nel 1285 invitò a pranzo il cugino Manfredo e suo figlio e, al segnale «vengan le frutta», li fece uccidere. Nel 1300 era ancora vivo.
+
+## personaggio | branca-doria | Branca Doria
+dibattuto: no
+chi_era: Nobile genovese (morto dopo il 1325) che uccise a tradimento, durante un banchetto, il suocero Michele Zanche con l'aiuto di un parente. Nel 1300 era vivo.

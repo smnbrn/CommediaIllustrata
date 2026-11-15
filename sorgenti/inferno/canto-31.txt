@@ -1,0 +1,329 @@
+# Inferno, canto XXXI
+titolo: I giganti: Nembrot, Fialte, Anteo
+
+## scena-1 | pozzo-giganti | Il corno e le torri
+personaggi: dante, virgilio
+sintesi: La lingua di Virgilio, che prima ha ferito Dante, ora lo medica. Lasciata Malebolge, nella penombra si sente un corno più forte di quello di Orlando a Roncisvalle. Dante crede di vedere alte torri; Virgilio lo prende per mano e spiega che sono giganti, immersi nel pozzo dall'ombelico in giù.
+
+1
+Una medesma lingua pria mi morse,
+sì che mi tinse l’una e l’altra guancia,
+e poi la medicina mi riporse;
+> La stessa lingua prima mi ferì, così che mi fece arrossire l'una e l'altra guancia, e poi mi porse la medicina;
+
+4
+così od’io che solea far la lancia
+d’Achille e del suo padre esser cagione
+prima di trista e poi di buona mancia.
+> così ho sentito dire che faceva la lancia di Achille e di suo padre, che prima feriva e poi guariva.
+
+7
+Noi demmo il dosso al misero vallone
+su per la ripa che ’l cinge dintorno,
+attraversando sanza alcun sermone.
+> Voltammo le spalle alla misera valle salendo per l'argine che la circonda, attraversando senza dire una parola.
+
+10
+Quiv’era men che notte e men che giorno,
+sì che ’l viso m’andava innanzi poco;
+ma io senti’ sonare un alto corno,
+> Lì era meno che notte e meno che giorno, così che la vista mi arrivava poco avanti; ma sentii suonare un corno potente,
+
+13
+tanto ch’avrebbe ogne tuon fatto fioco,
+che, contra sé la sua via seguitando,
+dirizzò li occhi miei tutti ad un loco.
+> tanto che avrebbe reso fioco ogni tuono, e che, seguendo il suono a ritroso, diresse tutti i miei occhi verso un punto.
+
+16
+Dopo la dolorosa rotta, quando
+Carlo Magno perdé la santa gesta,
+non sonò sì terribilmente Orlando.
+> Dopo la dolorosa sconfitta, quando Carlo Magno perse la santa schiera dei paladini, Orlando non suonò così terribilmente.
+
+19
+Poco portäi in là volta la testa,
+che me parve veder molte alte torri;
+ond’io: "Maestro, dì, che terra è questa?".
+> Avevo rivolto da poco la testa da quella parte quando mi parve di vedere molte alte torri; per cui dissi: «Maestro, dimmi, che città è questa?»
+
+22
+Ed elli a me: "Però che tu trascorri
+per le tenebre troppo da la lungi,
+avvien che poi nel maginare abborri.
+> E lui a me: «Poiché spingi lo sguardo troppo lontano attraverso le tenebre, accade che poi ti sbagli nell'immaginare.
+
+25
+Tu vedrai ben, se tu là ti congiungi,
+quanto ’l senso s’inganna di lontano;
+però alquanto più te stesso pungi".
+> Vedrai bene, se arrivi là, quanto i sensi si ingannano da lontano; perciò affrettati un po' di più.»
+
+28
+Poi caramente mi prese per mano
+e disse: "Pria che noi siam più avanti,
+acciò che ’l fatto men ti paia strano,
+> Poi mi prese affettuosamente per mano e disse: «Prima che andiamo più avanti, perché la cosa ti sembri meno strana,
+
+31
+sappi che non son torri, ma giganti,
+e son nel pozzo intorno da la ripa
+da l’umbilico in giuso tutti quanti".
+> sappi che non sono torri, ma giganti, e sono tutti nel pozzo, intorno alla riva, dall'ombelico in giù.»
+
+34
+Come quando la nebbia si dissipa,
+lo sguardo a poco a poco raffigura
+ciò che cela ’l vapor che l’aere stipa,
+> Come quando la nebbia si dissolve, lo sguardo distingue a poco a poco ciò che nasconde il vapore che riempie l'aria,
+
+37
+così forando l’aura grossa e scura,
+più e più appressando ver’ la sponda,
+fuggiemi errore e cresciemi paura;
+> così, perforando l'aria densa e scura, avvicinandomi sempre di più alla sponda, l'errore mi fuggiva e la paura mi cresceva;
+
+40
+però che, come su la cerchia tonda
+Montereggion di torri si corona,
+così la proda che ’l pozzo circonda
+> perché, come sulla sua cinta circolare Monteriggioni si corona di torri, così sull'orlo che circonda il pozzo
+
+43
+torreggiavan di mezza la persona
+li orribili giganti, cui minaccia
+Giove del cielo ancora quando tuona.
+> torreggiavano con metà del corpo gli orribili giganti, che Giove minaccia ancora dal cielo quando tuona.
+
+## scena-2 | pozzo-giganti | Nembrot
+personaggi: dante, virgilio, nembrot
+tavola: dore | Nembrot | img/dore/inferno-31-nembrot-960.jpg | File:Gottliche Komodie. T. 1, Die Holle 1870 (148619471).jpg
+sintesi: Dante distingue il volto e il busto di un gigante, enorme come la pigna di San Pietro. La natura fece bene a smettere di creare simili esseri, che univano intelligenza, cattiva volontà e forza. Il gigante grida parole incomprensibili: è Nembrot, colpevole della torre di Babele, per cui nel mondo non si parla più una sola lingua.
+
+46
+E io scorgeva già d’alcun la faccia,
+le spalle e ’l petto e del ventre gran parte,
+e per le coste giù ambo le braccia.
+> E io scorgevo già il volto di qualcuno, le spalle, il petto e gran parte del ventre, e lungo i fianchi entrambe le braccia.
+
+49
+Natura certo, quando lasciò l’arte
+di sì fatti animali, assai fé bene
+per tòrre tali essecutori a Marte.
+> Certo la natura, quando abbandonò l'arte di creare tali animali, fece molto bene, per togliere a Marte esecutori come questi.
+
+52
+E s’ella d’elefanti e di balene
+non si pente, chi guarda sottilmente,
+più giusta e più discreta la ne tene;
+> E se non si pente degli elefanti e delle balene, chi guarda con acutezza la ritiene per questo più giusta e più saggia;
+
+55
+ché dove l’argomento de la mente
+s’aggiugne al mal volere e a la possa,
+nessun riparo vi può far la gente.
+> perché dove il ragionamento della mente si aggiunge alla cattiva volontà e alla forza, la gente non può farvi alcun riparo.
+
+58
+La faccia sua mi parea lunga e grossa
+come la pina di San Pietro a Roma,
+e a sua proporzione eran l’altre ossa;
+> La sua faccia mi sembrava lunga e grossa come la pigna di San Pietro a Roma, e le altre ossa erano in proporzione;
+
+61
+sì che la ripa, ch’era perizoma
+dal mezzo in giù, ne mostrava ben tanto
+di sovra, che di giugnere a la chioma
+> così che la riva, che gli faceva da perizoma dalla vita in giù, ne mostrava tanto al di sopra che di arrivare ai capelli
+
+64
+tre Frison s’averien dato mal vanto;
+però ch’i’ ne vedea trenta gran palmi
+dal loco in giù dov’omo affibbia ’l manto.
+> tre Frisoni si sarebbero vantati a torto; perché ne vedevo trenta grandi palmi dal punto in cui l'uomo allaccia il mantello in giù.
+
+67
+"Raphèl maì amècche zabì almi",
+cominciò a gridar la fiera bocca,
+cui non si convenia più dolci salmi.
+> «Raphèl maì amècche zabì almi», cominciò a gridare la bocca feroce, alla quale non si addicevano salmi più dolci.
+
+70
+E ’l duca mio ver’ lui: "Anima sciocca,
+tienti col corno, e con quel ti disfoga
+quand’ira o altra passïon ti tocca!
+> E la mia guida verso di lui: «Anima sciocca, tieniti al corno, e sfogati con quello quando ti prende l'ira o un'altra passione!
+
+73
+Cércati al collo, e troverai la soga
+che ’l tien legato, o anima confusa,
+e vedi lui che ’l gran petto ti doga".
+> Cercati al collo e troverai la cinghia che lo tiene legato, o anima confusa, e vedilo che ti cinge il grande petto.»
+
+76
+Poi disse a me: "Elli stessi s’accusa;
+questi è Nembrotto per lo cui mal coto
+pur un linguaggio nel mondo non s’usa.
+> Poi disse a me: «Si accusa da sé; questo è Nembrot, per il cui cattivo pensiero nel mondo non si usa più una sola lingua.
+
+79
+Lasciànlo stare e non parliamo a vòto;
+ché così è a lui ciascun linguaggio
+come ’l suo ad altrui, ch’a nullo è noto".
+> Lasciamolo stare e non parliamo inutilmente; perché per lui ogni linguaggio è come il suo per gli altri, che non è noto a nessuno.»
+
+## scena-3 | pozzo-giganti | Fialte incatenato
+personaggi: dante, virgilio, fialte, briareo
+tavola: dore | I giganti: Fialte | File:Gustave Doré - Dante Alighieri - Inferno - Plate 65 (Canto XXXI - The Titans).jpg
+sintesi: Più avanti c'è Fialte, ancora più feroce e grande, incatenato con le braccia legate: volle misurarsi con Giove nella guerra dei giganti contro gli dèi. Dante vorrebbe vedere Briareo, ma Virgilio dice che è lontano. Fialte si scuote come un terremoto, e Dante teme la morte.
+
+82
+Facemmo adunque più lungo vïaggio,
+vòlti a sinistra; e al trar d’un balestro
+trovammo l’altro assai più fero e maggio.
+> Facemmo dunque un cammino più lungo, voltati a sinistra; e a un tiro di balestra trovammo l'altro, molto più feroce e più grande.
+
+85
+A cigner lui qual che fosse ’l maestro,
+non so io dir, ma el tenea soccinto
+dinanzi l’altro e dietro il braccio destro
+> Chi fosse il maestro che lo legò non so dirlo, ma teneva stretto davanti il braccio sinistro e dietro il destro
+
+88
+d’una catena che ’l tenea avvinto
+dal collo in giù, sì che ’n su lo scoperto
+si ravvolgëa infino al giro quinto.
+> con una catena che lo teneva avvinto dal collo in giù, così che sulla parte scoperta si avvolgeva fino a cinque giri.
+
+91
+"Questo superbo volle esser esperto
+di sua potenza contra ’l sommo Giove",
+disse ’l mio duca, "ond’elli ha cotal merto.
+> «Questo superbo volle mettere alla prova la sua potenza contro il sommo Giove», disse la mia guida, «per cui ha una tale ricompensa.
+
+94
+Fïalte ha nome, e fece le gran prove
+quando i giganti fer paura a’ dèi;
+le braccia ch’el menò, già mai non move".
+> Si chiama Fialte, e fece le grandi imprese quando i giganti fecero paura agli dèi; le braccia che mosse allora non le muove mai più.»
+
+97
+E io a lui: "S’esser puote, io vorrei
+che de lo smisurato Brïareo
+esperïenza avesser li occhi mei".
+> E io a lui: «Se è possibile, vorrei che i miei occhi facessero esperienza dello smisurato Briareo.»
+
+100
+Ond’ei rispuose: "Tu vedrai Anteo
+presso di qui che parla ed è disciolto,
+che ne porrà nel fondo d’ogne reo.
+> Per cui rispose: «Vedrai Anteo qui vicino, che parla ed è sciolto, e che ci porrà sul fondo di ogni colpa.
+
+103
+Quel che tu vuo’ veder, più là è molto
+ed è legato e fatto come questo,
+salvo che più feroce par nel volto".
+> Quello che vuoi vedere è molto più in là, ed è legato e fatto come questo, salvo che nel volto sembra più feroce.»
+
+106
+Non fu tremoto già tanto rubesto,
+che scotesse una torre così forte,
+come Fïalte a scuotersi fu presto.
+> Non ci fu mai un terremoto così violento da scuotere una torre con tanta forza quanto Fialte fu pronto a scuotersi.
+
+109
+Allor temett’io più che mai la morte,
+e non v’era mestier più che la dotta,
+s’io non avessi viste le ritorte.
+> Allora temetti la morte più che mai, e non sarebbe servito altro che la paura, se non avessi visto le catene.
+
+## scena-4 | pozzo-giganti | Anteo depone i poeti sul fondo
+personaggi: dante, virgilio, anteo
+tavola: dore | Anteo depone Dante e Virgilio | File:DVinfernoGiantAntaeusLoweringDanteAndVirgil m.jpg
+sintesi: Virgilio lusinga Anteo, il gigante che non combatté contro gli dèi, promettendogli fama nel mondo grazie a Dante vivo. Anteo prende i due nella mano e, chinandosi come la torre Garisenda di Bologna quando una nuvola le passa sopra, li depone sul fondo dell'Inferno, nel ghiaccio di Cocito.
+
+112
+Noi procedemmo più avante allotta,
+e venimmo ad Anteo, che ben cinque alle,
+sanza la testa, uscia fuor de la grotta.
+> Procedemmo allora più avanti e arrivammo ad Anteo, che usciva dalla cavità ben cinque braccia, senza contare la testa.
+
+115
+"O tu che ne la fortunata valle
+che fece Scipïon di gloria reda,
+quand’Anibàl co’ suoi diede le spalle,
+> «O tu che nella valle fortunata, che fece Scipione erede di gloria quando Annibale con i suoi voltò le spalle,
+
+118
+recasti già mille leon per preda,
+e che, se fossi stato a l’alta guerra
+de’ tuoi fratelli, ancor par che si creda
+> catturasti un tempo mille leoni, e che, se fossi stato nell'alta guerra dei tuoi fratelli, sembra che si creda ancora
+
+121
+ch’avrebber vinto i figli de la terra:
+mettine giù, e non ten vegna schifo,
+dove Cocito la freddura serra.
+> che i figli della terra avrebbero vinto: mettici giù, e non ti dispiaccia, dove il freddo stringe Cocito.
+
+124
+Non ci fare ire a Tizio né a Tifo:
+questi può dar di quel che qui si brama;
+però ti china e non torcer lo grifo.
+> Non farci andare da Tizio né da Tifeo: questo può dare ciò che qui si desidera [la fama]; perciò chinati e non storcere il muso.
+
+127
+Ancor ti può nel mondo render fama,
+ch’el vive, e lunga vita ancor aspetta
+se ’nnanzi tempo grazia a sé nol chiama".
+> Può ancora renderti fama nel mondo, perché è vivo, e si aspetta ancora una lunga vita, se la grazia non lo chiama a sé prima del tempo.»
+
+130
+Così disse ’l maestro; e quelli in fretta
+le man distese, e prese ’l duca mio,
+ond’Ercule sentì già grande stretta.
+> Così disse il maestro; e quello in fretta tese le mani, quelle di cui Ercole sentì un tempo la grande stretta, e prese la mia guida.
+
+133
+Virgilio, quando prender si sentio,
+disse a me: "Fatti qua, sì ch’io ti prenda";
+poi fece sì ch’un fascio era elli e io.
+> Virgilio, quando si sentì prendere, mi disse: «Vieni qui, così che ti prenda»; poi fece in modo che lui e io fossimo un solo fascio.
+
+136
+Qual pare a riguardar la Carisenda
+sotto ’l chinato, quando un nuvol vada
+sovr’essa sì, ched ella incontro penda:
+> Come appare a chi la guarda dal lato inclinato la Garisenda, quando una nuvola le passa sopra in direzione opposta, così che sembra cadere,
+
+139
+tal parve Antëo a me che stava a bada
+di vederlo chinare, e fu tal ora
+ch’i’ avrei voluto ir per altra strada.
+> tale mi parve Anteo mentre stavo attento a vederlo chinarsi, e fu un momento in cui avrei voluto andare per un'altra strada.
+
+142
+Ma lievemente al fondo che divora
+Lucifero con Giuda, ci sposò;
+né, sì chinato, lì fece dimora,
+> Ma ci depose delicatamente sul fondo che divora Lucifero con Giuda; e, così chinato, non rimase lì,
+
+145
+e come albero in nave si levò.
+> e si rialzò come l'albero di una nave.
+
+## personaggio | nembrot | Nembrot
+dibattuto: no
+chi_era: Re di Babilonia, «potente cacciatore» nella Genesi; la tradizione medievale lo considerava un gigante e il promotore della torre di Babele, da cui venne la confusione delle lingue.
+
+## personaggio | fialte | Fialte
+dibattuto: no
+chi_era: Efialte, uno dei giganti del mito greco che tentarono di scalare l'Olimpo sovrapponendo i monti Ossa e Pelio.
+
+## personaggio | briareo | Briareo
+dibattuto: no
+chi_era: Gigante del mito greco con cento braccia e cinquanta teste; nella tradizione latina combatté contro gli dèi.
+
+## personaggio | anteo | Anteo
+dibattuto: no
+chi_era: Gigante libico del mito, figlio della Terra, invincibile finché toccava il suolo; Ercole lo vinse sollevandolo e stringendolo. Non partecipò alla guerra contro gli dèi, per questo non è incatenato.

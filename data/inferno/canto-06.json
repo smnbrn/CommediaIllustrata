@@ -1,0 +1,271 @@
+{
+  "cantica": "inferno",
+  "canto": 6,
+  "titolo": "Cerbero, i golosi, Ciacco",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_VI",
+  "numero_versi": 115,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 12],
+      "titolo_scena": "La pioggia eterna",
+      "sintesi": "Dante riprende i sensi nel terzo cerchio: una pioggia eterna, fredda e pesante di grandine, acqua sporca e neve cade sulla terra puzzolente, dove giacciono i golosi.",
+      "luogo_id": "cerchio-3",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": []
+    },
+    {
+      "id": "scena-2",
+      "versi": [13, 33],
+      "titolo_scena": "Cerbero",
+      "sintesi": "Cerbero, belva con tre teste di cane, latra sui dannati, li graffia e li squarta. Quando vede i due poeti spalanca le bocche: Virgilio gli getta in gola manciate di terra e lo fa tacere.",
+      "luogo_id": "cerchio-3",
+      "personaggi": ["dante", "virgilio", "cerbero"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Cerbero",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Inferno_Canto_6_%28148618330%29.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Inferno_Canto_6_%28148618330%29.jpg/960px-Inferno_Canto_6_%28148618330%29.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Inferno_Canto_6_(148618330).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [34, 57],
+      "titolo_scena": "Ciacco",
+      "sintesi": "Camminando sulle ombre stese nel fango, i due incontrano un'anima che si alza a sedere: è il fiorentino Ciacco, punito per la gola. Dice di essere conosciuto da Dante, che però, per lo strazio del suo aspetto, non lo riconosce.",
+      "luogo_id": "cerchio-3",
+      "personaggi": ["dante", "virgilio", "ciacco"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Ciacco",
+          "url": "img/dore/inferno-06-ciacco-960.jpg",
+          "miniatura": "img/dore/inferno-06-ciacco-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._1,_Die_Holle_1870_(148618352).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [58, 93],
+      "titolo_scena": "La profezia su Firenze",
+      "sintesi": "Dante chiede del destino di Firenze divisa. Ciacco predice gli scontri tra Bianchi e Neri, la vittoria e poi la caduta dei Bianchi; i giusti sono due e inascoltati. Dei grandi fiorentini del passato dice che sono più in basso, tra le anime più nere; poi chiede di essere ricordato nel mondo e ricade nel fango.",
+      "luogo_id": "cerchio-3",
+      "personaggi": ["dante", "virgilio", "ciacco", "farinata", "tegghiaio", "iacopo-rusticucci", "arrigo", "mosca"],
+      "tavole": []
+    },
+    {
+      "id": "scena-5",
+      "versi": [94, 115],
+      "titolo_scena": "Il giudizio universale e Pluto",
+      "sintesi": "Virgilio spiega che Ciacco non si rialzerà fino al giudizio universale, quando ogni anima riprenderà il suo corpo; dopo, i dannati soffriranno di più, perché più perfetti. Girando il cerchio i due arrivano al punto della discesa, dove trovano Pluto.",
+      "luogo_id": "cerchio-3",
+      "personaggi": ["dante", "virgilio", "pluto"],
+      "tavole": []
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Al tornar de la mente, che si chiuse\ndinanzi a la pietà d’i due cognati,\nche di trestizia tutto mi confuse,",
+      "parafrasi": "Quando ripresi i sensi, che si erano chiusi davanti alla pena dei due cognati [Paolo e Francesca] e che la tristezza aveva del tutto sconvolto,"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "novi tormenti e novi tormentati\nmi veggio intorno, come ch’io mi mova\ne ch’io mi volga, e come che io guati.",
+      "parafrasi": "mi vedo intorno nuovi tormenti e nuovi tormentati, comunque mi muova, mi volti e guardi."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "Io sono al terzo cerchio, de la piova\netterna, maladetta, fredda e greve;\nregola e qualità mai non l’è nova.",
+      "parafrasi": "Sono nel terzo cerchio, quello della pioggia eterna, maledetta, fredda e pesante; il suo ritmo e la sua natura non cambiano mai."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "Grandine grossa, acqua tinta e neve\nper l’aere tenebroso si riversa;\npute la terra che questo riceve.",
+      "parafrasi": "Grandine grossa, acqua sporca e neve si rovesciano attraverso l'aria buia; la terra che le riceve manda un fetore."
+    },
+    {
+      "versi": [13, 15],
+      "testo": "Cerbero, fiera crudele e diversa,\ncon tre gole caninamente latra\nsovra la gente che quivi è sommersa.",
+      "parafrasi": "Cerbero, belva crudele e mostruosa, latra come un cane con tre gole sopra la gente che qui è sommersa."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "Li occhi ha vermigli, la barba unta e atra,\ne ’l ventre largo, e unghiate le mani;\ngraffia li spirti ed iscoia ed isquatra.",
+      "parafrasi": "Ha gli occhi rossi, la barba sudicia e nera, il ventre largo e le mani armate di unghie; graffia gli spiriti, li scuoia e li squarta."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "Urlar li fa la pioggia come cani;\nde l’un de’ lati fanno a l’altro schermo;\nvolgonsi spesso i miseri profani.",
+      "parafrasi": "La pioggia li fa urlare come cani; con un fianco fanno riparo all'altro, e quei miseri empi si rigirano spesso."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Quando ci scorse Cerbero, il gran vermo,\nle bocche aperse e mostrocci le sanne;\nnon avea membro che tenesse fermo.",
+      "parafrasi": "Quando ci vide Cerbero, il grande mostro, spalancò le bocche e ci mostrò le zanne; non aveva membro che stesse fermo."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "E ’l duca mio distese le sue spanne,\nprese la terra, e con piene le pugna\nla gittò dentro a le bramose canne.",
+      "parafrasi": "E la mia guida allargò le mani, prese la terra e la gettò a pugni pieni dentro quelle gole affamate."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Qual è quel cane ch’abbaiando agogna,\ne si racqueta poi che ’l pasto morde,\nché solo a divorarlo intende e pugna,",
+      "parafrasi": "Come il cane che abbaiando smania per il cibo e si calma appena morde il pasto, perché pensa e lotta solo per divorarlo,"
+    },
+    {
+      "versi": [31, 33],
+      "testo": "cotai si fecer quelle facce lorde\nde lo demonio Cerbero, che ’ntrona\nl’anime sì, ch’esser vorrebber sorde.",
+      "parafrasi": "così fecero quei musi sporchi del demonio Cerbero, che stordisce le anime con tanto rumore che vorrebbero essere sorde."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Noi passavam su per l’ombre che adona\nla greve pioggia, e ponavam le piante\nsovra lor vanità che par persona.",
+      "parafrasi": "Passavamo sopra le ombre che la pioggia pesante abbatte, e mettevamo i piedi sulla loro vana apparenza, che sembra un corpo."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Elle giacean per terra tutte quante,\nfuor d’una ch’a seder si levò, ratto\nch’ella ci vide passarsi davante.",
+      "parafrasi": "Giacevano tutte a terra, tranne una che si levò a sedere appena ci vide passarle davanti."
+    },
+    {
+      "versi": [40, 42],
+      "testo": "\"O tu che se’ per questo ’nferno tratto\",\nmi disse, \"riconoscimi, se sai:\ntu fosti, prima ch’io disfatto, fatto\".",
+      "parafrasi": "«O tu che sei condotto attraverso questo Inferno», mi disse, «riconoscimi, se puoi: tu nascesti prima che io morissi.»"
+    },
+    {
+      "versi": [43, 45],
+      "testo": "E io a lui: \"L’angoscia che tu hai\nforse ti tira fuor de la mia mente,\nsì che non par ch’i’ ti vedessi mai.",
+      "parafrasi": "E io a lui: «L'angoscia che soffri forse ti cancella dalla mia memoria, tanto che non mi sembra di averti mai visto."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Ma dimmi chi tu se’ che ’n sì dolente\nloco se’ messo, e hai sì fatta pena,\nche, s’altra è maggio, nulla è sì spiacente\".",
+      "parafrasi": "Ma dimmi chi sei, tu che sei stato messo in un luogo così doloroso e hai una pena tale che, se ce n'è di più grandi, nessuna è così ripugnante.»"
+    },
+    {
+      "versi": [49, 51],
+      "testo": "Ed elli a me: \"La tua città, ch’è piena\nd’invidia sì che già trabocca il sacco,\nseco mi tenne in la vita serena.",
+      "parafrasi": "E lui a me: «La tua città, che è tanto piena d'invidia che ormai il sacco trabocca, mi ebbe con sé nella vita serena."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "Voi Cittadini mi chiamaste Ciacco\nper la dannosa colpa de la gola,\ncome tu vedi, a la pioggia mi fiacco.",
+      "parafrasi": "Voi cittadini mi chiamaste Ciacco: per la colpa rovinosa della gola, come vedi, mi accascio sotto la pioggia."
+    },
+    {
+      "versi": [55, 57],
+      "testo": "E io anima trista non son sola,\nché tutte queste a simil pena stanno\nper simil colpa\". E più non fé parola.",
+      "parafrasi": "E io, anima triste, non sono sola, perché tutte queste stanno a una pena simile per una colpa simile.» E non disse altro."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Io li rispuosi: \"Ciacco, il tuo affanno\nmi pesa sì, ch’a lagrimar mi ’nvita;\nma dimmi, se tu sai, a che verranno",
+      "parafrasi": "Io gli risposi: «Ciacco, la tua sofferenza mi pesa tanto che mi spinge a piangere; ma dimmi, se lo sai, a che cosa arriveranno"
+    },
+    {
+      "versi": [61, 63],
+      "testo": "li cittadin de la città partita;\ns’alcun v’è giusto; e dimmi la cagione\nper che l’ ha tanta discordia assalita\".",
+      "parafrasi": "i cittadini della città divisa; se c'è qualcuno giusto; e dimmi il motivo per cui tanta discordia l'ha assalita.»"
+    },
+    {
+      "versi": [64, 66],
+      "testo": "E quelli a me: \"Dopo lunga tencione\nverranno al sangue, e la parte selvaggia\ncaccerà l’altra con molta offensione.",
+      "parafrasi": "E lui a me: «Dopo una lunga contesa arriveranno al sangue, e la parte selvaggia [i Bianchi] caccerà l'altra [i Neri] con molto danno."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Poi appresso convien che questa caggia\ninfra tre soli, e che l’altra sormonti\ncon la forza di tal che testé piaggia.",
+      "parafrasi": "Poi è destino che questa cada entro tre anni e che l'altra prevalga con la forza di uno che ora sta in bilico [papa Bonifacio VIII]."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "Alte terrà lungo tempo le fronti,\ntenendo l’altra sotto gravi pesi,\ncome che di ciò pianga o che n’aonti.",
+      "parafrasi": "Terrà a lungo la fronte alta, tenendo l'altra sotto pesi gravi, per quanto questa ne pianga e se ne sdegni."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Giusti son due, e non vi sono intesi;\nsuperbia, invidia e avarizia sono\nle tre faville c’ hanno i cuori accesi\".",
+      "parafrasi": "I giusti sono due, e nessuno li ascolta; superbia, invidia e avarizia sono le tre scintille che hanno incendiato i cuori.»"
+    },
+    {
+      "versi": [76, 78],
+      "testo": "Qui puose fine al lagrimabil suono.\nE io a lui: \"Ancor vo’ che mi ’nsegni\ne che di più parlar mi facci dono.",
+      "parafrasi": "Qui pose fine al suo discorso doloroso. E io a lui: «Voglio ancora che tu mi insegni e che mi faccia dono di altre parole."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Farinata e ’l Tegghiaio, che fuor sì degni,\nIacopo Rusticucci, Arrigo e ’l Mosca\ne li altri ch’a ben far puoser li ’ngegni,",
+      "parafrasi": "Farinata e il Tegghiaio, che furono così degni, Iacopo Rusticucci, Arrigo e il Mosca e gli altri che misero l'ingegno nel fare il bene,"
+    },
+    {
+      "versi": [82, 84],
+      "testo": "dimmi ove sono e fa ch’io li conosca;\nché gran disio mi stringe di savere\nse ’l ciel li addolcia o lo ’nferno li attosca\".",
+      "parafrasi": "dimmi dove sono e fa' che io li conosca, perché un grande desiderio mi stringe di sapere se il cielo li addolcisce o l'Inferno li avvelena.»"
+    },
+    {
+      "versi": [85, 87],
+      "testo": "E quelli: \"Ei son tra l’anime più nere;\ndiverse colpe giù li grava al fondo:\nse tanto scendi, là i potrai vedere.",
+      "parafrasi": "E lui: «Sono tra le anime più nere; colpe diverse li spingono giù verso il fondo: se scendi tanto, là li potrai vedere."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Ma quando tu sarai nel dolce mondo,\npriegoti ch’a la mente altrui mi rechi:\npiù non ti dico e più non ti rispondo\".",
+      "parafrasi": "Ma quando sarai nel dolce mondo, ti prego di riportarmi alla memoria degli altri: non ti dico più nulla e non ti rispondo più.»"
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Li diritti occhi torse allora in biechi;\nguardommi un poco e poi chinò la testa:\ncadde con essa a par de li altri ciechi.",
+      "parafrasi": "Allora torse gli occhi, che prima guardavano diritti, in uno sguardo storto; mi guardò un poco e poi chinò la testa: cadde con essa al pari degli altri ciechi."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "E ’l duca disse a me: \"Più non si desta\ndi qua dal suon de l’angelica tromba,\nquando verrà la nimica podesta:",
+      "parafrasi": "E la mia guida mi disse: «Non si risveglia più fino al suono della tromba dell'angelo, quando verrà il giudice nemico [Cristo, nemico dei dannati]:"
+    },
+    {
+      "versi": [97, 99],
+      "testo": "ciascun rivederà la trista tomba,\nripiglierà sua carne e sua figura,\nudirà quel ch’in etterno rimbomba\".",
+      "parafrasi": "ognuno rivedrà la sua triste tomba, riprenderà la sua carne e il suo aspetto, e udrà la sentenza che risuona in eterno.»"
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Sì trapassammo per sozza mistura\nde l’ombre e de la pioggia, a passi lenti,\ntoccando un poco la vita futura;",
+      "parafrasi": "Così attraversammo a passi lenti quella sporca mescolanza di ombre e di pioggia, parlando un poco della vita futura;"
+    },
+    {
+      "versi": [103, 105],
+      "testo": "per ch’io dissi: \"Maestro, esti tormenti\ncrescerann’ei dopo la gran sentenza,\no fier minori, o saran sì cocenti?\".",
+      "parafrasi": "per cui dissi: «Maestro, questi tormenti cresceranno dopo la grande sentenza, o diventeranno minori, o resteranno così brucianti?»"
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Ed elli a me: \"Ritorna a tua scïenza,\nche vuol, quanto la cosa è più perfetta,\npiù senta il bene, e così la doglienza.",
+      "parafrasi": "E lui a me: «Torna alla tua dottrina, che vuole che quanto più una cosa è perfetta, tanto più senta il piacere, e così il dolore."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "Tutto che questa gente maladetta\nin vera perfezion già mai non vada,\ndi là più che di qua essere aspetta\".",
+      "parafrasi": "Benché questa gente maledetta non arrivi mai alla vera perfezione, si aspetta di essere, dopo il giudizio, più completa di adesso.»"
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Noi aggirammo a tondo quella strada,\nparlando più assai ch’i’ non ridico;\nvenimmo al punto dove si digrada:",
+      "parafrasi": "Girammo intorno lungo quella strada, parlando molto più di quanto io non riferisca; arrivammo al punto dove si scende:"
+    },
+    {
+      "versi": [115, 115],
+      "testo": "quivi trovammo Pluto, il gran nemico.",
+      "parafrasi": "lì trovammo Pluto, il grande nemico."
+    }
+  ]
+}

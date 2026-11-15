@@ -10,6 +10,8 @@ Controlli fatti (il programma si ferma se uno fallisce):
 import json
 import re
 import sys
+import time
+import urllib.error
 import urllib.parse
 import urllib.request
 
@@ -24,8 +26,15 @@ def wikitext(page):
     q = urllib.parse.urlencode({"action": "parse", "page": page, "prop": "wikitext",
                                 "format": "json", "formatversion": "2"})
     req = urllib.request.Request(API + "?" + q, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        d = json.load(r)
+    for tentativo in range(6):          # Wikisource risponde 429 alle richieste troppo ravvicinate
+        try:
+            with urllib.request.urlopen(req, timeout=30) as r:
+                d = json.load(r)
+            break
+        except urllib.error.HTTPError as e:
+            if e.code != 429 or tentativo == 5:
+                raise
+            time.sleep(15 * (tentativo + 1))
     if "error" in d:
         raise SystemExit(f"Errore Wikisource: {d['error']}")
     return d["parse"]["wikitext"]
@@ -36,11 +45,13 @@ def versi(wt):
     if not m:
         raise SystemExit("Nessun blocco <poem> trovato")
     t = m.group(1)
-    t = re.sub(r"\{\{R\|(\d+)\}\}", r"⟦\1⟧", t)          # numeri dei versi
+    t = re.sub(r"\{\{[Rr]\|(\d+)\}\}", r"⟦\1⟧", t)       # numeri dei versi ({{R|3}} o {{r|3}})
+    # citazione di un altro testo: {{§§/Tc|ancora|testo mostrato|opera|pagina}} -> testo mostrato
+    t = re.sub(r"\{\{§§/Tc\|[^|{}]*\|([^|{}]*)(?:\|[^{}]*)?\}\}", r"\1", t)
     t = re.sub(r"\{\{§\|[^|{}]*\}\}", "", t)               # ancore semplici
     t = re.sub(r"\{\{§\|[^|{}]*\|", "", t)                 # ancore che racchiudono testo
-    # collegamenti ad autori/opere citati: {{AutoreCitato|Nome|testo}} -> testo
-    t = re.sub(r"\{\{(?:AutoreCitato|TestoCitato)\|[^|{}]*\|", "", t)
+    # collegamenti ad autori/opere citati: {{AutoreCitato|Nome|testo}} o {{Ac|Nome|testo}} -> testo
+    t = re.sub(r"\{\{(?:AutoreCitato|TestoCitato|Ac)\|[^|{}]*\|", "", t)
     t = t.replace("}}", "")
     t = re.sub(r"<[^>]+>", "", t)                          # tag html residui
     t = re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", lambda m: m.group(1), t)   # collegamenti wiki: [[w:Orfeo|Orfeo]] -> Orfeo

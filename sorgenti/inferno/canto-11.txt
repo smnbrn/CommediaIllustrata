@@ -1,0 +1,251 @@
+# Inferno, canto XI
+titolo: L'ordinamento dell'Inferno
+
+## scena-1 | cerchio-6 | La tomba di papa Anastasio
+personaggi: dante, virgilio, anastasio
+tavola: dore | La tomba di papa Anastasio | img/dore/inferno-11-papa-anastasio-960.jpg | File:Gottliche Komodie. T. 1, Die Holle 1870 (148618573).jpg
+sintesi: Sull'orlo di un'alta ripa di massi, respinti dal puzzo che sale dall'abisso, i due si riparano dietro il coperchio di una tomba con la scritta: «Custodisco papa Anastasio». Virgilio propone di scendere piano per abituarsi al fetore, e intanto di usare il tempo.
+
+1
+In su l’estremità d’un’alta ripa
+che facevan gran pietre rotte in cerchio,
+venimmo sopra più crudele stipa;
+> Sull'orlo di un'alta ripa, formata da grandi pietre spezzate disposte in cerchio, arrivammo sopra una folla [di dannati] ancora più crudelmente stipata;
+
+4
+e quivi, per l’orribile soperchio
+del puzzo che ’l profondo abisso gitta,
+ci raccostammo, in dietro, ad un coperchio
+> e lì, per l'eccesso orribile del puzzo che il profondo abisso manda su, ci ritirammo indietro dietro il coperchio
+
+7
+d’un grand’avello, ov’io vidi una scritta
+che dicea: ’Anastasio papa guardo,
+lo qual trasse Fotin de la via dritta’.
+> di una grande tomba, dove vidi una scritta che diceva: «Custodisco papa Anastasio, che Fotino trascinò fuori dalla retta via».
+
+10
+"Lo nostro scender conviene esser tardo,
+sì che s’ausi un poco in prima il senso
+al tristo fiato; e poi no i fia riguardo".
+> «La nostra discesa deve essere lenta, così che prima l'olfatto si abitui un poco al triste odore; e poi non ci farà più caso.»
+
+13
+Così ’l maestro; e io "Alcun compenso",
+dissi lui, "trova che ’l tempo non passi
+perduto". Ed elli: "Vedi ch’a ciò penso".
+> Così il maestro; e io gli dissi: «Trova qualche compenso, perché il tempo non passi perduto.» E lui: «Vedi che ci penso.»
+
+## scena-2 | cerchio-6 | Violenti e fraudolenti
+personaggi: dante, virgilio
+sintesi: Virgilio spiega la struttura del basso Inferno. Sotto di loro ci sono tre cerchi. Il primo, dei violenti, è diviso in tre gironi: violenti contro il prossimo, contro se stessi, contro Dio, la natura e l'arte. La frode, peccato proprio dell'uomo, è punita più in basso: nell'ottavo cerchio quella contro chi non si fida, nel nono il tradimento di chi si fida.
+
+16
+"Figliuol mio, dentro da cotesti sassi",
+cominciò poi a dir, "son tre cerchietti
+di grado in grado, come que’ che lassi.
+> «Figlio mio, dentro questi sassi», cominciò poi a dire, «ci sono tre cerchi più piccoli, uno sotto l'altro, come quelli che lasci.
+
+19
+Tutti son pien di spirti maladetti;
+ma perché poi ti basti pur la vista,
+intendi come e perché son costretti.
+> Sono tutti pieni di spiriti maledetti; ma perché poi ti basti solo vederli, ascolta come e perché vi sono rinchiusi.
+
+22
+D’ogne malizia, ch’odio in cielo acquista,
+ingiuria è ’l fine, ed ogne fin cotale
+o con forza o con frode altrui contrista.
+> Ogni malvagità che si attira l'odio del cielo ha come fine l'ingiustizia, e ogni fine di questo tipo danneggia gli altri o con la forza o con la frode.
+
+25
+Ma perché frode è de l’uom proprio male,
+più spiace a Dio; e però stan di sotto
+li frodolenti, e più dolor li assale.
+> Ma poiché la frode è un male proprio dell'uomo, dispiace di più a Dio; e perciò i fraudolenti stanno più in basso e li colpisce un dolore maggiore.
+
+28
+Di vïolenti il primo cerchio è tutto;
+ma perché si fa forza a tre persone,
+in tre gironi è distinto e costrutto.
+> Il primo cerchio [il settimo] è tutto di violenti; ma poiché si fa violenza a tre persone, è distinto e costruito in tre gironi.
+
+31
+A Dio, a sé, al prossimo si pòne
+far forza, dico in loro e in lor cose,
+come udirai con aperta ragione.
+> Si può fare violenza a Dio, a se stessi, al prossimo, dico nella persona e nelle cose, come sentirai con ragionamento chiaro.
+
+34
+Morte per forza e ferute dogliose
+nel prossimo si danno, e nel suo avere
+ruine, incendi e tollette dannose;
+> Al prossimo si danno la morte violenta e ferite dolorose, e ai suoi beni rovine, incendi e rapine dannose;
+
+37
+onde omicide e ciascun che mal fiere,
+guastatori e predon, tutti tormenta
+lo giron primo per diverse schiere.
+> per cui gli omicidi e chiunque ferisce con cattiveria, i devastatori e i predoni, li tormenta tutti il primo girone, in schiere diverse.
+
+40
+Puote omo avere in sé man vïolenta
+e ne’ suoi beni; e però nel secondo
+giron convien che sanza pro si penta
+> Un uomo può usare violenza contro se stesso e contro i suoi beni; e perciò nel secondo girone si pente inutilmente
+
+43
+qualunque priva sé del vostro mondo,
+biscazza e fonde la sua facultade,
+e piange là dov’esser de’ giocondo.
+> chiunque si priva del vostro mondo, gioca d'azzardo e dilapida le sue sostanze, e piange là dove dovrebbe essere felice.
+
+46
+Puossi far forza ne la deïtade,
+col cor negando e bestemmiando quella,
+e spregiando natura e sua bontade;
+> Si può fare violenza alla divinità negandola nel cuore e bestemmiandola, e disprezzando la natura e la sua bontà;
+
+49
+e però lo minor giron suggella
+del segno suo e Soddoma e Caorsa
+e chi, spregiando Dio col cor, favella.
+> e perciò il girone più piccolo marchia con il suo segno sia Sodoma sia Cahors [i sodomiti e gli usurai] e chi parla disprezzando Dio nel cuore.
+
+52
+La frode, ond’ogne coscïenza è morsa,
+può l’omo usare in colui che ’n lui fida
+e in quel che fidanza non imborsa.
+> La frode, che morde ogni coscienza, l'uomo può usarla contro chi si fida di lui e contro chi non gli dà fiducia.
+
+55
+Questo modo di retro par ch’incida
+pur lo vinco d’amor che fa natura;
+onde nel cerchio secondo s’annida
+> Quest'ultimo modo sembra spezzare soltanto il vincolo d'amore che crea la natura; per cui nel secondo cerchio [l'ottavo] si annidano
+
+58
+ipocresia, lusinghe e chi affattura,
+falsità, ladroneccio e simonia,
+ruffian, baratti e simile lordura.
+> ipocrisia, lusinghe e chi fa incantesimi, falsificazione, furto e simonia, ruffiani, baratteria e simile sporcizia.
+
+61
+Per l’altro modo quell’amor s’oblia
+che fa natura, e quel ch’è poi aggiunto,
+di che la fede spezïal si cria;
+> Con l'altro modo si dimentica sia l'amore che crea la natura sia quello che vi si aggiunge, da cui nasce la fiducia particolare;
+
+64
+onde nel cerchio minore, ov’è ’l punto
+de l’universo in su che Dite siede,
+qualunque trade in etterno è consunto".
+> per cui nel cerchio più piccolo, dov'è il centro dell'universo su cui siede Dite, chiunque tradisce è consumato in eterno.»
+
+## scena-3 | cerchio-6 | Incontinenza e usura
+personaggi: dante, virgilio
+sintesi: Dante chiede perché i peccatori dei cerchi superiori non siano puniti dentro Dite. Virgilio richiama l'Etica di Aristotele: l'incontinenza offende Dio meno della malizia e della bestialità. Poi spiega perché l'usura offende Dio: l'usuraio disprezza la natura e il lavoro umano, che ne è figlio. È quasi l'alba: bisogna riprendere il cammino.
+
+67
+E io: "Maestro, assai chiara procede
+la tua ragione, e assai ben distingue
+questo baràtro e ’l popol ch’e’ possiede.
+> E io: «Maestro, il tuo ragionamento procede molto chiaro e distingue molto bene questo abisso e il popolo che contiene.
+
+70
+Ma dimmi: quei de la palude pingue,
+che mena il vento, e che batte la pioggia,
+e che s’incontran con sì aspre lingue,
+> Ma dimmi: quelli della palude fangosa, quelli che il vento trascina, quelli che la pioggia batte e quelli che si scontrano con parole così aspre,
+
+73
+perché non dentro da la città roggia
+sono ei puniti, se Dio li ha in ira?
+e se non li ha, perché sono a tal foggia?".
+> perché non sono puniti dentro la città rovente, se Dio li ha in odio? E se non li ha, perché sono in tale condizione?»
+
+76
+Ed elli a me "Perché tanto delira",
+disse, "lo ’ngegno tuo da quel che sòle?
+o ver la mente dove altrove mira?
+> E lui a me: «Perché il tuo ingegno si allontana tanto da come ragiona di solito?» disse. «O la tua mente guarda altrove?
+
+79
+Non ti rimembra di quelle parole
+con le quai la tua Etica pertratta
+le tre disposizion che ’l ciel non vole,
+> Non ti ricordi le parole con cui la tua Etica tratta le tre disposizioni che il cielo non vuole,
+
+82
+incontenenza, malizia e la matta
+bestialitade? e come incontenenza
+men Dio offende e men biasimo accatta?
+> incontinenza, malizia e la folle bestialità? E come l'incontinenza offende meno Dio e merita meno biasimo?
+
+85
+Se tu riguardi ben questa sentenza,
+e rechiti a la mente chi son quelli
+che sù di fuor sostegnon penitenza,
+> Se consideri bene questa dottrina e ti richiami alla mente chi sono quelli che fanno penitenza su, fuori dalla città,
+
+88
+tu vedrai ben perché da questi felli
+sien dipartiti, e perché men crucciata
+la divina vendetta li martelli".
+> vedrai bene perché sono separati da questi malvagi e perché la vendetta divina li colpisca con meno ira.»
+
+91
+"O sol che sani ogne vista turbata,
+tu mi contenti sì quando tu solvi,
+che, non men che saver, dubbiar m’aggrata.
+> «O sole che guarisci ogni vista offuscata, mi soddisfi tanto quando sciogli i miei dubbi che dubitare mi piace non meno che sapere.
+
+94
+Ancora in dietro un poco ti rivolvi",
+diss’io, "là dove di’ ch’usura offende
+la divina bontade, e ’l groppo solvi".
+> Torna ancora un poco indietro», dissi, «là dove dici che l'usura offende la bontà divina, e sciogli il nodo.»
+
+97
+"Filosofia", mi disse, "a chi la ’ntende,
+nota, non pure in una sola parte,
+come natura lo suo corso prende
+> «La filosofia», mi disse, «fa notare a chi la capisce, e non in un solo punto, come la natura prenda il suo corso
+
+100
+dal divino ’ntelletto e da sua arte;
+e se tu ben la tua Fisica note,
+tu troverai, non dopo molte carte,
+> dall'intelletto divino e dalla sua arte; e se leggi bene la tua Fisica, troverai dopo non molte pagine
+
+103
+che l’arte vostra quella, quanto pote,
+segue, come ’l maestro fa ’l discente;
+sì che vostr’arte a Dio quasi è nepote.
+> che la vostra arte [il lavoro umano] segue la natura per quanto può, come il discepolo fa con il maestro; così che la vostra arte è quasi nipote di Dio.
+
+106
+Da queste due, se tu ti rechi a mente
+lo Genesì dal principio, convene
+prender sua vita e avanzar la gente;
+> Da queste due, se ti ricordi la Genesi dall'inizio, l'umanità deve prendere il suo sostentamento e progredire;
+
+109
+e perché l’usuriere altra via tene,
+per sé natura e per la sua seguace
+dispregia, poi ch’in altro pon la spene.
+> e poiché l'usuraio tiene un'altra via, disprezza la natura in sé e nella sua seguace [l'arte], perché ripone la sua speranza in altro [nel denaro].
+
+112
+Ma seguimi oramai che ’l gir mi piace;
+ché i Pesci guizzan su per l’orizzonta,
+e ’l Carro tutto sovra ’l Coro giace,
+> Ma ora seguimi, perché mi piace andare: i Pesci guizzano sull'orizzonte e il Carro sta tutto sopra il Coro [vento di nord-ovest],
+
+115
+e ’l balzo via là oltra si dismonta".
+> e la ripa si scende molto più in là.»
+
+## personaggio | anastasio | Papa Anastasio II
+dibattuto: sì
+chi_era: Papa dal 496 al 498. Una tradizione medievale lo voleva convinto da Fotino, diacono di Tessalonica, a negare la natura divina di Cristo; oggi si ritiene che Dante lo abbia confuso con l'imperatore omonimo, Anastasio I.

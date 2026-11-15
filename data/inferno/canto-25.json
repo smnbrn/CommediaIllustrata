@@ -1,0 +1,303 @@
+{
+  "cantica": "inferno",
+  "canto": 25,
+  "titolo": "Caco e le metamorfosi dei ladri",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_XXV",
+  "numero_versi": 151,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 33],
+      "titolo_scena": "Le fiche di Vanni Fucci e Caco",
+      "sintesi": "Vanni Fucci alza le mani in un gesto osceno contro Dio, ma due serpenti lo stringono al collo e alle braccia. Dante maledice Pistoia. Arriva un centauro coperto di bisce, con un drago che sputa fuoco sulle spalle: è Caco, punito qui per il furto con inganno della mandria di Ercole.",
+      "luogo_id": "bolgia-7",
+      "personaggi": ["dante", "virgilio", "vanni-fucci", "caco"],
+      "tavole": []
+    },
+    {
+      "id": "scena-2",
+      "versi": [34, 78],
+      "titolo_scena": "Agnello e Cianfa diventano un solo mostro",
+      "sintesi": "Arrivano tre spiriti che cercano Cianfa. Un serpente con sei piedi si lancia su uno di loro, Agnello, e lo avvinghia come l'edera: i due si fondono come cera calda, mescolando i colori, e diventano un'unica figura mostruosa, «né due né uno».",
+      "luogo_id": "bolgia-7",
+      "personaggi": ["dante", "virgilio", "agnello", "cianfa"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Agnello e Cianfa si fondono",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/DVinfernoAgnelloChangingIntoSerpent_m.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/DVinfernoAgnelloChangingIntoSerpent_m.jpg/960px-DVinfernoAgnelloChangingIntoSerpent_m.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:DVinfernoAgnelloChangingIntoSerpent_m.jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [79, 151],
+      "titolo_scena": "Lo scambio tra Buoso e Francesco",
+      "sintesi": "Un serpentello nero e infuocato trafigge l'ombelico di Buoso. I due si fissano, fumando dalla ferita e dalla bocca, e si scambiano le nature: l'uomo diventa serpente e il serpente uomo. Dante sfida Lucano e Ovidio a eguagliare la metamorfosi. Solo Puccio Sciancato resta com'era; il serpente diventato uomo è Francesco Cavalcanti, ucciso a Gaville.",
+      "luogo_id": "bolgia-7",
+      "personaggi": ["dante", "buoso", "francesco-cavalcanti", "puccio-sciancato"],
+      "tavole": []
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Al fine de le sue parole il ladro\nle mani alzò con amendue le fiche,\ngridando: \"Togli, Dio, ch’a te le squadro!\".",
+      "parafrasi": "Alla fine delle sue parole il ladro alzò le mani facendo con entrambe le fiche, gridando: «Prendi, Dio, che le rivolgo a te!»"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "Da indi in qua mi fuor le serpi amiche,\nperch’una li s’avvolse allora al collo,\ncome dicesse ’Non vo’ che più diche’;",
+      "parafrasi": "Da quel momento le serpi mi furono amiche, perché una gli si avvolse allora al collo, come se dicesse «Non voglio che tu dica altro»;"
+    },
+    {
+      "versi": [7, 9],
+      "testo": "e un’altra a le braccia, e rilegollo,\nribadendo sé stessa sì dinanzi,\nche non potea con esse dare un crollo.",
+      "parafrasi": "e un'altra alle braccia, e lo legò di nuovo, ribadendosi così forte davanti che non poteva fare con esse il minimo movimento."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "Ahi Pistoia, Pistoia, ché non stanzi\nd’incenerarti sì che più non duri,\npoi che ’n mal fare il seme tuo avanzi?",
+      "parafrasi": "Ah Pistoia, Pistoia, perché non decidi di incenerirti da sola così da non esistere più, dal momento che superi i tuoi fondatori nel fare il male?"
+    },
+    {
+      "versi": [13, 15],
+      "testo": "Per tutt’i cerchi de lo ’nferno scuri\nnon vidi spirto in Dio tanto superbo,\nnon quel che cadde a Tebe giù da’ muri.",
+      "parafrasi": "In tutti i cerchi bui dell'Inferno non vidi uno spirito così superbo contro Dio, neppure quello che cadde giù dalle mura di Tebe [Capaneo]."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "El si fuggì che non parlò più verbo;\ne io vidi un centauro pien di rabbia\nvenir chiamando: \"Ov’è, ov’è l’acerbo?\".",
+      "parafrasi": "Fuggì senza dire più una parola; e io vidi un centauro pieno di rabbia venire gridando: «Dov'è, dov'è il ribelle?»"
+    },
+    {
+      "versi": [19, 21],
+      "testo": "Maremma non cred’io che tante n’abbia,\nquante bisce elli avea su per la groppa\ninfin ove comincia nostra labbia.",
+      "parafrasi": "Non credo che la Maremma abbia tante bisce quante lui ne aveva su per la groppa, fino al punto dove comincia la nostra forma umana."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Sovra le spalle, dietro da la coppa,\ncon l’ali aperte li giacea un draco;\ne quello affuoca qualunque s’intoppa.",
+      "parafrasi": "Sopra le spalle, dietro la nuca, gli stava un drago con le ali aperte, che incendia chiunque incontri."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Lo mio maestro disse: \"Questi è Caco,\nche, sotto ’l sasso di monte Aventino,\ndi sangue fece spesse volte laco.",
+      "parafrasi": "Il mio maestro disse: «Questo è Caco, che sotto la roccia del monte Aventino fece molte volte un lago di sangue."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Non va co’ suoi fratei per un cammino,\nper lo furto che frodolente fece\ndel grande armento ch’elli ebbe a vicino;",
+      "parafrasi": "Non va per la stessa via dei suoi fratelli centauri, per il furto che fece con l'inganno della grande mandria che aveva vicino;"
+    },
+    {
+      "versi": [31, 33],
+      "testo": "onde cessar le sue opere biece\nsotto la mazza d’Ercule, che forse\ngliene diè cento, e non sentì le diece\".",
+      "parafrasi": "per cui le sue azioni malvagie cessarono sotto la clava di Ercole, che forse gliene diede cento colpi, e lui non ne sentì nemmeno dieci.»"
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Mentre che sì parlava, ed el trascorse,\ne tre spiriti venner sotto noi,\nde’ quai né io né ’l duca mio s’accorse,",
+      "parafrasi": "Mentre parlava così, Caco passò oltre, e sotto di noi arrivarono tre spiriti, dei quali né io né la mia guida ci accorgemmo"
+    },
+    {
+      "versi": [37, 39],
+      "testo": "se non quando gridar: \"Chi siete voi?\";\nper che nostra novella si ristette,\ne intendemmo pur ad essi poi.",
+      "parafrasi": "se non quando gridarono: «Chi siete voi?»; per cui il nostro racconto si interruppe, e poi badammo solo a loro."
+    },
+    {
+      "versi": [40, 42],
+      "testo": "Io non li conoscea; ma ei seguette,\ncome suol seguitar per alcun caso,\nche l’un nomar un altro convenette,",
+      "parafrasi": "Io non li conoscevo; ma accadde, come suole accadere per caso, che uno dovette nominare un altro,"
+    },
+    {
+      "versi": [43, 45],
+      "testo": "dicendo: \"Cianfa dove fia rimaso?\";\nper ch’io, acciò che ’l duca stesse attento,\nmi puosi ’l dito su dal mento al naso.",
+      "parafrasi": "dicendo: «Dove sarà rimasto Cianfa?»; per cui io, perché la guida stesse attenta, mi misi il dito dal mento al naso."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Se tu se’ or, lettore, a creder lento\nciò ch’io dirò, non sarà maraviglia,\nché io che ’l vidi, a pena il mi consento.",
+      "parafrasi": "Se ora, lettore, sei lento a credere ciò che dirò, non sarà una meraviglia, perché io, che l'ho visto, a malapena lo ammetto a me stesso."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "Com’io tenea levate in lor le ciglia,\ne un serpente con sei piè si lancia\ndinanzi a l’uno, e tutto a lui s’appiglia.",
+      "parafrasi": "Mentre tenevo alzate le ciglia su di loro, ecco un serpente con sei piedi si lancia davanti a uno e gli si attacca tutto."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "Co’ piè di mezzo li avvinse la pancia\ne con li anterïor le braccia prese;\npoi li addentò e l’una e l’altra guancia;",
+      "parafrasi": "Con i piedi di mezzo gli strinse la pancia e con quelli anteriori gli prese le braccia; poi gli addentò l'una e l'altra guancia;"
+    },
+    {
+      "versi": [55, 57],
+      "testo": "li diretani a le cosce distese,\ne miseli la coda tra ’mbedue\ne dietro per le ren sù la ritese.",
+      "parafrasi": "distese quelli posteriori lungo le cosce e gli mise la coda in mezzo, e dietro la tese su per le reni."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Ellera abbarbicata mai non fue\nad alber sì, come l’orribil fiera\nper l’altrui membra avviticchiò le sue.",
+      "parafrasi": "L'edera non fu mai abbarbicata a un albero così come l'orribile belva avvinghiò le sue membra a quelle dell'altro."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Poi s’appiccar, come di calda cera\nfossero stati, e mischiar lor colore,\nné l’un né l’altro già parea quel ch’era:",
+      "parafrasi": "Poi si attaccarono, come se fossero stati di cera calda, e mescolarono i loro colori, e né l'uno né l'altro sembrava più quello che era:"
+    },
+    {
+      "versi": [64, 66],
+      "testo": "come procede innanzi da l’ardore,\nper lo papiro suso, un color bruno\nche non è nero ancora e ’l bianco more.",
+      "parafrasi": "come, davanti alla fiamma, avanza sulla carta un colore bruno che non è ancora nero e il bianco muore."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Li altri due ’l riguardavano, e ciascuno\ngridava: \"Omè, Agnel, come ti muti!\nVedi che già non se’ né due né uno\".",
+      "parafrasi": "Gli altri due lo guardavano, e ciascuno gridava: «Ahimè, Agnello, come ti trasformi! Vedi che già non sei né due né uno.»"
+    },
+    {
+      "versi": [70, 72],
+      "testo": "Già eran li due capi un divenuti,\nquando n’apparver due figure miste\nin una faccia, ov’eran due perduti.",
+      "parafrasi": "Già le due teste erano diventate una, quando ci apparvero due figure mescolate in una sola faccia, dove se n'erano perse due."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Fersi le braccia due di quattro liste;\nle cosce con le gambe e ’l ventre e ’l casso\ndivenner membra che non fuor mai viste.",
+      "parafrasi": "Da quattro membra si fecero due braccia; le cosce con le gambe, il ventre e il petto diventarono membra mai viste."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "Ogne primaio aspetto ivi era casso:\ndue e nessun l’imagine perversa\nparea; e tal sen gio con lento passo.",
+      "parafrasi": "Ogni aspetto di prima era cancellato: l'immagine stravolta sembrava due e nessuno; e così se ne andò a passo lento."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Come ’l ramarro sotto la gran fersa\ndei dì canicular, cangiando sepe,\nfolgore par se la via attraversa,",
+      "parafrasi": "Come il ramarro sotto la grande sferza dei giorni della canicola, cambiando siepe, sembra un fulmine se attraversa la strada,"
+    },
+    {
+      "versi": [82, 84],
+      "testo": "sì pareva, venendo verso l’epe\nde li altri due, un serpentello acceso,\nlivido e nero come gran di pepe;",
+      "parafrasi": "così sembrava, venendo verso il ventre degli altri due, un serpentello infuocato, livido e nero come un granello di pepe;"
+    },
+    {
+      "versi": [85, 87],
+      "testo": "e quella parte onde prima è preso\nnostro alimento, a l’un di lor trafisse;\npoi cadde giuso innanzi lui disteso.",
+      "parafrasi": "e a uno di loro trafisse quella parte da cui riceviamo per prima il nutrimento [l'ombelico]; poi cadde disteso davanti a lui."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Lo trafitto ’l mirò, ma nulla disse;\nanzi, co’ piè fermati, sbadigliava\npur come sonno o febbre l’assalisse.",
+      "parafrasi": "Il trafitto lo guardò, ma non disse niente; anzi, con i piedi fermi, sbadigliava proprio come se lo assalissero il sonno o la febbre."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Elli ’l serpente e quei lui riguardava;\nl’un per la piaga e l’altro per la bocca\nfummavan forte, e ’l fummo si scontrava.",
+      "parafrasi": "Lui guardava il serpente e quello lui; l'uno dalla ferita e l'altro dalla bocca fumavano forte, e il fumo si incontrava."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Taccia Lucano omai là dov’e’ tocca\ndel misero Sabello e di Nasidio,\ne attenda a udir quel ch’or si scocca.",
+      "parafrasi": "Taccia ormai Lucano là dove racconta del misero Sabello e di Nasidio, e stia ad ascoltare ciò che ora si scocca."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Taccia di Cadmo e d’Aretusa Ovidio,\nché se quello in serpente e quella in fonte\nconverte poetando, io non lo ’nvidio;",
+      "parafrasi": "Taccia Ovidio di Cadmo e di Aretusa, perché se nei suoi versi trasforma quello in serpente e quella in fonte, io non lo invidio;"
+    },
+    {
+      "versi": [100, 102],
+      "testo": "ché due nature mai a fronte a fronte\nnon trasmutò sì ch’amendue le forme\na cambiar lor matera fosser pronte.",
+      "parafrasi": "perché non trasformò mai due nature, una di fronte all'altra, così che entrambe le forme fossero pronte a scambiarsi la materia."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Insieme si rispuosero a tai norme,\nche ’l serpente la coda in forca fesse,\ne ’l feruto ristrinse insieme l’orme.",
+      "parafrasi": "Si corrisposero insieme secondo queste regole: il serpente divise la coda in una forcella, e il ferito strinse insieme i piedi."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Le gambe con le cosce seco stesse\ns’appiccar sì, che ’n poco la giuntura\nnon facea segno alcun che si paresse.",
+      "parafrasi": "Le gambe con le cosce si attaccarono tra loro così che in poco tempo la giuntura non lasciava alcun segno visibile."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "Togliea la coda fessa la figura\nche si perdeva là, e la sua pelle\nsi facea molle, e quella di là dura.",
+      "parafrasi": "La coda biforcuta prendeva la forma che si perdeva di là, e la sua pelle si faceva molle, e quella dell'altro dura."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Io vidi intrar le braccia per l’ascelle,\ne i due piè de la fiera, ch’eran corti,\ntanto allungar quanto accorciavan quelle.",
+      "parafrasi": "Vidi le braccia entrare nelle ascelle, e i due piedi della belva, che erano corti, allungarsi tanto quanto quelle si accorciavano."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "Poscia li piè di rietro, insieme attorti,\ndiventaron lo membro che l’uom cela,\ne ’l misero del suo n’avea due porti.",
+      "parafrasi": "Poi i piedi posteriori, attorcigliati insieme, diventarono il membro che l'uomo nasconde, e il misero dal suo ne aveva fatti spuntare due."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Mentre che ’l fummo l’uno e l’altro vela\ndi color novo, e genera ’l pel suso\nper l’una parte e da l’altra il dipela,",
+      "parafrasi": "Mentre il fumo vela l'uno e l'altro di un colore nuovo, e fa crescere il pelo da una parte e lo toglie dall'altra,"
+    },
+    {
+      "versi": [121, 123],
+      "testo": "l’un si levò e l’altro cadde giuso,\nnon torcendo però le lucerne empie,\nsotto le quai ciascun cambiava muso.",
+      "parafrasi": "l'uno si alzò e l'altro cadde giù, senza però distogliere gli sguardi empi, sotto i quali ciascuno cambiava muso."
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Quel ch’era dritto, il trasse ver’ le tempie,\ne di troppa matera ch’in là venne\nuscir li orecchi de le gote scempie;",
+      "parafrasi": "Quello che era in piedi ritirò il muso verso le tempie, e dalla materia in eccesso che venne là uscirono le orecchie dalle guance lisce;"
+    },
+    {
+      "versi": [127, 129],
+      "testo": "ciò che non corse in dietro e si ritenne\ndi quel soverchio, fé naso a la faccia\ne le labbra ingrossò quanto convenne.",
+      "parafrasi": "ciò che di quell'eccesso non corse indietro e restò fece il naso alla faccia e ingrossò le labbra quanto bisognava."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Quel che giacëa, il muso innanzi caccia,\ne li orecchi ritira per la testa\ncome face le corna la lumaccia;",
+      "parafrasi": "Quello che giaceva spinge avanti il muso e ritira le orecchie dentro la testa, come fa la lumaca con le corna;"
+    },
+    {
+      "versi": [133, 135],
+      "testo": "e la lingua, ch’avëa unita e presta\nprima a parlar, si fende, e la forcuta\nne l’altro si richiude; e ’l fummo resta.",
+      "parafrasi": "e la lingua, che prima aveva unita e pronta a parlare, si divide, e quella biforcuta nell'altro si richiude; e il fumo si ferma."
+    },
+    {
+      "versi": [136, 138],
+      "testo": "L’anima ch’era fiera divenuta,\nsuffolando si fugge per la valle,\ne l’altro dietro a lui parlando sputa.",
+      "parafrasi": "L'anima che era diventata belva fugge sibilando per la valle, e l'altro, dietro di lei, parla e sputa."
+    },
+    {
+      "versi": [139, 141],
+      "testo": "Poscia li volse le novelle spalle,\ne disse a l’altro: \"I’ vo’ che Buoso corra,\ncom’ ho fatt’io, carpon per questo calle\".",
+      "parafrasi": "Poi le voltò le spalle nuove e disse all'altro: «Voglio che Buoso corra carponi per questa strada, come ho fatto io.»"
+    },
+    {
+      "versi": [142, 144],
+      "testo": "Così vid’io la settima zavorra\nmutare e trasmutare; e qui mi scusi\nla novità se fior la penna abborra.",
+      "parafrasi": "Così vidi la zavorra della settima bolgia mutare e trasmutare; e qui mi scusi la novità se la mia penna va un poco fuori strada."
+    },
+    {
+      "versi": [145, 147],
+      "testo": "E avvegna che li occhi miei confusi\nfossero alquanto e l’animo smagato,\nnon poter quei fuggirsi tanto chiusi,",
+      "parafrasi": "E benché i miei occhi fossero un po' confusi e l'animo smarrito, quelli non poterono fuggire così nascosti"
+    },
+    {
+      "versi": [148, 150],
+      "testo": "ch’i’ non scorgessi ben Puccio Sciancato;\ned era quel che sol, di tre compagni\nche venner prima, non era mutato;",
+      "parafrasi": "che io non riconoscessi bene Puccio Sciancato; ed era il solo dei tre compagni venuti prima che non si era trasformato;"
+    },
+    {
+      "versi": [151, 151],
+      "testo": "l’altr’era quel che tu, Gaville, piagni.",
+      "parafrasi": "l'altro era quello per cui tu, Gaville, piangi."
+    }
+  ]
+}

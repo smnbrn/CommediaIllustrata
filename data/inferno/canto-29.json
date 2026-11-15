@@ -1,0 +1,303 @@
+{
+  "cantica": "inferno",
+  "canto": 29,
+  "titolo": "Geri del Bello, i falsari: Griffolino e Capocchio",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_XXIX",
+  "numero_versi": 139,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 36],
+      "titolo_scena": "Geri del Bello",
+      "sintesi": "Dante continua a fissare la bolgia e Virgilio lo esorta ad andare: il tempo è poco. Dante cercava un suo parente, Geri del Bello; Virgilio lo ha visto minacciarlo col dito e andarsene. Dante spiega che Geri è sdegnato perché la sua morte violenta non è stata ancora vendicata dalla famiglia.",
+      "luogo_id": "bolgia-9",
+      "personaggi": ["dante", "virgilio", "geri-del-bello"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Virgilio rimprovera la curiosità di Dante",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/DVinfernoVirgilReprovesDantesCuriosity_m.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DVinfernoVirgilReprovesDantesCuriosity_m.jpg/960px-DVinfernoVirgilReprovesDantesCuriosity_m.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:DVinfernoVirgilReprovesDantesCuriosity_m.jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [37, 72],
+      "titolo_scena": "La decima bolgia, un ospedale",
+      "sintesi": "Dall'ultima bolgia salgono lamenti come frecce di pietà e un puzzo di membra in putrefazione: è come se tutti i malati degli ospedali di Valdichiana, Maremma e Sardegna fossero in una sola fossa. I falsari giacciono ammucchiati, peggio del popolo di Egina colpito dalla peste.",
+      "luogo_id": "bolgia-10",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "I falsari malati",
+          "url": "img/dore/inferno-29-falsari-960.jpg",
+          "miniatura": "img/dore/inferno-29-falsari-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._1,_Die_Holle_1870_(148619313).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [73, 139],
+      "titolo_scena": "Griffolino e Capocchio, gli alchimisti",
+      "sintesi": "Due dannati seduti schiena contro schiena si grattano furiosamente la scabbia. Il primo è Griffolino d'Arezzo, bruciato per aver promesso per gioco di insegnare a volare a un senese sciocco, ma dannato per l'alchimia. Dante ironizza sulla vanità dei Senesi; l'altro conferma con sarcasmo e si presenta: è Capocchio, falsario di metalli.",
+      "luogo_id": "bolgia-10",
+      "personaggi": ["dante", "virgilio", "griffolino", "capocchio"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Due alchimisti che si grattano la scabbia",
+          "url": "img/dore/inferno-29-alchimisti-960.jpg",
+          "miniatura": "img/dore/inferno-29-alchimisti-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._1,_Die_Holle_1870_(148619342).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "La molta gente e le diverse piaghe\navean le luci mie sì inebrïate,\nche de lo stare a piangere eran vaghe.",
+      "parafrasi": "La molta gente e le diverse piaghe avevano reso i miei occhi così ebbri che desideravano restare a piangere."
+    },
+    {
+      "versi": [4, 6],
+      "testo": "Ma Virgilio mi disse: \"Che pur guate?\nperché la vista tua pur si soffolge\nlà giù tra l’ombre triste smozzicate?",
+      "parafrasi": "Ma Virgilio mi disse: «Che cosa guardi ancora? Perché il tuo sguardo si posa ancora là giù tra le ombre tristi e mutilate?"
+    },
+    {
+      "versi": [7, 9],
+      "testo": "Tu non hai fatto sì a l’altre bolge;\npensa, se tu annoverar le credi,\nche miglia ventidue la valle volge.",
+      "parafrasi": "Non hai fatto così nelle altre bolge; pensa, se credi di contarle, che la valle gira per ventidue miglia."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "E già la luna è sotto i nostri piedi;\nlo tempo è poco omai che n’è concesso,\ne altro è da veder che tu non vedi\".",
+      "parafrasi": "E già la luna è sotto i nostri piedi; il tempo che ci è concesso è ormai poco, e c'è altro da vedere che tu non vedi.»"
+    },
+    {
+      "versi": [13, 15],
+      "testo": "\"Se tu avessi\", rispuos’io appresso,\n\"atteso a la cagion per ch’io guardava,\nforse m’avresti ancor lo star dimesso\".",
+      "parafrasi": "«Se tu avessi badato», risposi subito, «alla ragione per cui guardavo, forse mi avresti concesso di restare ancora.»"
+    },
+    {
+      "versi": [16, 18],
+      "testo": "Parte sen giva, e io retro li andava,\nlo duca, già faccendo la risposta,\ne soggiugnendo: \"Dentro a quella cava",
+      "parafrasi": "Intanto la guida se ne andava, e io gli andavo dietro, già dando la risposta e aggiungendo: «Dentro quella cavità"
+    },
+    {
+      "versi": [19, 21],
+      "testo": "dov’io tenea or li occhi sì a posta,\ncredo ch’un spirto del mio sangue pianga\nla colpa che là giù cotanto costa\".",
+      "parafrasi": "dove tenevo ora gli occhi così fissi, credo che uno spirito del mio sangue pianga la colpa che là sotto costa tanto.»"
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Allor disse ’l maestro: \"Non si franga\nlo tuo pensier da qui innanzi sovr’ello.\nAttendi ad altro, ed ei là si rimanga;",
+      "parafrasi": "Allora il maestro disse: «D'ora in poi il tuo pensiero non si rompa su di lui. Bada ad altro, e lui resti là;"
+    },
+    {
+      "versi": [25, 27],
+      "testo": "ch’io vidi lui a piè del ponticello\nmostrarti e minacciar forte col dito,\ne udi’ ’l nominar Geri del Bello.",
+      "parafrasi": "perché l'ho visto ai piedi del ponticello indicarti e minacciarti forte con il dito, e l'ho sentito chiamare Geri del Bello."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Tu eri allor sì del tutto impedito\nsovra colui che già tenne Altaforte,\nche non guardasti in là, sì fu partito\".",
+      "parafrasi": "Tu eri allora così del tutto occupato con colui che un tempo tenne Altaforte [Bertran de Born] che non guardasti là, finché se ne fu andato.»"
+    },
+    {
+      "versi": [31, 33],
+      "testo": "\"O duca mio, la vïolenta morte\nche non li è vendicata ancor\", diss’io,\n\"per alcun che de l’onta sia consorte,",
+      "parafrasi": "«O mia guida, la morte violenta che non gli è stata ancora vendicata», dissi, «da nessuno di quelli che condividono l'offesa,"
+    },
+    {
+      "versi": [34, 36],
+      "testo": "fece lui disdegnoso; ond’el sen gio\nsanza parlarmi, sì com’ïo estimo:\ne in ciò m’ ha el fatto a sé più pio\".",
+      "parafrasi": "lo ha reso sdegnoso; per cui se n'è andato senza parlarmi, come credo: e per questo mi ha reso più pietoso verso di lui.»"
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Così parlammo infino al loco primo\nche de lo scoglio l’altra valle mostra,\nse più lume vi fosse, tutto ad imo.",
+      "parafrasi": "Così parlammo fino al primo punto dello scoglio da cui si vedrebbe l'altra valle fino al fondo, se ci fosse più luce."
+    },
+    {
+      "versi": [40, 42],
+      "testo": "Quando noi fummo sor l’ultima chiostra\ndi Malebolge, sì che i suoi conversi\npotean parere a la veduta nostra,",
+      "parafrasi": "Quando fummo sopra l'ultimo chiostro di Malebolge, così che i suoi conversi potevano apparire alla nostra vista,"
+    },
+    {
+      "versi": [43, 45],
+      "testo": "lamenti saettaron me diversi,\nche di pietà ferrati avean li strali;\nond’io li orecchi con le man copersi.",
+      "parafrasi": "mi saettarono lamenti diversi, che avevano frecce con la punta di pietà; per cui mi coprii le orecchie con le mani."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Qual dolor fora, se de li spedali\ndi Valdichiana tra ’l luglio e ’l settembre\ne di Maremma e di Sardigna i mali",
+      "parafrasi": "Quale dolore ci sarebbe se i mali degli ospedali della Valdichiana tra luglio e settembre, e della Maremma e della Sardegna,"
+    },
+    {
+      "versi": [49, 51],
+      "testo": "fossero in una fossa tutti ’nsembre,\ntal era quivi, e tal puzzo n’usciva\nqual suol venir de le marcite membre.",
+      "parafrasi": "fossero tutti insieme in una fossa, tale era qui, e ne usciva un puzzo come suole venire dalle membra in cancrena."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "Noi discendemmo in su l’ultima riva\ndel lungo scoglio, pur da man sinistra;\ne allor fu la mia vista più viva",
+      "parafrasi": "Scendemmo sull'ultimo argine del lungo scoglio, sempre a sinistra; e allora la mia vista fu più chiara"
+    },
+    {
+      "versi": [55, 57],
+      "testo": "giù ver’ lo fondo, là ’ve la ministra\nde l’alto Sire infallibil giustizia\npunisce i falsador che qui registra.",
+      "parafrasi": "giù verso il fondo, là dove la giustizia infallibile, ministra dell'alto Signore, punisce i falsari che registra qui."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Non credo ch’a veder maggior tristizia\nfosse in Egina il popol tutto infermo,\nquando fu l’aere sì pien di malizia,",
+      "parafrasi": "Non credo che fosse più triste vedere a Egina il popolo tutto malato, quando l'aria fu così piena di contagio"
+    },
+    {
+      "versi": [61, 63],
+      "testo": "che li animali, infino al picciol vermo,\ncascaron tutti, e poi le genti antiche,\nsecondo che i poeti hanno per fermo,",
+      "parafrasi": "che gli animali, fino al piccolo verme, morirono tutti, e poi gli antichi abitanti, come i poeti affermano con certezza,"
+    },
+    {
+      "versi": [64, 66],
+      "testo": "si ristorar di seme di formiche;\nch’era a veder per quella oscura valle\nlanguir li spirti per diverse biche.",
+      "parafrasi": "si ricostituirono da un seme di formiche; di quanto fosse vedere per quella valle buia gli spiriti languire in diversi mucchi."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Qual sovra ’l ventre e qual sovra le spalle\nl’un de l’altro giacea, e qual carpone\nsi trasmutava per lo tristo calle.",
+      "parafrasi": "Chi giaceva sul ventre e chi sulle spalle dell'altro, e chi si spostava carponi per il triste sentiero."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "Passo passo andavam sanza sermone,\nguardando e ascoltando li ammalati,\nche non potean levar le lor persone.",
+      "parafrasi": "Passo passo andavamo senza parlare, guardando e ascoltando i malati, che non potevano sollevare il loro corpo."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Io vidi due sedere a sé poggiati,\ncom’a scaldar si poggia tegghia a tegghia,\ndal capo al piè di schianze macolati;",
+      "parafrasi": "Vidi due seduti appoggiati l'uno all'altro, come si appoggia tegame a tegame per scaldarsi, macchiati di croste dalla testa ai piedi;"
+    },
+    {
+      "versi": [76, 78],
+      "testo": "e non vidi già mai menare stregghia\na ragazzo aspettato dal segnorso,\nné a colui che mal volontier vegghia,",
+      "parafrasi": "e non vidi mai menare la striglia a un garzone atteso dal padrone, né a chi veglia malvolentieri,"
+    },
+    {
+      "versi": [79, 81],
+      "testo": "come ciascun menava spesso il morso\nde l’unghie sopra sé per la gran rabbia\ndel pizzicor, che non ha più soccorso;",
+      "parafrasi": "come ciascuno affondava spesso il morso delle unghie su di sé per la grande rabbia del prurito, che non ha altro rimedio;"
+    },
+    {
+      "versi": [82, 84],
+      "testo": "e sì traevan giù l’unghie la scabbia,\ncome coltel di scardova le scaglie\no d’altro pesce che più larghe l’abbia.",
+      "parafrasi": "e le unghie tiravano giù la scabbia come il coltello le scaglie della scardola o di un altro pesce che le abbia più larghe."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "\"O tu che con le dita ti dismaglie\",\ncominciò ’l duca mio a l’un di loro,\n\"e che fai d’esse talvolta tanaglie,",
+      "parafrasi": "«O tu che ti togli la maglia con le dita», cominciò la mia guida a uno di loro, «e che a volte ne fai tenaglie,"
+    },
+    {
+      "versi": [88, 90],
+      "testo": "dinne s’alcun Latino è tra costoro\nche son quinc’entro, se l’unghia ti basti\netternalmente a cotesto lavoro\".",
+      "parafrasi": "dicci se c'è qualche italiano tra quelli che sono qui dentro, e così l'unghia ti basti in eterno a questo lavoro.»"
+    },
+    {
+      "versi": [91, 93],
+      "testo": "\"Latin siam noi, che tu vedi sì guasti\nqui ambedue\", rispuose l’un piangendo;\n\"ma tu chi se’ che di noi dimandasti?\".",
+      "parafrasi": "«Siamo italiani noi due, che vedi così guasti qui», rispose uno piangendo; «ma tu chi sei, che hai chiesto di noi?»"
+    },
+    {
+      "versi": [94, 96],
+      "testo": "E ’l duca disse: \"I’ son un che discendo\ncon questo vivo giù di balzo in balzo,\ne di mostrar lo ’nferno a lui intendo\".",
+      "parafrasi": "E la guida disse: «Sono uno che scende con questo vivo di balzo in balzo, e intendo mostrargli l'Inferno.»"
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Allor si ruppe lo comun rincalzo;\ne tremando ciascuno a me si volse\ncon altri che l’udiron di rimbalzo.",
+      "parafrasi": "Allora si ruppe il sostegno reciproco; e ciascuno, tremando, si volse verso di me, insieme ad altri che lo udirono di riflesso."
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Lo buon maestro a me tutto s’accolse,\ndicendo: \"Dì a lor ciò che tu vuoli\";\ne io incominciai, poscia ch’ei volse:",
+      "parafrasi": "Il buon maestro si accostò tutto a me, dicendo: «Di' loro ciò che vuoi»; e io cominciai, dal momento che lui voleva:"
+    },
+    {
+      "versi": [103, 105],
+      "testo": "\"Se la vostra memoria non s’imboli\nnel primo mondo da l’umane menti,\nma s’ella viva sotto molti soli,",
+      "parafrasi": "«Così il vostro ricordo non si dilegui dalle menti umane nel primo mondo, ma viva per molti anni,"
+    },
+    {
+      "versi": [106, 108],
+      "testo": "ditemi chi voi siete e di che genti;\nla vostra sconcia e fastidiosa pena\ndi palesarvi a me non vi spaventi\".",
+      "parafrasi": "ditemi chi siete e di che città; la vostra pena sconcia e ripugnante non vi spaventi dal rivelarvi a me.»"
+    },
+    {
+      "versi": [109, 111],
+      "testo": "\"Io fui d’Arezzo, e Albero da Siena\",\nrispuose l’un, \"mi fé mettere al foco;\nma quel per ch’io mori’ qui non mi mena.",
+      "parafrasi": "«Io fui d'Arezzo, e Albero da Siena», rispose uno, «mi fece mettere al rogo; ma ciò per cui morii non è ciò che mi porta qui."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Vero è ch’i’ dissi lui, parlando a gioco:\n\"I’ mi saprei levar per l’aere a volo\";\ne quei, ch’avea vaghezza e senno poco,",
+      "parafrasi": "È vero che gli dissi, parlando per scherzo: \"Saprei sollevarmi in volo per l'aria\"; e lui, che aveva desiderio e poco senno,"
+    },
+    {
+      "versi": [115, 117],
+      "testo": "volle ch’i’ li mostrassi l’arte; e solo\nperch’io nol feci Dedalo, mi fece\nardere a tal che l’avea per figliuolo.",
+      "parafrasi": "volle che gli mostrassi l'arte; e solo perché non lo feci diventare Dedalo, mi fece bruciare da uno che lo considerava come un figlio."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Ma ne l’ultima bolgia de le diece\nme per l’alchìmia che nel mondo usai\ndannò Minòs, a cui fallar non lece\".",
+      "parafrasi": "Ma all'ultima bolgia delle dieci mi condannò Minosse, a cui non è concesso sbagliare, per l'alchimia che praticai nel mondo.»"
+    },
+    {
+      "versi": [121, 123],
+      "testo": "E io dissi al poeta: \"Or fu già mai\ngente sì vana come la sanese?\nCerto non la francesca sì d’assai!\".",
+      "parafrasi": "E io dissi al poeta: «Ci fu mai gente così vana come quella senese? Certo nemmeno i Francesi, di gran lunga!»"
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Onde l’altro lebbroso, che m’intese,\nrispuose al detto mio: \"Tra’ mene Stricca\nche seppe far le temperate spese,",
+      "parafrasi": "Per cui l'altro lebbroso, che mi sentì, rispose alle mie parole: «Toglimi lo Stricca, che seppe fare spese moderate,"
+    },
+    {
+      "versi": [127, 129],
+      "testo": "e Niccolò che la costuma ricca\ndel garofano prima discoverse\nne l’orto dove tal seme s’appicca;",
+      "parafrasi": "e Niccolò, che per primo scoprì l'usanza costosa del chiodo di garofano nell'orto dove attecchisce un tale seme;"
+    },
+    {
+      "versi": [130, 132],
+      "testo": "e tra’ ne la brigata in che disperse\nCaccia d’Ascian la vigna e la gran fonda,\ne l’Abbagliato suo senno proferse.",
+      "parafrasi": "e togli la brigata in cui Caccia d'Asciano dissipò la vigna e il grande bosco, e l'Abbagliato mostrò il suo senno."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "Ma perché sappi chi sì ti seconda\ncontra i Sanesi, aguzza ver’ me l’occhio,\nsì che la faccia mia ben ti risponda:",
+      "parafrasi": "Ma perché tu sappia chi ti asseconda così contro i Senesi, aguzza l'occhio verso di me, così che la mia faccia ti risponda bene:"
+    },
+    {
+      "versi": [136, 138],
+      "testo": "sì vedrai ch’io son l’ombra di Capocchio,\nche falsai li metalli con l’alchìmia;\ne te dee ricordar, se ben t’adocchio,",
+      "parafrasi": "vedrai così che sono l'ombra di Capocchio, che falsificò i metalli con l'alchimia; e devi ricordarti, se ti riconosco bene,"
+    },
+    {
+      "versi": [139, 139],
+      "testo": "com’io fui di natura buona scimia\".",
+      "parafrasi": "come fui per natura un buon imitatore.»"
+    }
+  ]
+}

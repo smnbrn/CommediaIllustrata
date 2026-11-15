@@ -1,0 +1,273 @@
+{
+  "cantica": "inferno",
+  "canto": 19,
+  "titolo": "I simoniaci, papa Niccolò III",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_XIX",
+  "numero_versi": 133,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 30],
+      "titolo_scena": "I fori infuocati dei simoniaci",
+      "sintesi": "Dante apostrofa Simon mago e i simoniaci, che vendettero le cose sacre. Nella terza bolgia la roccia è piena di fori rotondi, come i fonti battesimali di San Giovanni a Firenze, e da ciascuno sporgono le gambe di un dannato capovolto, con le piante dei piedi in fiamme.",
+      "luogo_id": "bolgia-3",
+      "personaggi": ["dante", "virgilio", "simon-mago"],
+      "tavole": []
+    },
+    {
+      "id": "scena-2",
+      "versi": [31, 87],
+      "titolo_scena": "Papa Niccolò III",
+      "sintesi": "Virgilio porta Dante in braccio giù nella bolgia, presso il dannato che si agita più degli altri. Dante si china come un frate che confessa un assassino. Il dannato lo scambia per Bonifacio VIII, arrivato prima del tempo: è papa Niccolò III, che arricchì la sua famiglia vendendo le cariche; dopo di lui verrà un papa ancora peggiore, Clemente V.",
+      "luogo_id": "bolgia-3",
+      "personaggi": ["dante", "virgilio", "niccolo-iii", "bonifacio-viii", "clemente-v"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Dante davanti a papa Niccolò III",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/DvinfernoPopeNicholasIII_m.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/DvinfernoPopeNicholasIII_m.jpg/960px-DvinfernoPopeNicholasIII_m.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:DvinfernoPopeNicholasIII_m.jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [88, 133],
+      "titolo_scena": "L'invettiva contro i papi simoniaci",
+      "sintesi": "Dante risponde con durezza: Cristo non chiese denaro a san Pietro per affidargli le chiavi. L'avarizia dei papi rattrista il mondo, la Chiesa è la prostituta dell'Apocalisse, e il male cominciò con la donazione di Costantino. Niccolò scalcia per l'ira o il rimorso; Virgilio, compiaciuto, riporta Dante in braccio sul ponte successivo.",
+      "luogo_id": "bolgia-3",
+      "personaggi": ["dante", "virgilio", "niccolo-iii", "san-pietro", "costantino"],
+      "tavole": []
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "O Simon mago, o miseri seguaci\nche le cose di Dio, che di bontate\ndeon essere spose, e voi rapaci",
+      "parafrasi": "O Simon mago, o miseri seguaci che, rapaci, prostituite per oro e per argento le cose di Dio, che devono essere spose della bontà,"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "per oro e per argento avolterate,\nor convien che per voi suoni la tromba,\nperò che ne la terza bolgia state.",
+      "parafrasi": "ora bisogna che suoni la tromba per voi, perché state nella terza bolgia."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "Già eravamo, a la seguente tomba,\nmontati de lo scoglio in quella parte\nch’a punto sovra mezzo ’l fosso piomba.",
+      "parafrasi": "Eravamo già saliti, sopra la fossa seguente, su quella parte del ponte che sta proprio a piombo sul mezzo del fossato."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "O somma sapïenza, quanta è l’arte\nche mostri in cielo, in terra e nel mal mondo,\ne quanto giusto tua virtù comparte!",
+      "parafrasi": "O somma sapienza, quanto è grande l'arte che mostri in cielo, in terra e nel mondo del male, e con quanta giustizia distribuisce la tua potenza!"
+    },
+    {
+      "versi": [13, 15],
+      "testo": "Io vidi per le coste e per lo fondo\npiena la pietra livida di fóri,\nd’un largo tutti e ciascun era tondo.",
+      "parafrasi": "Vidi sulle pareti e sul fondo la pietra livida piena di fori, tutti della stessa larghezza e ciascuno rotondo."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "Non mi parean men ampi né maggiori\nche que’ che son nel mio bel San Giovanni,\nfatti per loco d’i battezzatori;",
+      "parafrasi": "Non mi sembravano né meno ampi né più grandi di quelli che ci sono nel mio bel San Giovanni, fatti come posto per chi battezza;"
+    },
+    {
+      "versi": [19, 21],
+      "testo": "l’un de li quali, ancor non è molt’anni,\nrupp’io per un che dentro v’annegava:\ne questo sia suggel ch’ogn’omo sganni.",
+      "parafrasi": "uno dei quali, non molti anni fa, ruppi io per uno che vi annegava dentro: e questo valga come sigillo che disinganni tutti."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Fuor de la bocca a ciascun soperchiava\nd’un peccator li piedi e de le gambe\ninfino al grosso, e l’altro dentro stava.",
+      "parafrasi": "Dalla bocca di ciascun foro sporgevano i piedi di un peccatore e le gambe fino alle cosce, e il resto stava dentro."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Le piante erano a tutti accese intrambe;\nper che sì forte guizzavan le giunte,\nche spezzate averien ritorte e strambe.",
+      "parafrasi": "Tutti avevano entrambe le piante dei piedi in fiamme; per cui agitavano così forte le giunture che avrebbero spezzato corde e funi."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Qual suole il fiammeggiar de le cose unte\nmuoversi pur su per la strema buccia,\ntal era lì dai calcagni a le punte.",
+      "parafrasi": "Come la fiamma delle cose unte si muove soltanto sulla superficie, così era lì dai calcagni alle punte."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "\"Chi è colui, maestro, che si cruccia\nguizzando più che li altri suoi consorti\",\ndiss’io, \"e cui più roggia fiamma succia?\".",
+      "parafrasi": "«Chi è quello, maestro, che si tormenta agitandosi più degli altri suoi compagni», dissi, «e che è lambito da una fiamma più rossa?»"
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Ed elli a me: \"Se tu vuo’ ch’i’ ti porti\nlà giù per quella ripa che più giace,\nda lui saprai di sé e de’ suoi torti\".",
+      "parafrasi": "E lui a me: «Se vuoi che ti porti là giù per quella parete che è meno ripida, saprai da lui chi è e quali sono le sue colpe.»"
+    },
+    {
+      "versi": [37, 39],
+      "testo": "E io: \"Tanto m’è bel, quanto a te piace:\ntu se’ segnore, e sai ch’i’ non mi parto\ndal tuo volere, e sai quel che si tace\".",
+      "parafrasi": "E io: «Mi piace tutto ciò che piace a te: tu sei il signore, e sai che non mi allontano dalla tua volontà, e sai anche quello che taccio.»"
+    },
+    {
+      "versi": [40, 42],
+      "testo": "Allor venimmo in su l’argine quarto;\nvolgemmo e discendemmo a mano stanca\nlà giù nel fondo foracchiato e arto.",
+      "parafrasi": "Allora arrivammo sul quarto argine; girammo e scendemmo a sinistra laggiù, nel fondo stretto e pieno di fori."
+    },
+    {
+      "versi": [43, 45],
+      "testo": "Lo buon maestro ancor de la sua anca\nnon mi dipuose, sì mi giunse al rotto\ndi quel che si piangeva con la zanca.",
+      "parafrasi": "Il buon maestro non mi depose dal suo fianco finché non mi portò al foro di quello che piangeva con le gambe."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "\"O qual che se’ che ’l di sù tien di sotto,\nanima trista come pal commessa\",\ncomincia’ io a dir, \"se puoi, fa motto\".",
+      "parafrasi": "«O chiunque tu sia, che tieni sotto la parte di sopra, anima triste piantata come un palo», cominciai a dire, «se puoi, parla.»"
+    },
+    {
+      "versi": [49, 51],
+      "testo": "Io stava come ’l frate che confessa\nlo perfido assessin, che, poi ch’è fitto,\nrichiama lui per che la morte cessa.",
+      "parafrasi": "Io stavo come il frate che confessa il perfido assassino, che, dopo essere stato conficcato nella buca, lo richiama per ritardare la morte."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "Ed el gridò: \"Se’ tu già costì ritto,\nse’ tu già costì ritto, Bonifazio?\nDi parecchi anni mi mentì lo scritto.",
+      "parafrasi": "E lui gridò: «Sei già lì in piedi, sei già lì in piedi, Bonifacio? Lo scritto [del futuro] mi ha mentito di parecchi anni."
+    },
+    {
+      "versi": [55, 57],
+      "testo": "Se’ tu sì tosto di quell’aver sazio\nper lo qual non temesti tòrre a ’nganno\nla bella donna, e poi di farne strazio?\".",
+      "parafrasi": "Sei già sazio così presto di quelle ricchezze per le quali non temesti di prendere con l'inganno la bella donna [la Chiesa], e poi di farne strazio?»"
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Tal mi fec’io, quai son color che stanno,\nper non intender ciò ch’è lor risposto,\nquasi scornati, e risponder non sanno.",
+      "parafrasi": "Divenni come quelli che, non capendo ciò che è stato loro risposto, restano quasi scherniti e non sanno rispondere."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Allor Virgilio disse: \"Dilli tosto:\n\"Non son colui, non son colui che credi\"\";\ne io rispuosi come a me fu imposto.",
+      "parafrasi": "Allora Virgilio disse: «Digli subito: \"Non sono quello, non sono quello che credi\"»; e io risposi come mi era stato ordinato."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Per che lo spirto tutti storse i piedi;\npoi, sospirando e con voce di pianto,\nmi disse: \"Dunque che a me richiedi?",
+      "parafrasi": "Per cui lo spirito storse tutti e due i piedi; poi, sospirando e con voce di pianto, mi disse: «Allora che cosa vuoi da me?"
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Se di saper ch’i’ sia ti cal cotanto,\nche tu abbi però la ripa corsa,\nsappi ch’i’ fui vestito del gran manto;",
+      "parafrasi": "Se ti importa tanto sapere chi sono da aver percorso per questo la parete, sappi che fui vestito del grande manto [papale];"
+    },
+    {
+      "versi": [70, 72],
+      "testo": "e veramente fui figliuol de l’orsa,\ncupido sì per avanzar li orsatti,\nche sù l’avere e qui me misi in borsa.",
+      "parafrasi": "e fui davvero figlio dell'orsa [degli Orsini], così avido di far crescere gli orsacchiotti che lassù misi in borsa le ricchezze, e qui me stesso."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Di sotto al capo mio son li altri tratti\nche precedetter me simoneggiando,\nper le fessure de la pietra piatti.",
+      "parafrasi": "Sotto la mia testa sono stati trascinati gli altri che mi precedettero nella simonia, schiacciati nelle fessure della pietra."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "Là giù cascherò io altresì quando\nverrà colui ch’i’ credea che tu fossi,\nallor ch’i’ feci ’l sùbito dimando.",
+      "parafrasi": "Laggiù cadrò anch'io quando verrà quello che credevo che tu fossi, quando ti feci l'improvvisa domanda."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Ma più è ’l tempo già che i piè mi cossi\ne ch’i’ son stato così sottosopra,\nch’el non starà piantato coi piè rossi:",
+      "parafrasi": "Ma è già più lungo il tempo in cui mi sono cotto i piedi e sono stato così capovolto di quanto lui starà piantato con i piedi rossi:"
+    },
+    {
+      "versi": [82, 84],
+      "testo": "ché dopo lui verrà di più laida opra,\ndi ver’ ponente, un pastor sanza legge,\ntal che convien che lui e me ricuopra.",
+      "parafrasi": "perché dopo di lui verrà da occidente un pastore senza legge, di opere più turpi, tale che dovrà coprire lui e me."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "Nuovo Iasón sarà, di cui si legge\nne’ Maccabei; e come a quel fu molle\nsuo re, così fia lui chi Francia regge\".",
+      "parafrasi": "Sarà un nuovo Giasone, di cui si legge nei Maccabei; e come a quello fu compiacente il suo re, così a lui sarà compiacente chi regna in Francia.»"
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Io non so s’i’ mi fui qui troppo folle,\nch’i’ pur rispuosi lui a questo metro:\n\"Deh, or mi dì: quanto tesoro volle",
+      "parafrasi": "Non so se qui fui troppo temerario, perché gli risposi soltanto su questo tono: «Ah, ora dimmi: quanto denaro volle"
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Nostro Segnore in prima da san Pietro\nch’ei ponesse le chiavi in sua balìa?\nCerto non chiese se non \"Viemmi retro\".",
+      "parafrasi": "nostro Signore da san Pietro prima di mettere le chiavi in suo potere? Certo non chiese altro che \"Seguimi\"."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Né Pier né li altri tolsero a Matia\noro od argento, quando fu sortito\nal loco che perdé l’anima ria.",
+      "parafrasi": "Né Pietro né gli altri presero oro o argento da Mattia, quando fu sorteggiato per il posto che perse l'anima malvagia [Giuda]."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Però ti sta, ché tu se’ ben punito;\ne guarda ben la mal tolta moneta\nch’esser ti fece contra Carlo ardito.",
+      "parafrasi": "Perciò resta lì, perché sei punito giustamente; e custodisci bene il denaro preso male, che ti rese audace contro Carlo [d'Angiò]."
+    },
+    {
+      "versi": [100, 102],
+      "testo": "E se non fosse ch’ancor lo mi vieta\nla reverenza de le somme chiavi\nche tu tenesti ne la vita lieta,",
+      "parafrasi": "E se non fosse che me lo vieta ancora il rispetto per le somme chiavi che tenesti nella vita lieta,"
+    },
+    {
+      "versi": [103, 105],
+      "testo": "io userei parole ancor più gravi;\nché la vostra avarizia il mondo attrista,\ncalcando i buoni e sollevando i pravi.",
+      "parafrasi": "userei parole ancora più dure; perché la vostra avarizia rattrista il mondo, calpestando i buoni e innalzando i malvagi."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Di voi pastor s’accorse il Vangelista,\nquando colei che siede sopra l’acque\nputtaneggiar coi regi a lui fu vista;",
+      "parafrasi": "Di voi pastori si accorse l'Evangelista [Giovanni], quando gli apparve colei che siede sulle acque prostituirsi con i re;"
+    },
+    {
+      "versi": [109, 111],
+      "testo": "quella che con le sette teste nacque,\ne da le diece corna ebbe argomento,\nfin che virtute al suo marito piacque.",
+      "parafrasi": "quella che nacque con sette teste e ebbe forza dalle dieci corna, finché la virtù piacque a suo marito."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Fatto v’avete dio d’oro e d’argento;\ne che altro è da voi a l’idolatre,\nse non ch’elli uno, e voi ne orate cento?",
+      "parafrasi": "Vi siete fatti un dio d'oro e d'argento; e che differenza c'è tra voi e gli idolatri, se non che loro ne adorano uno e voi cento?"
+    },
+    {
+      "versi": [115, 117],
+      "testo": "Ahi, Costantin, di quanto mal fu matre,\nnon la tua conversion, ma quella dote\nche da te prese il primo ricco patre!\".",
+      "parafrasi": "Ah, Costantino, di quanto male fu madre non la tua conversione, ma quella dote che da te ricevette il primo papa ricco!»"
+    },
+    {
+      "versi": [118, 120],
+      "testo": "E mentr’io li cantava cotai note,\no ira o coscïenza che ’l mordesse,\nforte spingava con ambo le piote.",
+      "parafrasi": "E mentre gli cantavo queste note, o l'ira o la coscienza che lo mordesse, scalciava forte con entrambi i piedi."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "I’ credo ben ch’al mio duca piacesse,\ncon sì contenta labbia sempre attese\nlo suon de le parole vere espresse.",
+      "parafrasi": "Credo proprio che alla mia guida piacesse, con un'espressione così soddisfatta ascoltò sempre il suono delle parole vere che dicevo."
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Però con ambo le braccia mi prese;\ne poi che tutto su mi s’ebbe al petto,\nrimontò per la via onde discese.",
+      "parafrasi": "Perciò mi prese con entrambe le braccia; e dopo che mi ebbe tutto stretto al petto, risalì per la strada da cui era sceso."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Né si stancò d’avermi a sé distretto,\nsì men portò sovra ’l colmo de l’arco\nche dal quarto al quinto argine è tragetto.",
+      "parafrasi": "E non si stancò di tenermi stretto a sé finché non mi portò sulla sommità dell'arco che passa dal quarto al quinto argine."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Quivi soavemente spuose il carco,\nsoave per lo scoglio sconcio ed erto\nche sarebbe a le capre duro varco.",
+      "parafrasi": "Lì depose dolcemente il suo carico, dolcemente per lo scoglio impervio e ripido, che sarebbe un passaggio difficile anche per le capre."
+    },
+    {
+      "versi": [133, 133],
+      "testo": "Indi un altro vallon mi fu scoperto.",
+      "parafrasi": "Da lì mi si aprì la vista su un'altra valle."
+    }
+  ]
+}

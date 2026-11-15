@@ -1,0 +1,317 @@
+# Inferno, canto X
+titolo: Farinata e Cavalcante
+
+## scena-1 | cerchio-6 | Gli epicurei
+personaggi: dante, virgilio, epicuro
+sintesi: Lungo un sentiero tra le mura e le tombe, Dante chiede se si possano vedere i sepolti. Virgilio spiega che i sepolcri si chiuderanno dopo il giudizio universale e che in questa parte stanno Epicuro e i suoi seguaci, che credevano l'anima mortale con il corpo.
+
+1
+Ora sen va per un secreto calle,
+tra ’l muro de la terra e li martìri,
+lo mio maestro, e io dopo le spalle.
+> Ora il mio maestro se ne va per un sentiero nascosto tra il muro della città e i tormenti, e io dietro le sue spalle.
+
+4
+"O virtù somma, che per li empi giri
+mi volvi", cominciai, "com’a te piace,
+parlami, e sodisfammi a’ miei disiri.
+> «O virtù altissima, che mi guidi per i cerchi dei malvagi», cominciai, «come a te piace, parlami e soddisfa i miei desideri.
+
+7
+La gente che per li sepolcri giace
+potrebbesi veder? già son levati
+tutt’i coperchi, e nessun guardia face".
+> La gente che giace nei sepolcri si potrebbe vedere? Già tutti i coperchi sono sollevati, e nessuno fa la guardia.»
+
+10
+E quelli a me: "Tutti saran serrati
+quando di Iosafàt qui torneranno
+coi corpi che là sù hanno lasciati.
+> E lui a me: «Saranno tutti chiusi quando torneranno qui dalla valle di Giosafat con i corpi che hanno lasciato lassù.
+
+13
+Suo cimitero da questa parte hanno
+con Epicuro tutti suoi seguaci,
+che l’anima col corpo morta fanno.
+> Da questa parte hanno il loro cimitero Epicuro e tutti i suoi seguaci, che fanno morire l'anima con il corpo.
+
+16
+Però a la dimanda che mi faci
+quinc’entro satisfatto sarà tosto,
+e al disio ancor che tu mi taci".
+> Perciò alla domanda che mi fai sarà presto data risposta qui dentro, e anche al desiderio che mi taci.»
+
+19
+E io: "Buon duca, non tegno riposto
+a te mio cuor se non per dicer poco,
+e tu m’ hai non pur mo a ciò disposto".
+> E io: «Buona guida, non ti tengo nascosto il mio cuore se non per parlare poco, e tu non solo ora mi hai invitato a farlo.»
+
+## scena-2 | cerchio-6 | Farinata
+personaggi: dante, virgilio, farinata
+tavola: dore | Farinata | File:DVinfernoUbertiAddressesDante m.jpg
+sintesi: Una voce chiama Dante dal sepolcro: è Farinata degli Uberti, che si erge dalla cintola in su come se disprezzasse l'Inferno. Chiede degli antenati di Dante, guelfi, e ricorda di averli cacciati due volte; Dante ribatte che i guelfi tornarono, mentre i ghibellini non seppero farlo.
+
+22
+"O Tosco che per la città del foco
+vivo ten vai così parlando onesto,
+piacciati di restare in questo loco.
+> «O Toscano che vai vivo per la città del fuoco parlando con tanta compostezza, ti piaccia fermarti in questo luogo.
+
+25
+La tua loquela ti fa manifesto
+di quella nobil patrïa natio,
+a la qual forse fui troppo molesto".
+> Il tuo modo di parlare ti mostra nato di quella nobile patria, alla quale forse fui troppo dannoso.»
+
+28
+Subitamente questo suono uscìo
+d’una de l’arche; però m’accostai,
+temendo, un poco più al duca mio.
+> All'improvviso questo suono uscì da una delle arche; per cui, impaurito, mi accostai un poco di più alla mia guida.
+
+31
+Ed el mi disse: "Volgiti! Che fai?
+Vedi là Farinata che s’è dritto:
+da la cintola in sù tutto ’l vedrai".
+> E lui mi disse: «Voltati! Che fai? Vedi là Farinata, che si è drizzato: lo vedrai tutto dalla cintola in su.»
+
+34
+Io avea già il mio viso nel suo fitto;
+ed el s’ergea col petto e con la fronte
+com’avesse l’inferno a gran dispitto.
+> Io avevo già fissato il mio sguardo nel suo; e lui si ergeva con il petto e con la fronte come se avesse l'Inferno in gran disprezzo.
+
+37
+E l’animose man del duca e pronte
+mi pinser tra le sepulture a lui,
+dicendo: "Le parole tue sien conte".
+> E le mani coraggiose e pronte della mia guida mi spinsero tra le sepolture verso di lui, dicendo: «Le tue parole siano chiare.»
+
+40
+Com’io al piè de la sua tomba fui,
+guardommi un poco, e poi, quasi sdegnoso,
+mi dimandò: "Chi fuor li maggior tui?".
+> Appena fui ai piedi della sua tomba, mi guardò un poco e poi, quasi sdegnoso, mi domandò: «Chi furono i tuoi antenati?»
+
+43
+Io ch’era d’ubidir disideroso,
+non gliel celai, ma tutto gliel’apersi;
+ond’ei levò le ciglia un poco in suso;
+> Io, che desideravo obbedire, non glielo nascosi, ma glielo rivelai tutto; per cui lui alzò un poco le sopracciglia;
+
+46
+poi disse: "Fieramente furo avversi
+a me e a miei primi e a mia parte,
+sì che per due fïate li dispersi".
+> poi disse: «Furono ferocemente avversi a me, ai miei antenati e alla mia parte, tanto che per due volte li dispersi.»
+
+49
+"S’ei fur cacciati, ei tornar d’ogne parte",
+rispuos’io lui, "l’una e l’altra fïata;
+ma i vostri non appreser ben quell’arte".
+> «Se furono cacciati, tornarono da ogni parte», gli risposi, «l'una e l'altra volta; ma i vostri non impararono bene quell'arte.»
+
+## scena-3 | cerchio-6 | Cavalcante
+personaggi: dante, cavalcante, guido-cavalcanti
+sintesi: Dalla stessa tomba si alza fino al mento un'altra ombra: è Cavalcante dei Cavalcanti, che cerca accanto a Dante il figlio Guido. Fraintendendo un verbo al passato, crede che Guido sia morto e ricade supino nel sepolcro.
+
+52
+Allor surse a la vista scoperchiata
+un’ombra, lungo questa, infino al mento:
+credo che s’era in ginocchie levata.
+> Allora accanto a questa si levò, scoperta fino al mento, un'ombra: credo che si fosse alzata in ginocchio.
+
+55
+Dintorno mi guardò, come talento
+avesse di veder s’altri era meco;
+e poi che ’l sospecciar fu tutto spento,
+> Mi guardò intorno, come se avesse desiderio di vedere se qualcun altro era con me; e dopo che il sospetto fu del tutto spento,
+
+58
+piangendo disse: "Se per questo cieco
+carcere vai per altezza d’ingegno,
+mio figlio ov’è? e perché non è teco?".
+> piangendo disse: «Se vai per questo carcere cieco grazie all'altezza dell'ingegno, mio figlio dov'è? E perché non è con te?»
+
+61
+E io a lui: "Da me stesso non vegno:
+colui ch’attende là, per qui mi mena
+forse cui Guido vostro ebbe a disdegno".
+> E io a lui: «Non vengo da me stesso: quello che aspetta là mi conduce per questa via, verso colei che forse il vostro Guido ebbe a disdegno.»
+
+64
+Le sue parole e ’l modo de la pena
+m’avean di costui già letto il nome;
+però fu la risposta così piena.
+> Le sue parole e il tipo di pena mi avevano già rivelato il suo nome; perciò la risposta fu così precisa.
+
+67
+Di sùbito drizzato gridò: "Come?
+dicesti "elli ebbe"? non viv’elli ancora?
+non fiere li occhi suoi lo dolce lume?".
+> Subito, drizzatosi, gridò: «Come? Hai detto "ebbe"? Non vive più? Non colpisce i suoi occhi la dolce luce?»
+
+70
+Quando s’accorse d’alcuna dimora
+ch’io facëa dinanzi a la risposta,
+supin ricadde e più non parve fora.
+> Quando si accorse che io indugiavo prima di rispondere, ricadde supino e non apparve più fuori.
+
+## scena-4 | cerchio-6 | La profezia dell'esilio
+personaggi: dante, farinata, federico-ii, cardinale-ubaldini
+sintesi: Farinata, impassibile, riprende il discorso: prima di cinquanta mesi Dante saprà quanto è difficile tornare dall'esilio. Ricorda di aver difeso Firenze da solo a Empoli e spiega che i dannati vedono il futuro lontano ma non il presente. Dante gli chiede di dire a Cavalcante che il figlio è vivo. Tra gli eretici ci sono anche Federico II e il cardinale Ottaviano degli Ubaldini.
+
+73
+Ma quell’altro magnanimo, a cui posta
+restato m’era, non mutò aspetto,
+né mosse collo, né piegò sua costa;
+> Ma quell'altro magnanimo, su richiesta del quale mi ero fermato, non cambiò espressione, né mosse il collo, né piegò il fianco;
+
+76
+e sé continüando al primo detto,
+"S’elli han quell’arte", disse, "male appresa,
+ciò mi tormenta più che questo letto.
+> e, continuando il discorso di prima, disse: «Se hanno imparato male quell'arte, questo mi tormenta più di questo letto.
+
+79
+Ma non cinquanta volte fia raccesa
+la faccia de la donna che qui regge,
+che tu saprai quanto quell’arte pesa.
+> Ma non si riaccenderà cinquanta volte il volto della donna che qui regna [la luna, Proserpina] che tu saprai quanto pesa quell'arte.
+
+82
+E se tu mai nel dolce mondo regge,
+dimmi: perché quel popolo è sì empio
+incontr’a’ miei in ciascuna sua legge?".
+> E così tu possa tornare un giorno nel dolce mondo, dimmi: perché quel popolo è così spietato contro i miei in ogni sua legge?»
+
+85
+Ond’io a lui: "Lo strazio e ’l grande scempio
+che fece l’Arbia colorata in rosso,
+tal orazion fa far nel nostro tempio".
+> Per cui io a lui: «La strage e il grande scempio che colorò di rosso l'Arbia fanno fare tali deliberazioni nel nostro tempio.»
+
+88
+Poi ch’ebbe sospirando il capo mosso,
+"A ciò non fu’ io sol", disse, "né certo
+sanza cagion con li altri sarei mosso.
+> Dopo che ebbe scosso il capo sospirando, disse: «A questo non fui io solo, e certo non mi sarei mosso con gli altri senza ragione.
+
+91
+Ma fu’ io solo, là dove sofferto
+fu per ciascun di tòrre via Fiorenza,
+colui che la difesi a viso aperto".
+> Ma fui io solo, là dove tutti accettarono di distruggere Firenze, colui che la difese a viso aperto.»
+
+94
+"Deh, se riposi mai vostra semenza",
+prega’ io lui, "solvetemi quel nodo
+che qui ha ’nviluppata mia sentenza.
+> «Ah, così possa un giorno riposare la vostra discendenza», lo pregai, «scioglietemi quel nodo che qui ha imbrogliato il mio giudizio.
+
+97
+El par che voi veggiate, se ben odo,
+dinanzi quel che ’l tempo seco adduce,
+e nel presente tenete altro modo".
+> Sembra che voi vediate in anticipo, se capisco bene, quello che il tempo porta con sé, e che per il presente sia diverso.»
+
+100
+"Noi veggiam, come quei c’ ha mala luce,
+le cose", disse, "che ne son lontano;
+cotanto ancor ne splende il sommo duce.
+> «Noi vediamo, come chi ha la vista difettosa, le cose che ci sono lontane», disse; «tanto ancora ci illumina il sommo signore.
+
+103
+Quando s’appressano o son, tutto è vano
+nostro intelletto; e s’altri non ci apporta,
+nulla sapem di vostro stato umano.
+> Quando si avvicinano o accadono, il nostro intelletto è del tutto inutile; e se qualcuno non ce le riferisce, non sappiamo nulla della vostra condizione umana.
+
+106
+Però comprender puoi che tutta morta
+fia nostra conoscenza da quel punto
+che del futuro fia chiusa la porta".
+> Perciò puoi capire che la nostra conoscenza sarà del tutto morta dal momento in cui si chiuderà la porta del futuro.»
+
+109
+Allor, come di mia colpa compunto,
+dissi: "Or direte dunque a quel caduto
+che ’l suo nato è co’ vivi ancor congiunto;
+> Allora, come pentito della mia colpa, dissi: «Ora direte dunque a quello caduto che suo figlio è ancora congiunto con i vivi;
+
+112
+e s’i’ fui, dianzi, a la risposta muto,
+fate i saper che ’l fei perché pensava
+già ne l’error che m’avete soluto".
+> e se poco fa sono rimasto muto davanti alla domanda, fategli sapere che lo feci perché pensavo già al dubbio che mi avete sciolto.»
+
+115
+E già ’l maestro mio mi richiamava;
+per ch’i’ pregai lo spirto più avaccio
+che mi dicesse chi con lu’ istava.
+> E già il mio maestro mi richiamava; per cui pregai lo spirito, più in fretta, di dirmi chi stava con lui.
+
+118
+Dissemi: "Qui con più di mille giaccio:
+qua dentro è ’l secondo Federico
+e ’l Cardinale; e de li altri mi taccio".
+> Mi disse: «Qui giaccio con più di mille: qua dentro c'è il secondo Federico e il Cardinale; e degli altri taccio.»
+
+## scena-5 | cerchio-6 | Virgilio conforta Dante
+personaggi: dante, virgilio, beatrice
+sintesi: Dante torna da Virgilio turbato dalla profezia. Virgilio gli dice di ricordarla: da Beatrice saprà il corso della sua vita. Poi i due lasciano il muro e si dirigono verso il centro, verso una valle da cui sale un fetore.
+
+121
+Indi s’ascose; e io inver’ l’antico
+poeta volsi i passi, ripensando
+a quel parlar che mi parea nemico.
+> Poi si nascose; e io volsi i passi verso l'antico poeta, ripensando a quelle parole che mi sembravano ostili.
+
+124
+Elli si mosse; e poi, così andando,
+mi disse: "Perché se’ tu sì smarrito?".
+E io li sodisfeci al suo dimando.
+> Lui si mosse; e poi, andando così, mi disse: «Perché sei così smarrito?» E io soddisfeci la sua domanda.
+
+127
+"La mente tua conservi quel ch’udito
+hai contra te", mi comandò quel saggio;
+"e ora attendi qui", e drizzò ’l dito:
+> «La tua mente conservi quello che hai udito contro di te», mi comandò quel saggio; «e ora fa' attenzione», e alzò il dito:
+
+130
+"quando sarai dinanzi al dolce raggio
+di quella il cui bell’occhio tutto vede,
+da lei saprai di tua vita il vïaggio".
+> «quando sarai davanti al dolce raggio di colei [Beatrice] il cui bell'occhio vede tutto, da lei saprai il viaggio della tua vita.»
+
+133
+Appresso mosse a man sinistra il piede:
+lasciammo il muro e gimmo inver’ lo mezzo
+per un sentier ch’a una valle fiede,
+> Poi mosse il piede verso sinistra: lasciammo il muro e andammo verso il centro per un sentiero che sbocca in una valle,
+
+136
+che ’nfin là sù facea spiacer suo lezzo.
+> che faceva arrivare il suo fetore fin lassù.
+
+## personaggio | epicuro | Epicuro
+dibattuto: no
+chi_era: Filosofo greco (341–270 a.C.), fondatore della scuola epicurea: insegnava che l'anima muore con il corpo e che il bene sta nel piacere, inteso come assenza di dolore. Nel Medioevo «epicureo» indicava chi negava l'immortalità dell'anima.
+
+## personaggio | cavalcante | Cavalcante dei Cavalcanti
+dibattuto: no
+chi_era: Nobile guelfo fiorentino (morto intorno al 1280), ritenuto epicureo; padre di Guido Cavalcanti. Per riconciliare le fazioni, Guido sposò una figlia di Farinata.
+
+## personaggio | guido-cavalcanti | Guido Cavalcanti
+dibattuto: sì
+chi_era: Poeta fiorentino (1258 circa – 1300), il «primo amico» di Dante e maestro dello Stil novo. Esiliato nel giugno 1300, mentre Dante era priore, morì poco dopo. Il senso del suo «disdegno» (per Virgilio, per Beatrice o per Dio) è molto discusso.
+
+## personaggio | federico-ii | Federico II di Svevia
+dibattuto: no
+chi_era: Imperatore (1194–1250) e re di Sicilia, protettore della poesia e della cultura alla sua corte di Palermo. In lotta con il papato, fu considerato eretico ed epicureo.
+
+## personaggio | cardinale-ubaldini | Il cardinale Ottaviano degli Ubaldini
+dibattuto: no
+chi_era: Cardinale (morto nel 1273), ghibellino nonostante la carica; gli si attribuiva la frase: «Se anima è, io l'ho perduta per i ghibellini».

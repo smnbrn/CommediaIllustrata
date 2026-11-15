@@ -1,0 +1,312 @@
+{
+  "cantica": "inferno",
+  "canto": 24,
+  "titolo": "La salita, i ladri e i serpenti, Vanni Fucci",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_XXIV",
+  "numero_versi": 151,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 18],
+      "titolo_scena": "Lo sgomento e il conforto",
+      "sintesi": "Come il contadino che a fine inverno scambia la brina per neve e si dispera, per poi rincuorarsi, così Dante è sgomento per il turbamento di Virgilio e subito confortato dal suo sguardo dolce, lo stesso che aveva ai piedi del colle.",
+      "luogo_id": "bolgia-6",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": []
+    },
+    {
+      "id": "scena-2",
+      "versi": [19, 63],
+      "titolo_scena": "La faticosa salita",
+      "sintesi": "Arrivati al ponte crollato, Virgilio studia la frana e aiuta Dante ad arrampicarsi di masso in masso. In cima Dante, senza fiato, si siede; Virgilio lo sprona: non si arriva alla fama stando sotto le coperte, e li attende una scala ancora più lunga. Dante si rialza e riprende il cammino.",
+      "luogo_id": "bolgia-6",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": []
+    },
+    {
+      "id": "scena-3",
+      "versi": [64, 96],
+      "titolo_scena": "I ladri tra i serpenti",
+      "sintesi": "Una voce irata sale dalla settima bolgia, troppo buia per vedere. Scesi dal ponte, i due scoprono un groviglio di serpenti di ogni specie, più di quanti ne abbia la Libia: tra loro corrono nudi e spaventati i ladri, con le mani legate dietro da serpi.",
+      "luogo_id": "bolgia-7",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "I ladri tormentati dai serpenti",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Inferno_Canto_24_%28148619014%29.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Inferno_Canto_24_%28148619014%29.jpg/960px-Inferno_Canto_24_%28148619014%29.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Inferno_Canto_24_(148619014).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [97, 151],
+      "titolo_scena": "Vanni Fucci, incenerito e risorto",
+      "sintesi": "Un serpente trafigge un dannato alla nuca: in un attimo si incendia, diventa cenere e poi si ricompone, come la fenice. È il pistoiese Vanni Fucci, ladro degli arredi della sagrestia del duomo, colpa attribuita ad altri. Umiliato di essere visto da Dante, si vendica con una profezia: i Bianchi saranno sconfitti.",
+      "luogo_id": "bolgia-7",
+      "personaggi": ["dante", "virgilio", "vanni-fucci"],
+      "tavole": []
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "In quella parte del giovanetto anno\nche ’l sole i crin sotto l’Aquario tempra\ne già le notti al mezzo dì sen vanno,",
+      "parafrasi": "In quella parte dell'anno giovane in cui il sole tempra i suoi raggi sotto l'Acquario e già le notti si avviano a durare metà del giorno,"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "quando la brina in su la terra assempra\nl’imagine di sua sorella bianca,\nma poco dura a la sua penna tempra,",
+      "parafrasi": "quando la brina copia sulla terra l'immagine della sua sorella bianca [la neve], ma la tempera della sua penna dura poco,"
+    },
+    {
+      "versi": [7, 9],
+      "testo": "lo villanello a cui la roba manca,\nsi leva, e guarda, e vede la campagna\nbiancheggiar tutta; ond’ei si batte l’anca,",
+      "parafrasi": "il contadino a cui mancano le provviste si alza, guarda, e vede la campagna tutta bianca; per cui si batte il fianco,"
+    },
+    {
+      "versi": [10, 12],
+      "testo": "ritorna in casa, e qua e là si lagna,\ncome ’l tapin che non sa che si faccia;\npoi riede, e la speranza ringavagna,",
+      "parafrasi": "torna in casa e si lamenta qua e là, come il poveretto che non sa che cosa fare; poi esce di nuovo e riprende la speranza,"
+    },
+    {
+      "versi": [13, 15],
+      "testo": "veggendo ’l mondo aver cangiata faccia\nin poco d’ora, e prende suo vincastro\ne fuor le pecorelle a pascer caccia.",
+      "parafrasi": "vedendo che il mondo ha cambiato faccia in poco tempo, e prende il bastone e porta fuori le pecore a pascolare."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "Così mi fece sbigottir lo mastro\nquand’io li vidi sì turbar la fronte,\ne così tosto al mal giunse lo ’mpiastro;",
+      "parafrasi": "Così mi fece sbigottire il maestro quando gli vidi turbare tanto la fronte, e così presto arrivò il rimedio al male;"
+    },
+    {
+      "versi": [19, 21],
+      "testo": "ché, come noi venimmo al guasto ponte,\nlo duca a me si volse con quel piglio\ndolce ch’io vidi prima a piè del monte.",
+      "parafrasi": "perché, quando arrivammo al ponte rovinato, la guida si volse verso di me con quell'aspetto dolce che vidi prima ai piedi del monte."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Le braccia aperse, dopo alcun consiglio\neletto seco riguardando prima\nben la ruina, e diedemi di piglio.",
+      "parafrasi": "Dopo aver preso con sé una decisione, guardando prima bene la frana, aprì le braccia e mi afferrò."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "E come quei ch’adopera ed estima,\nche sempre par che ’nnanzi si proveggia,\ncosì, levando me sù ver’ la cima",
+      "parafrasi": "E come chi lavora e intanto valuta, che sembra sempre provvedere in anticipo, così, sollevandomi verso la cima"
+    },
+    {
+      "versi": [28, 30],
+      "testo": "d’un ronchione, avvisava un’altra scheggia\ndicendo: \"Sovra quella poi t’aggrappa;\nma tenta pria s’è tal ch’ella ti reggia\".",
+      "parafrasi": "di un masso, adocchiava un'altra sporgenza dicendo: «Poi aggrappati a quella; ma prima prova se è tale da reggerti.»"
+    },
+    {
+      "versi": [31, 33],
+      "testo": "Non era via da vestito di cappa,\nché noi a pena, ei lieve e io sospinto,\npotavam sù montar di chiappa in chiappa.",
+      "parafrasi": "Non era una via per chi porta la cappa, perché a fatica, lui leggero e io spinto, potevamo salire di sporgenza in sporgenza."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "E se non fosse che da quel precinto\npiù che da l’altro era la costa corta,\nnon so di lui, ma io sarei ben vinto.",
+      "parafrasi": "E se non fosse che da quella parte la parete era più corta che dall'altra, non so di lui, ma io sarei stato ben vinto."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Ma perché Malebolge inver’ la porta\ndel bassissimo pozzo tutta pende,\nlo sito di ciascuna valle porta",
+      "parafrasi": "Ma poiché Malebolge pende tutta verso l'apertura del pozzo più basso, la posizione di ciascuna valle comporta"
+    },
+    {
+      "versi": [40, 42],
+      "testo": "che l’una costa surge e l’altra scende;\nnoi pur venimmo al fine in su la punta\nonde l’ultima pietra si scoscende.",
+      "parafrasi": "che una parete sia più alta e l'altra più bassa; arrivammo comunque alla fine sulla cima da cui si stacca l'ultima pietra."
+    },
+    {
+      "versi": [43, 45],
+      "testo": "La lena m’era del polmon sì munta\nquand’io fui sù, ch’i’ non potea più oltre,\nanzi m’assisi ne la prima giunta.",
+      "parafrasi": "Il respiro mi era così esaurito nei polmoni quando fui su che non potevo andare oltre, anzi mi sedetti appena arrivato."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "\"Omai convien che tu così ti spoltre\",\ndisse ’l maestro; \"ché, seggendo in piuma,\nin fama non si vien, né sotto coltre;",
+      "parafrasi": "«Ormai bisogna che ti scrolli così di dosso la pigrizia», disse il maestro; «perché stando seduti sulle piume o sotto le coperte non si arriva alla fama;"
+    },
+    {
+      "versi": [49, 51],
+      "testo": "sanza la qual chi sua vita consuma,\ncotal vestigio in terra di sé lascia,\nqual fummo in aere e in acqua la schiuma.",
+      "parafrasi": "e chi consuma la sua vita senza di essa lascia di sé in terra una traccia come il fumo nell'aria e la schiuma nell'acqua."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "E però leva sù; vinci l’ambascia\ncon l’animo che vince ogne battaglia,\nse col suo grave corpo non s’accascia.",
+      "parafrasi": "E perciò alzati; vinci l'affanno con l'animo, che vince ogni battaglia se non si abbatte insieme al suo corpo pesante."
+    },
+    {
+      "versi": [55, 57],
+      "testo": "Più lunga scala convien che si saglia;\nnon basta da costoro esser partito.\nSe tu mi ’ntendi, or fa sì che ti vaglia\".",
+      "parafrasi": "Bisogna salire una scala più lunga; non basta essersi allontanati da costoro. Se mi capisci, ora fa' in modo che ti serva.»"
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Leva’ mi allor, mostrandomi fornito\nmeglio di lena ch’i’ non mi sentia,\ne dissi: \"Va, ch’i’ son forte e ardito\".",
+      "parafrasi": "Allora mi alzai, mostrandomi più fornito di fiato di quanto mi sentissi, e dissi: «Va', perché sono forte e coraggioso.»"
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Su per lo scoglio prendemmo la via,\nch’era ronchioso, stretto e malagevole,\ned erto più assai che quel di pria.",
+      "parafrasi": "Prendemmo la via su per il ponte di roccia, che era sporgente, stretto e scomodo, e molto più ripido di quello di prima."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Parlando andava per non parer fievole;\nonde una voce uscì de l’altro fosso,\na parole formar disconvenevole.",
+      "parafrasi": "Andavo parlando per non sembrare debole; per cui una voce, incapace di formare parole, uscì dall'altro fosso."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Non so che disse, ancor che sovra ’l dosso\nfossi de l’arco già che varca quivi;\nma chi parlava ad ire parea mosso.",
+      "parafrasi": "Non so che cosa disse, benché fossi già sulla sommità dell'arco che lì passa sopra; ma chi parlava sembrava mosso dall'ira."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "Io era vòlto in giù, ma li occhi vivi\nnon poteano ire al fondo per lo scuro;\nper ch’io: \"Maestro, fa che tu arrivi",
+      "parafrasi": "Ero rivolto in giù, ma gli occhi di un vivo non potevano arrivare al fondo per il buio; per cui dissi: «Maestro, fa' in modo di arrivare"
+    },
+    {
+      "versi": [73, 75],
+      "testo": "da l’altro cinghio e dismontiam lo muro;\nché, com’i’ odo quinci e non intendo,\ncosì giù veggio e neente affiguro\".",
+      "parafrasi": "all'altro argine e scendiamo il muro; perché, come da qui sento e non capisco, così guardo giù e non distinguo niente.»"
+    },
+    {
+      "versi": [76, 78],
+      "testo": "\"Altra risposta\", disse, \"non ti rendo\nse non lo far; ché la dimanda onesta\nsi de’ seguir con l’opera tacendo\".",
+      "parafrasi": "«Non ti do altra risposta», disse, «che farlo; perché a una domanda onesta si deve rispondere con i fatti, tacendo.»"
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Noi discendemmo il ponte da la testa\ndove s’aggiugne con l’ottava ripa,\ne poi mi fu la bolgia manifesta:",
+      "parafrasi": "Scendemmo il ponte dalla testata dove si congiunge con l'ottavo argine, e poi la bolgia mi fu visibile:"
+    },
+    {
+      "versi": [82, 84],
+      "testo": "e vidivi entro terribile stipa\ndi serpenti, e di sì diversa mena\nche la memoria il sangue ancor mi scipa.",
+      "parafrasi": "e vidi dentro un terribile ammasso di serpenti, di specie così diverse che il ricordo ancora mi gela il sangue."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "Più non si vanti Libia con sua rena;\nché se chelidri, iaculi e faree\nproduce, e cencri con anfisibena,",
+      "parafrasi": "Non si vanti più la Libia con la sua sabbia; perché se produce chelidri, iaculi e faree, cencri e anfisbene,"
+    },
+    {
+      "versi": [88, 90],
+      "testo": "né tante pestilenzie né sì ree\nmostrò già mai con tutta l’Etïopia\nné con ciò che di sopra al Mar Rosso èe.",
+      "parafrasi": "non mostrò mai tante pesti né così malvagie, neppure con tutta l'Etiopia e con le terre che stanno sul Mar Rosso."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Tra questa cruda e tristissima copia\ncorrëan genti nude e spaventate,\nsanza sperar pertugio o elitropia:",
+      "parafrasi": "Tra questa crudele e tristissima abbondanza correvano persone nude e spaventate, senza sperare in un nascondiglio o in un'elitropia [la pietra che rende invisibili]:"
+    },
+    {
+      "versi": [94, 96],
+      "testo": "con serpi le man dietro avean legate;\nquelle ficcavan per le ren la coda\ne ’l capo, ed eran dinanzi aggroppate.",
+      "parafrasi": "avevano le mani legate dietro con serpi; queste ficcavano la coda e la testa tra le reni ed erano annodate davanti."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Ed ecco a un ch’era da nostra proda,\ns’avventò un serpente che ’l trafisse\nlà dove ’l collo a le spalle s’annoda.",
+      "parafrasi": "Ed ecco che su uno che era vicino alla nostra riva si avventò un serpente che lo trafisse là dove il collo si annoda alle spalle."
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Né O sì tosto mai né I si scrisse,\ncom’el s’accese e arse, e cener tutto\nconvenne che cascando divenisse;",
+      "parafrasi": "Non si scrisse mai così rapidamente né una O né una I come lui si accese e bruciò, e cadendo dovette diventare tutto cenere;"
+    },
+    {
+      "versi": [103, 105],
+      "testo": "e poi che fu a terra sì distrutto,\nla polver si raccolse per sé stessa\ne ’n quel medesmo ritornò di butto.",
+      "parafrasi": "e dopo che fu così distrutto a terra, la polvere si raccolse da sé e tornò all'istante quello di prima."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Così per li gran savi si confessa\nche la fenice more e poi rinasce,\nquando al cinquecentesimo anno appressa;",
+      "parafrasi": "Così i grandi sapienti affermano che la fenice muore e poi rinasce quando si avvicina al cinquecentesimo anno;"
+    },
+    {
+      "versi": [109, 111],
+      "testo": "erba né biado in sua vita non pasce,\nma sol d’incenso lagrime e d’amomo,\ne nardo e mirra son l’ultime fasce.",
+      "parafrasi": "in vita non si nutre di erba né di biade, ma solo di lacrime d'incenso e di amomo, e nardo e mirra sono le sue ultime fasce."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "E qual è quel che cade, e non sa como,\nper forza di demon ch’a terra il tira,\no d’altra oppilazion che lega l’omo,",
+      "parafrasi": "E come chi cade, e non sa come, per la forza di un demonio che lo tira a terra, o per un'altra ostruzione che lega l'uomo,"
+    },
+    {
+      "versi": [115, 117],
+      "testo": "quando si leva, che ’ntorno si mira\ntutto smarrito de la grande angoscia\nch’elli ha sofferta, e guardando sospira:",
+      "parafrasi": "quando si rialza, si guarda intorno tutto smarrito per la grande angoscia che ha sofferto, e guardando sospira:"
+    },
+    {
+      "versi": [118, 120],
+      "testo": "tal era ’l peccator levato poscia.\nOh potenza di Dio, quant’è severa,\nche cotai colpi per vendetta croscia!",
+      "parafrasi": "tale era il peccatore dopo essersi rialzato. Oh potenza di Dio, quanto è severa, che fa scrosciare tali colpi per vendetta!"
+    },
+    {
+      "versi": [121, 123],
+      "testo": "Lo duca il domandò poi chi ello era;\nper ch’ei rispuose: \"Io piovvi di Toscana,\npoco tempo è, in questa gola fiera.",
+      "parafrasi": "La guida gli domandò poi chi era; per cui rispose: «Sono piovuto dalla Toscana, poco tempo fa, in questa gola feroce."
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Vita bestial mi piacque e non umana,\nsì come a mul ch’i’ fui; son Vanni Fucci\nbestia, e Pistoia mi fu degna tana\".",
+      "parafrasi": "Mi piacque una vita bestiale e non umana, come al mulo che fui; sono Vanni Fucci, bestia, e Pistoia mi fu tana degna.»"
+    },
+    {
+      "versi": [127, 129],
+      "testo": "E ïo al duca: \"Dilli che non mucci,\ne domanda che colpa qua giù ’l pinse;\nch’io ’l vidi omo di sangue e di crucci\".",
+      "parafrasi": "E io alla guida: «Digli di non svignarsela, e domandagli quale colpa lo ha spinto quaggiù; perché l'ho conosciuto come uomo di sangue e di violenze.»"
+    },
+    {
+      "versi": [130, 132],
+      "testo": "E ’l peccator, che ’ntese, non s’infinse,\nma drizzò verso me l’animo e ’l volto,\ne di trista vergogna si dipinse;",
+      "parafrasi": "E il peccatore, che capì, non finse, ma rivolse verso di me l'animo e il volto, e si dipinse di una triste vergogna;"
+    },
+    {
+      "versi": [133, 135],
+      "testo": "poi disse: \"Più mi duol che tu m’ hai colto\nne la miseria dove tu mi vedi,\nche quando fui de l’altra vita tolto.",
+      "parafrasi": "poi disse: «Mi addolora di più che tu mi abbia sorpreso nella miseria in cui mi vedi di quando fui tolto dall'altra vita."
+    },
+    {
+      "versi": [136, 138],
+      "testo": "Io non posso negar quel che tu chiedi;\nin giù son messo tanto perch’io fui\nladro a la sagrestia d’i belli arredi,",
+      "parafrasi": "Non posso negarti ciò che chiedi; sono messo così in basso perché fui ladro dei begli arredi della sagrestia,"
+    },
+    {
+      "versi": [139, 141],
+      "testo": "e falsamente già fu apposto altrui.\nMa perché di tal vista tu non godi,\nse mai sarai di fuor da’ luoghi bui,",
+      "parafrasi": "e la colpa fu attribuita falsamente a un altro. Ma perché tu non goda di questa vista, se mai sarai fuori dai luoghi bui,"
+    },
+    {
+      "versi": [142, 144],
+      "testo": "apri li orecchi al mio annunzio, e odi.\nPistoia in pria d’i Neri si dimagra;\npoi Fiorenza rinova gente e modi.",
+      "parafrasi": "apri le orecchie al mio annuncio, e ascolta. Pistoia prima si svuota dei Neri; poi Firenze rinnova cittadini e governo."
+    },
+    {
+      "versi": [145, 147],
+      "testo": "Tragge Marte vapor di Val di Magra\nch’è di torbidi nuvoli involuto;\ne con tempesta impetüosa e agra",
+      "parafrasi": "Marte trae dalla Val di Magra un vapore [Moroello Malaspina] avvolto da nuvole torbide; e con una tempesta impetuosa e aspra"
+    },
+    {
+      "versi": [148, 150],
+      "testo": "sovra Campo Picen fia combattuto;\nond’ei repente spezzerà la nebbia,\nsì ch’ogne Bianco ne sarà feruto.",
+      "parafrasi": "si combatterà sopra Campo Piceno; per cui all'improvviso squarcerà la nebbia, così che ogni Bianco ne sarà ferito."
+    },
+    {
+      "versi": [151, 151],
+      "testo": "E detto l’ ho perché doler ti debbia!\".",
+      "parafrasi": "E l'ho detto perché te ne debba addolorare!»"
+    }
+  ]
+}

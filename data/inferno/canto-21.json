@@ -1,0 +1,302 @@
+{
+  "cantica": "inferno",
+  "canto": 21,
+  "titolo": "I barattieri e i Malebranche",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_XXI",
+  "numero_versi": 139,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 21],
+      "titolo_scena": "La pece bollente",
+      "sintesi": "Dal ponte i due guardano la quinta bolgia, stranamente buia: vi bolle una pece densa, come quella che d'inverno nell'Arsenale di Venezia serve a riparare le navi.",
+      "luogo_id": "bolgia-5",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": []
+    },
+    {
+      "id": "scena-2",
+      "versi": [22, 57],
+      "titolo_scena": "Il diavolo e l'anziano di Lucca",
+      "sintesi": "Un diavolo nero arriva di corsa con un dannato sulle spalle: è uno degli anziani di Lucca, la città dei barattieri. Lo getta nella pece e torna a prenderne altri. I Malebranche, nascosti sotto il ponte, lo deridono e lo affondano con più di cento uncini, come i cuochi la carne nella pentola.",
+      "luogo_id": "bolgia-5",
+      "personaggi": ["dante", "virgilio", "malebranche", "anziano-di-santa-zita", "bonturo"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "I Malebranche uncinano il barattiere",
+          "url": "img/dore/inferno-21-barattiere-960.jpg",
+          "miniatura": "img/dore/inferno-21-barattiere-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._1,_Die_Holle_1870_(148618760).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [58, 96],
+      "titolo_scena": "Virgilio e Malacoda",
+      "sintesi": "Virgilio nasconde Dante dietro uno spuntone e va da solo incontro ai diavoli, che gli si avventano contro con gli uncini. Chiede di parlare con uno di loro: viene Malacoda, a cui Virgilio spiega che il viaggio è voluto dal cielo. Il diavolo lascia cadere l'uncino, e Dante esce dal nascondiglio, spaventato.",
+      "luogo_id": "bolgia-5",
+      "personaggi": ["dante", "virgilio", "malebranche", "malacoda"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "«Nessun di voi sia fello!»",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Inferno_Canto_21_%28148618780%29.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Inferno_Canto_21_%28148618780%29.jpg/960px-Inferno_Canto_21_%28148618780%29.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Inferno_Canto_21_(148618780).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [97, 139],
+      "titolo_scena": "La scorta dei dieci diavoli",
+      "sintesi": "I diavoli minacciano Dante con gli uncini, ma Malacoda li ferma. Con una menzogna dice che il ponte successivo è crollato (il crollo avvenne alla morte di Cristo, 1266 anni prima) e assegna ai due una scorta di dieci diavoli guidati da Barbariccia. Dante ha paura; Virgilio lo rassicura. La schiera si avvia con un gesto osceno.",
+      "luogo_id": "bolgia-5",
+      "personaggi": ["dante", "virgilio", "malebranche", "malacoda"],
+      "tavole": []
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Così di ponte in ponte, altro parlando\nche la mia comedìa cantar non cura,\nvenimmo; e tenavamo ’l colmo, quando",
+      "parafrasi": "Così andammo di ponte in ponte, parlando d'altro di cui la mia commedia non si cura di cantare; ed eravamo sulla sommità, quando"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "restammo per veder l’altra fessura\ndi Malebolge e li altri pianti vani;\ne vidila mirabilmente oscura.",
+      "parafrasi": "ci fermammo per vedere l'altra fenditura di Malebolge e gli altri pianti inutili; e la vidi straordinariamente buia."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "Quale ne l’arzanà de’ Viniziani\nbolle l’inverno la tenace pece\na rimpalmare i legni lor non sani,",
+      "parafrasi": "Come nell'Arsenale dei Veneziani bolle d'inverno la pece tenace per spalmare di nuovo le loro navi danneggiate,"
+    },
+    {
+      "versi": [10, 12],
+      "testo": "ché navicar non ponno - in quella vece\nchi fa suo legno novo e chi ristoppa\nle coste a quel che più vïaggi fece;",
+      "parafrasi": "che non possono navigare, e invece c'è chi costruisce una nave nuova e chi ristoppa i fianchi di quella che ha fatto più viaggi;"
+    },
+    {
+      "versi": [13, 15],
+      "testo": "chi ribatte da proda e chi da poppa;\naltri fa remi e altri volge sarte;\nchi terzeruolo e artimon rintoppa -:",
+      "parafrasi": "chi ribatte a prua e chi a poppa; altri fa remi e altri attorciglia corde; chi rattoppa le vele piccole e grandi:"
+    },
+    {
+      "versi": [16, 18],
+      "testo": "tal, non per foco ma per divin’arte,\nbollia là giuso una pegola spessa,\nche ’nviscava la ripa d’ogne parte.",
+      "parafrasi": "così, non per il fuoco ma per arte divina, bolliva laggiù una pece densa, che invischiava la riva da ogni parte."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "I’ vedea lei, ma non vedëa in essa\nmai che le bolle che ’l bollor levava,\ne gonfiar tutta, e riseder compressa.",
+      "parafrasi": "Io la vedevo, ma in essa non vedevo altro che le bolle sollevate dal bollore, e la pece gonfiarsi tutta e poi riabbassarsi compressa."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Mentr’io là giù fisamente mirava,\nlo duca mio, dicendo \"Guarda, guarda!\",\nmi trasse a sé del loco dov’io stava.",
+      "parafrasi": "Mentre guardavo fisso laggiù, la mia guida, dicendo «Guarda, guarda!», mi tirò a sé dal punto dove stavo."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Allor mi volsi come l’uom cui tarda\ndi veder quel che li convien fuggire\ne cui paura sùbita sgagliarda,",
+      "parafrasi": "Allora mi voltai come chi è impaziente di vedere ciò che deve fuggire e che una paura improvvisa priva di forze,"
+    },
+    {
+      "versi": [28, 30],
+      "testo": "che, per veder, non indugia ’l partire:\ne vidi dietro a noi un diavol nero\ncorrendo su per lo scoglio venire.",
+      "parafrasi": "così che, pur di vedere, non rimanda la fuga: e vidi dietro di noi un diavolo nero che veniva correndo su per lo scoglio."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "Ahi quant’elli era ne l’aspetto fero!\ne quanto mi parea ne l’atto acerbo,\ncon l’ali aperte e sovra i piè leggero!",
+      "parafrasi": "Ah, quanto era feroce nell'aspetto! E quanto mi sembrava crudele nei gesti, con le ali aperte e leggero sui piedi!"
+    },
+    {
+      "versi": [34, 36],
+      "testo": "L’omero suo, ch’era aguto e superbo,\ncarcava un peccator con ambo l’anche,\ne quei tenea de’ piè ghermito ’l nerbo.",
+      "parafrasi": "La sua spalla, che era aguzza e alta, era caricata da un peccatore con entrambe le anche, e lui gli teneva afferrato il tendine dei piedi."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Del nostro ponte disse: \"O Malebranche,\necco un de li anzïan di Santa Zita!\nMettetel sotto, ch’i’ torno per anche",
+      "parafrasi": "Dal nostro ponte disse: «O Malebranche, ecco uno degli anziani di Santa Zita! Mettetelo sotto, perché io torno ancora"
+    },
+    {
+      "versi": [40, 42],
+      "testo": "a quella terra, che n’è ben fornita:\nogn’uom v’è barattier, fuor che Bonturo;\ndel no, per li denar, vi si fa ita\".",
+      "parafrasi": "in quella città, che ne è ben fornita: lì ogni uomo è barattiere, tranne Bonturo; lì per denaro il \"no\" diventa \"sì\".»"
+    },
+    {
+      "versi": [43, 45],
+      "testo": "Là giù ’l buttò, e per lo scoglio duro\nsi volse; e mai non fu mastino sciolto\ncon tanta fretta a seguitar lo furo.",
+      "parafrasi": "Lo buttò giù e tornò indietro per lo scoglio duro; e mai un mastino sciolto corse con tanta fretta a inseguire il ladro."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Quel s’attuffò, e tornò sù convolto;\nma i demon che del ponte avean coperchio,\ngridar: \"Qui non ha loco il Santo Volto!",
+      "parafrasi": "Quello si tuffò e tornò su tutto curvo; ma i demoni che stavano coperti dal ponte gridarono: «Qui non c'è posto per il Santo Volto!"
+    },
+    {
+      "versi": [49, 51],
+      "testo": "qui si nuota altrimenti che nel Serchio!\nPerò, se tu non vuo’ di nostri graffi,\nnon far sopra la pegola soverchio\".",
+      "parafrasi": "Qui si nuota in un altro modo che nel Serchio! Perciò, se non vuoi i nostri graffi, non venire a galla sopra la pece.»"
+    },
+    {
+      "versi": [52, 54],
+      "testo": "Poi l’addentar con più di cento raffi,\ndisser: \"Coverto convien che qui balli,\nsì che, se puoi, nascosamente accaffi\".",
+      "parafrasi": "Poi, dopo averlo addentato con più di cento uncini, dissero: «Qui devi ballare coperto, così che, se puoi, rubi di nascosto.»"
+    },
+    {
+      "versi": [55, 57],
+      "testo": "Non altrimenti i cuoci a’ lor vassalli\nfanno attuffare in mezzo la caldaia\nla carne con li uncin, perché non galli.",
+      "parafrasi": "Non diversamente i cuochi fanno affondare dai loro aiutanti, con gli uncini, la carne in mezzo alla pentola, perché non venga a galla."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Lo buon maestro \"Acciò che non si paia\nche tu ci sia\", mi disse, \"giù t’acquatta\ndopo uno scheggio, ch’alcun schermo t’aia;",
+      "parafrasi": "Il buon maestro mi disse: «Perché non si veda che sei qui, accucciati giù dietro uno spuntone, che ti faccia un po' di riparo;"
+    },
+    {
+      "versi": [61, 63],
+      "testo": "e per nulla offension che mi sia fatta,\nnon temer tu, ch’i’ ho le cose conte,\nperch’altra volta fui a tal baratta\".",
+      "parafrasi": "e per qualunque offesa mi sia fatta, non avere paura, perché conosco queste cose, poiché un'altra volta mi sono trovato in una tale lite.»"
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Poscia passò di là dal co del ponte;\ne com’el giunse in su la ripa sesta,\nmestier li fu d’aver sicura fronte.",
+      "parafrasi": "Poi passò oltre la testata del ponte; e appena arrivò sul sesto argine, ebbe bisogno di mostrare una fronte sicura."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Con quel furore e con quella tempesta\nch’escono i cani a dosso al poverello\nche di sùbito chiede ove s’arresta,",
+      "parafrasi": "Con lo stesso furore e la stessa tempesta con cui i cani escono addosso al povero che all'improvviso chiede l'elemosina dove si ferma,"
+    },
+    {
+      "versi": [70, 72],
+      "testo": "usciron quei di sotto al ponticello,\ne volser contra lui tutt’i runcigli;\nma el gridò: \"Nessun di voi sia fello!",
+      "parafrasi": "uscirono quelli da sotto il ponticello e rivolsero contro di lui tutti gli uncini; ma lui gridò: «Nessuno di voi sia malvagio!"
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Innanzi che l’uncin vostro mi pigli,\ntraggasi avante l’un di voi che m’oda,\ne poi d’arruncigliarmi si consigli\".",
+      "parafrasi": "Prima che il vostro uncino mi prenda, venga avanti uno di voi che mi ascolti, e poi si decida se uncinarmi.»"
+    },
+    {
+      "versi": [76, 78],
+      "testo": "Tutti gridaron: \"Vada Malacoda!\";\nper ch’un si mosse - e li altri stetter fermi -\ne venne a lui dicendo: \"Che li approda?\".",
+      "parafrasi": "Tutti gridarono: «Vada Malacoda!»; per cui uno si mosse, mentre gli altri stavano fermi, e venne da lui dicendo: «A che gli serve?»"
+    },
+    {
+      "versi": [79, 81],
+      "testo": "\"Credi tu, Malacoda, qui vedermi\nesser venuto\", disse ’l mio maestro,\n\"sicuro già da tutti vostri schermi,",
+      "parafrasi": "«Credi, Malacoda, di vedermi arrivato qui», disse il mio maestro, «già sicuro da tutti i vostri ostacoli,"
+    },
+    {
+      "versi": [82, 84],
+      "testo": "sanza voler divino e fato destro?\nLascian’andar, ché nel cielo è voluto\nch’i’ mostri altrui questo cammin silvestro\".",
+      "parafrasi": "senza la volontà divina e un destino favorevole? Lasciaci andare, perché in cielo si vuole che io mostri a un altro questo cammino selvaggio.»"
+    },
+    {
+      "versi": [85, 87],
+      "testo": "Allor li fu l’orgoglio sì caduto,\nch’e’ si lasciò cascar l’uncino a’ piedi,\ne disse a li altri: \"Omai non sia feruto\".",
+      "parafrasi": "Allora la sua superbia cadde a tal punto che si lasciò cadere l'uncino ai piedi e disse agli altri: «Ormai non sia colpito.»"
+    },
+    {
+      "versi": [88, 90],
+      "testo": "E ’l duca mio a me: \"O tu che siedi\ntra li scheggion del ponte quatto quatto,\nsicuramente omai a me ti riedi\".",
+      "parafrasi": "E la mia guida a me: «O tu che stai seduto tutto rannicchiato tra gli spuntoni del ponte, ora torna tranquillamente da me.»"
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Per ch’io mi mossi e a lui venni ratto;\ne i diavoli si fecer tutti avanti,\nsì ch’io temetti ch’ei tenesser patto;",
+      "parafrasi": "Per cui mi mossi e venni da lui in fretta; e i diavoli si fecero tutti avanti, tanto che temetti che non mantenessero il patto;"
+    },
+    {
+      "versi": [94, 96],
+      "testo": "così vid’ïo già temer li fanti\nch’uscivan patteggiati di Caprona,\nveggendo sé tra nemici cotanti.",
+      "parafrasi": "così vidi già temere i fanti che uscivano dal castello di Caprona con un patto di resa, vedendosi tra tanti nemici."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "I’ m’accostai con tutta la persona\nlungo ’l mio duca, e non torceva li occhi\nda la sembianza lor ch’era non buona.",
+      "parafrasi": "Mi accostai con tutta la persona alla mia guida e non distoglievo gli occhi dal loro aspetto, che non era buono."
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Ei chinavan li raffi e \"Vuo’ che ’l tocchi\",\ndiceva l’un con l’altro, \"in sul groppone?\".\nE rispondien: \"Sì, fa che gliel’accocchi\".",
+      "parafrasi": "Abbassavano gli uncini e dicevano l'uno all'altro: «Vuoi che lo tocchi sulla groppa?» E rispondevano: «Sì, fa' in modo di dargliela.»"
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Ma quel demonio che tenea sermone\ncol duca mio, si volse tutto presto\ne disse: \"Posa, posa, Scarmiglione!\".",
+      "parafrasi": "Ma quel demonio che parlava con la mia guida si voltò subito e disse: «Fermo, fermo, Scarmiglione!»"
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Poi disse a noi: \"Più oltre andar per questo\niscoglio non si può, però che giace\ntutto spezzato al fondo l’arco sesto.",
+      "parafrasi": "Poi disse a noi: «Andare oltre per questo scoglio non si può, perché il sesto arco giace tutto spezzato sul fondo."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "E se l’andare avante pur vi piace,\nandatevene su per questa grotta;\npresso è un altro scoglio che via face.",
+      "parafrasi": "E se vi piace comunque andare avanti, andate su per questo argine; qui vicino c'è un altro scoglio che fa da strada."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Ier, più oltre cinqu’ ore che quest’otta,\nmille dugento con sessanta sei\nanni compié che qui la via fu rotta.",
+      "parafrasi": "Ieri, cinque ore più tardi di quest'ora, si sono compiuti milleduecentosessantasei anni da quando qui la via si è rotta."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "Io mando verso là di questi miei\na riguardar s’alcun se ne sciorina;\ngite con lor, che non saranno rei\".",
+      "parafrasi": "Io mando da quella parte alcuni dei miei a controllare se qualcuno esce a prendere aria; andate con loro, che non saranno cattivi.»"
+    },
+    {
+      "versi": [118, 120],
+      "testo": "\"Tra’ ti avante, Alichino, e Calcabrina\",\ncominciò elli a dire, \"e tu, Cagnazzo;\ne Barbariccia guidi la decina.",
+      "parafrasi": "«Fatti avanti, Alichino, e Calcabrina», cominciò a dire, «e tu, Cagnazzo; e Barbariccia guidi la decina."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "Libicocco vegn’oltre e Draghignazzo,\nCirïatto sannuto e Graffiacane\ne Farfarello e Rubicante pazzo.",
+      "parafrasi": "Venga avanti Libicocco, e Draghignazzo, Ciriatto con le zanne, Graffiacane, Farfarello e il pazzo Rubicante."
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Cercate ’ntorno le boglienti pane;\ncostor sian salvi infino a l’altro scheggio\nche tutto intero va sovra le tane\".",
+      "parafrasi": "Cercate intorno alle pece bollente; costoro siano salvi fino all'altro ponte, che passa tutto intero sopra le fosse.»"
+    },
+    {
+      "versi": [127, 129],
+      "testo": "\"Omè, maestro, che è quel ch’i’ veggio?\",\ndiss’io, \"deh, sanza scorta andianci soli,\nse tu sa’ ir; ch’i’ per me non la cheggio.",
+      "parafrasi": "«Ahimè, maestro, che cos'è quello che vedo?» dissi, «ah, andiamo da soli senza scorta, se sai la strada; io per me non la chiedo."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Se tu se’ sì accorto come suoli,\nnon vedi tu ch’e’ digrignan li denti\ne con le ciglia ne minaccian duoli?\".",
+      "parafrasi": "Se sei accorto come al solito, non vedi che digrignano i denti e con le ciglia ci minacciano sofferenze?»"
+    },
+    {
+      "versi": [133, 135],
+      "testo": "Ed elli a me: \"Non vo’ che tu paventi;\nlasciali digrignar pur a lor senno,\nch’e’ fanno ciò per li lessi dolenti\".",
+      "parafrasi": "E lui a me: «Non voglio che tu abbia paura; lasciali pure digrignare come vogliono, perché lo fanno per i bolliti che soffrono.»"
+    },
+    {
+      "versi": [136, 138],
+      "testo": "Per l’argine sinistro volta dienno;\nma prima avea ciascun la lingua stretta\ncoi denti, verso lor duca, per cenno;",
+      "parafrasi": "Voltarono lungo l'argine sinistro; ma prima ciascuno aveva stretto la lingua tra i denti, come segnale, verso il loro capo;"
+    },
+    {
+      "versi": [139, 139],
+      "testo": "ed elli avea del cul fatto trombetta.",
+      "parafrasi": "e lui aveva fatto del culo una trombetta."
+    }
+  ]
+}

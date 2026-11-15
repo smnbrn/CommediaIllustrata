@@ -12,6 +12,8 @@ Uso:
 import json
 import re
 import sys
+import time
+import urllib.error
 import urllib.parse
 import urllib.request
 
@@ -25,8 +27,14 @@ NOMI = {"dore": "Gustave Doré", "botticelli": "Sandro Botticelli", "blake": "Wi
 def call(params):
     params = {**params, "format": "json", "formatversion": "2"}
     req = urllib.request.Request(API + "?" + urllib.parse.urlencode(params), headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return json.load(r)
+    for tentativo in range(6):          # Commons risponde 429 alle richieste troppo ravvicinate
+        try:
+            with urllib.request.urlopen(req, timeout=30) as r:
+                return json.load(r)
+        except urllib.error.HTTPError as e:
+            if e.code != 429 or tentativo == 5:
+                raise
+            time.sleep(15 * (tentativo + 1))
 
 
 def pulisci(s):

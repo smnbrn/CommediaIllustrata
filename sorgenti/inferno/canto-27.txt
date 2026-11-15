@@ -1,0 +1,300 @@
+# Inferno, canto XXVII
+titolo: Guido da Montefeltro
+
+## scena-1 | bolgia-8 | Una nuova fiamma chiede della Romagna
+personaggi: dante, virgilio, guido-da-montefeltro
+sintesi: Partita la fiamma di Ulisse, ne arriva un'altra da cui escono suoni confusi, come dal toro di bronzo di Falaride. Le parole trovano infine la via attraverso la punta: lo spirito, romagnolo, chiede se la sua terra sia in pace o in guerra.
+
+1
+Già era dritta in sù la fiamma e queta
+per non dir più, e già da noi sen gia
+con la licenza del dolce poeta,
+> La fiamma era già diritta verso l'alto e quieta, per non dire altro, e già si allontanava da noi con il permesso del dolce poeta,
+
+4
+quand’un’altra, che dietro a lei venìa,
+ne fece volger li occhi a la sua cima
+per un confuso suon che fuor n’uscia.
+> quando un'altra, che veniva dietro di lei, ci fece volgere gli occhi verso la sua cima per un suono confuso che ne usciva.
+
+7
+Come ’l bue cicilian che mugghiò prima
+col pianto di colui, e ciò fu dritto,
+che l’avea temperato con sua lima,
+> Come il toro siciliano, che muggì per la prima volta, ed era giusto, con il pianto di colui che l'aveva modellato con la sua lima,
+
+10
+mugghiava con la voce de l’afflitto,
+sì che, con tutto che fosse di rame,
+pur el pareva dal dolor trafitto;
+> muggiva con la voce del tormentato, così che, benché fosse di rame, sembrava proprio trafitto dal dolore;
+
+13
+così, per non aver via né forame
+dal principio nel foco, in suo linguaggio
+si convertïan le parole grame.
+> così, non avendo all'inizio né via né apertura nel fuoco, le parole dolorose si trasformavano nel linguaggio della fiamma.
+
+16
+Ma poscia ch’ebber colto lor vïaggio
+su per la punta, dandole quel guizzo
+che dato avea la lingua in lor passaggio,
+> Ma dopo che ebbero trovato la loro strada su per la punta, dandole la vibrazione che la lingua aveva dato al loro passaggio,
+
+19
+udimmo dire: "O tu a cu’ io drizzo
+la voce e che parlavi mo lombardo,
+dicendo "Istra ten va, più non t’adizzo",
+> udimmo dire: «O tu a cui rivolgo la voce, e che parlavi poco fa lombardo, dicendo "Ora vattene, non ti sollecito più",
+
+22
+perch’io sia giunto forse alquanto tardo,
+non t’incresca restare a parlar meco;
+vedi che non incresce a me, e ardo!
+> anche se sono arrivato forse un po' tardi, non ti dispiaccia restare a parlare con me; vedi che non dispiace a me, e brucio!
+
+25
+Se tu pur mo in questo mondo cieco
+caduto se’ di quella dolce terra
+latina ond’io mia colpa tutta reco,
+> Se proprio ora sei caduto in questo mondo cieco da quella dolce terra italiana da cui porto tutta la mia colpa,
+
+28
+dimmi se Romagnuoli han pace o guerra;
+ch’io fui d’i monti là intra Orbino
+e ’l giogo di che Tever si diserra".
+> dimmi se i Romagnoli hanno pace o guerra; perché io fui dei monti là tra Urbino e il giogo da cui nasce il Tevere.»
+
+## scena-2 | bolgia-8 | La Romagna nel 1300
+personaggi: dante, virgilio
+sintesi: Virgilio lascia parlare Dante, che descrive la Romagna: nessuna guerra aperta, ma tiranni dappertutto. Ravenna è dei Polenta, Forlì degli Ordelaffi, Rimini dei Malatesta, Faenza e Imola di Maghinardo Pagani; Cesena vive tra tirannia e libertà. Poi chiede allo spirito chi sia.
+
+31
+Io era in giuso ancora attento e chino,
+quando il mio duca mi tentò di costa,
+dicendo: "Parla tu; questi è latino".
+> Ero ancora rivolto in giù, attento e chino, quando la mia guida mi toccò il fianco, dicendo: «Parla tu; questo è italiano.»
+
+34
+E io, ch’avea già pronta la risposta,
+sanza indugio a parlare incominciai:
+"O anima che se’ là giù nascosta,
+> E io, che avevo già pronta la risposta, cominciai a parlare senza indugio: «O anima che sei nascosta là sotto,
+
+37
+Romagna tua non è, e non fu mai,
+sanza guerra ne’ cuor de’ suoi tiranni;
+ma ’n palese nessuna or vi lasciai.
+> la tua Romagna non è, e non fu mai, senza guerra nel cuore dei suoi tiranni; ma guerra aperta, ora, non ne ho lasciata nessuna.
+
+40
+Ravenna sta come stata è molt’anni:
+l’aguglia da Polenta la si cova,
+sì che Cervia ricuopre co’ suoi vanni.
+> Ravenna è com'è stata per molti anni: l'aquila dei Polenta la cova, tanto da coprire anche Cervia con le sue ali.
+
+43
+La terra che fé già la lunga prova
+e di Franceschi sanguinoso mucchio,
+sotto le branche verdi si ritrova.
+> La città che sostenne già il lungo assedio e fece un mucchio sanguinoso di Francesi [Forlì] si ritrova sotto le zampe verdi [degli Ordelaffi].
+
+46
+E ’l mastin vecchio e ’l nuovo da Verrucchio,
+che fecer di Montagna il mal governo,
+là dove soglion fan d’i denti succhio.
+> E il mastino vecchio e quello nuovo da Verrucchio [i Malatesta], che trattarono così male Montagna, affondano i denti dove sono soliti.
+
+49
+Le città di Lamone e di Santerno
+conduce il lïoncel dal nido bianco,
+che muta parte da la state al verno.
+> Le città del Lamone e del Santerno [Faenza e Imola] le guida il leoncello dal nido bianco, che cambia partito dall'estate all'inverno.
+
+52
+E quella cu’ il Savio bagna il fianco,
+così com’ella sie’ tra ’l piano e ’l monte,
+tra tirannia si vive e stato franco.
+> E quella a cui il Savio bagna il fianco [Cesena], come si trova tra la pianura e il monte, così vive tra tirannia e libertà.
+
+55
+Ora chi se’, ti priego che ne conte;
+non esser duro più ch’altri sia stato,
+se ’l nome tuo nel mondo tegna fronte".
+> Ora ti prego di dirci chi sei; non essere più restio di quanto lo siano stati altri con te, così il tuo nome resista nel mondo.»
+
+## scena-3 | bolgia-8 | Il consiglio fraudolento
+personaggi: dante, guido-da-montefeltro, bonifacio-viii
+sintesi: Credendo che Dante non tornerà mai nel mondo, lo spirito si rivela: fu un condottiero astuto come una volpe, poi si fece frate francescano per pentirsi. Ma Bonifacio VIII, in guerra con i Colonna, lo assolse in anticipo e gli chiese come prendere Palestrina: Guido consigliò di promettere molto e mantenere poco.
+
+58
+Poscia che ’l foco alquanto ebbe rugghiato
+al modo suo, l’aguta punta mosse
+di qua, di là, e poi diè cotal fiato:
+> Dopo che il fuoco ebbe ruggito un poco a modo suo, mosse di qua e di là la punta acuta, e poi mandò fuori queste parole:
+
+61
+"S’i’ credesse che mia risposta fosse
+a persona che mai tornasse al mondo,
+questa fiamma staria sanza più scosse;
+> «Se credessi che la mia risposta fosse data a una persona che dovesse mai tornare nel mondo, questa fiamma resterebbe senza più muoversi;
+
+64
+ma però che già mai di questo fondo
+non tornò vivo alcun, s’i’ odo il vero,
+sanza tema d’infamia ti rispondo.
+> ma poiché nessuno tornò mai vivo da questo fondo, se ciò che sento è vero, ti rispondo senza timore di infamia.
+
+67
+Io fui uom d’arme, e poi fui cordigliero,
+credendomi, sì cinto, fare ammenda;
+e certo il creder mio venìa intero,
+> Fui uomo d'armi, e poi fui frate francescano, credendo, cinto del cordone, di fare ammenda; e certo la mia speranza si sarebbe avverata,
+
+70
+se non fosse il gran prete, a cui mal prenda!,
+che mi rimise ne le prime colpe;
+e come e quare, voglio che m’intenda.
+> se non fosse per il gran prete [il papa], che il male lo colga!, che mi rimise nelle colpe di prima; e come e perché, voglio che tu lo sappia.
+
+73
+Mentre ch’io forma fui d’ossa e di polpe
+che la madre mi diè, l’opere mie
+non furon leonine, ma di volpe.
+> Finché fui la forma di ossa e di carne che mi diede mia madre, le mie azioni non furono da leone, ma da volpe.
+
+76
+Li accorgimenti e le coperte vie
+io seppi tutte, e sì menai lor arte,
+ch’al fine de la terra il suono uscie.
+> Conobbi tutti gli accorgimenti e le vie nascoste, e ne praticai l'arte in modo tale che la fama arrivò fino ai confini della terra.
+
+79
+Quando mi vidi giunto in quella parte
+di mia etade ove ciascun dovrebbe
+calar le vele e raccoglier le sarte,
+> Quando mi vidi arrivato a quella parte della mia età in cui ciascuno dovrebbe calare le vele e raccogliere le corde,
+
+82
+ciò che pria mi piacëa, allor m’increbbe,
+e pentuto e confesso mi rendei;
+ahi miser lasso! e giovato sarebbe.
+> ciò che prima mi piaceva allora mi dispiacque, e pentito e confessato mi feci frate; ahimè, misero! E sarebbe servito.
+
+85
+Lo principe d’i novi Farisei,
+avendo guerra presso a Laterano,
+e non con Saracin né con Giudei,
+> Il principe dei nuovi Farisei, essendo in guerra vicino al Laterano, e non con Saraceni né con Giudei,
+
+88
+ché ciascun suo nimico era cristiano,
+e nessun era stato a vincer Acri
+né mercatante in terra di Soldano,
+> perché ogni suo nemico era cristiano, e nessuno era stato a conquistare Acri né a commerciare nella terra del Sultano,
+
+91
+né sommo officio né ordini sacri
+guardò in sé, né in me quel capestro
+che solea fare i suoi cinti più macri.
+> non tenne conto in sé né dell'ufficio supremo né degli ordini sacri, né in me di quel cordone che di solito rendeva più magri quelli che lo portavano.
+
+94
+Ma come Costantin chiese Silvestro
+d’entro Siratti a guerir de la lebbre,
+così mi chiese questi per maestro
+> Ma come Costantino chiamò Silvestro dal monte Soratte per guarire dalla lebbra, così costui mi chiamò come maestro
+
+97
+a guerir de la sua superba febbre;
+domandommi consiglio, e io tacetti
+perché le sue parole parver ebbre.
+> per guarire dalla sua febbre superba; mi domandò consiglio, e io tacqui perché le sue parole mi sembrarono da ubriaco.
+
+100
+E’ poi ridisse: "Tuo cuor non sospetti;
+finor t’assolvo, e tu m’insegna fare
+sì come Penestrino in terra getti.
+> E poi riprese: "Il tuo cuore non tema; fin da ora ti assolvo, e tu insegnami come fare per abbattere Palestrina.
+
+103
+Lo ciel poss’io serrare e diserrare,
+come tu sai; però son due le chiavi
+che ’l mio antecessor non ebbe care".
+> Posso chiudere e aprire il cielo, come sai; per questo le chiavi sono due, quelle che il mio predecessore [Celestino V] non apprezzò".
+
+106
+Allor mi pinser li argomenti gravi
+là ’ve ’l tacer mi fu avviso ’l peggio,
+e dissi: "Padre, da che tu mi lavi
+> Allora gli argomenti pesanti mi spinsero là dove tacere mi sembrò il peggio, e dissi: "Padre, poiché mi lavi
+
+109
+di quel peccato ov’io mo cader deggio,
+lunga promessa con l’attender corto
+ti farà trïunfar ne l’alto seggio".
+> del peccato in cui ora devo cadere, promettere molto e mantenere poco ti farà trionfare sull'alto seggio".
+
+## scena-4 | bolgia-8 | San Francesco e il diavolo loico
+personaggi: guido-da-montefeltro, san-francesco, minosse
+sintesi: Alla morte di Guido venne san Francesco a prenderlo, ma un diavolo glielo contese: non si può essere assolti senza pentirsi, né pentirsi e voler peccare insieme. «Forse non pensavi che io fossi un logico!» Minosse lo mandò tra i consiglieri fraudolenti. La fiamma si allontana dolente.
+
+112
+Francesco venne poi, com’io fu’ morto,
+per me; ma un d’i neri cherubini
+li disse: "Non portar; non mi far torto.
+> Poi, quando fui morto, venne Francesco a prendermi; ma uno dei neri cherubini gli disse: "Non portarlo via; non farmi torto.
+
+115
+Venir se ne dee giù tra ’ miei meschini
+perché diede ’l consiglio frodolente,
+dal quale in qua stato li sono a’ crini;
+> Deve venire giù tra i miei servi perché diede il consiglio fraudolento, dal quale in poi gli sono stato ai capelli;
+
+118
+ch’assolver non si può chi non si pente,
+né pentere e volere insieme puossi
+per la contradizion che nol consente".
+> perché non si può assolvere chi non si pente, né ci si può pentire e volere [il peccato] insieme, per la contraddizione che non lo consente".
+
+121
+Oh me dolente! come mi riscossi
+quando mi prese dicendomi: "Forse
+tu non pensavi ch’io löico fossi!".
+> Oh, me addolorato! Come trasalii quando mi prese dicendomi: "Forse non pensavi che fossi un logico!"
+
+124
+A Minòs mi portò; e quelli attorse
+otto volte la coda al dosso duro;
+e poi che per gran rabbia la si morse,
+> Mi portò da Minosse; e lui avvolse otto volte la coda alla schiena dura; e dopo essersela morsa per la gran rabbia,
+
+127
+disse: "Questi è d’i rei del foco furo";
+per ch’io là dove vedi son perduto,
+e sì vestito, andando, mi rancuro".
+> disse: "Questo è dei colpevoli del fuoco che nasconde"; per cui sono perduto là dove vedi, e vestito così, camminando, mi addoloro.»
+
+130
+Quand’elli ebbe ’l suo dir così compiuto,
+la fiamma dolorando si partio,
+torcendo e dibattendo ’l corno aguto.
+> Quando ebbe finito così il suo discorso, la fiamma se ne andò dolorando, torcendo e agitando il corno acuto.
+
+133
+Noi passamm’oltre, e io e ’l duca mio,
+su per lo scoglio infino in su l’altr’arco
+che cuopre ’l fosso in che si paga il fio
+> Noi passammo oltre, io e la mia guida, su per lo scoglio fino all'altro arco che copre il fosso in cui pagano la pena
+
+136
+a quei che scommettendo acquistan carco.
+> quelli che, dividendo, si caricano di colpa.
+
+## personaggio | guido-da-montefeltro | Guido da Montefeltro
+dibattuto: no
+chi_era: Condottiero ghibellino (1223 circa – 1298), signore di Urbino, celebre per l'astuzia militare. Nel 1296 entrò nell'ordine francescano. La storia del consiglio a Bonifacio VIII per prendere Palestrina, roccaforte dei Colonna, era diffusa al tempo di Dante.
+
+## personaggio | san-francesco | San Francesco d'Assisi
+dibattuto: no
+chi_era: Francesco di Bernardone (1181/1182 – 1226), fondatore dell'ordine dei frati minori; Dante ne celebra la vita nel canto XI del Paradiso.

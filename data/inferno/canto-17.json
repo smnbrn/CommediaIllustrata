@@ -1,0 +1,288 @@
+{
+  "cantica": "inferno",
+  "canto": 17,
+  "titolo": "Gerione e gli usurai",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_XVII",
+  "numero_versi": 136,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 33],
+      "titolo_scena": "Gerione, immagine della frode",
+      "sintesi": "Virgilio annuncia la bestia che appesta il mondo intero. Gerione si appoggia all'orlo con la testa e il busto, lasciando la coda nel vuoto: ha il volto di un uomo giusto, zampe pelose, il corpo di serpente dipinto di nodi e cerchietti e una coda velenosa da scorpione.",
+      "luogo_id": "girone-7-3",
+      "personaggi": ["dante", "virgilio", "gerione"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Gerione",
+          "url": "img/dore/inferno-17-gerione-960.jpg",
+          "miniatura": "img/dore/inferno-17-gerione-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._1,_Die_Holle_1870_(148618698).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [34, 78],
+      "titolo_scena": "Gli usurai",
+      "sintesi": "Mentre Virgilio parla con Gerione, Dante va da solo a vedere gli usurai, seduti sull'orlo: si difendono dal fuoco come cani dalle mosche. Non ne riconosce nessuno, ma ognuno porta al collo una borsa con lo stemma della famiglia. Il padovano Reginaldo degli Scrovegni gli annuncia i compagni che lo raggiungeranno e gli fa la linguaccia.",
+      "luogo_id": "girone-7-3",
+      "personaggi": ["dante", "gianfigliazzi", "obriachi", "reginaldo-scrovegni", "vitaliano", "buiamonte"],
+      "tavole": []
+    },
+    {
+      "id": "scena-3",
+      "versi": [79, 136],
+      "titolo_scena": "Il volo sulla groppa di Gerione",
+      "sintesi": "Virgilio è già sulla groppa di Gerione e fa salire Dante davanti a sé, per proteggerlo dalla coda. Gerione si stacca dalla riva come una barca e scende nel vuoto con larghi giri. Dante ha più paura di Fetonte e di Icaro; poi sente il fragore della cascata e vede fuochi. Gerione li depone al fondo e scompare come una freccia.",
+      "luogo_id": "burrato",
+      "personaggi": ["dante", "virgilio", "gerione"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "La discesa sulla groppa di Gerione",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/DVinfernoIntoAbyssOnGeryonsBack_m.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/DVinfernoIntoAbyssOnGeryonsBack_m.jpg/960px-DVinfernoIntoAbyssOnGeryonsBack_m.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:DVinfernoIntoAbyssOnGeryonsBack_m.jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "\"Ecco la fiera con la coda aguzza,\nche passa i monti e rompe i muri e l’armi!\nEcco colei che tutto ’l mondo appuzza!\".",
+      "parafrasi": "«Ecco la belva con la coda aguzza, che attraversa i monti e spezza mura e armi! Ecco colei che appesta tutto il mondo!»"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "Sì cominciò lo mio duca a parlarmi;\ne accennolle che venisse a proda,\nvicino al fin d’i passeggiati marmi.",
+      "parafrasi": "Così cominciò a parlarmi la mia guida; e le fece cenno di venire a riva, vicino alla fine dell'argine di pietra che avevamo percorso."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "E quella sozza imagine di froda\nsen venne, e arrivò la testa e ’l busto,\nma ’n su la riva non trasse la coda.",
+      "parafrasi": "E quella sporca immagine della frode venne avanti e appoggiò la testa e il busto, ma non tirò la coda sulla riva."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "La faccia sua era faccia d’uom giusto,\ntanto benigna avea di fuor la pelle,\ne d’un serpente tutto l’altro fusto;",
+      "parafrasi": "La sua faccia era la faccia di un uomo giusto, tanto benevolo era il suo aspetto esteriore, e tutto il resto del corpo era di serpente;"
+    },
+    {
+      "versi": [13, 15],
+      "testo": "due branche avea pilose insin l’ascelle;\nlo dosso e ’l petto e ambedue le coste\ndipinti avea di nodi e di rotelle.",
+      "parafrasi": "aveva due zampe pelose fino alle ascelle; la schiena, il petto e entrambi i fianchi erano dipinti di nodi e di cerchietti."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "Con più color, sommesse e sovraposte\nnon fer mai drappi Tartari né Turchi,\nné fuor tai tele per Aragne imposte.",
+      "parafrasi": "Tessuti con più colori, di fondo e di ricamo, non li fecero mai né Tartari né Turchi, né Aracne tese mai al telaio tele simili."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "Come talvolta stanno a riva i burchi,\nche parte sono in acqua e parte in terra,\ne come là tra li Tedeschi lurchi",
+      "parafrasi": "Come a volte le barche stanno a riva, in parte nell'acqua e in parte sulla terra, e come là tra i Tedeschi ingordi"
+    },
+    {
+      "versi": [22, 24],
+      "testo": "lo bivero s’assetta a far sua guerra,\ncosì la fiera pessima si stava\nsu l’orlo ch’è di pietra e ’l sabbion serra.",
+      "parafrasi": "il castoro si sistema per fare la sua caccia, così la belva malvagia stava sull'orlo di pietra che chiude il sabbione."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Nel vano tutta sua coda guizzava,\ntorcendo in sù la venenosa forca\nch’a guisa di scorpion la punta armava.",
+      "parafrasi": "Nel vuoto agitava tutta la coda, torcendo verso l'alto la forcella velenosa che ne armava la punta come quella di uno scorpione."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Lo duca disse: \"Or convien che si torca\nla nostra via un poco insino a quella\nbestia malvagia che colà si corca\".",
+      "parafrasi": "La guida disse: «Ora bisogna che la nostra strada pieghi un poco fino a quella bestia malvagia che sta sdraiata là.»"
+    },
+    {
+      "versi": [31, 33],
+      "testo": "Però scendemmo a la destra mammella,\ne diece passi femmo in su lo stremo,\nper ben cessar la rena e la fiammella.",
+      "parafrasi": "Perciò scendemmo dalla parte destra e facemmo dieci passi sull'orlo, per evitare bene la sabbia e le fiammelle."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "E quando noi a lei venuti semo,\npoco più oltre veggio in su la rena\ngente seder propinqua al loco scemo.",
+      "parafrasi": "E quando arrivammo da lei, vedo poco più avanti sulla sabbia gente seduta vicino al vuoto."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Quivi ’l maestro \"Acciò che tutta piena\nesperïenza d’esto giron porti\",\nmi disse, \"va, e vedi la lor mena.",
+      "parafrasi": "Qui il maestro mi disse: «Perché tu porti con te un'esperienza completa di questo girone, va' e osserva la loro condizione."
+    },
+    {
+      "versi": [40, 42],
+      "testo": "Li tuoi ragionamenti sian là corti;\nmentre che torni, parlerò con questa,\nche ne conceda i suoi omeri forti\".",
+      "parafrasi": "I tuoi discorsi là siano brevi; finché torni, parlerò con questa, perché ci conceda le sue spalle forti.»"
+    },
+    {
+      "versi": [43, 45],
+      "testo": "Così ancor su per la strema testa\ndi quel settimo cerchio tutto solo\nandai, dove sedea la gente mesta.",
+      "parafrasi": "Così, ancora sull'orlo estremo di quel settimo cerchio, andai tutto solo dove sedeva la gente triste."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Per li occhi fora scoppiava lor duolo;\ndi qua, di là soccorrien con le mani\nquando a’ vapori, e quando al caldo suolo:",
+      "parafrasi": "Il loro dolore sgorgava dagli occhi; di qua e di là si riparavano con le mani ora dalle fiamme ora dal suolo rovente:"
+    },
+    {
+      "versi": [49, 51],
+      "testo": "non altrimenti fan di state i cani\nor col ceffo or col piè, quando son morsi\no da pulci o da mosche o da tafani.",
+      "parafrasi": "non diversamente fanno d'estate i cani, ora col muso ora con la zampa, quando sono morsi da pulci, mosche o tafani."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "Poi che nel viso a certi li occhi porsi,\nne’ quali ’l doloroso foco casca,\nnon ne conobbi alcun; ma io m’accorsi",
+      "parafrasi": "Dopo che ebbi guardato in viso alcuni di loro, sui quali cade il fuoco doloroso, non ne riconobbi nessuno; ma mi accorsi"
+    },
+    {
+      "versi": [55, 57],
+      "testo": "che dal collo a ciascun pendea una tasca\nch’avea certo colore e certo segno,\ne quindi par che ’l loro occhio si pasca.",
+      "parafrasi": "che dal collo di ciascuno pendeva una borsa di un certo colore e con un certo stemma, e sembra che i loro occhi se ne nutrano."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "E com’io riguardando tra lor vegno,\nin una borsa gialla vidi azzurro\nche d’un leone avea faccia e contegno.",
+      "parafrasi": "E mentre guardando vengo tra loro, in una borsa gialla vidi un disegno azzurro che aveva l'aspetto e la posa di un leone."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Poi, procedendo di mio sguardo il curro,\nvidine un’altra come sangue rossa,\nmostrando un’oca bianca più che burro.",
+      "parafrasi": "Poi, proseguendo il corso del mio sguardo, ne vidi un'altra rossa come il sangue, che mostrava un'oca più bianca del burro."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "E un che d’una scrofa azzurra e grossa\nsegnato avea lo suo sacchetto bianco,\nmi disse: \"Che fai tu in questa fossa?",
+      "parafrasi": "E uno, che aveva la sua borsa bianca segnata da una scrofa azzurra e grossa, mi disse: «Che fai in questa fossa?"
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Or te ne va; e perché se’ vivo anco,\nsappi che ’l mio vicin Vitalïano\nsederà qui dal mio sinistro fianco.",
+      "parafrasi": "Ora vattene; e poiché sei ancora vivo, sappi che il mio vicino Vitaliano siederà qui alla mia sinistra."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "Con questi Fiorentin son padoano:\nspesse fïate mi ’ntronan li orecchi\ngridando: \"Vegna ’l cavalier sovrano,",
+      "parafrasi": "Tra questi Fiorentini sono padovano: spesso mi assordano le orecchie gridando: \"Venga il cavaliere sovrano,"
+    },
+    {
+      "versi": [73, 75],
+      "testo": "che recherà la tasca con tre becchi!\"\".\nQui distorse la bocca e di fuor trasse\nla lingua, come bue che ’l naso lecchi.",
+      "parafrasi": "che porterà la borsa con i tre caproni!\"» A questo punto storse la bocca e tirò fuori la lingua, come il bue che si lecca il naso."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "E io, temendo no ’l più star crucciasse\nlui che di poco star m’avea ’mmonito,\ntorna’ mi in dietro da l’anime lasse.",
+      "parafrasi": "E io, temendo che restare di più facesse arrabbiare chi mi aveva avvertito di restare poco, tornai indietro, lontano da quelle anime stanche."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Trova’ il duca mio ch’era salito\ngià su la groppa del fiero animale,\ne disse a me: \"Or sie forte e ardito.",
+      "parafrasi": "Trovai la mia guida, che era già salita sulla groppa del feroce animale, e mi disse: «Ora sii forte e coraggioso."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "Omai si scende per sì fatte scale;\nmonta dinanzi, ch’i’ voglio esser mezzo,\nsì che la coda non possa far male\".",
+      "parafrasi": "Ormai si scende con scale come queste; monta davanti, perché io voglio stare in mezzo, così che la coda non possa farti male.»"
+    },
+    {
+      "versi": [85, 87],
+      "testo": "Qual è colui che sì presso ha ’l riprezzo\nde la quartana, c’ ha già l’unghie smorte,\ne triema tutto pur guardando ’l rezzo,",
+      "parafrasi": "Come chi è così vicino al brivido della febbre quartana che ha già le unghie livide e trema tutto anche solo guardando l'ombra,"
+    },
+    {
+      "versi": [88, 90],
+      "testo": "tal divenn’io a le parole porte;\nma vergogna mi fé le sue minacce,\nche innanzi a buon segnor fa servo forte.",
+      "parafrasi": "tale divenni alle parole che mi disse; ma la vergogna mi fece le sue minacce, quella che davanti a un buon signore rende forte il servo."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "I’ m’assettai in su quelle spallacce;\nsì volli dir, ma la voce non venne\ncom’io credetti: ’Fa che tu m’abbracce’.",
+      "parafrasi": "Mi sistemai su quelle spalle enormi; volli dire, ma la voce non uscì come credevo: «Fa' in modo di abbracciarmi.»"
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Ma esso, ch’altra volta mi sovvenne\nad altro forse, tosto ch’i’ montai\ncon le braccia m’avvinse e mi sostenne;",
+      "parafrasi": "Ma lui, che altre volte mi aveva soccorso in altri pericoli, appena montai mi strinse con le braccia e mi sostenne;"
+    },
+    {
+      "versi": [97, 99],
+      "testo": "e disse: \"Gerïon, moviti omai:\nle rote larghe, e lo scender sia poco;\npensa la nova soma che tu hai\".",
+      "parafrasi": "e disse: «Gerione, muoviti ormai: fa' larghi giri, e la discesa sia lenta; pensa al carico insolito che hai.»"
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Come la navicella esce di loco\nin dietro in dietro, sì quindi si tolse;\ne poi ch’al tutto si sentì a gioco,",
+      "parafrasi": "Come la barchetta esce dal suo posto all'indietro, così lui si staccò da lì; e quando si sentì del tutto libero,"
+    },
+    {
+      "versi": [103, 105],
+      "testo": "là ’v’era ’l petto, la coda rivolse,\ne quella tesa, come anguilla, mosse,\ne con le branche l’aere a sé raccolse.",
+      "parafrasi": "rivolse la coda là dove prima aveva il petto e, tesa, la mosse come un'anguilla, e con le zampe raccolse a sé l'aria."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Maggior paura non credo che fosse\nquando Fetonte abbandonò li freni,\nper che ’l ciel, come pare ancor, si cosse;",
+      "parafrasi": "Non credo che ci fosse paura maggiore quando Fetonte abbandonò le redini, per cui il cielo, come si vede ancora, bruciò;"
+    },
+    {
+      "versi": [109, 111],
+      "testo": "né quando Icaro misero le reni\nsentì spennar per la scaldata cera,\ngridando il padre a lui \"Mala via tieni!\",",
+      "parafrasi": "né quando il misero Icaro sentì le reni spennarsi per la cera scaldata, mentre il padre gli gridava: «Prendi una cattiva strada!»,"
+    },
+    {
+      "versi": [112, 114],
+      "testo": "che fu la mia, quando vidi ch’i’ era\nne l’aere d’ogne parte, e vidi spenta\nogne veduta fuor che de la fera.",
+      "parafrasi": "di quella che fu la mia, quando vidi che ero nell'aria da ogni parte e vidi spenta ogni vista tranne quella della belva."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "Ella sen va notando lenta lenta;\nrota e discende, ma non me n’accorgo\nse non che al viso e di sotto mi venta.",
+      "parafrasi": "Lei se ne va nuotando lenta lenta; gira e scende, ma io me ne accorgo solo dal vento che mi viene in faccia e da sotto."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Io sentia già da la man destra il gorgo\nfar sotto noi un orribile scroscio,\nper che con li occhi ’n giù la testa sporgo.",
+      "parafrasi": "Sentivo già alla mia destra la cascata fare sotto di noi un orribile fragore, per cui sporgo la testa con gli occhi in giù."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "Allor fu’ io più timido a lo stoscio,\nperò ch’i’ vidi fuochi e senti’ pianti;\nond’io tremando tutto mi raccoscio.",
+      "parafrasi": "Allora ebbi più paura di cadere, perché vidi fuochi e sentii pianti; per cui, tremando tutto, mi stringo con le gambe."
+    },
+    {
+      "versi": [124, 126],
+      "testo": "E vidi poi, ché nol vedea davanti,\nlo scendere e ’l girar per li gran mali\nche s’appressavan da diversi canti.",
+      "parafrasi": "E vidi poi, perché prima non lo vedevo, lo scendere e il girare, grazie ai grandi tormenti che si avvicinavano da diverse parti."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Come ’l falcon ch’è stato assai su l’ali,\nche sanza veder logoro o uccello\nfa dire al falconiere \"Omè, tu cali!\",",
+      "parafrasi": "Come il falcone che è stato a lungo in volo e, senza vedere richiamo né uccello, fa dire al falconiere «Ahimè, scendi!»,"
+    },
+    {
+      "versi": [130, 132],
+      "testo": "discende lasso onde si move isnello,\nper cento rote, e da lunge si pone\ndal suo maestro, disdegnoso e fello;",
+      "parafrasi": "scende stanco là da dove era partito veloce, con cento giri, e si posa lontano dal suo padrone, sdegnato e rabbioso;"
+    },
+    {
+      "versi": [133, 135],
+      "testo": "così ne puose al fondo Gerïone\nal piè al piè de la stagliata rocca,\ne, discarcate le nostre persone,",
+      "parafrasi": "così ci depose Gerione sul fondo, proprio ai piedi della rupe scoscesa, e, scaricate le nostre persone,"
+    },
+    {
+      "versi": [136, 136],
+      "testo": "si dileguò come da corda cocca.",
+      "parafrasi": "scomparve come una freccia dalla corda dell'arco."
+    }
+  ]
+}

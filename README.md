@@ -2,7 +2,7 @@
 
 La Divina Commedia letta scena per scena: il testo scorre e accanto cambia l'incisione di Gustave Doré per quella scena, con la parafrasi a portata di tocco e una mini-mappa che mostra dove si trova Dante.
 
-Prototipo: Inferno, canti I–V. Online: https://smnbrn.github.io/CommediaIllustrata/
+Inferno completo (34 canti). Online: https://smnbrn.github.io/CommediaIllustrata/
 
 Sito statico (HTML, CSS, JavaScript senza librerie né build), pensato per GitHub Pages e per il telefono.
 
@@ -23,6 +23,16 @@ e poi `http://localhost:8130/#inferno/1`.
 ## Indirizzi
 
 `#inferno/1` apre il canto, `#inferno/1/scena-3` una scena precisa.
+
+## Scrivere e modificare i canti
+
+I dati dei canti si scrivono nei sorgenti di testo in `sorgenti/` (testo, scene, tavole, parafrasi, personaggi) e si trasformano nei JSON di `data/` con:
+
+```
+python -I strumenti/compila.py
+```
+
+Per un canto nuovo: `python -I strumenti/prepara.py inferno 6` crea il sorgente con il testo da Wikisource. Il formato è descritto in [`data/SCHEMA.md`](data/SCHEMA.md).
 
 ## Controllo dei dati
 

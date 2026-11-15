@@ -1,0 +1,316 @@
+{
+  "cantica": "inferno",
+  "canto": 28,
+  "titolo": "I seminatori di discordia, Bertran de Born",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_XXVIII",
+  "numero_versi": 142,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 21],
+      "titolo_scena": "La bolgia del sangue",
+      "sintesi": "Nessuna parola può descrivere il sangue e le ferite della nona bolgia: neppure tutti i caduti delle guerre dell'Italia meridionale, dai tempi dei Troiani a Tagliacozzo, mostrerebbero tante membra squarciate e mozzate.",
+      "luogo_id": "bolgia-9",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": []
+    },
+    {
+      "id": "scena-2",
+      "versi": [22, 63],
+      "titolo_scena": "Maometto e Alì",
+      "sintesi": "Un dannato è squarciato dal mento all'ano, come una botte sfondata. Si apre il petto con le mani: è Maometto, e davanti a lui va Alì, con il volto spaccato. Spiega che un diavolo li ferisce di nuovo con la spada a ogni giro, e manda un avvertimento a fra Dolcino.",
+      "luogo_id": "bolgia-9",
+      "personaggi": ["dante", "virgilio", "maometto", "ali", "fra-dolcino"],
+      "tavole": []
+    },
+    {
+      "id": "scena-3",
+      "versi": [64, 102],
+      "titolo_scena": "Pier da Medicina e Curione",
+      "sintesi": "Un dannato con la gola forata, il naso tronco e un solo orecchio è Pier da Medicina: profetizza l'assassinio di due nobili di Fano per tradimento di Malatestino. Poi apre la bocca di un compagno a cui è stata tagliata la lingua: è Curione, che spinse Cesare a passare il Rubicone.",
+      "luogo_id": "bolgia-9",
+      "personaggi": ["dante", "pier-da-medicina", "curione"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Pier da Medicina e Curione",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/DVinfernoMutilatedShades_m.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/DVinfernoMutilatedShades_m.jpg/960px-DVinfernoMutilatedShades_m.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:DVinfernoMutilatedShades_m.jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [103, 111],
+      "titolo_scena": "Mosca dei Lamberti",
+      "sintesi": "Un dannato con le mani mozzate solleva i moncherini nel buio: è Mosca dei Lamberti, che con il suo «Cosa fatta capo ha» provocò l'uccisione di Buondelmonte e la divisione di Firenze. Dante aggiunge che fu anche la rovina della sua famiglia, e Mosca se ne va disperato.",
+      "luogo_id": "bolgia-9",
+      "personaggi": ["dante", "mosca"],
+      "tavole": []
+    },
+    {
+      "id": "scena-5",
+      "versi": [112, 142],
+      "titolo_scena": "Bertran de Born e la testa come lanterna",
+      "sintesi": "Dante vede un corpo senza testa che cammina tenendo il capo mozzo per i capelli, come una lanterna. È il trovatore Bertran de Born, che mise il giovane re d'Inghilterra contro il padre: per aver diviso persone così unite, porta il cervello diviso dal corpo. «Così s'osserva in me lo contrapasso.»",
+      "luogo_id": "bolgia-9",
+      "personaggi": ["dante", "virgilio", "bertran-de-born"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Bertran de Born",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/DVinfernoSeveredHeadOfBertranddeBorn_m.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/DVinfernoSeveredHeadOfBertranddeBorn_m.jpg/960px-DVinfernoSeveredHeadOfBertranddeBorn_m.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:DVinfernoSeveredHeadOfBertranddeBorn_m.jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Chi poria mai pur con parole sciolte\ndicer del sangue e de le piaghe a pieno\nch’i’ ora vidi, per narrar più volte?",
+      "parafrasi": "Chi potrebbe mai, anche in prosa, raccontare per intero il sangue e le piaghe che vidi allora, anche raccontandolo più volte?"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "Ogne lingua per certo verria meno\nper lo nostro sermone e per la mente\nc’ hanno a tanto comprender poco seno.",
+      "parafrasi": "Ogni lingua di certo verrebbe meno, per la nostra lingua e per la nostra mente, che hanno poca capacità di comprendere tanto."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "S’el s’aunasse ancor tutta la gente\nche già, in su la fortunata terra\ndi Puglia, fu del suo sangue dolente",
+      "parafrasi": "Se si radunasse ancora tutta la gente che un tempo, nella sventurata terra di Puglia, versò il suo sangue"
+    },
+    {
+      "versi": [10, 12],
+      "testo": "per li Troiani e per la lunga guerra\nche de l’anella fé sì alte spoglie,\ncome Livïo scrive, che non erra,",
+      "parafrasi": "per mano dei Troiani [i Romani] e nella lunga guerra che fece un bottino così alto di anelli, come scrive Livio, che non sbaglia,"
+    },
+    {
+      "versi": [13, 15],
+      "testo": "con quella che sentio di colpi doglie\nper contastare a Ruberto Guiscardo;\ne l’altra il cui ossame ancor s’accoglie",
+      "parafrasi": "con quella che soffrì i colpi per opporsi a Roberto il Guiscardo; e l'altra le cui ossa si raccolgono ancora"
+    },
+    {
+      "versi": [16, 18],
+      "testo": "a Ceperan, là dove fu bugiardo\nciascun Pugliese, e là da Tagliacozzo,\ndove sanz’arme vinse il vecchio Alardo;",
+      "parafrasi": "a Ceprano, dove ogni pugliese fu traditore, e là presso Tagliacozzo, dove il vecchio Alardo vinse senza armi;"
+    },
+    {
+      "versi": [19, 21],
+      "testo": "e qual forato suo membro e qual mozzo\nmostrasse, d’aequar sarebbe nulla\nil modo de la nona bolgia sozzo.",
+      "parafrasi": "e se l'una mostrasse le sue membra trafitte e l'altra mozzate, sarebbe nulla in confronto all'orrendo modo della nona bolgia."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Già veggia, per mezzul perdere o lulla,\ncom’io vidi un, così non si pertugia,\nrotto dal mento infin dove si trulla.",
+      "parafrasi": "Neppure una botte, perdendo la doga di mezzo o quella laterale, si squarcia come vidi uno, spaccato dal mento fino a dove si scorreggia."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Tra le gambe pendevan le minugia;\nla corata pareva e ’l tristo sacco\nche merda fa di quel che si trangugia.",
+      "parafrasi": "Tra le gambe pendevano le budella; si vedevano le interiora e il triste sacco che fa merda di ciò che si inghiotte."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Mentre che tutto in lui veder m’attacco,\nguardommi e con le man s’aperse il petto,\ndicendo: \"Or vedi com’io mi dilacco!",
+      "parafrasi": "Mentre mi fisso tutto a guardarlo, mi guardò e si aprì il petto con le mani, dicendo: «Ora vedi come mi squarcio!"
+    },
+    {
+      "versi": [31, 33],
+      "testo": "vedi come storpiato è Mäometto!\nDinanzi a me sen va piangendo Alì,\nfesso nel volto dal mento al ciuffetto.",
+      "parafrasi": "Vedi come è storpiato Maometto! Davanti a me se ne va piangendo Alì, spaccato nel volto dal mento al ciuffo."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "E tutti li altri che tu vedi qui,\nseminator di scandalo e di scisma\nfuor vivi, e però son fessi così.",
+      "parafrasi": "E tutti gli altri che vedi qui furono da vivi seminatori di scandalo e di scisma, e per questo sono spaccati così."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Un diavolo è qua dietro che n’accisma\nsì crudelmente, al taglio de la spada\nrimettendo ciascun di questa risma,",
+      "parafrasi": "C'è un diavolo qui dietro che ci concia così crudelmente, rimettendo al taglio della spada ciascuno di questa schiera"
+    },
+    {
+      "versi": [40, 42],
+      "testo": "quand’avem volta la dolente strada;\nperò che le ferite son richiuse\nprima ch’altri dinanzi li rivada.",
+      "parafrasi": "quando abbiamo percorso il giro doloroso, perché le ferite si sono richiuse prima che uno ripassi davanti a lui."
+    },
+    {
+      "versi": [43, 45],
+      "testo": "Ma tu chi se’ che ’n su lo scoglio muse,\nforse per indugiar d’ire a la pena\nch’è giudicata in su le tue accuse?\".",
+      "parafrasi": "Ma tu chi sei, che indugi sullo scoglio, forse per ritardare di andare alla pena decisa in base alle tue stesse confessioni?»"
+    },
+    {
+      "versi": [46, 48],
+      "testo": "\"Né morte ’l giunse ancor, né colpa ’l mena\",\nrispuose ’l mio maestro, \"a tormentarlo;\nma per dar lui esperïenza piena,",
+      "parafrasi": "«Non lo ha ancora raggiunto la morte, né lo conduce una colpa a essere tormentato», rispose il mio maestro, «ma per dargli piena esperienza"
+    },
+    {
+      "versi": [49, 51],
+      "testo": "a me, che morto son, convien menarlo\nper lo ’nferno qua giù di giro in giro;\ne quest’è ver così com’io ti parlo\".",
+      "parafrasi": "io, che sono morto, devo condurlo quaggiù per l'Inferno di cerchio in cerchio; e questo è vero com'è vero che ti parlo.»"
+    },
+    {
+      "versi": [52, 54],
+      "testo": "Più fuor di cento che, quando l’udiro,\ns’arrestaron nel fosso a riguardarmi\nper maraviglia, oblïando il martiro.",
+      "parafrasi": "Più di cento, quando lo udirono, si fermarono nel fosso a guardarmi per la meraviglia, dimenticando il tormento."
+    },
+    {
+      "versi": [55, 57],
+      "testo": "\"Or dì a fra Dolcin dunque che s’armi,\ntu che forse vedra’ il sole in breve,\ns’ello non vuol qui tosto seguitarmi,",
+      "parafrasi": "«Allora tu, che forse vedrai presto il sole, di' a fra Dolcino di armarsi, se non vuole seguirmi presto qui,"
+    },
+    {
+      "versi": [58, 60],
+      "testo": "sì di vivanda, che stretta di neve\nnon rechi la vittoria al Noarese,\nch’altrimenti acquistar non saria leve\".",
+      "parafrasi": "di provviste, così che la stretta della neve non porti la vittoria al Novarese, che altrimenti non sarebbe facile da ottenere.»"
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Poi che l’un piè per girsene sospese,\nMäometto mi disse esta parola;\nindi a partirsi in terra lo distese.",
+      "parafrasi": "Maometto mi disse queste parole dopo aver sollevato un piede per andarsene; poi lo posò a terra per partire."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Un altro, che forata avea la gola\ne tronco ’l naso infin sotto le ciglia,\ne non avea mai ch’una orecchia sola,",
+      "parafrasi": "Un altro, che aveva la gola forata, il naso tagliato fin sotto le ciglia e un solo orecchio,"
+    },
+    {
+      "versi": [67, 69],
+      "testo": "ristato a riguardar per maraviglia\ncon li altri, innanzi a li altri aprì la canna,\nch’era di fuor d’ogne parte vermiglia,",
+      "parafrasi": "fermatosi con gli altri a guardare per la meraviglia, aprì la gola prima degli altri, che era rossa di sangue da ogni parte,"
+    },
+    {
+      "versi": [70, 72],
+      "testo": "e disse: \"O tu cui colpa non condanna\ne cu’ io vidi in su terra latina,\nse troppa simiglianza non m’inganna,",
+      "parafrasi": "e disse: «O tu che nessuna colpa condanna, e che vidi su in terra italiana, se una somiglianza troppo grande non mi inganna,"
+    },
+    {
+      "versi": [73, 75],
+      "testo": "rimembriti di Pier da Medicina,\nse mai torni a veder lo dolce piano\nche da Vercelli a Marcabò dichina.",
+      "parafrasi": "ricordati di Pier da Medicina, se mai torni a vedere la dolce pianura che scende da Vercelli a Marcabò."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "E fa sapere a’ due miglior da Fano,\na messer Guido e anco ad Angiolello,\nche, se l’antiveder qui non è vano,",
+      "parafrasi": "E fa' sapere ai due migliori di Fano, a messer Guido e anche ad Angiolello, che, se qui il prevedere non è vano,"
+    },
+    {
+      "versi": [79, 81],
+      "testo": "gittati saran fuor di lor vasello\ne mazzerati presso a la Cattolica\nper tradimento d’un tiranno fello.",
+      "parafrasi": "saranno gettati fuori dalla loro nave e annegati vicino a Cattolica, per il tradimento di un tiranno malvagio."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "Tra l’isola di Cipri e di Maiolica\nnon vide mai sì gran fallo Nettuno,\nnon da pirate, non da gente argolica.",
+      "parafrasi": "Tra l'isola di Cipro e quella di Maiorca Nettuno non vide mai un delitto così grande, né da parte di pirati né di Greci."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "Quel traditor che vede pur con l’uno,\ne tien la terra che tale qui meco\nvorrebbe di vedere esser digiuno,",
+      "parafrasi": "Quel traditore che vede con un occhio solo [Malatestino], e tiene la città [Rimini] che uno che è qui con me vorrebbe non aver mai visto,"
+    },
+    {
+      "versi": [88, 90],
+      "testo": "farà venirli a parlamento seco;\npoi farà sì, ch’al vento di Focara\nnon sarà lor mestier voto né preco\".",
+      "parafrasi": "li farà venire a colloquio con sé; poi farà in modo che non avranno bisogno né di voti né di preghiere contro il vento di Focara.»"
+    },
+    {
+      "versi": [91, 93],
+      "testo": "E io a lui: \"Dimostrami e dichiara,\nse vuo’ ch’i’ porti sù di te novella,\nchi è colui da la veduta amara\".",
+      "parafrasi": "E io a lui: «Mostrami e spiegami, se vuoi che porti tue notizie lassù, chi è colui a cui fu amara la vista [di Rimini].»"
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Allor puose la mano a la mascella\nd’un suo compagno e la bocca li aperse,\ngridando: \"Questi è desso, e non favella.",
+      "parafrasi": "Allora mise la mano sulla mascella di un suo compagno e gli aprì la bocca, gridando: «È questo, e non parla."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Questi, scacciato, il dubitar sommerse\nin Cesare, affermando che ’l fornito\nsempre con danno l’attender sofferse\".",
+      "parafrasi": "Costui, esiliato, soffocò il dubbio in Cesare, affermando che chi è pronto ha sempre avuto danno dall'aspettare.»"
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Oh quanto mi pareva sbigottito\ncon la lingua tagliata ne la strozza\nCurïo, ch’a dir fu così ardito!",
+      "parafrasi": "Oh, quanto mi sembrava sbigottito, con la lingua tagliata nella gola, Curione, che fu così audace nel parlare!"
+    },
+    {
+      "versi": [103, 105],
+      "testo": "E un ch’avea l’una e l’altra man mozza,\nlevando i moncherin per l’aura fosca,\nsì che ’l sangue facea la faccia sozza,",
+      "parafrasi": "E uno che aveva entrambe le mani mozzate, sollevando i moncherini nell'aria scura, così che il sangue gli sporcava la faccia,"
+    },
+    {
+      "versi": [106, 108],
+      "testo": "gridò: \"Ricordera’ ti anche del Mosca,\nche disse, lasso!, ’Capo ha cosa fatta’,\nche fu mal seme per la gente tosca\".",
+      "parafrasi": "gridò: «Ti ricorderai anche del Mosca, che disse, ahimè!, \"Cosa fatta capo ha\", che fu un seme di sventura per la gente toscana.»"
+    },
+    {
+      "versi": [109, 111],
+      "testo": "E io li aggiunsi: \"E morte di tua schiatta\";\nper ch’elli, accumulando duol con duolo,\nsen gio come persona trista e matta.",
+      "parafrasi": "E io aggiunsi: «E di morte per la tua famiglia»; per cui lui, accumulando dolore a dolore, se ne andò come una persona triste e folle."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Ma io rimasi a riguardar lo stuolo,\ne vidi cosa ch’io avrei paura,\nsanza più prova, di contarla solo;",
+      "parafrasi": "Ma io rimasi a guardare la schiera, e vidi una cosa che avrei paura di raccontare da solo, senza altre prove;"
+    },
+    {
+      "versi": [115, 117],
+      "testo": "se non che coscïenza m’assicura,\nla buona compagnia che l’uom francheggia\nsotto l’asbergo del sentirsi pura.",
+      "parafrasi": "se non che mi rassicura la coscienza, la buona compagna che rende franco l'uomo sotto la corazza del sentirsi pura."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Io vidi certo, e ancor par ch’io ’l veggia,\nun busto sanza capo andar sì come\nandavan li altri de la trista greggia;",
+      "parafrasi": "Vidi certamente, e mi sembra ancora di vederlo, un busto senza testa andare come andavano gli altri del triste gregge;"
+    },
+    {
+      "versi": [121, 123],
+      "testo": "e ’l capo tronco tenea per le chiome,\npesol con mano a guisa di lanterna:\ne quel mirava noi e dicea: \"Oh me!\".",
+      "parafrasi": "e teneva la testa mozzata per i capelli, penzoloni in mano come una lanterna: e quella ci guardava e diceva: «Oh me!»"
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Di sé facea a sé stesso lucerna,\ned eran due in uno e uno in due;\ncom’esser può, quei sa che sì governa.",
+      "parafrasi": "Di se stesso faceva lanterna a se stesso, ed erano due in uno e uno in due; come possa essere, lo sa Colui che governa così."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Quando diritto al piè del ponte fue,\nlevò ’l braccio alto con tutta la testa\nper appressarne le parole sue,",
+      "parafrasi": "Quando fu proprio ai piedi del ponte, alzò in alto il braccio con tutta la testa per avvicinare a noi le sue parole,"
+    },
+    {
+      "versi": [130, 132],
+      "testo": "che fuoro: \"Or vedi la pena molesta,\ntu che, spirando, vai veggendo i morti:\nvedi s’alcuna è grande come questa.",
+      "parafrasi": "che furono: «Ora vedi la pena tormentosa, tu che, respirando, vai a vedere i morti: vedi se ce n'è una grande come questa."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "E perché tu di me novella porti,\nsappi ch’i’ son Bertram dal Bornio, quelli\nche diedi al re giovane i ma’ conforti.",
+      "parafrasi": "E perché tu porti notizie di me, sappi che sono Bertran de Born, quello che diede al re giovane i cattivi consigli."
+    },
+    {
+      "versi": [136, 138],
+      "testo": "Io feci il padre e ’l figlio in sé ribelli;\nAchitofèl non fé più d’Absalone\ne di Davìd coi malvagi punzelli.",
+      "parafrasi": "Misi il padre e il figlio l'uno contro l'altro; Achitofel non fece di più con Assalonne e con Davide con le sue malvagie istigazioni."
+    },
+    {
+      "versi": [139, 141],
+      "testo": "Perch’io parti’ così giunte persone,\npartito porto il mio cerebro, lasso!,\ndal suo principio ch’è in questo troncone.",
+      "parafrasi": "Poiché divisi persone così unite, porto il mio cervello diviso, ahimè, dalla sua origine, che è in questo tronco."
+    },
+    {
+      "versi": [142, 142],
+      "testo": "Così s’osserva in me lo contrapasso\".",
+      "parafrasi": "Così si osserva in me il contrappasso.»"
+    }
+  ]
+}

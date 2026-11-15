@@ -1,0 +1,336 @@
+# Inferno, canto XXII
+titolo: Ciampolo di Navarra e la zuffa dei diavoli
+
+## scena-1 | bolgia-5 | In cammino con i diavoli
+personaggi: dante, virgilio, malebranche
+sintesi: Dante ha visto molti segnali di battaglia, ma mai uno come quello di Barbariccia. Cammina con i dieci diavoli: «in chiesa coi santi, in taverna coi ghiottoni». I barattieri affiorano per alleviare la pena, come delfini o ranocchi, e si rituffano appena arriva Barbariccia.
+
+1
+Io vidi già cavalier muover campo,
+e cominciare stormo e far lor mostra,
+e talvolta partir per loro scampo;
+> Ho visto un tempo cavalieri muovere il campo, cominciare l'assalto e fare la rassegna, e talvolta ritirarsi per salvarsi;
+
+4
+corridor vidi per la terra vostra,
+o Aretini, e vidi gir gualdane,
+fedir torneamenti e correr giostra;
+> ho visto cavalieri in ricognizione nella vostra terra, o Aretini, e ho visto andare scorrerie, combattere tornei e correre giostre;
+
+7
+quando con trombe, e quando con campane,
+con tamburi e con cenni di castella,
+e con cose nostrali e con istrane;
+> ora con trombe, ora con campane, con tamburi e con segnali dai castelli, con strumenti nostri e stranieri;
+
+10
+né già con sì diversa cennamella
+cavalier vidi muover né pedoni,
+né nave a segno di terra o di stella.
+> ma non vidi mai muovere cavalieri né fanti, né una nave al segnale di terra o di stella, con una cornamusa così strana.
+
+13
+Noi andavam con li diece demoni.
+Ahi fiera compagnia! ma ne la chiesa
+coi santi, e in taverna coi ghiottoni.
+> Noi andavamo con i dieci demoni. Ah, compagnia feroce! Ma in chiesa con i santi, e in taverna con i ghiottoni.
+
+16
+Pur a la pegola era la mia ’ntesa,
+per veder de la bolgia ogne contegno
+e de la gente ch’entro v’era incesa.
+> La mia attenzione era comunque sulla pece, per vedere ogni aspetto della bolgia e della gente che vi bruciava dentro.
+
+19
+Come i dalfini, quando fanno segno
+a’ marinar con l’arco de la schiena
+che s’argomentin di campar lor legno,
+> Come i delfini, quando con l'arco della schiena fanno segno ai marinai di prepararsi a salvare la nave,
+
+22
+talor così, ad alleggiar la pena,
+mostrav’alcun de’ peccatori ’l dosso
+e nascondea in men che non balena.
+> così talvolta, per alleviare la pena, qualcuno dei peccatori mostrava il dorso e lo nascondeva in meno di un lampo.
+
+25
+E come a l’orlo de l’acqua d’un fosso
+stanno i ranocchi pur col muso fuori,
+sì che celano i piedi e l’altro grosso,
+> E come sull'orlo dell'acqua di un fosso i ranocchi stanno solo con il muso fuori, così da nascondere i piedi e il resto del corpo,
+
+28
+sì stavan d’ogne parte i peccatori;
+ma come s’appressava Barbariccia,
+così si ritraén sotto i bollori.
+> così stavano da ogni parte i peccatori; ma appena si avvicinava Barbariccia, si ritiravano sotto il bollore.
+
+## scena-2 | bolgia-5 | Il barattiere navarrese
+personaggi: dante, virgilio, malebranche, ciampolo, frate-gomita, michel-zanche
+sintesi: Un dannato rimasto a galla viene uncinato per i capelli e tirato su come una lontra. È un navarrese, servitore del re Tebaldo, dove praticò la baratteria. Mentre i diavoli lo graffiano a turno, racconta di frate Gomita di Gallura e di Michele Zanche, barattieri sardi.
+
+31
+I’ vidi, e anco il cor me n’accapriccia,
+uno aspettar così, com’elli ’ncontra
+ch’una rana rimane e l’altra spiccia;
+> Vidi, e ancora il cuore mi rabbrividisce, uno aspettare così, come capita che una rana resti fuori e l'altra salti in acqua;
+
+34
+e Graffiacan, che li era più di contra,
+li arruncigliò le ’mpegolate chiome
+e trassel sù, che mi parve una lontra.
+> e Graffiacane, che gli stava più di fronte, gli uncinò i capelli impeciati e lo tirò su, che mi sembrò una lontra.
+
+37
+I’ sapea già di tutti quanti ’l nome,
+sì li notai quando fuorono eletti,
+e poi ch’e’ si chiamaro, attesi come.
+> Sapevo già il nome di tutti quanti, tanto li avevo notati quando furono scelti, e quando si erano chiamati avevo fatto attenzione.
+
+40
+"O Rubicante, fa che tu li metti
+li unghioni a dosso, sì che tu lo scuoi!",
+gridavan tutti insieme i maladetti.
+> «O Rubicante, fa' in modo di mettergli gli artigli addosso, così da scuoiarlo!» gridavano tutti insieme i maledetti.
+
+43
+E io: "Maestro mio, fa, se tu puoi,
+che tu sappi chi è lo sciagurato
+venuto a man de li avversari suoi".
+> E io: «Maestro mio, fa' in modo, se puoi, di sapere chi è lo sciagurato caduto nelle mani dei suoi nemici.»
+
+46
+Lo duca mio li s’accostò allato;
+domandollo ond’ei fosse, e quei rispuose:
+"I’ fui del regno di Navarra nato.
+> La mia guida gli si avvicinò al fianco; gli domandò da dove fosse, e lui rispose: «Io nacqui nel regno di Navarra.
+
+49
+Mia madre a servo d’un segnor mi puose,
+che m’avea generato d’un ribaldo,
+distruggitor di sé e di sue cose.
+> Mia madre mi mise al servizio di un signore, perché mi aveva generato da un ribaldo, distruttore di se stesso e dei suoi beni.
+
+52
+Poi fui famiglia del buon re Tebaldo;
+quivi mi misi a far baratteria,
+di ch’io rendo ragione in questo caldo".
+> Poi fui della casa del buon re Tebaldo; lì mi misi a fare baratteria, di cui rendo conto in questo caldo.»
+
+55
+E Cirïatto, a cui di bocca uscia
+d’ogne parte una sanna come a porco,
+li fé sentir come l’una sdruscia.
+> E Ciriatto, al quale usciva dalla bocca da ogni lato una zanna come a un cinghiale, gli fece sentire come una di esse squarcia.
+
+58
+Tra male gatte era venuto ’l sorco;
+ma Barbariccia il chiuse con le braccia
+e disse: "State in là, mentr’io lo ’nforco".
+> Il topo era capitato tra gatte cattive; ma Barbariccia lo chiuse tra le braccia e disse: «State in là, mentre lo tengo inforcato.»
+
+61
+E al maestro mio volse la faccia;
+"Domanda", disse, "ancor, se più disii
+saper da lui, prima ch’altri ’l disfaccia".
+> E volse la faccia al mio maestro; «Domanda ancora», disse, «se desideri sapere altro da lui, prima che un altro lo faccia a pezzi.»
+
+64
+Lo duca dunque: "Or dì: de li altri rii
+conosci tu alcun che sia latino
+sotto la pece?". E quelli: "I’ mi partii,
+> La guida dunque: «Ora dimmi: degli altri colpevoli conosci qualcuno che sia italiano, sotto la pece?» E lui: «Mi sono separato
+
+67
+poco è, da un che fu di là vicino.
+Così foss’io ancor con lui coperto,
+ch’i’ non temerei unghia né uncino!".
+> poco fa da uno che fu di là vicino. Fossi ancora coperto con lui, perché non temerei né unghie né uncini!»
+
+70
+E Libicocco "Troppo avem sofferto",
+disse; e preseli ’l braccio col runciglio,
+sì che, stracciando, ne portò un lacerto.
+> E Libicocco disse: «Abbiamo sopportato troppo»; e gli prese il braccio con l'uncino, tanto che, strappando, ne portò via un pezzo di muscolo.
+
+73
+Draghignazzo anco i volle dar di piglio
+giuso a le gambe; onde ’l decurio loro
+si volse intorno intorno con mal piglio.
+> Anche Draghignazzo volle afferrarlo giù per le gambe; per cui il loro decurione si guardò intorno con espressione minacciosa.
+
+76
+Quand’elli un poco rappaciati fuoro,
+a lui, ch’ancor mirava sua ferita,
+domandò ’l duca mio sanza dimoro:
+> Quando si furono un poco calmati, la mia guida domandò senza indugio a lui, che guardava ancora la sua ferita:
+
+79
+"Chi fu colui da cui mala partita
+di’ che facesti per venire a proda?".
+Ed ei rispuose: "Fu frate Gomita,
+> «Chi fu quello da cui dici di esserti separato per tua sventura, per venire a riva?» E lui rispose: «Fu frate Gomita,
+
+82
+quel di Gallura, vasel d’ogne froda,
+ch’ebbe i nemici di suo donno in mano,
+e fé sì lor, che ciascun se ne loda.
+> quello di Gallura, vaso di ogni frode, che ebbe in mano i nemici del suo signore e li trattò in modo che ognuno se ne loda.
+
+85
+Danar si tolse e lasciolli di piano,
+sì com’e’ dice; e ne li altri offici anche
+barattier fu non picciol, ma sovrano.
+> Prese denaro e li lasciò andare senza processo, come dice lui; e anche negli altri uffici fu barattiere non piccolo, ma sommo.
+
+88
+Usa con esso donno Michel Zanche
+di Logodoro; e a dir di Sardigna
+le lingue lor non si sentono stanche.
+> Sta con lui don Michele Zanche di Logudoro; e a parlare della Sardegna le loro lingue non si sentono stanche.
+
+91
+Omè, vedete l’altro che digrigna;
+i’ direi anche, ma i’ temo ch’ello
+non s’apparecchi a grattarmi la tigna".
+> Ahimè, vedete l'altro che digrigna i denti; direi ancora, ma temo che si prepari a grattarmi la rogna.»
+
+## scena-3 | bolgia-5 | L'inganno di Ciampolo
+personaggi: dante, malebranche, ciampolo
+tavola: dore | «Tu se' giunto!» | File:DVinfernoCiampoloDemonAlichino m.jpg
+sintesi: Il navarrese propone di chiamare altri dannati con un fischio, se i diavoli si allontanano dalla riva. Cagnazzo fiuta l'inganno, ma Alichino accetta la sfida: appena i diavoli si voltano, il barattiere salta nella pece. Alichino gli vola dietro gridando, ma non lo raggiunge.
+
+94
+E ’l gran proposto, vòlto a Farfarello
+che stralunava li occhi per fedire,
+disse: "Fatti ’n costà, malvagio uccello!".
+> E il gran capo, rivolto a Farfarello, che stralunava gli occhi per colpire, disse: «Fatti in là, uccellaccio malvagio!»
+
+97
+"Se voi volete vedere o udire",
+ricominciò lo spaürato appresso,
+"Toschi o Lombardi, io ne farò venire;
+> «Se volete vedere o sentire Toscani o Lombardi», ricominciò subito dopo lo spaventato, «ne farò venire;
+
+100
+ma stieno i Malebranche un poco in cesso,
+sì ch’ei non teman de le lor vendette;
+e io, seggendo in questo loco stesso,
+> ma i Malebranche stiano un poco in disparte, così che non temano le loro vendette; e io, seduto in questo stesso punto,
+
+103
+per un ch’io son, ne farò venir sette
+quand’io suffolerò, com’è nostro uso
+di fare allor che fori alcun si mette".
+> per uno che sono, ne farò venire sette quando fischierò, com'è nostra abitudine fare quando qualcuno esce fuori.»
+
+106
+Cagnazzo a cotal motto levò ’l muso,
+crollando ’l capo, e disse: "Odi malizia
+ch’elli ha pensata per gittarsi giuso!".
+> Cagnazzo a queste parole alzò il muso, scuotendo la testa, e disse: «Senti la malizia che ha pensato per gettarsi giù!»
+
+109
+Ond’ei, ch’avea lacciuoli a gran divizia,
+rispuose: "Malizioso son io troppo,
+quand’io procuro a’ mia maggior trestizia".
+> Per cui lui, che aveva trappole in gran quantità, rispose: «Sono fin troppo malizioso, quando procuro ai miei compagni una tristezza maggiore.»
+
+112
+Alichin non si tenne e, di rintoppo
+a li altri, disse a lui: "Se tu ti cali,
+io non ti verrò dietro di gualoppo,
+> Alichino non si trattenne e, contro il parere degli altri, gli disse: «Se ti butti, non ti verrò dietro al galoppo,
+
+115
+ma batterò sovra la pece l’ali.
+Lascisi ’l collo, e sia la ripa scudo,
+a veder se tu sol più di noi vali".
+> ma batterò le ali sopra la pece. Lasciamo la sommità e la riva ci faccia da scudo, per vedere se tu da solo vali più di noi.»
+
+118
+O tu che leggi, udirai nuovo ludo:
+ciascun da l’altra costa li occhi volse,
+quel prima, ch’a ciò fare era più crudo.
+> O tu che leggi, sentirai un gioco nuovo: ciascuno volse gli occhi verso l'altra parte, per primo quello che era stato più contrario a farlo.
+
+121
+Lo Navarrese ben suo tempo colse;
+fermò le piante a terra, e in un punto
+saltò e dal proposto lor si sciolse.
+> Il Navarrese colse bene il suo momento; puntò i piedi a terra e in un attimo saltò e si liberò dal loro capo.
+
+124
+Di che ciascun di colpa fu compunto,
+ma quei più che cagion fu del difetto;
+però si mosse e gridò: "Tu se’ giunto!".
+> Per cui ciascuno si sentì colpevole, ma soprattutto quello che fu causa dell'errore; perciò si mosse e gridò: «Sei preso!»
+
+127
+Ma poco i valse: ché l’ali al sospetto
+non potero avanzar; quelli andò sotto,
+e quei drizzò volando suso il petto:
+> Ma gli servì a poco, perché le ali non poterono superare la paura: quello andò sotto, e questo, volando, drizzò il petto verso l'alto:
+
+130
+non altrimenti l’anitra di botto,
+quando ’l falcon s’appressa, giù s’attuffa,
+ed ei ritorna sù crucciato e rotto.
+> non diversamente l'anatra si tuffa giù di colpo quando il falcone si avvicina, e lui torna su arrabbiato e sconfitto.
+
+## scena-4 | bolgia-5 | Calcabrina e Alichino nella pece
+personaggi: dante, virgilio, malebranche
+tavola: dore | Calcabrina e Alichino cadono nella pece | File:Gustave Doré - Chant 22. Calcabrina and Alichino (c. 1880).jpg
+sintesi: Calcabrina, furioso per la beffa, si avventa su Alichino; i due diavoli si azzuffano in volo e cadono nella pece bollente, dove restano invischiati. Barbariccia manda gli altri a ripescarli con gli uncini, e i due poeti se ne vanno lasciandoli in quell'impiccio.
+
+133
+Irato Calcabrina de la buffa,
+volando dietro li tenne, invaghito
+che quei campasse per aver la zuffa;
+> Calcabrina, irato per la beffa, gli volò dietro, desideroso che quello si salvasse per avere un motivo di zuffa;
+
+136
+e come ’l barattier fu disparito,
+così volse li artigli al suo compagno,
+e fu con lui sopra ’l fosso ghermito.
+> e appena il barattiere fu scomparso, così volse gli artigli contro il suo compagno, e si azzuffò con lui sopra il fosso.
+
+139
+Ma l’altro fu bene sparvier grifagno
+ad artigliar ben lui, e amendue
+cadder nel mezzo del bogliente stagno.
+> Ma l'altro fu davvero uno sparviero rapace nell'artigliarlo bene, e tutti e due caddero in mezzo allo stagno bollente.
+
+142
+Lo caldo sghermitor sùbito fue;
+ma però di levarsi era neente,
+sì avieno inviscate l’ali sue.
+> Il caldo li separò subito; ma non c'era verso di sollevarsi, tanto avevano le ali invischiate.
+
+145
+Barbariccia, con li altri suoi dolente,
+quattro ne fé volar da l’altra costa
+con tutt’i raffi, e assai prestamente
+> Barbariccia, addolorato con gli altri suoi, ne fece volare quattro dall'altra riva con tutti gli uncini, e molto rapidamente
+
+148
+di qua, di là discesero a la posta;
+porser li uncini verso li ’mpaniati,
+ch’eran già cotti dentro da la crosta.
+> di qua e di là scesero al loro posto; porsero gli uncini verso gli invischiati, che erano già cotti dentro la crosta.
+
+151
+E noi lasciammo lor così ’mpacciati.
+> E noi li lasciammo così impacciati.
+
+## personaggio | ciampolo | Ciampolo di Navarra
+dibattuto: sì
+chi_era: Barattiere navarrese al servizio del re Tebaldo II di Navarra (XIII secolo). Dante non lo nomina; il nome Ciampolo viene dai commentatori antichi, che non sapevano altro di lui.
+
+## personaggio | frate-gomita | Frate Gomita
+dibattuto: no
+chi_era: Frate sardo, vicario di Nino Visconti, giudice di Gallura; si fece corrompere per liberare dei prigionieri e Nino lo fece impiccare.
+
+## personaggio | michel-zanche | Michele Zanche
+dibattuto: no
+chi_era: Governatore del giudicato di Logudoro, in Sardegna, nella seconda metà del Duecento; fu ucciso a tradimento dal genero Branca Doria, che Dante colloca tra i traditori degli ospiti.

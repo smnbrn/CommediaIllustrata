@@ -32,7 +32,120 @@
         "inferno/5/scena-3",
         "inferno/5/scena-4",
         "inferno/5/scena-5",
-        "inferno/5/scena-6"
+        "inferno/5/scena-6",
+        "inferno/6/scena-1",
+        "inferno/6/scena-2",
+        "inferno/6/scena-3",
+        "inferno/6/scena-4",
+        "inferno/6/scena-5",
+        "inferno/7/scena-1",
+        "inferno/7/scena-2",
+        "inferno/7/scena-3",
+        "inferno/7/scena-4",
+        "inferno/8/scena-1",
+        "inferno/8/scena-2",
+        "inferno/8/scena-3",
+        "inferno/8/scena-4",
+        "inferno/9/scena-1",
+        "inferno/9/scena-2",
+        "inferno/9/scena-3",
+        "inferno/9/scena-4",
+        "inferno/10/scena-1",
+        "inferno/10/scena-2",
+        "inferno/10/scena-3",
+        "inferno/10/scena-4",
+        "inferno/10/scena-5",
+        "inferno/11/scena-1",
+        "inferno/11/scena-2",
+        "inferno/11/scena-3",
+        "inferno/12/scena-1",
+        "inferno/12/scena-2",
+        "inferno/12/scena-3",
+        "inferno/12/scena-4",
+        "inferno/12/scena-5",
+        "inferno/13/scena-1",
+        "inferno/13/scena-2",
+        "inferno/13/scena-3",
+        "inferno/13/scena-4",
+        "inferno/13/scena-5",
+        "inferno/14/scena-1",
+        "inferno/14/scena-2",
+        "inferno/14/scena-3",
+        "inferno/14/scena-4",
+        "inferno/15/scena-1",
+        "inferno/15/scena-2",
+        "inferno/15/scena-3",
+        "inferno/15/scena-4",
+        "inferno/16/scena-1",
+        "inferno/16/scena-2",
+        "inferno/16/scena-3",
+        "inferno/17/scena-1",
+        "inferno/17/scena-2",
+        "inferno/17/scena-3",
+        "inferno/18/scena-1",
+        "inferno/18/scena-2",
+        "inferno/18/scena-3",
+        "inferno/18/scena-4",
+        "inferno/18/scena-5",
+        "inferno/19/scena-1",
+        "inferno/19/scena-2",
+        "inferno/19/scena-3",
+        "inferno/20/scena-1",
+        "inferno/20/scena-2",
+        "inferno/20/scena-3",
+        "inferno/20/scena-4",
+        "inferno/21/scena-1",
+        "inferno/21/scena-2",
+        "inferno/21/scena-3",
+        "inferno/21/scena-4",
+        "inferno/22/scena-1",
+        "inferno/22/scena-2",
+        "inferno/22/scena-3",
+        "inferno/22/scena-4",
+        "inferno/23/scena-1",
+        "inferno/23/scena-2",
+        "inferno/23/scena-3",
+        "inferno/23/scena-4",
+        "inferno/24/scena-1",
+        "inferno/24/scena-2",
+        "inferno/24/scena-3",
+        "inferno/24/scena-4",
+        "inferno/25/scena-1",
+        "inferno/25/scena-2",
+        "inferno/25/scena-3",
+        "inferno/26/scena-1",
+        "inferno/26/scena-2",
+        "inferno/26/scena-3",
+        "inferno/27/scena-1",
+        "inferno/27/scena-2",
+        "inferno/27/scena-3",
+        "inferno/28/scena-1",
+        "inferno/28/scena-2",
+        "inferno/28/scena-3",
+        "inferno/28/scena-4",
+        "inferno/28/scena-5",
+        "inferno/29/scena-1",
+        "inferno/29/scena-2",
+        "inferno/29/scena-3",
+        "inferno/30/scena-1",
+        "inferno/30/scena-2",
+        "inferno/30/scena-3",
+        "inferno/31/scena-1",
+        "inferno/31/scena-2",
+        "inferno/31/scena-3",
+        "inferno/31/scena-4",
+        "inferno/32/scena-1",
+        "inferno/32/scena-2",
+        "inferno/32/scena-3",
+        "inferno/32/scena-4",
+        "inferno/33/scena-1",
+        "inferno/33/scena-4",
+        "inferno/33/scena-5",
+        "inferno/34/scena-1",
+        "inferno/34/scena-2",
+        "inferno/34/scena-3",
+        "inferno/34/scena-4",
+        "inferno/34/scena-5"
       ]
     },
     {
@@ -61,7 +174,104 @@
         "inferno/5/scena-2",
         "inferno/5/scena-3",
         "inferno/5/scena-4",
-        "inferno/5/scena-5"
+        "inferno/5/scena-5",
+        "inferno/6/scena-1",
+        "inferno/6/scena-2",
+        "inferno/6/scena-3",
+        "inferno/6/scena-4",
+        "inferno/6/scena-5",
+        "inferno/7/scena-1",
+        "inferno/7/scena-2",
+        "inferno/7/scena-3",
+        "inferno/7/scena-4",
+        "inferno/8/scena-1",
+        "inferno/8/scena-2",
+        "inferno/8/scena-3",
+        "inferno/8/scena-4",
+        "inferno/9/scena-1",
+        "inferno/9/scena-2",
+        "inferno/9/scena-3",
+        "inferno/9/scena-4",
+        "inferno/10/scena-1",
+        "inferno/10/scena-2",
+        "inferno/10/scena-5",
+        "inferno/11/scena-1",
+        "inferno/11/scena-2",
+        "inferno/11/scena-3",
+        "inferno/12/scena-1",
+        "inferno/12/scena-2",
+        "inferno/12/scena-3",
+        "inferno/12/scena-4",
+        "inferno/12/scena-5",
+        "inferno/13/scena-1",
+        "inferno/13/scena-2",
+        "inferno/13/scena-3",
+        "inferno/13/scena-4",
+        "inferno/13/scena-5",
+        "inferno/14/scena-1",
+        "inferno/14/scena-2",
+        "inferno/14/scena-3",
+        "inferno/14/scena-4",
+        "inferno/15/scena-1",
+        "inferno/15/scena-2",
+        "inferno/16/scena-1",
+        "inferno/16/scena-3",
+        "inferno/17/scena-1",
+        "inferno/17/scena-3",
+        "inferno/18/scena-1",
+        "inferno/18/scena-2",
+        "inferno/18/scena-3",
+        "inferno/18/scena-4",
+        "inferno/18/scena-5",
+        "inferno/19/scena-1",
+        "inferno/19/scena-2",
+        "inferno/19/scena-3",
+        "inferno/20/scena-1",
+        "inferno/20/scena-2",
+        "inferno/20/scena-3",
+        "inferno/20/scena-4",
+        "inferno/21/scena-1",
+        "inferno/21/scena-2",
+        "inferno/21/scena-3",
+        "inferno/21/scena-4",
+        "inferno/22/scena-1",
+        "inferno/22/scena-2",
+        "inferno/22/scena-4",
+        "inferno/23/scena-1",
+        "inferno/23/scena-2",
+        "inferno/23/scena-3",
+        "inferno/23/scena-4",
+        "inferno/24/scena-1",
+        "inferno/24/scena-2",
+        "inferno/24/scena-3",
+        "inferno/24/scena-4",
+        "inferno/25/scena-1",
+        "inferno/25/scena-2",
+        "inferno/26/scena-1",
+        "inferno/26/scena-2",
+        "inferno/26/scena-3",
+        "inferno/27/scena-1",
+        "inferno/27/scena-2",
+        "inferno/28/scena-1",
+        "inferno/28/scena-2",
+        "inferno/28/scena-5",
+        "inferno/29/scena-1",
+        "inferno/29/scena-2",
+        "inferno/29/scena-3",
+        "inferno/30/scena-2",
+        "inferno/30/scena-3",
+        "inferno/31/scena-1",
+        "inferno/31/scena-2",
+        "inferno/31/scena-3",
+        "inferno/31/scena-4",
+        "inferno/32/scena-1",
+        "inferno/32/scena-3",
+        "inferno/33/scena-5",
+        "inferno/34/scena-1",
+        "inferno/34/scena-2",
+        "inferno/34/scena-3",
+        "inferno/34/scena-4",
+        "inferno/34/scena-5"
       ]
     },
     {
@@ -69,7 +279,7 @@
       "nome": "La lonza",
       "chi_era": "Prima delle tre fiere: un felino agile dal pelo maculato (lince, ghepardo o pantera). Il significato allegorico è dibattuto: per molti commentatori la lussuria, per altri la frode o l'invidia.",
       "dibattuto": true,
-      "apparizioni": ["inferno/1/scena-3"]
+      "apparizioni": ["inferno/1/scena-3", "inferno/16/scena-3"]
     },
     {
       "id": "leone",
@@ -97,7 +307,7 @@
       "nome": "Beatrice",
       "chi_era": "La donna amata da Dante, identificata secondo una tradizione risalente a Boccaccio con Bice di Folco Portinari, morta nel 1290. Nel canto I è solo accennata come l'«anima più degna»; nel II scende dal cielo nel Limbo per chiedere a Virgilio di soccorrere Dante.",
       "dibattuto": false,
-      "apparizioni": ["inferno/1/scena-7", "inferno/2/scena-3", "inferno/2/scena-4", "inferno/2/scena-5"]
+      "apparizioni": ["inferno/1/scena-7", "inferno/2/scena-3", "inferno/2/scena-4", "inferno/2/scena-5", "inferno/10/scena-5", "inferno/12/scena-4"]
     },
     {
       "id": "enea",
@@ -160,7 +370,7 @@
       "nome": "Cristo (il «possente»)",
       "chi_era": "Il potente «con segno di vittoria coronato» che Virgilio vide scendere nel Limbo: è Cristo, che dopo la morte liberò le anime dei giusti dell'Antico Testamento. Nell'Inferno non è mai chiamato per nome.",
       "dibattuto": false,
-      "apparizioni": ["inferno/4/scena-2"]
+      "apparizioni": ["inferno/4/scena-2", "inferno/12/scena-2"]
     },
     {
       "id": "adamo",
@@ -475,7 +685,7 @@
       "nome": "Minosse",
       "chi_era": "Mitico re di Creta, famoso per la sua giustizia; nell'Eneide è giudice dei morti. Dante lo trasforma in un demonio che ringhia e assegna a ogni anima il suo cerchio avvolgendo la coda.",
       "dibattuto": false,
-      "apparizioni": ["inferno/5/scena-1"]
+      "apparizioni": ["inferno/5/scena-1", "inferno/27/scena-4"]
     },
     {
       "id": "semiramide",
@@ -546,6 +756,884 @@
       "chi_era": "Giovanni Malatesta, detto Gianciotto, marito di Francesca e fratello di Paolo, che uccise entrambi. Nel 1300 era ancora vivo: per questo Francesca dice che la Caina, la zona dei traditori dei parenti, lo «attende». Nel canto non è nominato.",
       "dibattuto": false,
       "apparizioni": ["inferno/5/scena-4"]
+    },
+    {
+      "id": "cerbero",
+      "nome": "Cerbero",
+      "chi_era": "Mostro della mitologia greca, cane a tre teste guardiano dell'Ade. Dante ne fa un demonio con tratti umani (barba, mani), custode e tormentatore dei golosi.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/6/scena-2"]
+    },
+    {
+      "id": "ciacco",
+      "nome": "Ciacco",
+      "chi_era": "Fiorentino contemporaneo di Dante, morto prima del 1300; il soprannome, forse «porco», ne indica la golosità. Boccaccio ne fa un parassita arguto nel Decameron; chi fosse davvero è incerto.",
+      "dibattuto": true,
+      "apparizioni": ["inferno/6/scena-3", "inferno/6/scena-4"]
+    },
+    {
+      "id": "farinata",
+      "nome": "Farinata degli Uberti",
+      "chi_era": "Manente degli Uberti (morto nel 1264), capo dei ghibellini di Firenze, vincitore a Montaperti nel 1260. Nel successivo convegno di Empoli si oppose da solo alla distruzione della città. Dante lo incontra tra gli eretici (canto X).",
+      "dibattuto": false,
+      "apparizioni": ["inferno/6/scena-4", "inferno/10/scena-2", "inferno/10/scena-4"]
+    },
+    {
+      "id": "tegghiaio",
+      "nome": "Tegghiaio Aldobrandi",
+      "chi_era": "Guelfo fiorentino degli Adimari, podestà di Arezzo; sconsigliò ai Fiorentini la spedizione che finì nella sconfitta di Montaperti (1260). Dante lo trova tra i sodomiti (canto XVI).",
+      "dibattuto": false,
+      "apparizioni": ["inferno/6/scena-4", "inferno/16/scena-1", "inferno/16/scena-2"]
+    },
+    {
+      "id": "iacopo-rusticucci",
+      "nome": "Iacopo Rusticucci",
+      "chi_era": "Cavaliere guelfo fiorentino di condizione modesta, attivo a metà del Duecento. Dante lo incontra tra i sodomiti (canto XVI), dove accusa la moglie del suo destino.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/6/scena-4", "inferno/16/scena-1", "inferno/16/scena-2"]
+    },
+    {
+      "id": "arrigo",
+      "nome": "Arrigo",
+      "chi_era": "Fiorentino non più nominato nel poema: forse Odarrigo dei Fifanti, tra gli uccisori di Buondelmonte (1216). L'identificazione è incerta.",
+      "dibattuto": true,
+      "apparizioni": ["inferno/6/scena-4"]
+    },
+    {
+      "id": "mosca",
+      "nome": "Mosca dei Lamberti",
+      "chi_era": "Nobile fiorentino che consigliò l'uccisione di Buondelmonte dei Buondelmonti (1216), da cui la tradizione fa nascere la divisione di Firenze in guelfi e ghibellini. Dante lo trova tra i seminatori di discordia (canto XXVIII).",
+      "dibattuto": false,
+      "apparizioni": ["inferno/6/scena-4", "inferno/28/scena-4"]
+    },
+    {
+      "id": "pluto",
+      "nome": "Pluto",
+      "chi_era": "Pluto, dio greco della ricchezza (spesso confuso con Plutone, dio dell'Ade). Dante ne fa il demonio custode degli avari e dei prodighi; non è chiaro quale dei due intendesse.",
+      "dibattuto": true,
+      "apparizioni": ["inferno/6/scena-5", "inferno/7/scena-1"]
+    },
+    {
+      "id": "flegias",
+      "nome": "Flegiàs",
+      "chi_era": "Re mitico dei Lapiti che, per vendicare la figlia sedotta da Apollo, incendiò il tempio del dio a Delfi. Dante ne fa il traghettatore della palude Stige, figura dell'ira.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/8/scena-1", "inferno/8/scena-3"]
+    },
+    {
+      "id": "filippo-argenti",
+      "nome": "Filippo Argenti",
+      "chi_era": "Filippo Adimari dei Cavicciuli, cavaliere fiorentino di parte nera, famoso per la ricchezza e l'iracondia; il soprannome verrebbe dai ferri d'argento del suo cavallo. Boccaccio lo ritrae in una novella del Decameron.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/8/scena-2"]
+    },
+    {
+      "id": "eritone",
+      "nome": "Eritone",
+      "chi_era": "Maga della Tessaglia che, nella Farsaglia di Lucano, richiama in vita un soldato morto per predire l'esito della guerra civile. L'evocazione di Virgilio da parte sua è un'invenzione di Dante.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/9/scena-1"]
+    },
+    {
+      "id": "furie",
+      "nome": "Le Furie",
+      "chi_era": "Le Erinni della mitologia greca, Megera, Aletto e Tesifone, divinità della vendetta; nel poema sono ancelle di Proserpina e custodi della città di Dite.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/9/scena-2"]
+    },
+    {
+      "id": "medusa",
+      "nome": "Medusa",
+      "chi_era": "Una delle Gorgoni del mito greco, con serpenti per capelli: chi la guardava diventava di pietra. Nel canto è solo invocata dalle Furie; il suo significato allegorico (disperazione, eresia, lussuria) è discusso.",
+      "dibattuto": true,
+      "apparizioni": ["inferno/9/scena-2"]
+    },
+    {
+      "id": "messo-celeste",
+      "nome": "Il messo celeste",
+      "chi_era": "Inviato del cielo che apre a Dante e Virgilio la porta di Dite. Per lo più è inteso come un angelo; alcuni commentatori vi hanno visto Mercurio, Enea o altri.",
+      "dibattuto": true,
+      "apparizioni": ["inferno/9/scena-3"]
+    },
+    {
+      "id": "epicuro",
+      "nome": "Epicuro",
+      "chi_era": "Filosofo greco (341–270 a.C.), fondatore della scuola epicurea: insegnava che l'anima muore con il corpo e che il bene sta nel piacere, inteso come assenza di dolore. Nel Medioevo «epicureo» indicava chi negava l'immortalità dell'anima.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/10/scena-1"]
+    },
+    {
+      "id": "cavalcante",
+      "nome": "Cavalcante dei Cavalcanti",
+      "chi_era": "Nobile guelfo fiorentino (morto intorno al 1280), ritenuto epicureo; padre di Guido Cavalcanti. Per riconciliare le fazioni, Guido sposò una figlia di Farinata.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/10/scena-3"]
+    },
+    {
+      "id": "guido-cavalcanti",
+      "nome": "Guido Cavalcanti",
+      "chi_era": "Poeta fiorentino (1258 circa – 1300), il «primo amico» di Dante e maestro dello Stil novo. Esiliato nel giugno 1300, mentre Dante era priore, morì poco dopo. Il senso del suo «disdegno» (per Virgilio, per Beatrice o per Dio) è molto discusso.",
+      "dibattuto": true,
+      "apparizioni": ["inferno/10/scena-3"]
+    },
+    {
+      "id": "federico-ii",
+      "nome": "Federico II di Svevia",
+      "chi_era": "Imperatore (1194–1250) e re di Sicilia, protettore della poesia e della cultura alla sua corte di Palermo. In lotta con il papato, fu considerato eretico ed epicureo.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/10/scena-4", "inferno/13/scena-3"]
+    },
+    {
+      "id": "cardinale-ubaldini",
+      "nome": "Il cardinale Ottaviano degli Ubaldini",
+      "chi_era": "Cardinale (morto nel 1273), ghibellino nonostante la carica; gli si attribuiva la frase: «Se anima è, io l'ho perduta per i ghibellini».",
+      "dibattuto": false,
+      "apparizioni": ["inferno/10/scena-4"]
+    },
+    {
+      "id": "anastasio",
+      "nome": "Papa Anastasio II",
+      "chi_era": "Papa dal 496 al 498. Una tradizione medievale lo voleva convinto da Fotino, diacono di Tessalonica, a negare la natura divina di Cristo; oggi si ritiene che Dante lo abbia confuso con l'imperatore omonimo, Anastasio I.",
+      "dibattuto": true,
+      "apparizioni": ["inferno/11/scena-1"]
+    },
+    {
+      "id": "minotauro",
+      "nome": "Il Minotauro",
+      "chi_era": "Mostro del mito greco, metà uomo e metà toro, nato dall'unione di Pasifae, moglie di Minosse re di Creta, con un toro, grazie a una vacca di legno. Fu ucciso nel labirinto da Teseo, aiutato da Arianna. Custodisce il cerchio dei violenti.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/12/scena-1"]
+    },
+    {
+      "id": "chirone",
+      "nome": "Chirone",
+      "chi_era": "Il più saggio dei centauri del mito greco, esperto di medicina, musica e caccia; fu maestro di Achille. Nell'Inferno guida la schiera dei centauri che sorvegliano il fiume di sangue.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/12/scena-3", "inferno/12/scena-4"]
+    },
+    {
+      "id": "nesso",
+      "nome": "Nesso",
+      "chi_era": "Centauro del mito greco ucciso da Ercole con una freccia avvelenata mentre tentava di rapire Deianira. Morendo diede alla donna la sua veste intrisa di sangue, che poi causò la morte di Ercole: così «fece da sé la sua vendetta».",
+      "dibattuto": false,
+      "apparizioni": ["inferno/12/scena-3", "inferno/12/scena-4", "inferno/12/scena-5"]
+    },
+    {
+      "id": "folo",
+      "nome": "Folo",
+      "chi_era": "Centauro del mito greco, noto per la sua ira: partecipò alla zuffa tra centauri e Lapiti alle nozze di Piritoo.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/12/scena-3"]
+    },
+    {
+      "id": "alessandro",
+      "nome": "Alessandro",
+      "chi_era": "Quasi certamente Alessandro Magno (356–323 a.C.), re di Macedonia, che nel Medioevo aveva anche fama di crudeltà; alcuni commentatori vi vedono invece Alessandro di Fere, tiranno della Tessaglia.",
+      "dibattuto": true,
+      "apparizioni": ["inferno/12/scena-5"]
+    },
+    {
+      "id": "dionisio",
+      "nome": "Dionisio di Siracusa",
+      "chi_era": "Dionisio I (o forse il figlio Dionisio II), tiranno di Siracusa tra il IV secolo a.C. e la metà del secolo; proverbiale per la crudeltà.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/12/scena-5"]
+    },
+    {
+      "id": "azzolino",
+      "nome": "Ezzelino da Romano",
+      "chi_era": "Ezzelino III da Romano (1194–1259), signore ghibellino della Marca Trevigiana e di Padova, famoso per la ferocia; genero di Federico II.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/12/scena-5"]
+    },
+    {
+      "id": "obizzo-d-este",
+      "nome": "Obizzo II d'Este",
+      "chi_era": "Signore di Ferrara (morto nel 1293), guelfo, ricordato per la crudeltà. Si diceva che fosse stato ucciso dal figlio Azzo VIII: Dante lo chiama «figliastro» per sottolineare il delitto contro natura.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/12/scena-5"]
+    },
+    {
+      "id": "guido-di-monforte",
+      "nome": "Guido di Monforte",
+      "chi_era": "Conte, vicario di Carlo d'Angiò in Toscana. Nel 1271 a Viterbo, durante la messa, uccise Enrico di Cornovaglia, cugino del re d'Inghilterra, per vendicare il padre; il cuore di Enrico fu venerato a Londra.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/12/scena-5"]
+    },
+    {
+      "id": "attila",
+      "nome": "Attila",
+      "chi_era": "Re degli Unni (morto nel 453), invasore dell'Italia nel 452; chiamato «flagello di Dio». La tradizione medievale gli attribuiva anche la distruzione di Firenze.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/12/scena-5"]
+    },
+    {
+      "id": "pirro",
+      "nome": "Pirro",
+      "chi_era": "Forse Pirro, re dell'Epiro (III secolo a.C.), che combatté contro Roma; oppure Pirro figlio di Achille, che uccise Priamo durante la presa di Troia.",
+      "dibattuto": true,
+      "apparizioni": ["inferno/12/scena-5"]
+    },
+    {
+      "id": "sesto-pompeo",
+      "nome": "Sesto Pompeo",
+      "chi_era": "Figlio di Pompeo Magno (I secolo a.C.); dopo la morte del padre esercitò la pirateria nel Mediterraneo contro Roma. Lucano lo descrive come un predone.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/12/scena-5"]
+    },
+    {
+      "id": "rinier-da-corneto",
+      "nome": "Rinier da Corneto",
+      "chi_era": "Predone che infestava le strade della Maremma romana ai tempi di Dante.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/12/scena-5"]
+    },
+    {
+      "id": "rinier-pazzo",
+      "nome": "Rinier Pazzo",
+      "chi_era": "Nobile fiorentino della famiglia dei Pazzi (XIII secolo), ghibellino; condannato per rapine contro viaggiatori, tra cui un vescovo.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/12/scena-5"]
+    },
+    {
+      "id": "arpie",
+      "nome": "Le Arpie",
+      "chi_era": "Mostri del mito, uccelli con volto di donna. Nell'Eneide cacciano i Troiani dalle isole Strofadi predicendo loro la fame. Nella selva dei suicidi si nutrono delle foglie degli alberi-anime.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/13/scena-1", "inferno/13/scena-4"]
+    },
+    {
+      "id": "pier-delle-vigne",
+      "nome": "Pier delle Vigne",
+      "chi_era": "Giurista e poeta nato a Capua (1190 circa – 1249), segretario e cancelliere di Federico II, uno dei poeti della Scuola siciliana. Accusato di tradimento, fu arrestato e accecato; si uccise in carcere.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/13/scena-2", "inferno/13/scena-3", "inferno/13/scena-4"]
+    },
+    {
+      "id": "lano",
+      "nome": "Lano da Siena",
+      "chi_era": "Arcolano Maconi, senese, che secondo i commentatori dilapidò il suo patrimonio. Morì nel 1288 nella battaglia della Pieve al Toppo, contro gli Aretini, forse cercando la morte.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/13/scena-5"]
+    },
+    {
+      "id": "iacopo-da-santandrea",
+      "nome": "Iacopo da Sant'Andrea",
+      "chi_era": "Padovano (morto nel 1239), legato alla corte di Ezzelino da Romano, famoso per gli sperperi: si raccontava che avesse incendiato una sua villa per divertimento.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/13/scena-5"]
+    },
+    {
+      "id": "suicida-fiorentino",
+      "nome": "Il suicida fiorentino",
+      "chi_era": "Anima di un fiorentino che si impiccò in casa propria. Dante non lo nomina; i commentatori hanno proposto Lotto degli Agli o Rocco dei Mozzi, ma l'anonimato sembra voluto.",
+      "dibattuto": true,
+      "apparizioni": ["inferno/13/scena-5"]
+    },
+    {
+      "id": "capaneo",
+      "nome": "Capaneo",
+      "chi_era": "Uno dei sette re che assediarono Tebe nel mito greco, narrato nella Tebaide di Stazio. Salito sulle mura sfidando Giove, fu fulminato. È il simbolo della superbia contro Dio.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/14/scena-3"]
+    },
+    {
+      "id": "veglio-di-creta",
+      "nome": "Il Veglio di Creta",
+      "chi_era": "Grande statua immaginata da Dante dentro il monte Ida, ispirata al sogno di Nabucodonosor nel libro di Daniele: i metalli sempre meno nobili rappresentano le età dell'umanità. Il significato del piede di terracotta, su cui poggia, è discusso.",
+      "dibattuto": true,
+      "apparizioni": ["inferno/14/scena-4"]
+    },
+    {
+      "id": "brunetto-latini",
+      "nome": "Brunetto Latini",
+      "chi_era": "Notaio, uomo politico e scrittore fiorentino (1220 circa – 1294), guelfo; esule in Francia dopo Montaperti, vi scrisse in francese il Tresor, un'enciclopedia. Fu maestro di Dante, forse non in senso scolastico. La ragione della sua presenza tra i sodomiti è discussa.",
+      "dibattuto": true,
+      "apparizioni": ["inferno/15/scena-2", "inferno/15/scena-3", "inferno/15/scena-4"]
+    },
+    {
+      "id": "prisciano",
+      "nome": "Prisciano",
+      "chi_era": "Grammatico latino di Cesarea (VI secolo), autore delle Institutiones grammaticae, il testo di grammatica più usato nel Medioevo. Non risulta alcuna fonte sul suo peccato: forse sta qui come figura dei maestri di scuola.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/15/scena-4"]
+    },
+    {
+      "id": "francesco-daccorso",
+      "nome": "Francesco d'Accorso",
+      "chi_era": "Giurista (1225–1293), figlio del celebre Accursio; insegnò diritto a Bologna e a Oxford.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/15/scena-4"]
+    },
+    {
+      "id": "andrea-dei-mozzi",
+      "nome": "Andrea dei Mozzi",
+      "chi_era": "Vescovo di Firenze, trasferito nel 1295 da papa Bonifacio VIII a Vicenza (sul Bacchiglione), dove morì l'anno dopo.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/15/scena-4"]
+    },
+    {
+      "id": "guido-guerra",
+      "nome": "Guido Guerra",
+      "chi_era": "Conte Guido Guerra dei Guidi (1220 circa – 1272), capo dei guelfi fiorentini, nipote di Gualdrada dei Ravignani; combatté a Benevento con Carlo d'Angiò.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/16/scena-1", "inferno/16/scena-2"]
+    },
+    {
+      "id": "guglielmo-borsiere",
+      "nome": "Guglielmo Borsiere",
+      "chi_era": "Fiorentino, uomo di corte famoso per la cortesia e l'arguzia, morto da poco nel 1300; Boccaccio lo ricorda in una novella del Decameron.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/16/scena-2"]
+    },
+    {
+      "id": "gerione",
+      "nome": "Gerione",
+      "chi_era": "Gigante mitologico a tre corpi ucciso da Ercole. Dante ne fa un mostro con volto di uomo giusto, zampe pelose e corpo di serpente con la coda da scorpione: è l'immagine della frode e porta i poeti nell'ottavo cerchio.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/16/scena-3", "inferno/17/scena-1", "inferno/17/scena-3"]
+    },
+    {
+      "id": "gianfigliazzi",
+      "nome": "Un Gianfigliazzi",
+      "chi_era": "Usuraio della famiglia fiorentina dei Gianfigliazzi, guelfi, il cui stemma era un leone azzurro in campo d'oro. Di solito si fa il nome di Catello di Rosso Gianfigliazzi, che prestò denaro in Francia.",
+      "dibattuto": true,
+      "apparizioni": ["inferno/17/scena-2"]
+    },
+    {
+      "id": "obriachi",
+      "nome": "Un Obriachi",
+      "chi_era": "Usuraio della famiglia fiorentina degli Ubriachi, ghibellini, con lo stemma di un'oca bianca in campo rosso; forse Locco degli Ubriachi.",
+      "dibattuto": true,
+      "apparizioni": ["inferno/17/scena-2"]
+    },
+    {
+      "id": "reginaldo-scrovegni",
+      "nome": "Reginaldo degli Scrovegni",
+      "chi_era": "Ricchissimo usuraio padovano (morto prima del 1290), con lo stemma di una scrofa azzurra in campo bianco. Il figlio Enrico fece costruire la cappella affrescata da Giotto.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/17/scena-2"]
+    },
+    {
+      "id": "vitaliano",
+      "nome": "Vitaliano",
+      "chi_era": "Usuraio padovano ancora vivo nel 1300; di solito identificato con Vitaliano del Dente, podestà di Padova nel 1307.",
+      "dibattuto": true,
+      "apparizioni": ["inferno/17/scena-2"]
+    },
+    {
+      "id": "buiamonte",
+      "nome": "Giovanni Buiamonte",
+      "chi_era": "Usuraio e cambiavalute fiorentino della famiglia dei Becchi (stemma: tre capri, «becchi»), cavaliere e gonfaliere di giustizia; morto nel 1310. Gli altri usurai lo chiamano ironicamente «cavalier sovrano».",
+      "dibattuto": false,
+      "apparizioni": ["inferno/17/scena-2"]
+    },
+    {
+      "id": "venedico-caccianemico",
+      "nome": "Venedico Caccianemico",
+      "chi_era": "Nobile bolognese (1228 circa – 1303), capo della parte guelfa, podestà in varie città. Si raccontava che avesse ceduto la sorella Ghisolabella a Obizzo II d'Este per ottenerne il favore.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/18/scena-2"]
+    },
+    {
+      "id": "giasone",
+      "nome": "Giasone",
+      "chi_era": "Eroe del mito greco, capo degli Argonauti nell'impresa del vello d'oro. Sedusse e abbandonò Isifile, regina di Lemno, e poi Medea, che lo aveva aiutato a conquistare il vello.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/18/scena-3"]
+    },
+    {
+      "id": "alessio-interminelli",
+      "nome": "Alessio Interminelli",
+      "chi_era": "Nobile lucchese di parte bianca, vivo ancora nel 1295; di lui non si sa altro.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/18/scena-4"]
+    },
+    {
+      "id": "taide",
+      "nome": "Taide",
+      "chi_era": "Prostituta, personaggio dell'Eunuco di Terenzio; Dante ne conosceva le parole attraverso una citazione di Cicerone. Nella commedia la risposta adulatoria è in realtà del servo che porta il dono.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/18/scena-5"]
+    },
+    {
+      "id": "simon-mago",
+      "nome": "Simon mago",
+      "chi_era": "Mago di Samaria che, secondo gli Atti degli Apostoli, offrì denaro a san Pietro per avere il potere di trasmettere lo Spirito Santo. Da lui prende nome la simonia, il commercio delle cose sacre.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/19/scena-1"]
+    },
+    {
+      "id": "niccolo-iii",
+      "nome": "Papa Niccolò III",
+      "chi_era": "Giovanni Gaetano Orsini, papa dal 1277 al 1280, noto per il nepotismo: arricchì e innalzò i parenti, della famiglia degli Orsini (da cui i «figli dell'orsa»).",
+      "dibattuto": false,
+      "apparizioni": ["inferno/19/scena-2", "inferno/19/scena-3"]
+    },
+    {
+      "id": "bonifacio-viii",
+      "nome": "Papa Bonifacio VIII",
+      "chi_era": "Benedetto Caetani, papa dal 1294 al 1303, nemico politico di Dante: favorì i Neri di Firenze, e durante la sua ambasceria a Roma Dante fu condannato all'esilio. Nel 1300 era ancora vivo; morì nel 1303.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/19/scena-2", "inferno/27/scena-3"]
+    },
+    {
+      "id": "clemente-v",
+      "nome": "Papa Clemente V",
+      "chi_era": "Bertrand de Got, guascone, papa dal 1305 al 1314, eletto grazie a Filippo il Bello re di Francia; trasferì la sede papale ad Avignone.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/19/scena-2"]
+    },
+    {
+      "id": "costantino",
+      "nome": "Costantino",
+      "chi_era": "Imperatore romano (morto nel 337), che concesse la libertà di culto ai cristiani. Nel Medioevo si credeva che avesse donato a papa Silvestro il potere temporale su Roma e l'Occidente: la donazione si rivelò poi un falso.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/19/scena-3"]
+    },
+    {
+      "id": "san-pietro",
+      "nome": "San Pietro",
+      "chi_era": "Simone, pescatore di Galilea, il primo degli apostoli, a cui Cristo affidò le «chiavi del regno dei cieli»; per la Chiesa è il primo papa. Morì martire a Roma.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/19/scena-3"]
+    },
+    {
+      "id": "anfiarao",
+      "nome": "Anfiarao",
+      "chi_era": "Indovino del mito greco, uno dei sette re contro Tebe. Prevedendo la sua morte, cercò di sottrarsi alla guerra; durante la battaglia la terra si aprì e lo inghiottì.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/20/scena-2"]
+    },
+    {
+      "id": "tiresia",
+      "nome": "Tiresia",
+      "chi_era": "Indovino tebano del mito. Secondo le Metamorfosi di Ovidio, colpendo due serpenti che si accoppiavano divenne donna, e sette anni dopo, colpendoli di nuovo, tornò uomo.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/20/scena-2"]
+    },
+    {
+      "id": "aronta",
+      "nome": "Aronta",
+      "chi_era": "Aruspice etrusco della Farsaglia di Lucano, che viveva presso Luni e predisse la guerra civile tra Cesare e Pompeo.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/20/scena-2"]
+    },
+    {
+      "id": "manto",
+      "nome": "Manto",
+      "chi_era": "Figlia di Tiresia, maga tebana. Secondo Virgilio (Eneide) fu madre di Ocno, fondatore di Mantova; qui Virgilio stesso corregge la versione e fa nascere la città dalla tomba di Manto.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/20/scena-3"]
+    },
+    {
+      "id": "euripilo",
+      "nome": "Euripilo",
+      "chi_era": "Guerriero greco che nell'Eneide è inviato a interrogare l'oracolo; Dante ne fa un augure che con Calcante stabilì il momento della partenza della flotta greca per Troia.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/20/scena-4"]
+    },
+    {
+      "id": "michele-scotto",
+      "nome": "Michele Scotto",
+      "chi_era": "Filosofo, astrologo e traduttore scozzese (morto intorno al 1235), al servizio di Federico II; la tradizione popolare ne fece un mago.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/20/scena-4"]
+    },
+    {
+      "id": "guido-bonatti",
+      "nome": "Guido Bonatti",
+      "chi_era": "Astrologo di Forlì del XIII secolo, consigliere di Guido da Montefeltro; autore di un trattato di astrologia.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/20/scena-4"]
+    },
+    {
+      "id": "asdente",
+      "nome": "Asdente",
+      "chi_era": "Benvenuto, detto Asdente, calzolaio di Parma della seconda metà del Duecento, famoso come indovino.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/20/scena-4"]
+    },
+    {
+      "id": "malebranche",
+      "nome": "I Malebranche",
+      "chi_era": "I diavoli custodi dei barattieri, armati di uncini, inventati da Dante con nomi grotteschi: Malacoda, Scarmiglione, Alichino, Calcabrina, Cagnazzo, Barbariccia, Libicocco, Draghignazzo, Ciriatto, Graffiacane, Farfarello, Rubicante.",
+      "dibattuto": false,
+      "apparizioni": [
+        "inferno/21/scena-2",
+        "inferno/21/scena-3",
+        "inferno/21/scena-4",
+        "inferno/22/scena-1",
+        "inferno/22/scena-2",
+        "inferno/22/scena-3",
+        "inferno/22/scena-4",
+        "inferno/23/scena-1",
+        "inferno/23/scena-2"
+      ]
+    },
+    {
+      "id": "malacoda",
+      "nome": "Malacoda",
+      "chi_era": "Capo dei Malebranche. Inganna i due poeti dicendo che il ponte sulla sesta bolgia è crollato solo in un punto, mentre sono crollati tutti.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/21/scena-3", "inferno/21/scena-4"]
+    },
+    {
+      "id": "anziano-di-santa-zita",
+      "nome": "L'anziano di Santa Zita",
+      "chi_era": "Uno degli «anziani», i magistrati di Lucca (città protetta da santa Zita). Secondo i commentatori antichi è Martino Bottaio, morto proprio nella notte del Sabato santo del 1300.",
+      "dibattuto": true,
+      "apparizioni": ["inferno/21/scena-2"]
+    },
+    {
+      "id": "bonturo",
+      "nome": "Bonturo Dati",
+      "chi_era": "Capo della fazione popolare di Lucca all'inizio del Trecento, noto come il più grande barattiere della città: per questo il diavolo lo esclude ironicamente.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/21/scena-2"]
+    },
+    {
+      "id": "ciampolo",
+      "nome": "Ciampolo di Navarra",
+      "chi_era": "Barattiere navarrese al servizio del re Tebaldo II di Navarra (XIII secolo). Dante non lo nomina; il nome Ciampolo viene dai commentatori antichi, che non sapevano altro di lui.",
+      "dibattuto": true,
+      "apparizioni": ["inferno/22/scena-2", "inferno/22/scena-3"]
+    },
+    {
+      "id": "frate-gomita",
+      "nome": "Frate Gomita",
+      "chi_era": "Frate sardo, vicario di Nino Visconti, giudice di Gallura; si fece corrompere per liberare dei prigionieri e Nino lo fece impiccare.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/22/scena-2"]
+    },
+    {
+      "id": "michel-zanche",
+      "nome": "Michele Zanche",
+      "chi_era": "Governatore del giudicato di Logudoro, in Sardegna, nella seconda metà del Duecento; fu ucciso a tradimento dal genero Branca Doria, che Dante colloca tra i traditori degli ospiti.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/22/scena-2", "inferno/33/scena-5"]
+    },
+    {
+      "id": "catalano",
+      "nome": "Catalano dei Malavolti",
+      "chi_era": "Bolognese guelfo (1210 circa – 1285), tra i fondatori dei «frati godenti» (cavalieri della Vergine Maria). Nel 1266 fu chiamato con Loderingo a governare Firenze come podestà per pacificare le fazioni.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/23/scena-3", "inferno/23/scena-4"]
+    },
+    {
+      "id": "loderingo",
+      "nome": "Loderingo degli Andalò",
+      "chi_era": "Bolognese ghibellino (1210 circa – 1293), cofondatore dei frati godenti, podestà di Firenze con Catalano nel 1266. Il loro governo favorì di fatto i guelfi: le case degli Uberti, nella zona del Gardingo, furono distrutte.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/23/scena-3"]
+    },
+    {
+      "id": "caifas",
+      "nome": "Caifa",
+      "chi_era": "Sommo sacerdote ebreo al tempo di Gesù; nel Vangelo di Giovanni consiglia al sinedrio che è meglio che un uomo solo muoia per il popolo.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/23/scena-4"]
+    },
+    {
+      "id": "anna",
+      "nome": "Anna",
+      "chi_era": "Suocero di Caifa e sommo sacerdote prima di lui; secondo il Vangelo di Giovanni Gesù, arrestato, fu condotto prima da lui.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/23/scena-4"]
+    },
+    {
+      "id": "vanni-fucci",
+      "nome": "Vanni Fucci",
+      "chi_era": "Pistoiese di parte nera (morto prima del 1300), figlio illegittimo di un nobile (per questo «mulo»), violento e rissoso. Nel 1293 rubò il tesoro della cappella di San Iacopo nel duomo di Pistoia; per il furto fu condannato a morte un innocente.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/24/scena-4", "inferno/25/scena-1"]
+    },
+    {
+      "id": "caco",
+      "nome": "Caco",
+      "chi_era": "Mostro del mito romano, figlio di Vulcano, che viveva in una grotta dell'Aventino. Rubò a Ercole una parte della mandria trascinando i buoi per la coda per confondere le tracce, e fu ucciso dall'eroe. Dante ne fa un centauro.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/25/scena-1"]
+    },
+    {
+      "id": "cianfa",
+      "nome": "Cianfa Donati",
+      "chi_era": "Nobile fiorentino della famiglia Donati, morto prima del 1289, noto come ladro. Appare trasformato nel serpente a sei piedi che si fonde con Agnello.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/25/scena-2"]
+    },
+    {
+      "id": "agnello",
+      "nome": "Agnello Brunelleschi",
+      "chi_era": "Nobile fiorentino, prima bianco poi nero; si raccontava che da giovane rubasse travestito da povero e da vecchio.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/25/scena-2"]
+    },
+    {
+      "id": "buoso",
+      "nome": "Buoso",
+      "chi_era": "Fiorentino, forse Buoso Donati o Buoso degli Abati, ladro di pubblici uffici; l'identificazione è incerta.",
+      "dibattuto": true,
+      "apparizioni": ["inferno/25/scena-3"]
+    },
+    {
+      "id": "francesco-cavalcanti",
+      "nome": "Francesco Cavalcanti",
+      "chi_era": "Detto Guercio, fiorentino, ucciso dagli abitanti di Gaville, in Valdarno; i Cavalcanti per vendetta fecero strage del paese.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/25/scena-3"]
+    },
+    {
+      "id": "puccio-sciancato",
+      "nome": "Puccio Sciancato",
+      "chi_era": "Puccio Galigai, fiorentino ghibellino, zoppo; noto per furti compiuti con abilità e senza violenza.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/25/scena-3"]
+    },
+    {
+      "id": "ulisse",
+      "nome": "Ulisse",
+      "chi_era": "Re di Itaca, eroe dell'Odissea, famoso per l'astuzia: ideò il cavallo di Troia. Dante non conosceva Omero direttamente e inventa per lui un ultimo viaggio oltre le colonne d'Ercole, verso il monte del Purgatorio.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/26/scena-3", "inferno/26/scena-4"]
+    },
+    {
+      "id": "diomede",
+      "nome": "Diomede",
+      "chi_era": "Re di Argo, eroe greco della guerra di Troia, compagno di Ulisse nelle imprese più astute, come il furto del Palladio, la statua di Atena che proteggeva la città.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/26/scena-3"]
+    },
+    {
+      "id": "guido-da-montefeltro",
+      "nome": "Guido da Montefeltro",
+      "chi_era": "Condottiero ghibellino (1223 circa – 1298), signore di Urbino, celebre per l'astuzia militare. Nel 1296 entrò nell'ordine francescano. La storia del consiglio a Bonifacio VIII per prendere Palestrina, roccaforte dei Colonna, era diffusa al tempo di Dante.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/27/scena-1", "inferno/27/scena-3", "inferno/27/scena-4"]
+    },
+    {
+      "id": "san-francesco",
+      "nome": "San Francesco d'Assisi",
+      "chi_era": "Francesco di Bernardone (1181/1182 – 1226), fondatore dell'ordine dei frati minori; Dante ne celebra la vita nel canto XI del Paradiso.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/27/scena-4"]
+    },
+    {
+      "id": "maometto",
+      "nome": "Maometto",
+      "chi_era": "Il profeta dell'Islam (570 circa – 632). Nel Medioevo cristiano era spesso considerato un cristiano scismatico che aveva diviso la Chiesa: per questo Dante lo colloca tra i seminatori di scisma.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/28/scena-2"]
+    },
+    {
+      "id": "ali",
+      "nome": "Alì",
+      "chi_era": "Alì ibn Abi Talib (morto nel 661), cugino e genero di Maometto, quarto califfo; la divisione tra sunniti e sciiti nasce dalle contese sulla sua successione.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/28/scena-2"]
+    },
+    {
+      "id": "fra-dolcino",
+      "nome": "Fra Dolcino",
+      "chi_era": "Capo del movimento degli Apostolici, considerato eretico, che si rifugiò con i seguaci sulle montagne del Novarese. Nel 1307, stremati dalla fame e dalla neve, furono catturati; Dolcino fu bruciato vivo.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/28/scena-2"]
+    },
+    {
+      "id": "pier-da-medicina",
+      "nome": "Pier da Medicina",
+      "chi_era": "Seminatore di discordie tra le famiglie della Romagna, secondo i commentatori antichi; Medicina è un paese vicino a Bologna. Di lui si sa pochissimo.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/28/scena-3"]
+    },
+    {
+      "id": "curione",
+      "nome": "Curione",
+      "chi_era": "Gaio Scribonio Curione, tribuno della plebe, che secondo Lucano convinse Cesare a passare il Rubicone presso Rimini, dando inizio alla guerra civile (49 a.C.).",
+      "dibattuto": false,
+      "apparizioni": ["inferno/28/scena-3"]
+    },
+    {
+      "id": "bertran-de-born",
+      "nome": "Bertran de Born",
+      "chi_era": "Trovatore provenzale e signore di Hautefort (1140 circa – 1215 circa), autore di poesie guerresche. Si diceva che avesse spinto Enrico, il «re giovane», a ribellarsi al padre Enrico II d'Inghilterra.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/28/scena-5"]
+    },
+    {
+      "id": "geri-del-bello",
+      "nome": "Geri del Bello",
+      "chi_era": "Cugino del padre di Dante, ucciso da un membro della famiglia Sacchetti; la vendetta arrivò solo molti anni dopo il 1300. Dante lo colloca tra i seminatori di discordia.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/29/scena-1"]
+    },
+    {
+      "id": "griffolino",
+      "nome": "Griffolino d'Arezzo",
+      "chi_era": "Alchimista aretino, bruciato come eretico prima del 1272 su istigazione del vescovo di Siena, protettore di Albero da Siena.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/29/scena-3", "inferno/30/scena-1"]
+    },
+    {
+      "id": "capocchio",
+      "nome": "Capocchio",
+      "chi_era": "Alchimista (fiorentino o senese) bruciato a Siena nel 1293. Secondo i commentatori antichi aveva conosciuto Dante da giovane ed era abilissimo nell'imitare persone e cose.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/29/scena-3", "inferno/30/scena-1"]
+    },
+    {
+      "id": "gianni-schicchi",
+      "nome": "Gianni Schicchi",
+      "chi_era": "Fiorentino della famiglia Cavalcanti, famoso per l'abilità nel contraffare le persone. Morto Buoso Donati, su richiesta del nipote Simone ne prese il posto nel letto e dettò un falso testamento, lasciando a se stesso la migliore cavalla della scuderia.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/30/scena-1"]
+    },
+    {
+      "id": "mirra",
+      "nome": "Mirra",
+      "chi_era": "Figlia del re di Cipro Cinira nelle Metamorfosi di Ovidio: innamorata del padre, si unì a lui con l'inganno; trasformata in albero, generò Adone.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/30/scena-1"]
+    },
+    {
+      "id": "maestro-adamo",
+      "nome": "Maestro Adamo",
+      "chi_era": "Falsario forse di origine inglese, che per i conti Guidi di Romena coniò fiorini d'oro con una lega peggiore; scoperto, fu bruciato a Firenze nel 1281.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/30/scena-2", "inferno/30/scena-3"]
+    },
+    {
+      "id": "sinone",
+      "nome": "Sinone",
+      "chi_era": "Greco che, nell'Eneide, si finse disertore e convinse i Troiani a portare in città il cavallo di legno.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/30/scena-3"]
+    },
+    {
+      "id": "moglie-di-putifarre",
+      "nome": "La moglie di Putifarre",
+      "chi_era": "Nella Genesi, moglie del funzionario egiziano Putifarre: respinta da Giuseppe, lo accusò falsamente di averla insidiata e lo fece imprigionare.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/30/scena-3"]
+    },
+    {
+      "id": "nembrot",
+      "nome": "Nembrot",
+      "chi_era": "Re di Babilonia, «potente cacciatore» nella Genesi; la tradizione medievale lo considerava un gigante e il promotore della torre di Babele, da cui venne la confusione delle lingue.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/31/scena-2"]
+    },
+    {
+      "id": "fialte",
+      "nome": "Fialte",
+      "chi_era": "Efialte, uno dei giganti del mito greco che tentarono di scalare l'Olimpo sovrapponendo i monti Ossa e Pelio.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/31/scena-3"]
+    },
+    {
+      "id": "briareo",
+      "nome": "Briareo",
+      "chi_era": "Gigante del mito greco con cento braccia e cinquanta teste; nella tradizione latina combatté contro gli dèi.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/31/scena-3"]
+    },
+    {
+      "id": "anteo",
+      "nome": "Anteo",
+      "chi_era": "Gigante libico del mito, figlio della Terra, invincibile finché toccava il suolo; Ercole lo vinse sollevandolo e stringendolo. Non partecipò alla guerra contro gli dèi, per questo non è incatenato.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/31/scena-4"]
+    },
+    {
+      "id": "fratelli-alberti",
+      "nome": "Alessandro e Napoleone degli Alberti",
+      "chi_era": "Figli del conte Alberto degli Alberti, signori della Val di Bisenzio; divisi da odio politico e da questioni di eredità, si uccisero a vicenda intorno al 1286.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/32/scena-2"]
+    },
+    {
+      "id": "camicione-de-pazzi",
+      "nome": "Camicione de' Pazzi",
+      "chi_era": "Alberto Camicione dei Pazzi di Valdarno, che uccise a tradimento un parente. Aspetta Carlino de' Pazzi, che nel 1302 consegnerà per denaro ai Neri il castello di Piantravigne con i Bianchi che lo difendevano.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/32/scena-2"]
+    },
+    {
+      "id": "bocca-degli-abati",
+      "nome": "Bocca degli Abati",
+      "chi_era": "Ghibellino fiorentino rimasto tra i guelfi, che nella battaglia di Montaperti (1260) tagliò la mano al portabandiera della cavalleria guelfa, provocandone lo sbandamento e la sconfitta.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/32/scena-3"]
+    },
+    {
+      "id": "buoso-da-duera",
+      "nome": "Buoso da Duera",
+      "chi_era": "Signore ghibellino di Cremona che nel 1265, corrotto dal denaro dei Francesi, lasciò passare senza combattere l'esercito di Carlo d'Angiò diretto contro Manfredi.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/32/scena-3"]
+    },
+    {
+      "id": "ugolino",
+      "nome": "Il conte Ugolino della Gherardesca",
+      "chi_era": "Nobile pisano (1210 circa – 1289), di famiglia ghibellina ma alleato dei guelfi. Signore di Pisa, fu accusato di tradimento per aver ceduto alcuni castelli a Firenze e Lucca; imprigionato dall'arcivescovo Ruggieri, morì di fame nella torre dei Gualandi con figli e nipoti. Il senso del verso «più che 'l dolor poté 'l digiuno» è discusso.",
+      "dibattuto": true,
+      "apparizioni": ["inferno/32/scena-4", "inferno/33/scena-1", "inferno/33/scena-2", "inferno/33/scena-3", "inferno/33/scena-4"]
+    },
+    {
+      "id": "ruggieri",
+      "nome": "L'arcivescovo Ruggieri degli Ubaldini",
+      "chi_era": "Arcivescovo di Pisa (morto nel 1295), capo dei ghibellini della città; prima alleato di Ugolino, poi lo tradì, lo fece imprigionare e lasciar morire di fame.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/32/scena-4", "inferno/33/scena-1", "inferno/33/scena-2", "inferno/33/scena-4"]
+    },
+    {
+      "id": "figli-di-ugolino",
+      "nome": "I figli e i nipoti di Ugolino",
+      "chi_era": "Gaddo e Uguccione, figli di Ugolino, e i nipoti Anselmuccio e Nino detto il Brigata, imprigionati e morti con lui nel 1289. Dante li presenta tutti come fanciulli innocenti, ma alcuni erano adulti.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/33/scena-2", "inferno/33/scena-3", "inferno/33/scena-4"]
+    },
+    {
+      "id": "frate-alberigo",
+      "nome": "Frate Alberigo",
+      "chi_era": "Alberigo dei Manfredi, signore di Faenza e frate godente. Nel 1285 invitò a pranzo il cugino Manfredo e suo figlio e, al segnale «vengan le frutta», li fece uccidere. Nel 1300 era ancora vivo.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/33/scena-5"]
+    },
+    {
+      "id": "branca-doria",
+      "nome": "Branca Doria",
+      "chi_era": "Nobile genovese (morto dopo il 1325) che uccise a tradimento, durante un banchetto, il suocero Michele Zanche con l'aiuto di un parente. Nel 1300 era vivo.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/33/scena-5"]
+    },
+    {
+      "id": "lucifero",
+      "nome": "Lucifero",
+      "chi_era": "L'angelo più bello, che si ribellò a Dio e fu precipitato dal cielo; nel poema è chiamato anche Dite e Belzebù. Confitto al centro della Terra, è il punto più lontano da Dio.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/34/scena-2", "inferno/34/scena-3", "inferno/34/scena-4"]
+    },
+    {
+      "id": "giuda",
+      "nome": "Giuda Iscariota",
+      "chi_era": "L'apostolo che tradì Gesù per trenta denari e poi si impiccò. È il traditore del suo signore divino, e per questo ha la pena più grave.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/34/scena-2"]
+    },
+    {
+      "id": "marco-bruto",
+      "nome": "Marco Giunio Bruto",
+      "chi_era": "Senatore romano (85–42 a.C.), protetto di Cesare, tra i capi della congiura che lo uccise nel 44 a.C.; per Dante è un traditore dell'Impero, voluto da Dio. Da non confondere con Lucio Giunio Bruto, che Dante colloca nel Limbo.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/34/scena-2"]
+    },
+    {
+      "id": "cassio",
+      "nome": "Gaio Cassio Longino",
+      "chi_era": "Generale romano (morto nel 42 a.C.), ideatore con Bruto della congiura contro Cesare. Dante lo dice «membruto», forse confondendolo con un altro Cassio descritto da Cicerone.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/34/scena-2"]
     }
   ]
 }

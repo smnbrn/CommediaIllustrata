@@ -1,0 +1,267 @@
+{
+  "cantica": "inferno",
+  "canto": 20,
+  "titolo": "Gli indovini",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_XX",
+  "numero_versi": 130,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 30],
+      "titolo_scena": "Gli indovini con la testa voltata",
+      "sintesi": "Nella quarta bolgia avanza in silenzio, piangendo, una processione di dannati con la testa girata all'indietro: camminano a ritroso, e le lacrime bagnano loro le natiche. Dante piange per la figura umana così stravolta, e Virgilio lo rimprovera: qui la pietà consiste nel non averne.",
+      "luogo_id": "bolgia-4",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": []
+    },
+    {
+      "id": "scena-2",
+      "versi": [31, 51],
+      "titolo_scena": "Anfiarao, Tiresia, Aronta",
+      "sintesi": "Virgilio indica gli indovini antichi: Anfiarao, inghiottito dalla terra davanti a Tebe; Tiresia, che fu trasformato da uomo in donna e poi di nuovo in uomo; Aronta, che leggeva le stelle da una grotta tra i marmi di Carrara.",
+      "luogo_id": "bolgia-4",
+      "personaggi": ["dante", "virgilio", "anfiarao", "tiresia", "aronta"],
+      "tavole": []
+    },
+    {
+      "id": "scena-3",
+      "versi": [52, 102],
+      "titolo_scena": "Manto e l'origine di Mantova",
+      "sintesi": "Una donna con le trecce sciolte che le coprono il seno è Manto, la maga tebana. Virgilio racconta la fondazione della sua città, Mantova: dal lago di Garda nasce il Mincio, che forma una palude; lì Manto si stabilì per praticare le sue arti e morì, e sulle sue ossa gli abitanti fondarono la città, senza ricorrere a sortilegi.",
+      "luogo_id": "bolgia-4",
+      "personaggi": ["dante", "virgilio", "manto"],
+      "tavole": []
+    },
+    {
+      "id": "scena-4",
+      "versi": [103, 130],
+      "titolo_scena": "Euripilo, Michele Scotto e gli altri indovini",
+      "sintesi": "Virgilio indica altri indovini: il greco Euripilo, che con Calcante scelse il momento della partenza per Troia; Michele Scotto, mago alla corte di Federico II; l'astrologo Guido Bonatti; il calzolaio Asdente; e le donne che lasciarono l'ago per le fatture. La luna tramonta: è l'alba, e i due riprendono il cammino.",
+      "luogo_id": "bolgia-4",
+      "personaggi": ["dante", "virgilio", "euripilo", "michele-scotto", "guido-bonatti", "asdente"],
+      "tavole": []
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Di nova pena mi conven far versi\ne dar matera al ventesimo canto\nde la prima canzon, ch’è d’i sommersi.",
+      "parafrasi": "Di una nuova pena devo fare versi e dare materia al ventesimo canto della prima cantica, che è quella dei dannati."
+    },
+    {
+      "versi": [4, 6],
+      "testo": "Io era già disposto tutto quanto\na riguardar ne lo scoperto fondo,\nche si bagnava d’angoscioso pianto;",
+      "parafrasi": "Ero già tutto pronto a guardare nel fondo che mi si apriva sotto, bagnato di pianto angoscioso;"
+    },
+    {
+      "versi": [7, 9],
+      "testo": "e vidi gente per lo vallon tondo\nvenir, tacendo e lagrimando, al passo\nche fanno le letane in questo mondo.",
+      "parafrasi": "e vidi gente venire per la valle rotonda, in silenzio e in lacrime, al passo che tengono le processioni in questo mondo."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "Come ’l viso mi scese in lor più basso,\nmirabilmente apparve esser travolto\nciascun tra ’l mento e ’l principio del casso,",
+      "parafrasi": "Quando lo sguardo mi scese più in basso su di loro, ciascuno apparve, in modo sorprendente, stravolto tra il mento e l'inizio del petto,"
+    },
+    {
+      "versi": [13, 15],
+      "testo": "ché da le reni era tornato ’l volto,\ne in dietro venir li convenia,\nperché ’l veder dinanzi era lor tolto.",
+      "parafrasi": "perché il volto era girato verso le reni, e dovevano camminare all'indietro, perché era loro tolto di vedere davanti."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "Forse per forza già di parlasia\nsi travolse così alcun del tutto;\nma io nol vidi, né credo che sia.",
+      "parafrasi": "Forse per un attacco di paralisi qualcuno si è già stravolto così del tutto; ma io non l'ho mai visto, né credo che possa accadere."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "Se Dio ti lasci, lettor, prender frutto\ndi tua lezione, or pensa per te stesso\ncom’io potea tener lo viso asciutto,",
+      "parafrasi": "Così Dio ti lasci, lettore, trarre frutto dalla tua lettura, ora pensa da te stesso come potevo tenere asciutto il viso"
+    },
+    {
+      "versi": [22, 24],
+      "testo": "quando la nostra imagine di presso\nvidi sì torta, che ’l pianto de li occhi\nle natiche bagnava per lo fesso.",
+      "parafrasi": "quando vidi da vicino la nostra figura così storta che il pianto degli occhi bagnava le natiche lungo la fessura."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Certo io piangea, poggiato a un de’ rocchi\ndel duro scoglio, sì che la mia scorta\nmi disse: \"Ancor se’ tu de li altri sciocchi?",
+      "parafrasi": "Certo piangevo, appoggiato a una delle sporgenze del duro scoglio, tanto che la mia scorta mi disse: «Sei anche tu come gli altri sciocchi?"
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Qui vive la pietà quand’è ben morta;\nchi è più scellerato che colui\nche al giudicio divin passion comporta?",
+      "parafrasi": "Qui la pietà vive quando è del tutto morta; chi è più scellerato di chi si addolora davanti al giudizio divino?"
+    },
+    {
+      "versi": [31, 33],
+      "testo": "Drizza la testa, drizza, e vedi a cui\ns’aperse a li occhi d’i Teban la terra;\nper ch’ei gridavan tutti: \"Dove rui,",
+      "parafrasi": "Alza la testa, alzala, e guarda colui sotto il quale, davanti agli occhi dei Tebani, si aprì la terra; per cui gridavano tutti: \"Dove precipiti,"
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Anfïarao? perché lasci la guerra?\".\nE non restò di ruinare a valle\nfino a Minòs che ciascheduno afferra.",
+      "parafrasi": "Anfiarao? Perché lasci la guerra?\". E non smise di precipitare giù fino a Minosse, che afferra ciascuno."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Mira c’ ha fatto petto de le spalle;\nperché volse veder troppo davante,\ndi retro guarda e fa retroso calle.",
+      "parafrasi": "Guarda come ha fatto delle spalle il petto: poiché volle vedere troppo avanti, guarda indietro e cammina a ritroso."
+    },
+    {
+      "versi": [40, 42],
+      "testo": "Vedi Tiresia, che mutò sembiante\nquando di maschio femmina divenne,\ncangiandosi le membra tutte quante;",
+      "parafrasi": "Vedi Tiresia, che cambiò aspetto quando da maschio divenne femmina, trasformando tutte le sue membra;"
+    },
+    {
+      "versi": [43, 45],
+      "testo": "e prima, poi, ribatter li convenne\nli duo serpenti avvolti, con la verga,\nche rïavesse le maschili penne.",
+      "parafrasi": "e poi dovette colpire di nuovo con la verga i due serpenti intrecciati prima di riavere le piume maschili."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Aronta è quel ch’al ventre li s’atterga,\nche ne’ monti di Luni, dove ronca\nlo Carrarese che di sotto alberga,",
+      "parafrasi": "Aronta è quello che gli si appoggia al ventre con la schiena, che sui monti di Luni, dove dissoda il Carrarese che abita sotto,"
+    },
+    {
+      "versi": [49, 51],
+      "testo": "ebbe tra ’ bianchi marmi la spelonca\nper sua dimora; onde a guardar le stelle\ne ’l mar non li era la veduta tronca.",
+      "parafrasi": "ebbe come dimora una spelonca tra i marmi bianchi; per cui la vista non gli era impedita per guardare le stelle e il mare."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "E quella che ricuopre le mammelle,\nche tu non vedi, con le trecce sciolte,\ne ha di là ogne pilosa pelle,",
+      "parafrasi": "E quella che con le trecce sciolte si copre le mammelle, che tu non vedi, e ha dall'altra parte tutta la pelle con i peli,"
+    },
+    {
+      "versi": [55, 57],
+      "testo": "Manto fu, che cercò per terre molte;\nposcia si puose là dove nacqu’ io;\nonde un poco mi piace che m’ascolte.",
+      "parafrasi": "fu Manto, che cercò per molte terre; poi si stabilì là dove nacqui io; per cui mi piace che tu mi ascolti un poco."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Poscia che ’l padre suo di vita uscìo\ne venne serva la città di Baco,\nquesta gran tempo per lo mondo gio.",
+      "parafrasi": "Dopo che suo padre morì e la città di Bacco [Tebe] divenne schiava, costei andò per il mondo a lungo."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Suso in Italia bella giace un laco,\na piè de l’Alpe che serra Lamagna\nsovra Tiralli, c’ ha nome Benaco.",
+      "parafrasi": "Su nella bella Italia c'è un lago ai piedi delle Alpi che chiudono la Germania sopra il Tirolo, che si chiama Benaco."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Per mille fonti, credo, e più si bagna\ntra Garda e Val Camonica e Pennino\nde l’acqua che nel detto laco stagna.",
+      "parafrasi": "Credo che da mille e più sorgenti si bagni, tra Garda, la Val Camonica e le Alpi Pennine, dell'acqua che ristagna in quel lago."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Loco è nel mezzo là dove ’l trentino\npastore e quel di Brescia e ’l veronese\nsegnar poria, s’e’ fesse quel cammino.",
+      "parafrasi": "C'è un luogo in mezzo dove il vescovo di Trento, quello di Brescia e quello di Verona potrebbero benedire, se facessero quel cammino."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "Siede Peschiera, bello e forte arnese\nda fronteggiar Bresciani e Bergamaschi,\nove la riva ’ntorno più discese.",
+      "parafrasi": "Sorge Peschiera, bella e forte fortezza per fronteggiare Bresciani e Bergamaschi, dove la riva intorno è più bassa."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Ivi convien che tutto quanto caschi\nciò che ’n grembo a Benaco star non può,\ne fassi fiume giù per verdi paschi.",
+      "parafrasi": "Lì deve cadere tutto quello che non può restare nel grembo del Benaco, e diventa un fiume giù tra verdi pascoli."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "Tosto che l’acqua a correr mette co,\nnon più Benaco, ma Mencio si chiama\nfino a Governol, dove cade in Po.",
+      "parafrasi": "Appena l'acqua comincia a correre non si chiama più Benaco, ma Mincio, fino a Governolo, dove si getta nel Po."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Non molto ha corso, ch’el trova una lama,\nne la qual si distende e la ’mpaluda;\ne suol di state talor esser grama.",
+      "parafrasi": "Non ha corso molto che trova una bassura, nella quale si allarga e la impaluda; e d'estate a volte suole essere malsana."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "Quindi passando la vergine cruda\nvide terra, nel mezzo del pantano,\nsanza coltura e d’abitanti nuda.",
+      "parafrasi": "Passando da lì, la vergine crudele vide in mezzo al pantano una terra senza coltivazioni e priva di abitanti."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "Lì, per fuggire ogne consorzio umano,\nristette con suoi servi a far sue arti,\ne visse, e vi lasciò suo corpo vano.",
+      "parafrasi": "Lì, per fuggire ogni compagnia umana, si fermò con i suoi servi a praticare le sue arti, e visse, e vi lasciò il suo corpo senza vita."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Li uomini poi che ’ntorno erano sparti\ns’accolsero a quel loco, ch’era forte\nper lo pantan ch’avea da tutte parti.",
+      "parafrasi": "Gli uomini che erano sparsi intorno si raccolsero poi in quel luogo, che era forte per la palude che aveva da tutte le parti."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Fer la città sovra quell’ossa morte;\ne per colei che ’l loco prima elesse,\nMantüa l’appellar sanz’altra sorte.",
+      "parafrasi": "Fondarono la città sopra quelle ossa morte; e da colei che per prima scelse il luogo la chiamarono Mantova, senza altri sortilegi."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Già fuor le genti sue dentro più spesse,\nprima che la mattia da Casalodi\nda Pinamonte inganno ricevesse.",
+      "parafrasi": "I suoi abitanti furono un tempo più numerosi, prima che la stoltezza del conte di Casalodi fosse ingannata da Pinamonte."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Però t’assenno che, se tu mai odi\noriginar la mia terra altrimenti,\nla verità nulla menzogna frodi\".",
+      "parafrasi": "Perciò ti avverto che, se mai senti raccontare in altro modo l'origine della mia città, nessuna menzogna inganni la verità.»"
+    },
+    {
+      "versi": [100, 102],
+      "testo": "E io: \"Maestro, i tuoi ragionamenti\nmi son sì certi e prendon sì mia fede,\nche li altri mi sarien carboni spenti.",
+      "parafrasi": "E io: «Maestro, i tuoi ragionamenti mi sono così certi e conquistano tanto la mia fiducia che gli altri sarebbero per me carboni spenti."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Ma dimmi, de la gente che procede,\nse tu ne vedi alcun degno di nota;\nché solo a ciò la mia mente rifiede\".",
+      "parafrasi": "Ma dimmi, della gente che passa, se ne vedi qualcuno degno di nota, perché la mia mente torna solo a questo.»"
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Allor mi disse: \"Quel che da la gota\nporge la barba in su le spalle brune,\nfu - quando Grecia fu di maschi vòta,",
+      "parafrasi": "Allora mi disse: «Quello che dalla guancia stende la barba sulle spalle scure fu, quando la Grecia rimase vuota di maschi"
+    },
+    {
+      "versi": [109, 111],
+      "testo": "sì ch’a pena rimaser per le cune -\naugure, e diede ’l punto con Calcanta\nin Aulide a tagliar la prima fune.",
+      "parafrasi": "tanto che ne restarono a malapena nelle culle, augure, e con Calcante stabilì in Aulide il momento di tagliare la prima fune."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Euripilo ebbe nome, e così ’l canta\nl’alta mia tragedìa in alcun loco:\nben lo sai tu che la sai tutta quanta.",
+      "parafrasi": "Si chiamò Euripilo, e così lo canta in un passo la mia alta tragedia: lo sai bene tu che la conosci tutta."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "Quell’altro che ne’ fianchi è così poco,\nMichele Scotto fu, che veramente\nde le magiche frode seppe ’l gioco.",
+      "parafrasi": "Quell'altro che è così magro nei fianchi fu Michele Scotto, che conobbe davvero il gioco degli inganni magici."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Vedi Guido Bonatti; vedi Asdente,\nch’avere inteso al cuoio e a lo spago\nora vorrebbe, ma tardi si pente.",
+      "parafrasi": "Vedi Guido Bonatti; vedi Asdente, che ora vorrebbe essersi dedicato al cuoio e allo spago, ma si pente troppo tardi."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "Vedi le triste che lasciaron l’ago,\nla spuola e ’l fuso, e fecersi ’ndivine;\nfecer malie con erbe e con imago.",
+      "parafrasi": "Vedi le sciagurate che lasciarono l'ago, la spola e il fuso e si fecero indovine; fecero malie con erbe e con figurine."
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Ma vienne omai, ché già tiene ’l confine\nd’amendue li emisperi e tocca l’onda\nsotto Sobilia Caino e le spine;",
+      "parafrasi": "Ma vieni ormai, perché Caino con le spine [la luna] occupa già il confine dei due emisferi e tocca l'onda sotto Siviglia;"
+    },
+    {
+      "versi": [127, 129],
+      "testo": "e già iernotte fu la luna tonda:\nben ten de’ ricordar, ché non ti nocque\nalcuna volta per la selva fonda\".",
+      "parafrasi": "e già la notte scorsa la luna era piena: te ne devi ben ricordare, perché non ti fece male qualche volta nella selva profonda.»"
+    },
+    {
+      "versi": [130, 130],
+      "testo": "Sì mi parlava, e andavamo introcque.",
+      "parafrasi": "Così mi parlava, e intanto andavamo."
+    }
+  ]
+}

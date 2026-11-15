@@ -1,0 +1,309 @@
+# Inferno, canto XXIX
+titolo: Geri del Bello, i falsari: Griffolino e Capocchio
+
+## scena-1 | bolgia-9 | Geri del Bello
+personaggi: dante, virgilio, geri-del-bello
+tavola: dore | Virgilio rimprovera la curiosità di Dante | File:DVinfernoVirgilReprovesDantesCuriosity m.jpg
+sintesi: Dante continua a fissare la bolgia e Virgilio lo esorta ad andare: il tempo è poco. Dante cercava un suo parente, Geri del Bello; Virgilio lo ha visto minacciarlo col dito e andarsene. Dante spiega che Geri è sdegnato perché la sua morte violenta non è stata ancora vendicata dalla famiglia.
+
+1
+La molta gente e le diverse piaghe
+avean le luci mie sì inebrïate,
+che de lo stare a piangere eran vaghe.
+> La molta gente e le diverse piaghe avevano reso i miei occhi così ebbri che desideravano restare a piangere.
+
+4
+Ma Virgilio mi disse: "Che pur guate?
+perché la vista tua pur si soffolge
+là giù tra l’ombre triste smozzicate?
+> Ma Virgilio mi disse: «Che cosa guardi ancora? Perché il tuo sguardo si posa ancora là giù tra le ombre tristi e mutilate?
+
+7
+Tu non hai fatto sì a l’altre bolge;
+pensa, se tu annoverar le credi,
+che miglia ventidue la valle volge.
+> Non hai fatto così nelle altre bolge; pensa, se credi di contarle, che la valle gira per ventidue miglia.
+
+10
+E già la luna è sotto i nostri piedi;
+lo tempo è poco omai che n’è concesso,
+e altro è da veder che tu non vedi".
+> E già la luna è sotto i nostri piedi; il tempo che ci è concesso è ormai poco, e c'è altro da vedere che tu non vedi.»
+
+13
+"Se tu avessi", rispuos’io appresso,
+"atteso a la cagion per ch’io guardava,
+forse m’avresti ancor lo star dimesso".
+> «Se tu avessi badato», risposi subito, «alla ragione per cui guardavo, forse mi avresti concesso di restare ancora.»
+
+16
+Parte sen giva, e io retro li andava,
+lo duca, già faccendo la risposta,
+e soggiugnendo: "Dentro a quella cava
+> Intanto la guida se ne andava, e io gli andavo dietro, già dando la risposta e aggiungendo: «Dentro quella cavità
+
+19
+dov’io tenea or li occhi sì a posta,
+credo ch’un spirto del mio sangue pianga
+la colpa che là giù cotanto costa".
+> dove tenevo ora gli occhi così fissi, credo che uno spirito del mio sangue pianga la colpa che là sotto costa tanto.»
+
+22
+Allor disse ’l maestro: "Non si franga
+lo tuo pensier da qui innanzi sovr’ello.
+Attendi ad altro, ed ei là si rimanga;
+> Allora il maestro disse: «D'ora in poi il tuo pensiero non si rompa su di lui. Bada ad altro, e lui resti là;
+
+25
+ch’io vidi lui a piè del ponticello
+mostrarti e minacciar forte col dito,
+e udi’ ’l nominar Geri del Bello.
+> perché l'ho visto ai piedi del ponticello indicarti e minacciarti forte con il dito, e l'ho sentito chiamare Geri del Bello.
+
+28
+Tu eri allor sì del tutto impedito
+sovra colui che già tenne Altaforte,
+che non guardasti in là, sì fu partito".
+> Tu eri allora così del tutto occupato con colui che un tempo tenne Altaforte [Bertran de Born] che non guardasti là, finché se ne fu andato.»
+
+31
+"O duca mio, la vïolenta morte
+che non li è vendicata ancor", diss’io,
+"per alcun che de l’onta sia consorte,
+> «O mia guida, la morte violenta che non gli è stata ancora vendicata», dissi, «da nessuno di quelli che condividono l'offesa,
+
+34
+fece lui disdegnoso; ond’el sen gio
+sanza parlarmi, sì com’ïo estimo:
+e in ciò m’ ha el fatto a sé più pio".
+> lo ha reso sdegnoso; per cui se n'è andato senza parlarmi, come credo: e per questo mi ha reso più pietoso verso di lui.»
+
+## scena-2 | bolgia-10 | La decima bolgia, un ospedale
+personaggi: dante, virgilio
+tavola: dore | I falsari malati | img/dore/inferno-29-falsari-960.jpg | File:Gottliche Komodie. T. 1, Die Holle 1870 (148619313).jpg
+sintesi: Dall'ultima bolgia salgono lamenti come frecce di pietà e un puzzo di membra in putrefazione: è come se tutti i malati degli ospedali di Valdichiana, Maremma e Sardegna fossero in una sola fossa. I falsari giacciono ammucchiati, peggio del popolo di Egina colpito dalla peste.
+
+37
+Così parlammo infino al loco primo
+che de lo scoglio l’altra valle mostra,
+se più lume vi fosse, tutto ad imo.
+> Così parlammo fino al primo punto dello scoglio da cui si vedrebbe l'altra valle fino al fondo, se ci fosse più luce.
+
+40
+Quando noi fummo sor l’ultima chiostra
+di Malebolge, sì che i suoi conversi
+potean parere a la veduta nostra,
+> Quando fummo sopra l'ultimo chiostro di Malebolge, così che i suoi conversi potevano apparire alla nostra vista,
+
+43
+lamenti saettaron me diversi,
+che di pietà ferrati avean li strali;
+ond’io li orecchi con le man copersi.
+> mi saettarono lamenti diversi, che avevano frecce con la punta di pietà; per cui mi coprii le orecchie con le mani.
+
+46
+Qual dolor fora, se de li spedali
+di Valdichiana tra ’l luglio e ’l settembre
+e di Maremma e di Sardigna i mali
+> Quale dolore ci sarebbe se i mali degli ospedali della Valdichiana tra luglio e settembre, e della Maremma e della Sardegna,
+
+49
+fossero in una fossa tutti ’nsembre,
+tal era quivi, e tal puzzo n’usciva
+qual suol venir de le marcite membre.
+> fossero tutti insieme in una fossa, tale era qui, e ne usciva un puzzo come suole venire dalle membra in cancrena.
+
+52
+Noi discendemmo in su l’ultima riva
+del lungo scoglio, pur da man sinistra;
+e allor fu la mia vista più viva
+> Scendemmo sull'ultimo argine del lungo scoglio, sempre a sinistra; e allora la mia vista fu più chiara
+
+55
+giù ver’ lo fondo, là ’ve la ministra
+de l’alto Sire infallibil giustizia
+punisce i falsador che qui registra.
+> giù verso il fondo, là dove la giustizia infallibile, ministra dell'alto Signore, punisce i falsari che registra qui.
+
+58
+Non credo ch’a veder maggior tristizia
+fosse in Egina il popol tutto infermo,
+quando fu l’aere sì pien di malizia,
+> Non credo che fosse più triste vedere a Egina il popolo tutto malato, quando l'aria fu così piena di contagio
+
+61
+che li animali, infino al picciol vermo,
+cascaron tutti, e poi le genti antiche,
+secondo che i poeti hanno per fermo,
+> che gli animali, fino al piccolo verme, morirono tutti, e poi gli antichi abitanti, come i poeti affermano con certezza,
+
+64
+si ristorar di seme di formiche;
+ch’era a veder per quella oscura valle
+languir li spirti per diverse biche.
+> si ricostituirono da un seme di formiche; di quanto fosse vedere per quella valle buia gli spiriti languire in diversi mucchi.
+
+67
+Qual sovra ’l ventre e qual sovra le spalle
+l’un de l’altro giacea, e qual carpone
+si trasmutava per lo tristo calle.
+> Chi giaceva sul ventre e chi sulle spalle dell'altro, e chi si spostava carponi per il triste sentiero.
+
+70
+Passo passo andavam sanza sermone,
+guardando e ascoltando li ammalati,
+che non potean levar le lor persone.
+> Passo passo andavamo senza parlare, guardando e ascoltando i malati, che non potevano sollevare il loro corpo.
+
+## scena-3 | bolgia-10 | Griffolino e Capocchio, gli alchimisti
+personaggi: dante, virgilio, griffolino, capocchio
+tavola: dore | Due alchimisti che si grattano la scabbia | img/dore/inferno-29-alchimisti-960.jpg | File:Gottliche Komodie. T. 1, Die Holle 1870 (148619342).jpg
+sintesi: Due dannati seduti schiena contro schiena si grattano furiosamente la scabbia. Il primo è Griffolino d'Arezzo, bruciato per aver promesso per gioco di insegnare a volare a un senese sciocco, ma dannato per l'alchimia. Dante ironizza sulla vanità dei Senesi; l'altro conferma con sarcasmo e si presenta: è Capocchio, falsario di metalli.
+
+73
+Io vidi due sedere a sé poggiati,
+com’a scaldar si poggia tegghia a tegghia,
+dal capo al piè di schianze macolati;
+> Vidi due seduti appoggiati l'uno all'altro, come si appoggia tegame a tegame per scaldarsi, macchiati di croste dalla testa ai piedi;
+
+76
+e non vidi già mai menare stregghia
+a ragazzo aspettato dal segnorso,
+né a colui che mal volontier vegghia,
+> e non vidi mai menare la striglia a un garzone atteso dal padrone, né a chi veglia malvolentieri,
+
+79
+come ciascun menava spesso il morso
+de l’unghie sopra sé per la gran rabbia
+del pizzicor, che non ha più soccorso;
+> come ciascuno affondava spesso il morso delle unghie su di sé per la grande rabbia del prurito, che non ha altro rimedio;
+
+82
+e sì traevan giù l’unghie la scabbia,
+come coltel di scardova le scaglie
+o d’altro pesce che più larghe l’abbia.
+> e le unghie tiravano giù la scabbia come il coltello le scaglie della scardola o di un altro pesce che le abbia più larghe.
+
+85
+"O tu che con le dita ti dismaglie",
+cominciò ’l duca mio a l’un di loro,
+"e che fai d’esse talvolta tanaglie,
+> «O tu che ti togli la maglia con le dita», cominciò la mia guida a uno di loro, «e che a volte ne fai tenaglie,
+
+88
+dinne s’alcun Latino è tra costoro
+che son quinc’entro, se l’unghia ti basti
+etternalmente a cotesto lavoro".
+> dicci se c'è qualche italiano tra quelli che sono qui dentro, e così l'unghia ti basti in eterno a questo lavoro.»
+
+91
+"Latin siam noi, che tu vedi sì guasti
+qui ambedue", rispuose l’un piangendo;
+"ma tu chi se’ che di noi dimandasti?".
+> «Siamo italiani noi due, che vedi così guasti qui», rispose uno piangendo; «ma tu chi sei, che hai chiesto di noi?»
+
+94
+E ’l duca disse: "I’ son un che discendo
+con questo vivo giù di balzo in balzo,
+e di mostrar lo ’nferno a lui intendo".
+> E la guida disse: «Sono uno che scende con questo vivo di balzo in balzo, e intendo mostrargli l'Inferno.»
+
+97
+Allor si ruppe lo comun rincalzo;
+e tremando ciascuno a me si volse
+con altri che l’udiron di rimbalzo.
+> Allora si ruppe il sostegno reciproco; e ciascuno, tremando, si volse verso di me, insieme ad altri che lo udirono di riflesso.
+
+100
+Lo buon maestro a me tutto s’accolse,
+dicendo: "Dì a lor ciò che tu vuoli";
+e io incominciai, poscia ch’ei volse:
+> Il buon maestro si accostò tutto a me, dicendo: «Di' loro ciò che vuoi»; e io cominciai, dal momento che lui voleva:
+
+103
+"Se la vostra memoria non s’imboli
+nel primo mondo da l’umane menti,
+ma s’ella viva sotto molti soli,
+> «Così il vostro ricordo non si dilegui dalle menti umane nel primo mondo, ma viva per molti anni,
+
+106
+ditemi chi voi siete e di che genti;
+la vostra sconcia e fastidiosa pena
+di palesarvi a me non vi spaventi".
+> ditemi chi siete e di che città; la vostra pena sconcia e ripugnante non vi spaventi dal rivelarvi a me.»
+
+109
+"Io fui d’Arezzo, e Albero da Siena",
+rispuose l’un, "mi fé mettere al foco;
+ma quel per ch’io mori’ qui non mi mena.
+> «Io fui d'Arezzo, e Albero da Siena», rispose uno, «mi fece mettere al rogo; ma ciò per cui morii non è ciò che mi porta qui.
+
+112
+Vero è ch’i’ dissi lui, parlando a gioco:
+"I’ mi saprei levar per l’aere a volo";
+e quei, ch’avea vaghezza e senno poco,
+> È vero che gli dissi, parlando per scherzo: "Saprei sollevarmi in volo per l'aria"; e lui, che aveva desiderio e poco senno,
+
+115
+volle ch’i’ li mostrassi l’arte; e solo
+perch’io nol feci Dedalo, mi fece
+ardere a tal che l’avea per figliuolo.
+> volle che gli mostrassi l'arte; e solo perché non lo feci diventare Dedalo, mi fece bruciare da uno che lo considerava come un figlio.
+
+118
+Ma ne l’ultima bolgia de le diece
+me per l’alchìmia che nel mondo usai
+dannò Minòs, a cui fallar non lece".
+> Ma all'ultima bolgia delle dieci mi condannò Minosse, a cui non è concesso sbagliare, per l'alchimia che praticai nel mondo.»
+
+121
+E io dissi al poeta: "Or fu già mai
+gente sì vana come la sanese?
+Certo non la francesca sì d’assai!".
+> E io dissi al poeta: «Ci fu mai gente così vana come quella senese? Certo nemmeno i Francesi, di gran lunga!»
+
+124
+Onde l’altro lebbroso, che m’intese,
+rispuose al detto mio: "Tra’ mene Stricca
+che seppe far le temperate spese,
+> Per cui l'altro lebbroso, che mi sentì, rispose alle mie parole: «Toglimi lo Stricca, che seppe fare spese moderate,
+
+127
+e Niccolò che la costuma ricca
+del garofano prima discoverse
+ne l’orto dove tal seme s’appicca;
+> e Niccolò, che per primo scoprì l'usanza costosa del chiodo di garofano nell'orto dove attecchisce un tale seme;
+
+130
+e tra’ ne la brigata in che disperse
+Caccia d’Ascian la vigna e la gran fonda,
+e l’Abbagliato suo senno proferse.
+> e togli la brigata in cui Caccia d'Asciano dissipò la vigna e il grande bosco, e l'Abbagliato mostrò il suo senno.
+
+133
+Ma perché sappi chi sì ti seconda
+contra i Sanesi, aguzza ver’ me l’occhio,
+sì che la faccia mia ben ti risponda:
+> Ma perché tu sappia chi ti asseconda così contro i Senesi, aguzza l'occhio verso di me, così che la mia faccia ti risponda bene:
+
+136
+sì vedrai ch’io son l’ombra di Capocchio,
+che falsai li metalli con l’alchìmia;
+e te dee ricordar, se ben t’adocchio,
+> vedrai così che sono l'ombra di Capocchio, che falsificò i metalli con l'alchimia; e devi ricordarti, se ti riconosco bene,
+
+139
+com’io fui di natura buona scimia".
+> come fui per natura un buon imitatore.»
+
+## personaggio | geri-del-bello | Geri del Bello
+dibattuto: no
+chi_era: Cugino del padre di Dante, ucciso da un membro della famiglia Sacchetti; la vendetta arrivò solo molti anni dopo il 1300. Dante lo colloca tra i seminatori di discordia.
+
+## personaggio | griffolino | Griffolino d'Arezzo
+dibattuto: no
+chi_era: Alchimista aretino, bruciato come eretico prima del 1272 su istigazione del vescovo di Siena, protettore di Albero da Siena.
+
+## personaggio | capocchio | Capocchio
+dibattuto: no
+chi_era: Alchimista (fiorentino o senese) bruciato a Siena nel 1293. Secondo i commentatori antichi aveva conosciuto Dante da giovane ed era abilissimo nell'imitare persone e cose.
