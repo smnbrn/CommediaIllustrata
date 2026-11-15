@@ -1,0 +1,326 @@
+{
+  "cantica": "inferno",
+  "canto": 2,
+  "titolo": "Il dubbio di Dante e le tre donne benedette",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_II",
+  "numero_versi": 142,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 9],
+      "titolo_scena": "Il tramonto e l'invocazione alle Muse",
+      "sintesi": "Cala la sera e ogni creatura riposa; solo Dante si prepara alla fatica del viaggio. Invoca le Muse, l'ingegno e la memoria.",
+      "luogo_id": "selva-oscura",
+      "personaggi": ["dante"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Lo giorno se n'andava",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_6_%28Start_of_Canto_II_-_Day_was_departing%29.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_6_%28Start_of_Canto_II_-_Day_was_departing%29.jpg/960px-Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_6_%28Start_of_Canto_II_-_Day_was_departing%29.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_6_(Start_of_Canto_II_-_Day_was_departing).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [10, 42],
+      "titolo_scena": "Il dubbio di Dante",
+      "sintesi": "Dante teme di non essere all'altezza: nell'aldilà andarono Enea e san Paolo, ma per ragioni altissime. «Io non Enea, io non Paulo sono»: e rinuncia all'impresa appena cominciata.",
+      "luogo_id": "selva-oscura",
+      "personaggi": ["dante", "virgilio", "enea", "san-paolo"],
+      "tavole": []
+    },
+    {
+      "id": "scena-3",
+      "versi": [43, 75],
+      "titolo_scena": "Beatrice scende nel Limbo",
+      "sintesi": "Virgilio rimprovera a Dante la viltà e racconta perché è venuto: nel Limbo lo ha chiamato una donna beata e bella, Beatrice, pregandolo di soccorrere il suo amico smarrito.",
+      "luogo_id": "selva-oscura",
+      "personaggi": ["dante", "virgilio", "beatrice"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Beatrice e Virgilio",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_7_%28Beatrice%29.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_7_%28Beatrice%29.jpg/960px-Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_7_%28Beatrice%29.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_7_(Beatrice).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [76, 114],
+      "titolo_scena": "Le tre donne benedette",
+      "sintesi": "Beatrice spiega a Virgilio perché non teme l'Inferno e come si è mossa: una donna gentile del cielo ha avvertito Lucia, e Lucia è venuta da lei, seduta accanto a Rachele.",
+      "luogo_id": "selva-oscura",
+      "personaggi": ["virgilio", "beatrice", "maria", "lucia", "rachele"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Beatrice e Virgilio",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_7_%28Beatrice%29.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_7_%28Beatrice%29.jpg/960px-Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_7_%28Beatrice%29.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_7_(Beatrice).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-5",
+      "versi": [115, 142],
+      "titolo_scena": "Dante ritrova il coraggio",
+      "sintesi": "Virgilio conclude: con tre donne benedette che si curano di lui, perché esitare? Come fiori che si riaprono al sole, Dante si rianima e lo segue per il cammino difficile.",
+      "luogo_id": "selva-oscura",
+      "personaggi": ["dante", "virgilio", "beatrice"],
+      "tavole": []
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Lo giorno se n’andava, e l’aere bruno\ntoglieva li animai che sono in terra\nda le fatiche loro; e io sol uno",
+      "parafrasi": "Il giorno se ne andava, e l'aria scura sottraeva alle loro fatiche gli esseri viventi che sono sulla terra; e io, solo fra tutti,"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "m’apparecchiava a sostener la guerra\nsì del cammino e sì de la pietate,\nche ritrarrà la mente che non erra.",
+      "parafrasi": "mi preparavo ad affrontare la dura prova del cammino e della pietà, che la mia memoria, che non sbaglia, racconterà."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "O muse, o alto ingegno, or m’aiutate;\no mente che scrivesti ciò ch’io vidi,\nqui si parrà la tua nobilitate.",
+      "parafrasi": "O Muse, o alto ingegno, aiutatemi ora; o memoria che hai scritto ciò che ho visto, qui si vedrà la tua nobiltà."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "Io cominciai: \"Poeta che mi guidi,\nguarda la mia virtù s’ell’è possente,\nprima ch’a l’alto passo tu mi fidi.",
+      "parafrasi": "Cominciai: «Poeta che mi guidi, considera se la mia forza è sufficiente, prima di affidarmi a questo arduo passaggio."
+    },
+    {
+      "versi": [13, 15],
+      "testo": "Tu dici che di Silvïo il parente,\ncorruttibile ancora, ad immortale\nsecolo andò, e fu sensibilmente.",
+      "parafrasi": "Tu dici che il padre di Silvio [Enea], ancora mortale, andò nel mondo eterno, e vi andò con il corpo."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "Però, se l’avversario d’ogne male\ncortese i fu, pensando l’alto effetto\nch’uscir dovea di lui, e ’l chi e ’l quale",
+      "parafrasi": "Perciò, se l'avversario di ogni male [Dio] fu benevolo con lui, pensando all'alto effetto che da lui doveva derivare, e chi e quale fosse,"
+    },
+    {
+      "versi": [19, 21],
+      "testo": "non pare indegno ad omo d’intelletto;\nch’e’ fu de l’alma Roma e di suo impero\nne l’empireo ciel per padre eletto:",
+      "parafrasi": "ciò non sembra ingiusto a un uomo d'intelletto; perché egli fu scelto nel cielo Empireo come padre della nobile Roma e del suo impero:"
+    },
+    {
+      "versi": [22, 24],
+      "testo": "la quale e ’l quale, a voler dir lo vero,\nfu stabilita per lo loco santo\nu’ siede il successor del maggior Piero.",
+      "parafrasi": "e l'una e l'altro, a dire il vero, furono stabiliti per essere il luogo santo dove siede il successore del grande Pietro."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Per quest’andata onde li dai tu vanto,\nintese cose che furon cagione\ndi sua vittoria e del papale ammanto.",
+      "parafrasi": "In questo viaggio, per il quale tu lo celebri, apprese cose che furono causa della sua vittoria e del manto papale."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Andovvi poi lo Vas d’elezïone,\nper recarne conforto a quella fede\nch’è principio a la via di salvazione.",
+      "parafrasi": "Vi andò poi il Vaso d'elezione [san Paolo], per riportarne conforto a quella fede che è il principio della via della salvezza."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "Ma io, perché venirvi? o chi ’l concede?\nIo non Enëa, io non Paulo sono;\nme degno a ciò né io né altri ’l crede.",
+      "parafrasi": "Ma io, perché dovrei venirci? Chi me lo concede? Io non sono Enea, non sono Paolo; né io né altri mi crediamo degno di questo."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Per che, se del venire io m’abbandono,\ntemo che la venuta non sia folle.\nSe’ savio; intendi me’ ch’i’ non ragiono\".",
+      "parafrasi": "Perciò, se mi lascio andare a venire, temo che il mio viaggio sia una follia. Tu sei saggio: capisci meglio di quanto io sappia spiegare»."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "E qual è quei che disvuol ciò che volle\ne per novi pensier cangia proposta,\nsì che dal cominciar tutto si tolle,",
+      "parafrasi": "E come chi non vuole più ciò che voleva, e per nuovi pensieri cambia proposito, tanto da abbandonare del tutto ciò che aveva cominciato,"
+    },
+    {
+      "versi": [40, 42],
+      "testo": "tal mi fec’ïo ’n quella oscura costa,\nperché, pensando, consumai la ’mpresa\nche fu nel cominciar cotanto tosta.",
+      "parafrasi": "così divenni io su quel pendio oscuro, perché, a forza di pensare, mandai a vuoto l'impresa che all'inizio avevo abbracciato così in fretta."
+    },
+    {
+      "versi": [43, 45],
+      "testo": "\"S’i’ ho ben la parola tua intesa\",\nrispuose del magnanimo quell’ombra,\n\"l’anima tua è da viltade offesa;",
+      "parafrasi": "«Se ho capito bene le tue parole», rispose l'ombra di quel magnanimo, «la tua anima è colpita dalla viltà,"
+    },
+    {
+      "versi": [46, 48],
+      "testo": "la qual molte fïate l’omo ingombra\nsì che d’onrata impresa lo rivolve,\ncome falso veder bestia quand’ombra.",
+      "parafrasi": "che molte volte pesa sull'uomo tanto da distoglierlo da un'impresa onorevole, come una falsa visione fa con una bestia quando si adombra."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "Da questa tema acciò che tu ti solve,\ndirotti perch’io venni e quel ch’io ’ntesi\nnel primo punto che di te mi dolve.",
+      "parafrasi": "Perché tu ti liberi da questo timore, ti dirò perché sono venuto e che cosa ho udito nel primo momento in cui ho provato pena per te."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "Io era tra color che son sospesi,\ne donna mi chiamò beata e bella,\ntal che di comandare io la richiesi.",
+      "parafrasi": "Ero tra coloro che sono sospesi [nel Limbo], e mi chiamò una donna beata e bella, tale che le chiesi di comandarmi."
+    },
+    {
+      "versi": [55, 57],
+      "testo": "Lucevan li occhi suoi più che la stella;\ne cominciommi a dir soave e piana,\ncon angelica voce, in sua favella:",
+      "parafrasi": "I suoi occhi splendevano più di una stella; e cominciò a dirmi, dolce e pacata, con voce d'angelo, nel suo parlare:"
+    },
+    {
+      "versi": [58, 60],
+      "testo": "\"O anima cortese mantoana,\ndi cui la fama ancor nel mondo dura,\ne durerà quanto ’l mondo lontana,",
+      "parafrasi": "“O anima cortese di Mantova, la cui fama dura ancora nel mondo e durerà quanto durerà il mondo,"
+    },
+    {
+      "versi": [61, 63],
+      "testo": "l’amico mio, e non de la ventura,\nne la diserta piaggia è impedito\nsì nel cammin, che vòlt’è per paura;",
+      "parafrasi": "il mio amico, amato da me e non dalla fortuna, è così ostacolato nel cammino sul pendio deserto che per paura è tornato indietro;"
+    },
+    {
+      "versi": [64, 66],
+      "testo": "e temo che non sia già sì smarrito,\nch’io mi sia tardi al soccorso levata,\nper quel ch’i’ ho di lui nel cielo udito.",
+      "parafrasi": "e temo che sia già tanto smarrito che io mi sia mossa tardi in suo soccorso, per quello che di lui ho sentito in cielo."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Or movi, e con la tua parola ornata\ne con ciò c’ ha mestieri al suo campare,\nl’aiuta sì ch’i’ ne sia consolata.",
+      "parafrasi": "Ora va', e con la tua parola ornata e con tutto ciò che serve a salvarlo, aiutalo in modo che io ne sia consolata."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "I’ son Beatrice che ti faccio andare;\nvegno del loco ove tornar disio;\namor mi mosse, che mi fa parlare.",
+      "parafrasi": "Io che ti faccio andare sono Beatrice; vengo da un luogo dove desidero tornare; mi ha mossa l'amore, che mi fa parlare."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Quando sarò dinanzi al segnor mio,\ndi te mi loderò sovente a lui\".\nTacette allora, e poi comincia’ io:",
+      "parafrasi": "Quando sarò davanti al mio Signore, gli parlerò spesso bene di te”. Allora tacque, e io cominciai:"
+    },
+    {
+      "versi": [76, 78],
+      "testo": "\"O donna di virtù sola per cui\nl’umana spezie eccede ogne contento\ndi quel ciel c’ ha minor li cerchi sui,",
+      "parafrasi": "“O donna di virtù, per la quale soltanto la specie umana supera tutto ciò che è contenuto nel cielo che ha i cerchi più piccoli [il cielo della Luna],"
+    },
+    {
+      "versi": [79, 81],
+      "testo": "tanto m’aggrada il tuo comandamento,\nche l’ubidir, se già fosse, m’è tardi;\npiù non t’è uo’ ch’aprirmi il tuo talento.",
+      "parafrasi": "il tuo comando mi è tanto gradito che l'obbedire, anche se fosse già cominciato, mi sembrerebbe in ritardo; non ti occorre altro che rivelarmi il tuo desiderio."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "Ma dimmi la cagion che non ti guardi\nde lo scender qua giuso in questo centro\nde l’ampio loco ove tornar tu ardi\".",
+      "parafrasi": "Ma dimmi la ragione per cui non temi di scendere quaggiù, in questo centro, dall'ampio luogo dove ardi di tornare”."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "\"Da che tu vuo’ saver cotanto a dentro,\ndirotti brievemente\", mi rispuose,\n\"perch’i’ non temo di venir qua entro.",
+      "parafrasi": "“Poiché vuoi sapere così a fondo, ti dirò in breve”, mi rispose, “perché non ho paura di venire qua dentro."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Temer si dee di sole quelle cose\nc’ hanno potenza di fare altrui male;\nde l’altre no, ché non son paurose.",
+      "parafrasi": "Si devono temere soltanto le cose che hanno il potere di fare del male; le altre no, perché non fanno paura."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "I’ son fatta da Dio, sua mercé, tale,\nche la vostra miseria non mi tange,\nné fiamma d’esto ’ncendio non m’assale.",
+      "parafrasi": "Dio, per sua grazia, mi ha fatta tale che la vostra miseria non mi tocca, e la fiamma di questo incendio non mi assale."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Donna è gentil nel ciel che si compiange\ndi questo ’mpedimento ov’io ti mando,\nsì che duro giudicio là sù frange.",
+      "parafrasi": "C'è in cielo una donna gentile che si duole di questo impedimento a cui ti mando, tanto da piegare lassù il duro giudizio."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Questa chiese Lucia in suo dimando\ne disse: - Or ha bisogno il tuo fedele\ndi te, e io a te lo raccomando -.",
+      "parafrasi": "Questa chiamò Lucia e le disse: «Ora il tuo fedele ha bisogno di te, e io te lo raccomando»."
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Lucia, nimica di ciascun crudele,\nsi mosse, e venne al loco dov’i’ era,\nche mi sedea con l’antica Rachele.",
+      "parafrasi": "Lucia, nemica di ogni crudeltà, si mosse e venne nel luogo dov'ero io, seduta accanto all'antica Rachele."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Disse: - Beatrice, loda di Dio vera,\nché non soccorri quei che t’amò tanto,\nch’uscì per te de la volgare schiera?",
+      "parafrasi": "Disse: «Beatrice, vera lode di Dio, perché non soccorri colui che ti amò tanto, che per te uscì dalla schiera del volgo?"
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Non odi tu la pieta del suo pianto,\nnon vedi tu la morte che ’l combatte\nsu la fiumana ove ’l mar non ha vanto? -.",
+      "parafrasi": "Non senti l'angoscia del suo pianto, non vedi la morte che lo assale sulla fiumana di cui il mare non è più terribile?»."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "Al mondo non fur mai persone ratte\na far lor pro o a fuggir lor danno,\ncom’io, dopo cotai parole fatte,",
+      "parafrasi": "Al mondo non ci furono mai persone così rapide a fare il proprio vantaggio o a fuggire il proprio danno, come io, dopo queste parole,"
+    },
+    {
+      "versi": [112, 114],
+      "testo": "venni qua giù del mio beato scanno,\nfidandomi del tuo parlare onesto,\nch’onora te e quei ch’udito l’ hanno\".",
+      "parafrasi": "venni quaggiù dal mio seggio beato, confidando nel tuo parlare nobile, che onora te e coloro che l'hanno ascoltato”."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "Poscia che m’ebbe ragionato questo,\nli occhi lucenti lagrimando volse,\nper che mi fece del venir più presto.",
+      "parafrasi": "Dopo avermi detto questo, volse piangendo gli occhi lucenti, e così mi rese più sollecito a venire."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "E venni a te così com’ella volse:\nd’inanzi a quella fiera ti levai\nche del bel monte il corto andar ti tolse.",
+      "parafrasi": "E venni da te così come lei volle: ti tolsi davanti a quella fiera che ti impedì la via breve verso il bel monte."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "Dunque: che è perché, perché restai,\nperché tanta viltà nel core allette,\nperché ardire e franchezza non hai,",
+      "parafrasi": "Dunque, che c'è? Perché, perché ti fermi? Perché accogli nel cuore tanta viltà? Perché non hai coraggio e franchezza,"
+    },
+    {
+      "versi": [124, 126],
+      "testo": "poscia che tai tre donne benedette\ncuran di te ne la corte del cielo,\ne ’l mio parlar tanto ben ti promette?\".",
+      "parafrasi": "dal momento che tre donne benedette si curano di te nella corte del cielo, e le mie parole ti promettono tanto bene?»."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Quali fioretti dal notturno gelo\nchinati e chiusi, poi che ’l sol li ’mbianca,\nsi drizzan tutti aperti in loro stelo,",
+      "parafrasi": "Come i fiorellini, piegati e chiusi dal gelo della notte, quando il sole li illumina si raddrizzano tutti aperti sul loro stelo,"
+    },
+    {
+      "versi": [130, 132],
+      "testo": "tal mi fec’io di mia virtude stanca,\ne tanto buono ardire al cor mi corse,\nch’i’ cominciai come persona franca:",
+      "parafrasi": "così feci io con la mia forza abbattuta, e mi corse al cuore un coraggio così buono che cominciai, come una persona liberata:"
+    },
+    {
+      "versi": [133, 135],
+      "testo": "\"Oh pietosa colei che mi soccorse!\ne te cortese ch’ubidisti tosto\na le vere parole che ti porse!",
+      "parafrasi": "«Oh pietosa colei che mi ha soccorso! E cortese tu, che hai obbedito subito alle parole vere che ti rivolse!"
+    },
+    {
+      "versi": [136, 138],
+      "testo": "Tu m’ hai con disiderio il cor disposto\nsì al venir con le parole tue,\nch’i’ son tornato nel primo proposto.",
+      "parafrasi": "Con le tue parole mi hai disposto il cuore al desiderio di venire, tanto che sono tornato al primo proposito."
+    },
+    {
+      "versi": [139, 141],
+      "testo": "Or va, ch’un sol volere è d’ambedue:\ntu duca, tu segnore e tu maestro\".\nCosì li dissi; e poi che mosso fue,",
+      "parafrasi": "Ora va', perché una sola volontà è in tutti e due: tu guida, tu signore e tu maestro». Così gli dissi; e quando si fu mosso,"
+    },
+    {
+      "versi": [142, 142],
+      "testo": "intrai per lo cammino alto e silvestro.",
+      "parafrasi": "entrai nel cammino arduo e selvaggio."
+    }
+  ]
+}

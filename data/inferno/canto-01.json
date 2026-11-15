@@ -1,0 +1,354 @@
+{
+  "cantica": "inferno",
+  "canto": 1,
+  "titolo": "La selva oscura",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_I",
+  "numero_versi": 136,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 12],
+      "titolo_scena": "Lo smarrimento nella selva",
+      "sintesi": "A metà della vita Dante si ritrova in una selva oscura, avendo perso la via giusta; non sa dire come vi sia entrato, tanto era pieno di sonno.",
+      "luogo_id": "selva-oscura",
+      "personaggi": ["dante"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Dante smarrito nella selva oscura",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_1_%28I_found_myself_within_a_forest_dark...%29.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_1_%28I_found_myself_within_a_forest_dark...%29.jpg/960px-Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_1_%28I_found_myself_within_a_forest_dark...%29.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_1_(I_found_myself_within_a_forest_dark...).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [13, 30],
+      "titolo_scena": "Il colle illuminato dal sole",
+      "sintesi": "Giunto ai piedi di un colle, Dante vede la cima già illuminata dal sole e la paura si calma; come un naufrago scampato si volta a guardare il passo pericoloso, poi riprende a salire.",
+      "luogo_id": "colle",
+      "personaggi": ["dante"],
+      "tavole": []
+    },
+    {
+      "id": "scena-3",
+      "versi": [31, 42],
+      "titolo_scena": "La lonza",
+      "sintesi": "All'inizio della salita una lonza agile e maculata gli sbarra la strada; l'ora del mattino e la primavera gli danno però speranza.",
+      "luogo_id": "colle",
+      "personaggi": ["dante", "lonza"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "La lonza",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_2_%28the_panther%29.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_2_%28the_panther%29.jpg/960px-Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_2_%28the_panther%29.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_2_(the_panther).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [43, 60],
+      "titolo_scena": "Il leone e la lupa",
+      "sintesi": "Appare un leone, a testa alta e affamato, poi una lupa magrissima e carica di brame: Dante perde la speranza di salire e viene respinto verso la selva.",
+      "luogo_id": "colle",
+      "personaggi": ["dante", "leone", "lupa"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Il leone",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_3_%28The_lion%29.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_3_%28The_lion%29.jpg/960px-Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_3_%28The_lion%29.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_3_(The_lion).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-5",
+      "versi": [61, 90],
+      "titolo_scena": "L'incontro con Virgilio",
+      "sintesi": "Mentre precipita in basso, Dante vede un'ombra e le chiede aiuto: è Virgilio, il poeta dell'Eneide, suo maestro e modello di stile.",
+      "luogo_id": "selva-oscura",
+      "personaggi": ["dante", "virgilio", "enea", "lupa"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Dante incontra Virgilio",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_4_%28Dante_meets_Virgil%29.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_4_%28Dante_meets_Virgil%29.jpg/960px-Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_4_%28Dante_meets_Virgil%29.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_4_(Dante_meets_Virgil).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-6",
+      "versi": [91, 111],
+      "titolo_scena": "La profezia del veltro",
+      "sintesi": "Virgilio spiega che la lupa non lascia passare nessuno e annuncia la venuta di un veltro che la ricaccerà nell'Inferno.",
+      "luogo_id": "selva-oscura",
+      "personaggi": ["virgilio", "lupa", "veltro", "camilla"],
+      "tavole": []
+    },
+    {
+      "id": "scena-7",
+      "versi": [112, 136],
+      "titolo_scena": "Il viaggio proposto",
+      "sintesi": "Virgilio si offre come guida per l'Inferno e il Purgatorio; per il Paradiso lo affiderà a un'anima più degna. Dante accetta e lo segue.",
+      "luogo_id": "selva-oscura",
+      "personaggi": ["dante", "virgilio", "beatrice"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Dante segue Virgilio (fine del canto I)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_5_%28End_of_Canto_I%29.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_5_%28End_of_Canto_I%29.jpg/960px-Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_5_%28End_of_Canto_I%29.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_5_(End_of_Canto_I).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Nel mezzo del cammin di nostra vita\nmi ritrovai per una selva oscura,\nché la diritta via era smarrita.",
+      "parafrasi": "A metà del cammino della nostra vita mi ritrovai in una selva buia, perché avevo smarrito la strada giusta."
+    },
+    {
+      "versi": [4, 6],
+      "testo": "Ahi quanto a dir qual era è cosa dura\nesta selva selvaggia e aspra e forte\nche nel pensier rinova la paura!",
+      "parafrasi": "Ah, quanto è difficile dire com'era questa selva selvaggia, intricata e impenetrabile, che solo a ripensarci rinnova la paura!"
+    },
+    {
+      "versi": [7, 9],
+      "testo": "Tant’è amara che poco è più morte;\nma per trattar del ben ch’i’ vi trovai,\ndirò de l’altre cose ch’i’ v’ ho scorte.",
+      "parafrasi": "È così amara che la morte lo è poco di più; ma per parlare del bene che vi trovai, racconterò anche le altre cose che lì ho visto."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "Io non so ben ridir com’i’ v’intrai,\ntant’era pien di sonno a quel punto\nche la verace via abbandonai.",
+      "parafrasi": "Non so ridire bene come vi entrai, tanto ero pieno di sonno nel momento in cui abbandonai la strada vera."
+    },
+    {
+      "versi": [13, 15],
+      "testo": "Ma poi ch’i’ fui al piè d’un colle giunto,\nlà dove terminava quella valle\nche m’avea di paura il cor compunto,",
+      "parafrasi": "Ma quando giunsi ai piedi di un colle, là dove finiva quella valle che mi aveva trafitto il cuore di paura,"
+    },
+    {
+      "versi": [16, 18],
+      "testo": "guardai in alto e vidi le sue spalle\nvestite già de’ raggi del pianeta\nche mena dritto altrui per ogne calle.",
+      "parafrasi": "guardai in alto e vidi la sua cima già rivestita dai raggi del sole, il pianeta che guida chiunque per la strada giusta."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "Allor fu la paura un poco queta,\nche nel lago del cor m’era durata\nla notte ch’i’ passai con tanta pieta.",
+      "parafrasi": "Allora si calmò un poco la paura che mi era rimasta nel profondo del cuore per tutta la notte, passata in tanta angoscia."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "E come quei che con lena affannata,\nuscito fuor del pelago a la riva,\nsi volge a l’acqua perigliosa e guata,",
+      "parafrasi": "E come chi, col respiro affannato, uscito dal mare sulla riva, si volta verso l'acqua pericolosa e la fissa,"
+    },
+    {
+      "versi": [25, 27],
+      "testo": "così l’animo mio, ch’ancor fuggiva,\nsi volse a retro a rimirar lo passo\nche non lasciò già mai persona viva.",
+      "parafrasi": "così il mio animo, che ancora fuggiva, si voltò indietro a guardare quel passaggio da cui nessuno è mai uscito vivo."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Poi ch’èi posato un poco il corpo lasso,\nripresi via per la piaggia diserta,\nsì che ’l piè fermo sempre era ’l più basso.",
+      "parafrasi": "Dopo aver fatto riposare un poco il corpo stanco, ripresi il cammino per il pendio deserto, salendo così che il piede fermo era sempre quello più in basso."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "Ed ecco, quasi al cominciar de l’erta,\nuna lonza leggera e presta molto,\nche di pel macolato era coverta;",
+      "parafrasi": "Ed ecco, quasi all'inizio della salita, una lonza agile e molto veloce, coperta di pelo maculato;"
+    },
+    {
+      "versi": [34, 36],
+      "testo": "e non mi si partia dinanzi al volto,\nanzi ’mpediva tanto il mio cammino,\nch’i’ fui per ritornar più volte vòlto.",
+      "parafrasi": "e non si toglieva da davanti a me, anzi mi ostacolava tanto il cammino che più volte mi voltai per tornare indietro."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Temp’era dal principio del mattino,\ne ’l sol montava ’n sù con quelle stelle\nch’eran con lui quando l’amor divino",
+      "parafrasi": "Era il principio del mattino, e il sole saliva con quelle stelle che erano con lui quando l'amore divino"
+    },
+    {
+      "versi": [40, 42],
+      "testo": "mosse di prima quelle cose belle;\nsì ch’a bene sperar m’era cagione\ndi quella fiera a la gaetta pelle",
+      "parafrasi": "mise in moto per la prima volta le cose belle del creato; così mi davano motivo di sperare bene riguardo a quella fiera dalla pelle screziata"
+    },
+    {
+      "versi": [43, 45],
+      "testo": "l’ora del tempo e la dolce stagione;\nma non sì che paura non mi desse\nla vista che m’apparve d’un leone.",
+      "parafrasi": "l'ora del giorno e la dolce stagione; ma non tanto che non mi facesse paura la vista di un leone che mi apparve."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Questi parea che contra me venisse\ncon la test’alta e con rabbiosa fame,\nsì che parea che l’aere ne tremesse.",
+      "parafrasi": "Questo sembrava venire contro di me a testa alta e con una fame rabbiosa, tanto che pareva che l'aria ne tremasse."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "Ed una lupa, che di tutte brame\nsembiava carca ne la sua magrezza,\ne molte genti fé già viver grame,",
+      "parafrasi": "E una lupa, che nella sua magrezza sembrava carica di tutte le brame, e che già fece vivere infelici molte genti,"
+    },
+    {
+      "versi": [52, 54],
+      "testo": "questa mi porse tanto di gravezza\ncon la paura ch’uscia di sua vista,\nch’io perdei la speranza de l’altezza.",
+      "parafrasi": "mi diede tanta angoscia, con la paura che usciva dal suo aspetto, che persi la speranza di raggiungere la cima."
+    },
+    {
+      "versi": [55, 57],
+      "testo": "E qual è quei che volontieri acquista,\ne giugne ’l tempo che perder lo face,\nche ’n tutti suoi pensier piange e s’attrista;",
+      "parafrasi": "E come chi accumula volentieri, e arriva il momento che gli fa perdere tutto, e allora in ogni suo pensiero piange e si rattrista,"
+    },
+    {
+      "versi": [58, 60],
+      "testo": "tal mi fece la bestia sanza pace,\nche, venendomi ’ncontro, a poco a poco\nmi ripigneva là dove ’l sol tace.",
+      "parafrasi": "così mi ridusse quella bestia senza pace, che, venendomi incontro, a poco a poco mi respingeva là dove il sole tace."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Mentre ch’i’ rovinava in basso loco,\ndinanzi a li occhi mi si fu offerto\nchi per lungo silenzio parea fioco.",
+      "parafrasi": "Mentre precipitavo verso il basso, mi si offrì davanti agli occhi uno che, per il lungo silenzio, sembrava avere la voce fioca."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Quando vidi costui nel gran diserto,\n\"Miserere di me\", gridai a lui,\n\"qual che tu sii, od ombra od omo certo!\".",
+      "parafrasi": "Quando lo vidi in quel grande deserto, gli gridai: «Abbi pietà di me, chiunque tu sia, ombra o uomo vero!»."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Rispuosemi: \"Non omo, omo già fui,\ne li parenti miei furon lombardi,\nmantoani per patrïa ambedui.",
+      "parafrasi": "Mi rispose: «Non sono un uomo, lo fui un tempo; i miei genitori furono lombardi, entrambi mantovani di patria."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "Nacqui sub Iulio, ancor che fosse tardi,\ne vissi a Roma sotto ’l buono Augusto\nnel tempo de li dèi falsi e bugiardi.",
+      "parafrasi": "Nacqui sotto Giulio Cesare, benché tardi, e vissi a Roma sotto il buon Augusto, al tempo degli dèi falsi e bugiardi."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Poeta fui, e cantai di quel giusto\nfigliuol d’Anchise che venne di Troia,\npoi che ’l superbo Ilïón fu combusto.",
+      "parafrasi": "Fui poeta, e cantai di quel giusto figlio di Anchise [Enea] che venne da Troia, dopo che la superba Ilio fu bruciata."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "Ma tu perché ritorni a tanta noia?\nperché non sali il dilettoso monte\nch’è principio e cagion di tutta gioia?\".",
+      "parafrasi": "Ma tu, perché torni verso tanta pena? Perché non sali il monte delizioso, che è principio e causa di ogni gioia?»."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "\"Or se’ tu quel Virgilio e quella fonte\nche spandi di parlar sì largo fiume?\",\nrispuos’io lui con vergognosa fronte.",
+      "parafrasi": "«Sei dunque tu quel Virgilio, quella fonte da cui sgorga un così largo fiume di parole?», gli risposi con la fronte bassa per la vergogna."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "\"O de li altri poeti onore e lume,\nvagliami ’l lungo studio e ’l grande amore\nche m’ ha fatto cercar lo tuo volume.",
+      "parafrasi": "«O onore e luce degli altri poeti, mi valgano il lungo studio e il grande amore che mi hanno fatto cercare la tua opera."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "Tu se’ lo mio maestro e ’l mio autore,\ntu se’ solo colui da cu’ io tolsi\nlo bello stilo che m’ ha fatto onore.",
+      "parafrasi": "Tu sei il mio maestro e il mio autore; tu solo sei colui da cui ho preso il bello stile che mi ha dato onore."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Vedi la bestia per cu’ io mi volsi;\naiutami da lei, famoso saggio,\nch’ella mi fa tremar le vene e i polsi\".",
+      "parafrasi": "Vedi la bestia per cui mi sono voltato indietro: aiutami contro di lei, famoso saggio, perché mi fa tremare le vene e i polsi»."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "\"A te convien tenere altro vïaggio\",\nrispuose, poi che lagrimar mi vide,\n\"se vuo’ campar d’esto loco selvaggio;",
+      "parafrasi": "«A te conviene prendere un'altra strada», rispose, dopo che mi vide piangere, «se vuoi salvarti da questo luogo selvaggio;"
+    },
+    {
+      "versi": [94, 96],
+      "testo": "ché questa bestia, per la qual tu gride,\nnon lascia altrui passar per la sua via,\nma tanto lo ’mpedisce che l’uccide;",
+      "parafrasi": "perché questa bestia, per la quale tu gridi, non lascia passare nessuno per la sua via, ma lo ostacola tanto da ucciderlo;"
+    },
+    {
+      "versi": [97, 99],
+      "testo": "e ha natura sì malvagia e ria,\nche mai non empie la bramosa voglia,\ne dopo ’l pasto ha più fame che pria.",
+      "parafrasi": "e ha una natura così malvagia e crudele che non sazia mai la sua voglia avida, e dopo il pasto ha più fame di prima."
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Molti son li animali a cui s’ammoglia,\ne più saranno ancora, infin che ’l veltro\nverrà, che la farà morir con doglia.",
+      "parafrasi": "Molti sono gli animali a cui si accoppia, e saranno ancora di più, finché verrà il veltro, che la farà morire nel dolore."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Questi non ciberà terra né peltro,\nma sapïenza, amore e virtute,\ne sua nazion sarà tra feltro e feltro.",
+      "parafrasi": "Questi non si nutrirà di terre né di denaro, ma di sapienza, amore e virtù, e la sua nascita sarà tra feltro e feltro."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Di quella umile Italia fia salute\nper cui morì la vergine Cammilla,\nEurialo e Turno e Niso di ferute.",
+      "parafrasi": "Sarà la salvezza di quell'umile Italia per la quale morirono di ferite la vergine Camilla, Eurialo, Turno e Niso."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "Questi la caccerà per ogne villa,\nfin che l’avrà rimessa ne lo ’nferno,\nlà onde ’nvidia prima dipartilla.",
+      "parafrasi": "Egli le darà la caccia per ogni città, finché l'avrà ricacciata nell'Inferno, là da dove l'invidia per prima la fece uscire."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Ond’io per lo tuo me’ penso e discerno\nche tu mi segui, e io sarò tua guida,\ne trarrotti di qui per loco etterno;",
+      "parafrasi": "Perciò, per il tuo bene, penso e giudico che tu mi debba seguire: io sarò la tua guida e ti porterò via di qui attraverso un luogo eterno,"
+    },
+    {
+      "versi": [115, 117],
+      "testo": "ove udirai le disperate strida,\nvedrai li antichi spiriti dolenti,\nch’a la seconda morte ciascun grida;",
+      "parafrasi": "dove udrai le grida disperate e vedrai gli antichi spiriti sofferenti, ciascuno dei quali invoca la seconda morte;"
+    },
+    {
+      "versi": [118, 120],
+      "testo": "e vederai color che son contenti\nnel foco, perché speran di venire\nquando che sia a le beate genti.",
+      "parafrasi": "e vedrai coloro che sono contenti nel fuoco, perché sperano di giungere, quando sarà, tra le genti beate."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "A le quai poi se tu vorrai salire,\nanima fia a ciò più di me degna:\ncon lei ti lascerò nel mio partire;",
+      "parafrasi": "E se poi vorrai salire fino a queste, ci sarà per questo un'anima più degna di me: con lei ti lascerò quando me ne andrò;"
+    },
+    {
+      "versi": [124, 126],
+      "testo": "ché quello imperador che là sù regna,\nperch’i’ fu’ ribellante a la sua legge,\nnon vuol che ’n sua città per me si vegna.",
+      "parafrasi": "perché quell'imperatore che regna lassù, poiché io fui ribelle alla sua legge, non vuole che per mezzo mio si entri nella sua città."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "In tutte parti impera e quivi regge;\nquivi è la sua città e l’alto seggio:\noh felice colui cu’ ivi elegge!\".",
+      "parafrasi": "Egli comanda dappertutto, e là regna; là sono la sua città e il suo alto trono: felice colui che egli sceglie per quel luogo!»."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "E io a lui: \"Poeta, io ti richeggio\nper quello Dio che tu non conoscesti,\nacciò ch’io fugga questo male e peggio,",
+      "parafrasi": "E io a lui: «Poeta, ti chiedo, in nome di quel Dio che tu non hai conosciuto, affinché io sfugga a questo male e a uno peggiore,"
+    },
+    {
+      "versi": [133, 135],
+      "testo": "che tu mi meni là dov’or dicesti,\nsì ch’io veggia la porta di san Pietro\ne color cui tu fai cotanto mesti\".",
+      "parafrasi": "di condurmi là dove hai detto ora, così che io veda la porta di san Pietro e coloro che tu descrivi tanto infelici»."
+    },
+    {
+      "versi": [136, 136],
+      "testo": "Allor si mosse, e io li tenni dietro.",
+      "parafrasi": "Allora si mosse, e io gli andai dietro."
+    }
+  ]
+}

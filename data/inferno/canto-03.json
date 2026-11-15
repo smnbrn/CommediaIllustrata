@@ -1,0 +1,316 @@
+{
+  "cantica": "inferno",
+  "canto": 3,
+  "titolo": "La porta dell'Inferno, gli ignavi, Caronte",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_III",
+  "numero_versi": 136,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 21],
+      "titolo_scena": "La porta dell'Inferno",
+      "sintesi": "Sulla porta sta scritta l'iscrizione che annuncia il dolore eterno e si chiude con «Lasciate ogne speranza, voi ch'intrate». Virgilio prende Dante per mano e lo fa entrare.",
+      "luogo_id": "porta-inferno",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "La porta dell'Inferno",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_8_%28Canto_III_-_Abandon_all_hope_ye_who_enter_here%29.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_8_%28Canto_III_-_Abandon_all_hope_ye_who_enter_here%29.jpg/960px-Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_8_%28Canto_III_-_Abandon_all_hope_ye_who_enter_here%29.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_8_(Canto_III_-_Abandon_all_hope_ye_who_enter_here).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [22, 69],
+      "titolo_scena": "Gli ignavi",
+      "sintesi": "Nell'aria senza stelle risuonano lamenti: sono le anime di chi visse «sanza 'nfamia e sanza lodo», insieme agli angeli rimasti neutrali. Corrono nudi dietro un'insegna, punti da mosconi e vespe; tra loro, colui che fece il gran rifiuto.",
+      "luogo_id": "vestibolo",
+      "personaggi": ["dante", "virgilio", "gran-rifiuto"],
+      "tavole": []
+    },
+    {
+      "id": "scena-3",
+      "versi": [70, 99],
+      "titolo_scena": "Caronte",
+      "sintesi": "Sulla riva dell'Acheronte arriva in barca un vecchio dal pelo bianco che grida contro le anime e vuole allontanare Dante, perché è vivo. Virgilio lo zittisce: «Vuolsi così colà dove si puote».",
+      "luogo_id": "acheronte",
+      "personaggi": ["dante", "virgilio", "caronte"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Caronte",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_9_%28Canto_III_-_Charon%29.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_9_%28Canto_III_-_Charon%29.jpg/960px-Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_9_%28Canto_III_-_Charon%29.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_9_(Canto_III_-_Charon).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [100, 129],
+      "titolo_scena": "Le anime salgono sulla barca",
+      "sintesi": "Le anime bestemmiano e piangono; Caronte, con occhi di brace, le raccoglie e batte col remo chi indugia. Cadono dalla riva come foglie d'autunno. Virgilio spiega che la giustizia divina muta la loro paura in desiderio.",
+      "luogo_id": "acheronte",
+      "personaggi": ["dante", "virgilio", "caronte"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Caronte spinge le anime sulla barca",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_10_%28Canto_III_-_Charon_herds_the_sinners_onto_his_boat%29.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_10_%28Canto_III_-_Charon_herds_the_sinners_onto_his_boat%29.jpg/960px-Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_10_%28Canto_III_-_Charon_herds_the_sinners_onto_his_boat%29.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_10_(Canto_III_-_Charon_herds_the_sinners_onto_his_boat).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-5",
+      "versi": [130, 136],
+      "titolo_scena": "Il terremoto e lo svenimento",
+      "sintesi": "La campagna buia trema, dalla terra si leva un vento e balena una luce rossa: Dante perde i sensi e cade come chi è preso dal sonno.",
+      "luogo_id": "acheronte",
+      "personaggi": ["dante"],
+      "tavole": []
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "’Per me si va ne la città dolente,\nper me si va ne l’etterno dolore,\nper me si va tra la perduta gente.",
+      "parafrasi": "«Attraverso di me si va nella città del dolore, attraverso di me si va nel dolore eterno, attraverso di me si va tra la gente perduta."
+    },
+    {
+      "versi": [4, 6],
+      "testo": "Giustizia mosse il mio alto fattore;\nfecemi la divina podestate,\nla somma sapïenza e ’l primo amore.",
+      "parafrasi": "La giustizia mosse il mio alto creatore; mi fecero la divina potenza, la somma sapienza e il primo amore."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "Dinanzi a me non fuor cose create\nse non etterne, e io etterno duro.\nLasciate ogne speranza, voi ch’intrate’.",
+      "parafrasi": "Prima di me non furono create cose se non eterne, e io duro in eterno. Lasciate ogni speranza, voi che entrate»."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "Queste parole di colore oscuro\nvid’ïo scritte al sommo d’una porta;\nper ch’io: \"Maestro, il senso lor m’è duro\".",
+      "parafrasi": "Queste parole di colore scuro le vidi scritte in cima a una porta; perciò dissi: «Maestro, il loro senso mi è duro»."
+    },
+    {
+      "versi": [13, 15],
+      "testo": "Ed elli a me, come persona accorta:\n\"Qui si convien lasciare ogne sospetto;\nogne viltà convien che qui sia morta.",
+      "parafrasi": "Ed egli a me, da persona che ha capito: «Qui bisogna lasciare ogni esitazione; ogni viltà qui deve essere morta."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "Noi siam venuti al loco ov’i’ t’ ho detto\nche tu vedrai le genti dolorose\nc’ hanno perduto il ben de l’intelletto\".",
+      "parafrasi": "Siamo giunti al luogo dove ti ho detto che vedrai le genti sofferenti che hanno perduto il bene dell'intelletto»."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "E poi che la sua mano a la mia puose\ncon lieto volto, ond’io mi confortai,\nmi mise dentro a le segrete cose.",
+      "parafrasi": "E dopo aver posato la sua mano sulla mia, con un volto lieto che mi diede conforto, mi fece entrare tra le cose segrete."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Quivi sospiri, pianti e alti guai\nrisonavan per l’aere sanza stelle,\nper ch’io al cominciar ne lagrimai.",
+      "parafrasi": "Qui sospiri, pianti e alti lamenti risuonavano per l'aria senza stelle, tanto che io, all'inizio, ne piansi."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Diverse lingue, orribili favelle,\nparole di dolore, accenti d’ira,\nvoci alte e fioche, e suon di man con elle",
+      "parafrasi": "Lingue diverse, orribili pronunce, parole di dolore, accenti d'ira, voci alte e fioche, e insieme un battere di mani"
+    },
+    {
+      "versi": [28, 30],
+      "testo": "facevano un tumulto, il qual s’aggira\nsempre in quell’aura sanza tempo tinta,\ncome la rena quando turbo spira.",
+      "parafrasi": "facevano un tumulto che si aggira sempre in quell'aria eternamente buia, come la sabbia quando soffia il turbine."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "E io ch’avea d’error la testa cinta,\ndissi: \"Maestro, che è quel ch’i’ odo?\ne che gent’è che par nel duol sì vinta?\".",
+      "parafrasi": "E io, con la mente stretta dal dubbio, dissi: «Maestro, che cos'è quello che sento? E che gente è questa, che sembra così vinta dal dolore?»."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Ed elli a me: \"Questo misero modo\ntegnon l’anime triste di coloro\nche visser sanza ’nfamia e sanza lodo.",
+      "parafrasi": "Ed egli a me: «In questa misera condizione stanno le anime tristi di coloro che vissero senza infamia e senza lode."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Mischiate sono a quel cattivo coro\nde li angeli che non furon ribelli\nné fur fedeli a Dio, ma per sé fuoro.",
+      "parafrasi": "Sono mescolate a quella schiera spregevole degli angeli che non furono ribelli né fedeli a Dio, ma stettero per sé stessi."
+    },
+    {
+      "versi": [40, 42],
+      "testo": "Caccianli i ciel per non esser men belli,\nné lo profondo inferno li riceve,\nch’alcuna gloria i rei avrebber d’elli\".",
+      "parafrasi": "I cieli li cacciano per non essere meno belli, e nemmeno il profondo Inferno li accoglie, perché i dannati ne avrebbero qualche vanto»."
+    },
+    {
+      "versi": [43, 45],
+      "testo": "E io: \"Maestro, che è tanto greve\na lor che lamentar li fa sì forte?\".\nRispuose: \"Dicerolti molto breve.",
+      "parafrasi": "E io: «Maestro, che cosa pesa loro tanto da farli lamentare così forte?». Rispose: «Te lo dirò molto in breve."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Questi non hanno speranza di morte,\ne la lor cieca vita è tanto bassa,\nche ’nvidïosi son d’ogne altra sorte.",
+      "parafrasi": "Questi non hanno speranza di morire, e la loro vita cieca è tanto bassa che sono invidiosi di ogni altra sorte."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "Fama di loro il mondo esser non lassa;\nmisericordia e giustizia li sdegna:\nnon ragioniam di lor, ma guarda e passa\".",
+      "parafrasi": "Il mondo non lascia che resti di loro alcuna fama; la misericordia e la giustizia li disdegnano: non parliamo di loro, ma guarda e passa»."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "E io, che riguardai, vidi una ’nsegna\nche girando correva tanto ratta,\nche d’ogne posa mi parea indegna;",
+      "parafrasi": "E io, guardando, vidi un'insegna che correva girando tanto veloce che mi sembrava incapace di qualsiasi sosta;"
+    },
+    {
+      "versi": [55, 57],
+      "testo": "e dietro le venìa sì lunga tratta\ndi gente, ch’i’ non averei creduto\nche morte tanta n’avesse disfatta.",
+      "parafrasi": "e dietro le veniva una fila di gente così lunga che non avrei mai creduto che la morte ne avesse disfatta tanta."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Poscia ch’io v’ebbi alcun riconosciuto,\nvidi e conobbi l’ombra di colui\nche fece per viltade il gran rifiuto.",
+      "parafrasi": "Dopo che ebbi riconosciuto qualcuno, vidi e riconobbi l'ombra di colui che fece per viltà il gran rifiuto."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Incontanente intesi e certo fui\nche questa era la setta d’i cattivi,\na Dio spiacenti e a’ nemici sui.",
+      "parafrasi": "Subito capii e fui certo che questa era la schiera dei vili, che dispiacciono a Dio e ai suoi nemici."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Questi sciaurati, che mai non fur vivi,\nerano ignudi e stimolati molto\nda mosconi e da vespe ch’eran ivi.",
+      "parafrasi": "Questi sciagurati, che non furono mai vivi, erano nudi e punti di continuo da mosconi e da vespe che erano lì."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Elle rigavan lor di sangue il volto,\nche, mischiato di lagrime, a’ lor piedi\nda fastidiosi vermi era ricolto.",
+      "parafrasi": "Gli insetti rigavano loro il volto di sangue, che, mescolato alle lacrime, ai loro piedi era raccolto da vermi ripugnanti."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "E poi ch’a riguardar oltre mi diedi,\nvidi genti a la riva d’un gran fiume;\nper ch’io dissi: \"Maestro, or mi concedi",
+      "parafrasi": "E quando mi misi a guardare più avanti, vidi gente sulla riva di un grande fiume; perciò dissi: «Maestro, concedimi ora"
+    },
+    {
+      "versi": [73, 75],
+      "testo": "ch’i’ sappia quali sono, e qual costume\nle fa di trapassar parer sì pronte,\ncom’i’ discerno per lo fioco lume\".",
+      "parafrasi": "di sapere chi sono, e quale legge le fa sembrare così pronte ad attraversare, come distinguo in questa luce fioca»."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "Ed elli a me: \"Le cose ti fier conte\nquando noi fermerem li nostri passi\nsu la trista riviera d’Acheronte\".",
+      "parafrasi": "Ed egli a me: «Le cose ti saranno chiare quando fermeremo i nostri passi sulla triste riva dell'Acheronte»."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Allor con li occhi vergognosi e bassi,\ntemendo no ’l mio dir li fosse grave,\ninfino al fiume del parlar mi trassi.",
+      "parafrasi": "Allora, con gli occhi bassi per la vergogna, temendo che le mie parole gli pesassero, mi astenni dal parlare fino al fiume."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "Ed ecco verso noi venir per nave\nun vecchio, bianco per antico pelo,\ngridando: \"Guai a voi, anime prave!",
+      "parafrasi": "Ed ecco venire verso di noi su una barca un vecchio, bianco per il pelo antico, che gridava: «Guai a voi, anime malvagie!"
+    },
+    {
+      "versi": [85, 87],
+      "testo": "Non isperate mai veder lo cielo:\ni’ vegno per menarvi a l’altra riva\nne le tenebre etterne, in caldo e ’n gelo.",
+      "parafrasi": "Non sperate di vedere mai il cielo: vengo per portarvi all'altra riva, nelle tenebre eterne, nel caldo e nel gelo."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "E tu che se’ costì, anima viva,\npàrtiti da cotesti che son morti\".\nMa poi che vide ch’io non mi partiva,",
+      "parafrasi": "E tu che sei lì, anima viva, allontanati da questi che sono morti». Ma quando vide che non me ne andavo,"
+    },
+    {
+      "versi": [91, 93],
+      "testo": "disse: \"Per altra via, per altri porti\nverrai a piaggia, non qui, per passare:\npiù lieve legno convien che ti porti\".",
+      "parafrasi": "disse: «Per un'altra via, per altri porti arriverai a una riva per passare, non di qui: ti dovrà portare una barca più leggera»."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "E ’l duca lui: \"Caron, non ti crucciare:\nvuolsi così colà dove si puote\nciò che si vuole, e più non dimandare\".",
+      "parafrasi": "E la mia guida a lui: «Caronte, non ti adirare: si vuole così là dove si può ciò che si vuole, e non chiedere altro»."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Quinci fuor quete le lanose gote\nal nocchier de la livida palude,\nche ’ntorno a li occhi avea di fiamme rote.",
+      "parafrasi": "Da quel momento si quietarono le guance lanose del nocchiero della livida palude, che aveva intorno agli occhi cerchi di fiamma."
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Ma quell’anime, ch’eran lasse e nude,\ncangiar colore e dibattero i denti,\nratto che ’nteser le parole crude.",
+      "parafrasi": "Ma quelle anime, che erano stanche e nude, cambiarono colore e batterono i denti, appena udirono quelle parole crudeli."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Bestemmiavano Dio e lor parenti,\nl’umana spezie e ’l loco e ’l tempo e ’l seme\ndi lor semenza e di lor nascimenti.",
+      "parafrasi": "Bestemmiavano Dio e i loro genitori, la specie umana, il luogo, il tempo e il seme della loro stirpe e della loro nascita."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Poi si ritrasser tutte quante insieme,\nforte piangendo, a la riva malvagia\nch’attende ciascun uom che Dio non teme.",
+      "parafrasi": "Poi si raccolsero tutte insieme, piangendo forte, sulla riva malvagia che attende ogni uomo che non teme Dio."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "Caron dimonio, con occhi di bragia\nloro accennando, tutte le raccoglie;\nbatte col remo qualunque s’adagia.",
+      "parafrasi": "Il demonio Caronte, con occhi di brace, facendo loro cenno, le raccoglie tutte; batte con il remo chiunque indugia."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Come d’autunno si levan le foglie\nl’una appresso de l’altra, fin che ’l ramo\nvede a la terra tutte le sue spoglie,",
+      "parafrasi": "Come d'autunno le foglie si staccano una dopo l'altra, finché il ramo vede a terra tutte le sue spoglie,"
+    },
+    {
+      "versi": [115, 117],
+      "testo": "similemente il mal seme d’Adamo\ngittansi di quel lito ad una ad una,\nper cenni come augel per suo richiamo.",
+      "parafrasi": "così la cattiva discendenza di Adamo si getta da quella riva a una a una, a un cenno, come l'uccello al richiamo."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Così sen vanno su per l’onda bruna,\ne avanti che sien di là discese,\nanche di qua nuova schiera s’auna.",
+      "parafrasi": "Così se ne vanno sull'onda scura, e prima che siano scese dall'altra parte, già di qua si raduna una nuova schiera."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "\"Figliuol mio\", disse ’l maestro cortese,\n\"quelli che muoion ne l’ira di Dio\ntutti convegnon qui d’ogne paese;",
+      "parafrasi": "«Figlio mio», disse il maestro cortese, «quelli che muoiono nell'ira di Dio si radunano tutti qui da ogni paese;"
+    },
+    {
+      "versi": [124, 126],
+      "testo": "e pronti sono a trapassar lo rio,\nché la divina giustizia li sprona,\nsì che la tema si volve in disio.",
+      "parafrasi": "e sono pronti ad attraversare il fiume, perché la giustizia divina li sprona, così che la paura si muta in desiderio."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Quinci non passa mai anima buona;\ne però, se Caron di te si lagna,\nben puoi sapere omai che ’l suo dir suona\".",
+      "parafrasi": "Di qui non passa mai un'anima buona; perciò, se Caronte si lamenta di te, ora puoi ben capire che cosa vogliono dire le sue parole»."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Finito questo, la buia campagna\ntremò sì forte, che de lo spavento\nla mente di sudore ancor mi bagna.",
+      "parafrasi": "Finito questo, la buia campagna tremò così forte che il ricordo dello spavento mi bagna ancora di sudore."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "La terra lagrimosa diede vento,\nche balenò una luce vermiglia\nla qual mi vinse ciascun sentimento;",
+      "parafrasi": "La terra bagnata di lacrime sprigionò un vento, che fece balenare una luce rossa: questa mi tolse ogni senso;"
+    },
+    {
+      "versi": [136, 136],
+      "testo": "e caddi come l’uom cui sonno piglia.",
+      "parafrasi": "e caddi come l'uomo preso dal sonno."
+    }
+  ]
+}

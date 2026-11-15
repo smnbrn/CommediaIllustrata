@@ -1,0 +1,384 @@
+{
+  "cantica": "inferno",
+  "canto": 5,
+  "titolo": "Minosse, i lussuriosi, Paolo e Francesca",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_V",
+  "numero_versi": 142,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 24],
+      "titolo_scena": "Minosse",
+      "sintesi": "All'ingresso del secondo cerchio Minosse ringhia e giudica: le anime confessano e lui avvolge la coda tante volte quanti cerchi dovranno scendere. Tenta di fermare Dante, ma Virgilio lo fa tacere.",
+      "luogo_id": "cerchio-2",
+      "personaggi": ["dante", "virgilio", "minosse"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Minosse",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_13_%28Canto_V_-_Minos%29.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_13_%28Canto_V_-_Minos%29.jpg/960px-Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_13_%28Canto_V_-_Minos%29.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_13_(Canto_V_-_Minos).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [25, 51],
+      "titolo_scena": "La bufera infernale",
+      "sintesi": "In un luogo senza luce una bufera che non ha mai sosta trascina i lussuriosi, che sottomisero la ragione al desiderio: volano come storni e come gru in fila.",
+      "luogo_id": "cerchio-2",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "La bufera infernale",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_14_%28Canto_V_-_The_hurricane_of_souls%29.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_14_%28Canto_V_-_The_hurricane_of_souls%29.jpg/960px-Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_14_%28Canto_V_-_The_hurricane_of_souls%29.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_14_(Canto_V_-_The_hurricane_of_souls).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [52, 72],
+      "titolo_scena": "Le anime travolte dall'amore",
+      "sintesi": "Virgilio indica Semiramide, Didone, Cleopatra, Elena, Achille, Paride, Tristano e più di mille ombre morte per amore. Dante è preso dalla pietà.",
+      "luogo_id": "cerchio-2",
+      "personaggi": [
+        "dante",
+        "virgilio",
+        "semiramide",
+        "didone",
+        "cleopatra",
+        "elena",
+        "achille",
+        "paride",
+        "tristano"
+      ],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "La bufera infernale",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_14_%28Canto_V_-_The_hurricane_of_souls%29.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_14_%28Canto_V_-_The_hurricane_of_souls%29.jpg/960px-Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_14_%28Canto_V_-_The_hurricane_of_souls%29.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_14_(Canto_V_-_The_hurricane_of_souls).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [73, 108],
+      "titolo_scena": "Paolo e Francesca",
+      "sintesi": "Due anime vanno insieme, leggere nel vento. Chiamate da Dante, vengono come colombe al nido; parla lei: nata a Ravenna, travolta da un amore che ancora non l'abbandona e che li condusse alla stessa morte.",
+      "luogo_id": "cerchio-2",
+      "personaggi": ["dante", "virgilio", "francesca", "paolo", "gianciotto"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Paolo e Francesca nella bufera",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_15_%28Canto_V_-_Francesca_di_Rimini%29.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_15_%28Canto_V_-_Francesca_di_Rimini%29.jpg/960px-Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_15_%28Canto_V_-_Francesca_di_Rimini%29.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_15_(Canto_V_-_Francesca_di_Rimini).jpg",
+          "licenza": "Pubblico dominio"
+        },
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Paolo e Francesca davanti a Dante e Virgilio",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_16_%28Canto_V_-_Francesca_di_Rimini_II%29.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_16_%28Canto_V_-_Francesca_di_Rimini_II%29.jpg/960px-Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_16_%28Canto_V_-_Francesca_di_Rimini_II%29.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_16_(Canto_V_-_Francesca_di_Rimini_II).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-5",
+      "versi": [109, 138],
+      "titolo_scena": "Il libro galeotto",
+      "sintesi": "Dante chiede come nacque quell'amore. Francesca racconta: leggevano insieme di Lancillotto, soli; al punto del bacio, Paolo la baciò tremando. «Quel giorno più non vi leggemmo avante».",
+      "luogo_id": "cerchio-2",
+      "personaggi": ["dante", "virgilio", "francesca", "paolo"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Paolo e Francesca: la lettura e il bacio",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Gustave_Dor%C3%A9_-_The_Inferno%2C_Canto_5-2.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Gustave_Dor%C3%A9_-_The_Inferno%2C_Canto_5-2.jpg/960px-Gustave_Dor%C3%A9_-_The_Inferno%2C_Canto_5-2.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_The_Inferno,_Canto_5-2.jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-6",
+      "versi": [139, 142],
+      "titolo_scena": "Dante sviene",
+      "sintesi": "Mentre Francesca parla, Paolo piange; Dante, sopraffatto dalla pietà, viene meno e cade «come corpo morto cade».",
+      "luogo_id": "cerchio-2",
+      "personaggi": ["dante", "francesca", "paolo"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Dante sviene",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_18_%28Canto_V_-_Dante_has_a_touch_of_the_vapours%29.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_18_%28Canto_V_-_Dante_has_a_touch_of_the_vapours%29.jpg/960px-Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_18_%28Canto_V_-_Dante_has_a_touch_of_the_vapours%29.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_18_(Canto_V_-_Dante_has_a_touch_of_the_vapours).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Così discesi del cerchio primaio\ngiù nel secondo, che men loco cinghia\ne tanto più dolor, che punge a guaio.",
+      "parafrasi": "Così scesi dal primo cerchio giù nel secondo, che racchiude meno spazio e tanto più dolore, che tormenta fino a far gridare."
+    },
+    {
+      "versi": [4, 6],
+      "testo": "Stavvi Minòs orribilmente, e ringhia:\nessamina le colpe ne l’intrata;\ngiudica e manda secondo ch’avvinghia.",
+      "parafrasi": "Vi sta Minosse, orribile, e ringhia: all'ingresso esamina le colpe; giudica e destina secondo i giri della coda."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "Dico che quando l’anima mal nata\nli vien dinanzi, tutta si confessa;\ne quel conoscitor de le peccata",
+      "parafrasi": "Dico che quando l'anima nata per sua sventura gli viene davanti, confessa tutto; e quel conoscitore dei peccati"
+    },
+    {
+      "versi": [10, 12],
+      "testo": "vede qual loco d’inferno è da essa;\ncignesi con la coda tante volte\nquantunque gradi vuol che giù sia messa.",
+      "parafrasi": "vede quale luogo dell'Inferno le spetta; si cinge con la coda tante volte quanti sono i gradi che vuole sia mandata giù."
+    },
+    {
+      "versi": [13, 15],
+      "testo": "Sempre dinanzi a lui ne stanno molte:\nvanno a vicenda ciascuna al giudizio,\ndicono e odono e poi son giù volte.",
+      "parafrasi": "Davanti a lui ne stanno sempre molte: vanno una dopo l'altra al giudizio, dicono, ascoltano e poi sono precipitate giù."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "\"O tu che vieni al doloroso ospizio\",\ndisse Minòs a me quando mi vide,\nlasciando l’atto di cotanto offizio,",
+      "parafrasi": "«O tu che vieni alla dimora del dolore», mi disse Minosse quando mi vide, interrompendo l'esercizio di un così grande ufficio,"
+    },
+    {
+      "versi": [19, 21],
+      "testo": "\"guarda com’entri e di cui tu ti fide;\nnon t’inganni l’ampiezza de l’intrare!\".\nE ’l duca mio a lui: \"Perché pur gride?",
+      "parafrasi": "«bada a come entri e a chi ti affidi; non ti inganni l'ampiezza dell'entrata!». E la mia guida a lui: «Perché continui a gridare?"
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Non impedir lo suo fatale andare:\nvuolsi così colà dove si puote\nciò che si vuole, e più non dimandare\".",
+      "parafrasi": "Non ostacolare il suo viaggio voluto dal cielo: si vuole così là dove si può ciò che si vuole, e non chiedere altro»."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Or incomincian le dolenti note\na farmisi sentire; or son venuto\nlà dove molto pianto mi percuote.",
+      "parafrasi": "Ora cominciano a farmisi sentire le voci di dolore; ora sono giunto là dove un grande pianto mi colpisce."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Io venni in loco d’ogne luce muto,\nche mugghia come fa mar per tempesta,\nse da contrari venti è combattuto.",
+      "parafrasi": "Giunsi in un luogo privo di ogni luce, che mugghia come fa il mare in tempesta, quando è battuto da venti contrari."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "La bufera infernal, che mai non resta,\nmena li spirti con la sua rapina;\nvoltando e percotendo li molesta.",
+      "parafrasi": "La bufera infernale, che non si ferma mai, trascina gli spiriti con la sua violenza; li tormenta facendoli girare e sbattere."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Quando giungon davanti a la ruina,\nquivi le strida, il compianto, il lamento;\nbestemmian quivi la virtù divina.",
+      "parafrasi": "Quando giungono davanti alla rovina, lì sono le grida, il pianto, il lamento; lì bestemmiano la potenza divina."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Intesi ch’a così fatto tormento\nenno dannati i peccator carnali,\nche la ragion sommettono al talento.",
+      "parafrasi": "Capii che a un simile tormento sono condannati i peccatori carnali, che sottomettono la ragione al desiderio."
+    },
+    {
+      "versi": [40, 42],
+      "testo": "E come li stornei ne portan l’ali\nnel freddo tempo, a schiera larga e piena,\ncosì quel fiato li spiriti mali",
+      "parafrasi": "E come le ali portano gli stornelli, nella stagione fredda, in schiera larga e fitta, così quel soffio porta gli spiriti malvagi"
+    },
+    {
+      "versi": [43, 45],
+      "testo": "di qua, di là, di giù, di sù li mena;\nnulla speranza li conforta mai,\nnon che di posa, ma di minor pena.",
+      "parafrasi": "di qua, di là, in giù, in su; nessuna speranza li conforta mai, non dico di riposo, ma nemmeno di una pena minore."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "E come i gru van cantando lor lai,\nfaccendo in aere di sé lunga riga,\ncosì vid’io venir, traendo guai,",
+      "parafrasi": "E come le gru vanno cantando i loro lamenti, formando nell'aria una lunga fila, così vidi venire, emettendo gemiti,"
+    },
+    {
+      "versi": [49, 51],
+      "testo": "ombre portate da la detta briga;\nper ch’i’ dissi: \"Maestro, chi son quelle\ngenti che l’aura nera sì gastiga?\".",
+      "parafrasi": "ombre portate da quella bufera; perciò dissi: «Maestro, chi sono quelle genti che l'aria nera castiga così?»."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "\"La prima di color di cui novelle\ntu vuo’ saper\", mi disse quelli allotta,\n\"fu imperadrice di molte favelle.",
+      "parafrasi": "«La prima di coloro di cui vuoi avere notizie», mi disse allora, «fu imperatrice di molti popoli di lingue diverse."
+    },
+    {
+      "versi": [55, 57],
+      "testo": "A vizio di lussuria fu sì rotta,\nche libito fé licito in sua legge,\nper tòrre il biasmo in che era condotta.",
+      "parafrasi": "Fu così dedita al vizio della lussuria che nella sua legge rese lecito ciò che piaceva, per cancellare il biasimo in cui era caduta."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Ell’è Semiramìs, di cui si legge\nche succedette a Nino e fu sua sposa:\ntenne la terra che ’l Soldan corregge.",
+      "parafrasi": "È Semiramide, di cui si legge che succedette a Nino e fu sua sposa: governò la terra che ora regge il Sultano."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "L’altra è colei che s’ancise amorosa,\ne ruppe fede al cener di Sicheo;\npoi è Cleopatràs lussurïosa.",
+      "parafrasi": "L'altra è colei che si uccise per amore e ruppe la fedeltà alle ceneri di Sicheo [Didone]; poi viene la lussuriosa Cleopatra."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Elena vedi, per cui tanto reo\ntempo si volse, e vedi ’l grande Achille,\nche con amore al fine combatteo.",
+      "parafrasi": "Vedi Elena, per la quale trascorse tanto tempo di sventure, e vedi il grande Achille, che alla fine combatté con amore."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Vedi Parìs, Tristano\"; e più di mille\nombre mostrommi e nominommi a dito,\nch’amor di nostra vita dipartille.",
+      "parafrasi": "Vedi Paride, Tristano»; e mi mostrò e mi indicò a dito, nominandole, più di mille ombre che amore separò dalla nostra vita."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "Poscia ch’io ebbi ’l mio dottore udito\nnomar le donne antiche e ’ cavalieri,\npietà mi giunse, e fui quasi smarrito.",
+      "parafrasi": "Dopo aver udito il mio maestro nominare le donne antiche e i cavalieri, mi prese la pietà e fui quasi smarrito."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "I’ cominciai: \"Poeta, volontieri\nparlerei a quei due che ’nsieme vanno,\ne paion sì al vento esser leggeri\".",
+      "parafrasi": "Cominciai: «Poeta, parlerei volentieri a quei due che vanno insieme e sembrano così leggeri nel vento»."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "Ed elli a me: \"Vedrai quando saranno\npiù presso a noi; e tu allor li priega\nper quello amor che i mena, ed ei verranno\".",
+      "parafrasi": "Ed egli a me: «Aspetta che siano più vicini a noi; allora pregali in nome di quell'amore che li trascina, e verranno»."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Sì tosto come il vento a noi li piega,\nmossi la voce: \"O anime affannate,\nvenite a noi parlar, s’altri nol niega!\".",
+      "parafrasi": "Appena il vento li piegò verso di noi, levai la voce: «O anime affannate, venite a parlarci, se nessuno lo vieta!»."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "Quali colombe dal disio chiamate\ncon l’ali alzate e ferme al dolce nido\nvegnon per l’aere, dal voler portate;",
+      "parafrasi": "Come colombe chiamate dal desiderio, con le ali alzate e ferme, vengono per l'aria al dolce nido, portate dalla volontà,"
+    },
+    {
+      "versi": [85, 87],
+      "testo": "cotali uscir de la schiera ov’è Dido,\na noi venendo per l’aere maligno,\nsì forte fu l’affettüoso grido.",
+      "parafrasi": "così quelle uscirono dalla schiera dov'è Didone, venendo a noi per l'aria maligna, tanto fu forte il mio grido affettuoso."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "\"O animal grazïoso e benigno\nche visitando vai per l’aere perso\nnoi che tignemmo il mondo di sanguigno,",
+      "parafrasi": "«O creatura cortese e benevola, che vai visitando per l'aria scura noi che tingemmo il mondo di sangue,"
+    },
+    {
+      "versi": [91, 93],
+      "testo": "se fosse amico il re de l’universo,\nnoi pregheremmo lui de la tua pace,\npoi c’ hai pietà del nostro mal perverso.",
+      "parafrasi": "se il re dell'universo ci fosse amico, lo pregheremmo per la tua pace, poiché hai pietà del nostro male atroce."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Di quel che udire e che parlar vi piace,\nnoi udiremo e parleremo a voi,\nmentre che ’l vento, come fa, ci tace.",
+      "parafrasi": "Di ciò che vi piace ascoltare e dire, noi ascolteremo e parleremo con voi, finché il vento, come fa ora, tace."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Siede la terra dove nata fui\nsu la marina dove ’l Po discende\nper aver pace co’ seguaci sui.",
+      "parafrasi": "La terra dove nacqui si stende sulla costa dove il Po scende per trovare pace con i suoi affluenti."
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Amor, ch’al cor gentil ratto s’apprende,\nprese costui de la bella persona\nche mi fu tolta; e ’l modo ancor m’offende.",
+      "parafrasi": "Amore, che si accende rapido nel cuore gentile, prese costui per la bella persona che mi fu tolta; e il modo ancora mi offende."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Amor, ch’a nullo amato amar perdona,\nmi prese del costui piacer sì forte,\nche, come vedi, ancor non m’abbandona.",
+      "parafrasi": "Amore, che non permette a nessuno che è amato di non riamare, mi prese della bellezza di costui con tanta forza che, come vedi, ancora non mi abbandona."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Amor condusse noi ad una morte.\nCaina attende chi a vita ci spense\".\nQueste parole da lor ci fuor porte.",
+      "parafrasi": "Amore ci condusse a una stessa morte. La Caina attende chi ci tolse la vita». Queste parole ci furono rivolte da loro."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "Quand’io intesi quell’anime offense,\nchina’ il viso, e tanto il tenni basso,\nfin che ’l poeta mi disse: \"Che pense?\".",
+      "parafrasi": "Quando ebbi udito quelle anime ferite, chinai il viso e lo tenni basso tanto, finché il poeta mi disse: «A che pensi?»."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Quando rispuosi, cominciai: \"Oh lasso,\nquanti dolci pensier, quanto disio\nmenò costoro al doloroso passo!\".",
+      "parafrasi": "Quando risposi, cominciai: «Ahimè, quanti dolci pensieri, quanto desiderio condusse costoro al passo doloroso!»."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "Poi mi rivolsi a loro e parla’ io,\ne cominciai: \"Francesca, i tuoi martìri\na lagrimar mi fanno tristo e pio.",
+      "parafrasi": "Poi mi rivolsi a loro e parlai, e cominciai: «Francesca, le tue sofferenze mi fanno piangere di tristezza e di pietà."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Ma dimmi: al tempo d’i dolci sospiri,\na che e come concedette amore\nche conosceste i dubbiosi disiri?\".",
+      "parafrasi": "Ma dimmi: al tempo dei dolci sospiri, a quale segno e in che modo amore vi concesse di conoscere i desideri ancora incerti?»."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "E quella a me: \"Nessun maggior dolore\nche ricordarsi del tempo felice\nne la miseria; e ciò sa ’l tuo dottore.",
+      "parafrasi": "E lei a me: «Non c'è dolore più grande che ricordarsi del tempo felice nella miseria; e questo lo sa il tuo maestro."
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Ma s’a conoscer la prima radice\ndel nostro amor tu hai cotanto affetto,\ndirò come colui che piange e dice.",
+      "parafrasi": "Ma se hai tanto desiderio di conoscere la prima radice del nostro amore, farò come chi piange e parla insieme."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Noi leggiavamo un giorno per diletto\ndi Lancialotto come amor lo strinse;\nsoli eravamo e sanza alcun sospetto.",
+      "parafrasi": "Un giorno leggevamo per diletto di Lancillotto, di come amore lo strinse; eravamo soli e senza alcun sospetto."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Per più fïate li occhi ci sospinse\nquella lettura, e scolorocci il viso;\nma solo un punto fu quel che ci vinse.",
+      "parafrasi": "Più volte quella lettura ci fece incontrare gli occhi e ci fece impallidire il viso; ma fu un punto solo quello che ci vinse."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "Quando leggemmo il disïato riso\nesser basciato da cotanto amante,\nquesti, che mai da me non fia diviso,",
+      "parafrasi": "Quando leggemmo che il sorriso desiderato era baciato da un tale amante, costui, che non sarà mai diviso da me,"
+    },
+    {
+      "versi": [136, 138],
+      "testo": "la bocca mi basciò tutto tremante.\nGaleotto fu ’l libro e chi lo scrisse:\nquel giorno più non vi leggemmo avante\".",
+      "parafrasi": "mi baciò la bocca, tutto tremante. Galeotto fu il libro e chi lo scrisse: quel giorno non vi leggemmo più avanti»."
+    },
+    {
+      "versi": [139, 141],
+      "testo": "Mentre che l’uno spirto questo disse,\nl’altro piangëa; sì che di pietade\nio venni men così com’io morisse.",
+      "parafrasi": "Mentre uno spirito diceva questo, l'altro piangeva; così che per la pietà venni meno, come se morissi."
+    },
+    {
+      "versi": [142, 142],
+      "testo": "E caddi come corpo morto cade.",
+      "parafrasi": "E caddi come cade un corpo morto."
+    }
+  ]
+}

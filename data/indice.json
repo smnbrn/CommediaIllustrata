@@ -1,0 +1,48 @@
+{
+  "illustratori": [
+    {
+      "id": "dore",
+      "nome": "Gustave Doré",
+      "breve": "Doré",
+      "opera": "Incisioni per l'Inferno, 1861"
+    }
+  ],
+  "cantiche": [
+    {
+      "id": "inferno",
+      "nome": "Inferno",
+      "canti": [
+        {
+          "canto": 1,
+          "titolo": "La selva oscura",
+          "file": "data/inferno/canto-01.json",
+          "disponibile": true
+        },
+        {
+          "canto": 2,
+          "titolo": "Il dubbio di Dante e le tre donne benedette",
+          "file": "data/inferno/canto-02.json",
+          "disponibile": true
+        },
+        {
+          "canto": 3,
+          "titolo": "La porta dell'Inferno, gli ignavi, Caronte",
+          "file": "data/inferno/canto-03.json",
+          "disponibile": true
+        },
+        {
+          "canto": 4,
+          "titolo": "Il Limbo",
+          "file": "data/inferno/canto-04.json",
+          "disponibile": true
+        },
+        {
+          "canto": 5,
+          "titolo": "Minosse, i lussuriosi, Paolo e Francesca",
+          "file": "data/inferno/canto-05.json",
+          "disponibile": true
+        }
+      ]
+    }
+  ]
+}

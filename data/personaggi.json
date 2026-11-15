@@ -1,0 +1,551 @@
+{
+  "_nota": "apparizioni: indirizzi delle scene nella forma cantica/canto/scena (gli stessi dell'URL #inferno/1/scena-3). dibattuto: true quando l'identificazione o il significato sono discussi dagli studiosi.",
+  "personaggi": [
+    {
+      "id": "dante",
+      "nome": "Dante Alighieri",
+      "chi_era": "Poeta e uomo politico fiorentino (Firenze 1265 – Ravenna 1321), esiliato da Firenze nel 1302. È autore e protagonista del poema: compie il viaggio nell'aldilà nella primavera del 1300.",
+      "dibattuto": false,
+      "apparizioni": [
+        "inferno/1/scena-1",
+        "inferno/1/scena-2",
+        "inferno/1/scena-3",
+        "inferno/1/scena-4",
+        "inferno/1/scena-5",
+        "inferno/1/scena-7",
+        "inferno/2/scena-1",
+        "inferno/2/scena-2",
+        "inferno/2/scena-3",
+        "inferno/2/scena-5",
+        "inferno/3/scena-1",
+        "inferno/3/scena-2",
+        "inferno/3/scena-3",
+        "inferno/3/scena-4",
+        "inferno/3/scena-5",
+        "inferno/4/scena-1",
+        "inferno/4/scena-2",
+        "inferno/4/scena-3",
+        "inferno/4/scena-4",
+        "inferno/4/scena-5",
+        "inferno/5/scena-1",
+        "inferno/5/scena-2",
+        "inferno/5/scena-3",
+        "inferno/5/scena-4",
+        "inferno/5/scena-5",
+        "inferno/5/scena-6"
+      ]
+    },
+    {
+      "id": "virgilio",
+      "nome": "Virgilio",
+      "chi_era": "Publio Virgilio Marone (70–19 a.C.), poeta latino nato presso Mantova, autore delle Bucoliche, delle Georgiche e dell'Eneide. Nel poema è la guida di Dante attraverso Inferno e Purgatorio; come pagano, la sua sede è il Limbo.",
+      "dibattuto": false,
+      "apparizioni": [
+        "inferno/1/scena-5",
+        "inferno/1/scena-6",
+        "inferno/1/scena-7",
+        "inferno/2/scena-2",
+        "inferno/2/scena-3",
+        "inferno/2/scena-4",
+        "inferno/2/scena-5",
+        "inferno/3/scena-1",
+        "inferno/3/scena-2",
+        "inferno/3/scena-3",
+        "inferno/3/scena-4",
+        "inferno/4/scena-1",
+        "inferno/4/scena-2",
+        "inferno/4/scena-3",
+        "inferno/4/scena-4",
+        "inferno/4/scena-5",
+        "inferno/5/scena-1",
+        "inferno/5/scena-2",
+        "inferno/5/scena-3",
+        "inferno/5/scena-4",
+        "inferno/5/scena-5"
+      ]
+    },
+    {
+      "id": "lonza",
+      "nome": "La lonza",
+      "chi_era": "Prima delle tre fiere: un felino agile dal pelo maculato (lince, ghepardo o pantera). Il significato allegorico è dibattuto: per molti commentatori la lussuria, per altri la frode o l'invidia.",
+      "dibattuto": true,
+      "apparizioni": ["inferno/1/scena-3"]
+    },
+    {
+      "id": "leone",
+      "nome": "Il leone",
+      "chi_era": "Seconda fiera, avanza a testa alta e affamato. Di solito è interpretato come la superbia; altri vi leggono la violenza.",
+      "dibattuto": true,
+      "apparizioni": ["inferno/1/scena-4"]
+    },
+    {
+      "id": "lupa",
+      "nome": "La lupa",
+      "chi_era": "Terza fiera, magrissima e piena di brame: è lei a respingere Dante verso la selva. È interpretata quasi concordemente come la cupidigia (l'avidità di beni).",
+      "dibattuto": true,
+      "apparizioni": ["inferno/1/scena-4", "inferno/1/scena-5", "inferno/1/scena-6"]
+    },
+    {
+      "id": "veltro",
+      "nome": "Il veltro",
+      "chi_era": "Il cane da caccia che, secondo la profezia di Virgilio, ricaccerà la lupa nell'Inferno. L'identificazione è tra le più discusse del poema: Cangrande della Scala, un imperatore, un papa riformatore, Cristo che torna a giudicare; anche «tra feltro e feltro» resta oscuro.",
+      "dibattuto": true,
+      "apparizioni": ["inferno/1/scena-6"]
+    },
+    {
+      "id": "beatrice",
+      "nome": "Beatrice",
+      "chi_era": "La donna amata da Dante, identificata secondo una tradizione risalente a Boccaccio con Bice di Folco Portinari, morta nel 1290. Nel canto I è solo accennata come l'«anima più degna»; nel II scende dal cielo nel Limbo per chiedere a Virgilio di soccorrere Dante.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/1/scena-7", "inferno/2/scena-3", "inferno/2/scena-4", "inferno/2/scena-5"]
+    },
+    {
+      "id": "enea",
+      "nome": "Enea",
+      "chi_era": "Eroe troiano, figlio di Anchise e padre di Silvio, protagonista dell'Eneide di Virgilio: nel VI libro scende da vivo nel regno dei morti. Per i Romani era il capostipite della loro stirpe. Dante lo rivede tra gli spiriti magni del Limbo.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/1/scena-5", "inferno/2/scena-2", "inferno/4/scena-4"]
+    },
+    {
+      "id": "camilla",
+      "nome": "Camilla",
+      "chi_era": "Vergine guerriera dei Volsci nell'Eneide: muore combattendo contro i Troiani di Enea. Virgilio la ricorda nel canto I tra i caduti per l'Italia; Dante la rivede nel Limbo.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/1/scena-6", "inferno/4/scena-4"]
+    },
+    {
+      "id": "san-paolo",
+      "nome": "San Paolo",
+      "chi_era": "L'apostolo Paolo di Tarso, chiamato «Vas d'elezione» (vaso eletto) negli Atti degli Apostoli. Nella seconda lettera ai Corinzi racconta di essere stato rapito fino al terzo cielo.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/2/scena-2"]
+    },
+    {
+      "id": "maria",
+      "nome": "La donna gentile (Maria)",
+      "chi_era": "La donna del cielo che per prima ha pietà di Dante e avverte Lucia. Il testo non la nomina: i commentatori la identificano quasi concordemente con la Vergine Maria.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/2/scena-4"]
+    },
+    {
+      "id": "lucia",
+      "nome": "Lucia",
+      "chi_era": "Santa Lucia, martire di Siracusa (inizio del IV secolo), invocata per la vista. Dante è detto suo «fedele»; nell'interpretazione più diffusa rappresenta la grazia che illumina.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/2/scena-4"]
+    },
+    {
+      "id": "rachele",
+      "nome": "Rachele",
+      "chi_era": "Figura biblica, moglie di Giacobbe, che per averla servì quattordici anni. Nella tradizione medievale è simbolo della vita contemplativa; in cielo siede accanto a Beatrice. È tra le anime liberate dal Limbo.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/2/scena-4", "inferno/4/scena-2"]
+    },
+    {
+      "id": "gran-rifiuto",
+      "nome": "Colui che fece il gran rifiuto",
+      "chi_era": "Dante non ne dice il nome. L'identificazione più diffusa, già tra i primi commentatori, è con papa Celestino V, che abdicò nel 1294; sono stati proposti anche Ponzio Pilato, Esaù e altri.",
+      "dibattuto": true,
+      "apparizioni": ["inferno/3/scena-2"]
+    },
+    {
+      "id": "caronte",
+      "nome": "Caronte",
+      "chi_era": "Nella mitologia greca il traghettatore delle anime dei morti, descritto anche da Virgilio nel VI libro dell'Eneide. Dante ne fa un demonio dagli occhi di brace che porta i dannati oltre l'Acheronte.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/3/scena-3", "inferno/3/scena-4"]
+    },
+    {
+      "id": "cristo",
+      "nome": "Cristo (il «possente»)",
+      "chi_era": "Il potente «con segno di vittoria coronato» che Virgilio vide scendere nel Limbo: è Cristo, che dopo la morte liberò le anime dei giusti dell'Antico Testamento. Nell'Inferno non è mai chiamato per nome.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-2"]
+    },
+    {
+      "id": "adamo",
+      "nome": "Adamo",
+      "chi_era": "Il «primo parente»: il primo uomo secondo la Genesi.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-2"]
+    },
+    {
+      "id": "abele",
+      "nome": "Abele",
+      "chi_era": "Secondo figlio di Adamo ed Eva, ucciso dal fratello Caino.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-2"]
+    },
+    {
+      "id": "noe",
+      "nome": "Noè",
+      "chi_era": "Il patriarca biblico che si salvò dal diluvio con l'arca.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-2"]
+    },
+    {
+      "id": "mose",
+      "nome": "Mosè",
+      "chi_era": "Guidò il popolo d'Israele fuori dall'Egitto e ricevette la Legge: per questo Dante lo chiama «legista e ubidente».",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-2"]
+    },
+    {
+      "id": "abramo",
+      "nome": "Abramo",
+      "chi_era": "Il patriarca capostipite del popolo d'Israele.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-2"]
+    },
+    {
+      "id": "davide",
+      "nome": "Davide",
+      "chi_era": "Re d'Israele, a cui la tradizione attribuisce i Salmi.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-2"]
+    },
+    {
+      "id": "giacobbe",
+      "nome": "Giacobbe (Israele)",
+      "chi_era": "Patriarca biblico, detto Israele; è ricordato «con lo padre» Isacco e con i suoi dodici figli, e con Rachele, per la quale servì a lungo Labano.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-2"]
+    },
+    {
+      "id": "omero",
+      "nome": "Omero",
+      "chi_era": "Il poeta greco a cui la tradizione attribuisce l'Iliade e l'Odissea. Dante, che non leggeva il greco, lo conosceva di fama: lo chiama «poeta sovrano» e lo raffigura con la spada, segno della poesia epica.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-3"]
+    },
+    {
+      "id": "orazio",
+      "nome": "Orazio",
+      "chi_era": "Quinto Orazio Flacco (65–8 a.C.), poeta latino. «Satiro» perché nel Medioevo era letto soprattutto come autore delle Satire e delle Epistole.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-3"]
+    },
+    {
+      "id": "ovidio",
+      "nome": "Ovidio",
+      "chi_era": "Publio Ovidio Nasone (43 a.C. – 17 o 18 d.C.), poeta latino, autore delle Metamorfosi, grande fonte di miti per Dante.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-3"]
+    },
+    {
+      "id": "lucano",
+      "nome": "Lucano",
+      "chi_era": "Marco Anneo Lucano (39–65 d.C.), poeta latino, autore della Farsaglia, il poema sulla guerra civile tra Cesare e Pompeo.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-3"]
+    },
+    {
+      "id": "elettra",
+      "nome": "Elettra",
+      "chi_era": "Figlia di Atlante e madre di Dardano, capostipite dei Troiani: per questo è insieme a Ettore, Enea e Cesare. Non va confusa con l'Elettra figlia di Agamennone.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-4"]
+    },
+    {
+      "id": "ettore",
+      "nome": "Ettore",
+      "chi_era": "Figlio di Priamo, il più forte difensore di Troia, ucciso da Achille.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-4"]
+    },
+    {
+      "id": "cesare",
+      "nome": "Cesare",
+      "chi_era": "Gaio Giulio Cesare (100–44 a.C.), generale e dittatore romano; per Dante è il fondatore dell'Impero.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-4"]
+    },
+    {
+      "id": "pentesilea",
+      "nome": "Pentesilea",
+      "chi_era": "Regina delle Amazzoni, accorsa in aiuto di Troia e uccisa da Achille.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-4"]
+    },
+    {
+      "id": "latino",
+      "nome": "Il re Latino",
+      "chi_era": "Re del Lazio nell'Eneide: accoglie Enea e gli promette la figlia Lavinia.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-4"]
+    },
+    {
+      "id": "lavinia",
+      "nome": "Lavinia",
+      "chi_era": "Figlia del re Latino e sposa di Enea: da loro discende, secondo il mito, la stirpe di Roma.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-4"]
+    },
+    {
+      "id": "bruto",
+      "nome": "Bruto",
+      "chi_era": "Lucio Giunio Bruto, che secondo la tradizione cacciò l'ultimo re Tarquinio il Superbo e fu tra i primi consoli della repubblica. Non è il Bruto che uccise Cesare.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-4"]
+    },
+    {
+      "id": "lucrezia",
+      "nome": "Lucrezia",
+      "chi_era": "Matrona romana, moglie di Collatino: violentata dal figlio del re Tarquinio, si uccise; il fatto portò alla cacciata dei re.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-4"]
+    },
+    {
+      "id": "giulia",
+      "nome": "Giulia",
+      "chi_era": "Figlia di Giulio Cesare e moglie di Pompeo.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-4"]
+    },
+    {
+      "id": "marzia",
+      "nome": "Marzia",
+      "chi_era": "Moglie di Catone Uticense, ricordata da Lucano; Dante ne riparla nel Purgatorio.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-4"]
+    },
+    {
+      "id": "cornelia",
+      "nome": "Cornelia",
+      "chi_era": "Per lo più identificata con la figlia di Scipione Africano e madre dei Gracchi, modello di virtù romana.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-4"]
+    },
+    {
+      "id": "saladino",
+      "nome": "Il Saladino",
+      "chi_era": "Salah ad-Din (1138–1193), sultano d'Egitto e di Siria, che nel 1187 riconquistò Gerusalemme. Nel Medioevo cristiano era ammirato per la sua liberalità: sta «solo, in parte» perché non appartiene al mondo antico.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-4"]
+    },
+    {
+      "id": "aristotele",
+      "nome": "Aristotele",
+      "chi_era": "«Il maestro di color che sanno»: Dante non lo nomina, ma è il filosofo greco Aristotele (384–322 a.C.), la massima autorità filosofica del suo tempo.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-5"]
+    },
+    {
+      "id": "socrate",
+      "nome": "Socrate",
+      "chi_era": "Filosofo ateniese (469–399 a.C.), maestro di Platone.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-5"]
+    },
+    {
+      "id": "platone",
+      "nome": "Platone",
+      "chi_era": "Filosofo ateniese (427 ca. – 347 a.C.), allievo di Socrate e maestro di Aristotele.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-5"]
+    },
+    {
+      "id": "democrito",
+      "nome": "Democrito",
+      "chi_era": "Filosofo greco (V–IV secolo a.C.): spiegava il mondo con l'incontro casuale degli atomi, da cui «che 'l mondo a caso pone».",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-5"]
+    },
+    {
+      "id": "diogene",
+      "nome": "Diogene",
+      "chi_era": "Probabilmente Diogene di Sinope, il Cinico (IV secolo a.C.); alcuni pensano a Diogene di Apollonia.",
+      "dibattuto": true,
+      "apparizioni": ["inferno/4/scena-5"]
+    },
+    {
+      "id": "anassagora",
+      "nome": "Anassagora",
+      "chi_era": "Filosofo greco (V secolo a.C.), maestro di Pericle.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-5"]
+    },
+    {
+      "id": "talete",
+      "nome": "Talete",
+      "chi_era": "Talete di Mileto (VII–VI secolo a.C.), considerato il primo filosofo greco e uno dei sette sapienti.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-5"]
+    },
+    {
+      "id": "empedocle",
+      "nome": "Empedocle",
+      "chi_era": "Filosofo di Agrigento (V secolo a.C.), autore della teoria dei quattro elementi.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-5"]
+    },
+    {
+      "id": "eraclito",
+      "nome": "Eraclito",
+      "chi_era": "Filosofo di Efeso (VI–V secolo a.C.).",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-5"]
+    },
+    {
+      "id": "zenone",
+      "nome": "Zenone",
+      "chi_era": "Non è certo quale: Zenone di Cizio, fondatore dello stoicismo, oppure Zenone di Elea, allievo di Parmenide.",
+      "dibattuto": true,
+      "apparizioni": ["inferno/4/scena-5"]
+    },
+    {
+      "id": "dioscoride",
+      "nome": "Dioscoride",
+      "chi_era": "Medico greco del I secolo d.C., autore di un trattato sulle piante medicinali: «accoglitor del quale» significa raccoglitore delle qualità delle erbe.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-5"]
+    },
+    {
+      "id": "orfeo",
+      "nome": "Orfeo",
+      "chi_era": "Mitico poeta e cantore greco, che con il canto ammansiva le fiere.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-5"]
+    },
+    {
+      "id": "cicerone",
+      "nome": "Cicerone (Tullio)",
+      "chi_era": "Marco Tullio Cicerone (106–43 a.C.), oratore e scrittore romano; Dante lo leggeva come filosofo.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-5"]
+    },
+    {
+      "id": "lino",
+      "nome": "Lino",
+      "chi_era": "Mitico poeta greco, accostato a Orfeo. Alcune edizioni antiche leggono qui «Livio», lo storico romano.",
+      "dibattuto": true,
+      "apparizioni": ["inferno/4/scena-5"]
+    },
+    {
+      "id": "seneca",
+      "nome": "Seneca",
+      "chi_era": "Lucio Anneo Seneca (4 a.C. ca. – 65 d.C.), filosofo stoico. «Morale» perché nel Medioevo si distingueva il filosofo dall'autore delle tragedie, creduto un'altra persona.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-5"]
+    },
+    {
+      "id": "euclide",
+      "nome": "Euclide",
+      "chi_era": "Matematico greco attivo ad Alessandria intorno al 300 a.C., autore degli Elementi.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-5"]
+    },
+    {
+      "id": "tolomeo",
+      "nome": "Tolomeo",
+      "chi_era": "Claudio Tolomeo (II secolo d.C.), astronomo e geografo di Alessandria: sul suo sistema, con la Terra al centro, è costruito il cosmo di Dante.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-5"]
+    },
+    {
+      "id": "ippocrate",
+      "nome": "Ippocrate",
+      "chi_era": "Medico greco di Cos (V–IV secolo a.C.), considerato il fondatore della medicina.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-5"]
+    },
+    {
+      "id": "avicenna",
+      "nome": "Avicenna",
+      "chi_era": "Ibn Sina (980–1037), medico e filosofo persiano; il suo Canone fu il manuale di medicina delle università medievali.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-5"]
+    },
+    {
+      "id": "galeno",
+      "nome": "Galeno",
+      "chi_era": "Medico greco di Pergamo (II secolo d.C.), attivo a Roma.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-5"]
+    },
+    {
+      "id": "averroe",
+      "nome": "Averroè",
+      "chi_era": "Ibn Rushd (1126–1198), filosofo arabo di Cordova, autore del «gran comento» alle opere di Aristotele.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/4/scena-5"]
+    },
+    {
+      "id": "minosse",
+      "nome": "Minosse",
+      "chi_era": "Mitico re di Creta, famoso per la sua giustizia; nell'Eneide è giudice dei morti. Dante lo trasforma in un demonio che ringhia e assegna a ogni anima il suo cerchio avvolgendo la coda.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/5/scena-1"]
+    },
+    {
+      "id": "semiramide",
+      "nome": "Semiramide",
+      "chi_era": "Leggendaria regina degli Assiri, moglie e succeditrice di Nino. Secondo lo storico Orosio, fonte di Dante, rese lecito per legge ogni piacere.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/5/scena-3"]
+    },
+    {
+      "id": "didone",
+      "nome": "Didone",
+      "chi_era": "Regina di Cartagine, vedova di Sicheo: nell'Eneide ama Enea e, abbandonata, si uccide. Dante non la nomina tra le ombre, ma la indica con la perifrasi e poco dopo parla della «schiera ov'è Dido».",
+      "dibattuto": false,
+      "apparizioni": ["inferno/5/scena-3"]
+    },
+    {
+      "id": "cleopatra",
+      "nome": "Cleopatra",
+      "chi_era": "Cleopatra VII (69–30 a.C.), ultima regina d'Egitto, legata a Giulio Cesare e poi a Marco Antonio.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/5/scena-3"]
+    },
+    {
+      "id": "elena",
+      "nome": "Elena",
+      "chi_era": "Moglie di Menelao, re di Sparta: il suo rapimento da parte di Paride fu la causa della guerra di Troia.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/5/scena-3"]
+    },
+    {
+      "id": "achille",
+      "nome": "Achille",
+      "chi_era": "Il più forte eroe greco a Troia. Secondo la tradizione medievale morì in un agguato, attirato dall'amore per Polissena, figlia di Priamo: per questo è tra i lussuriosi.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/5/scena-3"]
+    },
+    {
+      "id": "paride",
+      "nome": "Paride",
+      "chi_era": "Principe troiano, figlio di Priamo, che rapì Elena.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/5/scena-3"]
+    },
+    {
+      "id": "tristano",
+      "nome": "Tristano",
+      "chi_era": "Cavaliere dei romanzi arturiani, amante di Isotta, moglie di suo zio re Marco: è l'unico personaggio medievale dell'elenco.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/5/scena-3"]
+    },
+    {
+      "id": "francesca",
+      "nome": "Francesca da Rimini",
+      "chi_era": "Francesca da Polenta, figlia di Guido signore di Ravenna, sposata intorno al 1275 a Gianciotto Malatesta. Fu uccisa dal marito insieme al cognato Paolo, probabilmente tra il 1283 e il 1286. La vicenda è nota quasi soltanto da Dante e dai suoi commentatori.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/5/scena-4", "inferno/5/scena-5", "inferno/5/scena-6"]
+    },
+    {
+      "id": "paolo",
+      "nome": "Paolo Malatesta",
+      "chi_era": "Fratello minore di Gianciotto, signore di Rimini; nel 1282 fu capitano del popolo a Firenze. Nel canto non parla mai: piange mentre Francesca racconta.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/5/scena-4", "inferno/5/scena-5", "inferno/5/scena-6"]
+    },
+    {
+      "id": "gianciotto",
+      "nome": "Gianciotto Malatesta",
+      "chi_era": "Giovanni Malatesta, detto Gianciotto, marito di Francesca e fratello di Paolo, che uccise entrambi. Nel 1300 era ancora vivo: per questo Francesca dice che la Caina, la zona dei traditori dei parenti, lo «attende». Nel canto non è nominato.",
+      "dibattuto": false,
+      "apparizioni": ["inferno/5/scena-4"]
+    }
+  ]
+}

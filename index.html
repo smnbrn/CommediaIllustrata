@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Commedia Illustrata</title>
+  <meta name="description" content="La Divina Commedia letta scena per scena, con le incisioni di Gustave Doré.">
+  <meta name="theme-color" content="#f3ead6" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#14110d" media="(prefers-color-scheme: dark)">
+  <script>
+    // tema prima del primo disegno, per evitare il lampo
+    try { var t = localStorage.getItem('ci-tema'); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+  <link rel="stylesheet" href="css/stile.css?v=2026-11-15.3">
+</head>
+<body>
+  <header class="testata">
+    <a class="marchio" href="#inferno/1" aria-label="Commedia Illustrata, inizio">
+      <span class="marchio-nome">Commedia <em>Illustrata</em></span>
+    </a>
+    <label class="scelta-canto">
+      <span class="sr">Canto</span>
+      <select id="scelta-canto"></select>
+    </label>
+    <button class="bottone-icona" id="bottone-tema" type="button" aria-label="Modalità notte" title="Modalità notte">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 14.5A8.5 8.5 0 0 1 9.5 3.5a8.5 8.5 0 1 0 11 11Z"/></svg>
+    </button>
+  </header>
+
+  <main class="lettore">
+    <aside class="pannello" aria-label="Tavola della scena">
+      <figure class="tavola" id="tavola">
+        <div class="tavola-cornice">
+          <img id="img-a" class="tavola-img attiva" alt="">
+          <img id="img-b" class="tavola-img" alt="">
+          <div class="tavola-vuota" id="tavola-vuota" hidden>
+            <p class="tavola-vuota-titolo" id="tavola-vuota-titolo"></p>
+            <p id="tavola-vuota-testo">Nessuna tavola per questa scena.</p>
+          </div>
+          <button class="tavola-pagina" id="tavola-pagina" type="button" hidden></button>
+        </div>
+        <figcaption class="didascalia" id="didascalia"></figcaption>
+      </figure>
+
+      <div class="comandi">
+        <p class="posizione" id="posizione"></p>
+        <div class="illustratori" id="illustratori" role="radiogroup" aria-label="Illustratore" hidden></div>
+        <p class="avviso" id="avviso" aria-live="polite"></p>
+      </div>
+
+      <button class="mappa" id="mappa" type="button" aria-label="Mappa dell'Inferno: ingrandisci">
+        <svg id="mappa-svg" role="img" aria-labelledby="mappa-titolo"><title id="mappa-titolo">Mappa dell'Inferno</title></svg>
+        <span class="mappa-luogo" id="mappa-luogo"></span>
+      </button>
+    </aside>
+
+    <article class="testo" id="testo" aria-live="off">
+      <p class="caricamento">Caricamento…</p>
+    </article>
+  </main>
+
+  <script>window.CI = { versione: "2026-11-15.3" };  // stessa versione dei ?v= di questa pagina: va cambiata a ogni pubblicazione</script>
+  <script src="js/dati.js?v=2026-11-15.3"></script>
+  <script src="js/mappa.js?v=2026-11-15.3"></script>
+  <script src="js/app.js?v=2026-11-15.3"></script>
+</body>
+</html>
