@@ -8,6 +8,12 @@ Obiettivo del prototipo: solo Inferno, canti I–V. Prima la qualità, poi si sc
 - [x] **Fase 2 – Dataset** — canti I–V: testo, scene, tavole di Doré verificate, parafrasi, personaggi (15/11/2026)
 - [x] **Fase 3 – Controllo** — computer e telefono, immagini, indirizzi (15/11/2026)
 
+## Pubblicazione (15/11/2026)
+
+- Repository: https://github.com/smnbrn/CommediaIllustrata (pubblico), ramo `main`.
+- Sito: https://smnbrn.github.io/CommediaIllustrata/ — GitHub Pages da `main`, cartella principale.
+- Controllo sul sito pubblicato (1280×800): tutte le 28 scene aperte scorrendo, tavola giusta o riquadro vuoto, nessun errore nella console.
+
 ## Ritocchi dopo la Fase 3 (15/11/2026)
 
 - **Versione nei file**: CSS, JavaScript e JSON si caricano con `?v=<versione>` (in `index.html`, cinque occorrenze uguali). A ogni pubblicazione si cambia la versione con una sostituzione: il browser non mescola file vecchi e nuovi. Istruzioni nel README.
@@ -81,6 +87,5 @@ Scelta del proprietario durante la fase: **solo le incisioni di Doré**, gli alt
 
 ### Decisioni
 
-- Cartella del progetto: `C:\Users\simon\Desktop\Repos\CommediaIllustrata`. Repository Git locale, **nessun commit e nessun remoto**.
-- Schema: aggiunti alle tavole `autore_id` e `miniatura` (960 px, per il telefono); al canto `fonte_testo` e `numero_versi`.
+- Cartella del progetto: `C:\Users\simon\Desktop\Repos\CommediaIllustrata`.- Schema: aggiunti alle tavole `autore_id` e `miniatura` (960 px, per il telefono); al canto `fonte_testo` e `numero_versi`.
 - Le immagini si caricano direttamente da `upload.wikimedia.org` (nessuna copia nel repository).

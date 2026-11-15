@@ -2,7 +2,7 @@
 
 La Divina Commedia letta scena per scena: il testo scorre e accanto cambia l'incisione di Gustave Doré per quella scena, con la parafrasi a portata di tocco e una mini-mappa che mostra dove si trova Dante.
 
-Prototipo: Inferno, canti I–V.
+Prototipo: Inferno, canti I–V. Online: https://smnbrn.github.io/CommediaIllustrata/
 
 Sito statico (HTML, CSS, JavaScript senza librerie né build), pensato per GitHub Pages e per il telefono.
 
