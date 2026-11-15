@@ -8,7 +8,23 @@ Il prototipo (canti I–V) è servito a fissare la qualità; ora l'Inferno è co
 - [x] **Fase 2 – Dataset** — canti I–V: testo, scene, tavole di Doré verificate, parafrasi, personaggi (15/11/2026)
 - [x] **Fase 3 – Controllo** — computer e telefono, immagini, indirizzi (15/11/2026)
 - [x] **Fase 4 – Inferno completo** — canti VI–XXXIV con lo stesso livello dei primi cinque (15/11/2026)
-- [ ] **Fase 5 – Controllo dell'Inferno completo nel browser** e pubblicazione
+- [x] **Fase 5 – Pubblicazione e controllo dell'Inferno completo nel browser** (15/11/2026)
+
+## Fase 5 – Pubblicazione e controllo (15/11/2026)
+
+Pubblicato con il commit `fb67b2d` (versione `2026-11-15.7`). Prove sul sito pubblicato, nel pannello del browser visibile:
+
+| Prova | Computer 1280×800 | Telefono 375×812 |
+|---|---|---|
+| Ogni scena aperta dal suo indirizzo: tavola giusta caricata, oppure il riquadro «Nessuna tavola» | 145/145 | 145/145 |
+| Scorrendo ogni canto dall'inizio alla fine, le scene si attivano tutte e nell'ordine giusto | 34/34 canti | 34/34 canti |
+| Tavole sfogliabili (Ugolino 1/3–3/3, finale del canto XXXIV 1/2–2/2) | sì | — |
+| Scorrimento orizzontale della pagina | no | no |
+| Errori nella console del sito | nessuno | nessuno |
+
+- Sul telefono si caricano le versioni da 500 px (70 scene su 72 con tavola; nelle altre due il browser ha scelto quella da 960 px, forse perché era già in memoria dalla prova sul computer).
+- Con il pannello del browser nascosto la pagina non si ridisegna e lo scorrimento non aggiorna l'indirizzo: le prove vanno fatte col pannello visibile.
+- **Non provato**: un telefono vero, Safari su iPhone.
 
 ## Fase 4 – Inferno completo (15/11/2026)
 
