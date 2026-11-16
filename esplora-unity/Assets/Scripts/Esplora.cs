@@ -59,6 +59,7 @@ public class Esplora : MonoBehaviour
     List<Segnaposto> perOrdine = new List<Segnaposto>();
     Transform dante;
     float distPercorsa;
+    Transform portaModello;        // arco della porta, sparisce insieme al coperchio
     Transform coperchio;           // tappo della voragine, sparisce quando si apre la porta dell'Inferno
     bool coperchioAperto; float coperchioT;   // 0 = chiuso, 1 = aperto
     int idxPorta = -1;             // indice della porta dell'Inferno nel percorso: fin lì il tratto è dritto
@@ -286,8 +287,10 @@ public class Esplora : MonoBehaviour
         if (sSelva != null && sColle != null && sPorta != null)
         {
             Vector3 pp = sPorta.pos;
-            coperchio = Scenario.Costruisci(transform, NuovoMateriale(Color.white), ColoreProfondita(0f, false), R, sSelva.pos, sColle.pos, ref pp);
+            coperchio = Scenario.Costruisci(transform, NuovoMateriale(Color.white), ColoreProfondita(0f, false), R, sSelva.pos, sColle.pos, ref pp, out portaModello);
             sPorta.pos = pp; sPorta.pm = pp; sPorta.go.transform.position = pp;
+            // selva e colle un po' sopra il suolo: il tratto dritto del percorso non deve affondare nel terreno
+            foreach (var sp in new[] { sSelva, sColle }) { sp.pos += Vector3.up * 0.7f; sp.pm = sp.pos; sp.go.transform.position = sp.pos; }
         }
         PosizionaFigure();   // prima del percorso: sposta il punto di passaggio accanto alle figure
 
@@ -640,6 +643,7 @@ public class Esplora : MonoBehaviour
             if (coperchio.gameObject.activeSelf != visibile) coperchio.gameObject.SetActive(visibile);
             float e = 1f - coperchioT * coperchioT * (3f - 2f * coperchioT);   // si rimpicciolisce verso il centro
             coperchio.localScale = new Vector3(e, e < 0.5f ? e * 2f : 1f, e);
+            if (portaModello != null) { portaModello.localScale = Vector3.one * e; portaModello.gameObject.SetActive(visibile); }
             var col = coperchio.GetComponentInChildren<MeshCollider>();
             if (col != null) col.enabled = !coperchioAperto;
         }

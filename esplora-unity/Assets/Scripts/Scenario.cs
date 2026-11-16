@@ -111,7 +111,7 @@ public static class Scenario
     // Costruisce la scenografia. 'selva', 'colle' e 'porta' sono le posizioni dei luoghi (la porta viene spostata
     // sotto l'arco). Restituisce il coperchio (da far sparire quando si apre la porta) e la nuova posizione della porta.
     public static Transform Costruisci(Transform padre, Material mat, Color terreno, float raggioBordo,
-                                       Vector3 selva, Vector3 colle, ref Vector3 porta)
+                                       Vector3 selva, Vector3 colle, ref Vector3 porta, out Transform portaModello)
     {
         var rnd = new System.Random(1307);
         var rootFisso = new GameObject("Scenario").transform;
@@ -162,8 +162,8 @@ public static class Scenario
         // ---- il colle: una montagna dietro il luogo, vista dalla voragine
         Vector3 fuori = new Vector3(colle.x, 0f, colle.z).normalized;
         var monte = new MeshFacce();
-        Vector3 cm = new Vector3(colle.x, 0f, colle.z) + fuori * 9f;
-        monte.Montagna(cm, 11f, 20f, 9, rnd);
+        Vector3 cm = new Vector3(colle.x, 0f, colle.z) + fuori * 15f;   // dietro il segnaposto, che resta davanti alla montagna
+        monte.Montagna(cm, 10f, 20f, 9, rnd);
         monte.Montagna(cm + new Vector3(-fuori.z, 0, fuori.x) * 9f + fuori * 2f, 7f, 12f, 8, rnd);
         monte.Montagna(cm - new Vector3(-fuori.z, 0, fuori.x) * 8f + fuori * 1f, 6f, 10f, 8, rnd);
         Oggetto("Colle", rootFisso, monte.Costruisci("Colle"), mat, false);
@@ -177,13 +177,15 @@ public static class Scenario
         var arco = new MeshFacce();
         Color pietra = new Color(0.20f, 0.17f, 0.20f);
         float largo = 5.2f, alto = 10f;
-        arco.Scatola(centro + rot * new Vector3(-largo, alto * 0.5f, 0), new Vector3(1.8f, alto, 2.4f), rot, pietra);
-        arco.Scatola(centro + rot * new Vector3(largo, alto * 0.5f, 0), new Vector3(1.8f, alto, 2.4f), rot, pietra);
-        arco.Scatola(centro + rot * new Vector3(0, alto + 0.9f, 0), new Vector3(largo * 2f + 3.2f, 1.8f, 2.8f), rot, new Color(0.26f, 0.2f, 0.22f));
-        arco.Scatola(centro + rot * new Vector3(0, alto + 2.2f, 0), new Vector3(largo * 2f - 1f, 1.0f, 2.0f), rot, new Color(0.3f, 0.12f, 0.08f));
-        arco.Scatola(centro + rot * new Vector3(0, alto - 0.2f, -1.25f), new Vector3(largo * 1.5f, 1.1f, 0.12f), rot, new Color(0.62f, 0.56f, 0.45f)); // l'iscrizione
-        arco.Scatola(centro + rot * new Vector3(0, alto * 0.5f, 0.2f), new Vector3(largo * 2f - 1.8f, alto, 0.15f), rot, new Color(0.40f, 0.05f, 0.03f)); // bagliore dell'ingresso
-        Oggetto("Porta", rootFisso, arco.Costruisci("Porta"), mat, false);
+        arco.Scatola(rot * new Vector3(-largo, alto * 0.5f, 0), new Vector3(1.8f, alto, 2.4f), rot, pietra);
+        arco.Scatola(rot * new Vector3(largo, alto * 0.5f, 0), new Vector3(1.8f, alto, 2.4f), rot, pietra);
+        arco.Scatola(rot * new Vector3(0, alto + 0.9f, 0), new Vector3(largo * 2f + 3.2f, 1.8f, 2.8f), rot, new Color(0.26f, 0.2f, 0.22f));
+        arco.Scatola(rot * new Vector3(0, alto + 2.2f, 0), new Vector3(largo * 2f - 1f, 1.0f, 2.0f), rot, new Color(0.3f, 0.12f, 0.08f));
+        arco.Scatola(rot * new Vector3(0, alto - 0.2f, -1.25f), new Vector3(largo * 1.5f, 1.1f, 0.12f), rot, new Color(0.62f, 0.56f, 0.45f)); // l'iscrizione
+        arco.Scatola(rot * new Vector3(0, alto * 0.5f, 0.2f), new Vector3(largo * 2f - 1.8f, alto, 0.15f), rot, new Color(0.40f, 0.05f, 0.03f)); // bagliore dell'ingresso
+        var goPorta = Oggetto("Porta", rootFisso, arco.Costruisci("Porta"), mat, false);
+        goPorta.transform.position = centro;
+        portaModello = goPorta.transform;
         porta = centro - dir * 5.5f + Vector3.up * 0.8f;   // punto del percorso: davanti all'arco
 
         return coperchio;
