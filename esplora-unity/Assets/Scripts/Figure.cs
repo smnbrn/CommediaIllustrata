@@ -17,8 +17,7 @@ public static class Figure
 
     static GameObject Palco(Transform p, float raggio, Color c)
     {
-        var go = GameObject.CreatePrimitive(PrimitiveType.Cylinder);
-        Object.Destroy(go.GetComponent<Collider>());
+        var go = Forme.Crea("Palco", Forme.Cilindro());
         go.transform.SetParent(p, false);
         go.transform.localPosition = new Vector3(0, -0.05f, 0);
         go.transform.localScale = new Vector3(raggio * 2f, 0.05f, raggio * 2f);

@@ -100,7 +100,7 @@ public class Esplora : MonoBehaviour
     string UrlTavola(Tavola t)
     {
         string u = string.IsNullOrEmpty(t.miniatura) ? t.url : t.miniatura;
-        bool stretto = Screen.width / ScalaGui() < 560f;
+        bool stretto = Screen.width / ScalaGui() < 560f || Screen.height > Screen.width;
         if (stretto)
         {
             u = u.Replace("/960px-", "/500px-").Replace("-960.jpg", "-500.jpg");
@@ -267,8 +267,7 @@ public class Esplora : MonoBehaviour
         // segnaposti
         foreach (var l in luoghi)
         {
-            var go = GameObject.CreatePrimitive(PrimitiveType.Sphere);
-            Destroy(go.GetComponent<Collider>());
+            var go = Forme.Crea(l.id, Forme.Sfera());
             go.name = l.id;
             go.transform.SetParent(transform, false);
             Vector3 pos = Posizione(l.coordinate);
@@ -321,8 +320,7 @@ public class Esplora : MonoBehaviour
         PreparaMaterialiParticelle();
 
         // Dante, con la sua scia dorata
-        var d = GameObject.CreatePrimitive(PrimitiveType.Sphere);
-        Destroy(d.GetComponent<Collider>());
+        var d = Forme.Crea("Dante", Forme.Sfera());
         d.name = "Dante"; d.transform.SetParent(transform, false);
         d.transform.localScale = Vector3.one * 3.2f;
         d.GetComponent<MeshRenderer>().sharedMaterial = NuovoMateriale(new Color(1f, 1f, 0.9f));
@@ -675,13 +673,15 @@ public class Esplora : MonoBehaviour
         }
 
         // evidenzia il selezionato; Lucifero pulsa
+        dante.localScale = Vector3.one * 3.2f * Mathf.Clamp(Vector3.Distance(cam.transform.position, dante.position) / 90f, 0.45f, 1f);
         foreach (var s in segnaposti)
         {
             bool sel = s == selezionato;
             float base_ = s.luogo.tipo == "zona" ? 1.3f : 2.0f;
             if (s.luogo.id == "acheronte") base_ *= 0.7f;   // più piccolo: deve restare sotto il coperchio
             if (s == lucifero) base_ *= 1.6f + 0.35f * Mathf.Sin(Time.time * 2.2f);
-            s.go.transform.localScale = Vector3.one * (base_ * (sel ? 1.8f : 1f));
+            float vicino = Mathf.Clamp(Vector3.Distance(cam.transform.position, s.go.transform.position) / 90f, 0.45f, 1f);   // da vicino i segnaposti non coprono la scena
+            s.go.transform.localScale = Vector3.one * (base_ * vicino * (sel ? 1.8f : 1f));
         }
     }
 
@@ -723,7 +723,8 @@ public class Esplora : MonoBehaviour
     GUIStyle stTitolo, stTesto, stBottone, stEtichetta, stOmbra, stPiccolo;
     Vector2 scorri;
 
-    float ScalaGui() { return Mathf.Clamp(Mathf.Min(Screen.width, Screen.height) / 600f, 1f, 2.6f); }
+    // su telefono (touch) l'interfaccia è proporzionata a uno schermo di ~400 px; sul computer a ~600 px
+    float ScalaGui() { return Mathf.Clamp(Mathf.Min(Screen.width, Screen.height) / (Input.touchSupported ? 400f : 600f), 1f, 2.6f); }
 
     bool SuGui(Vector2 posSchermo)
     {
@@ -811,7 +812,7 @@ public class Esplora : MonoBehaviour
         // pannello del luogo, con la tavola della scena
         if (selezionato != null)
         {
-            bool stretto = W < 560f;
+            bool stretto = W < 560f || Screen.height > Screen.width;   // telefono in verticale: il pannello sta in basso
             float pw = stretto ? W - 16 : 360f;
             float ph = stretto ? Mathf.Min(Hh * 0.58f, 420f) : Hh - 70f;
             rPannello = stretto ? new Rect(8, Hh - ph - 8, pw, ph) : new Rect(W - pw - 8, 60, pw, ph);

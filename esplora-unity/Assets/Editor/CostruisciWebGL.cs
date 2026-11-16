@@ -21,6 +21,8 @@ public static class CostruisciWebGL
         PlayerSettings.WebGL.template = "PROJECT:Esplora";
         PlayerSettings.SetManagedStrippingLevel(UnityEditor.Build.NamedBuildTarget.WebGL, ManagedStrippingLevel.High);
         PlayerSettings.runInBackground = true;
+        UnityEditor.WebGL.UserBuildSettings.codeOptimization = UnityEditor.WebGL.WasmCodeOptimization.DiskSizeLTO;   // codice più piccolo, anche se la build è più lenta
+        PlayerSettings.stripEngineCode = true;
 
         var opzioni = new BuildPlayerOptions
         {

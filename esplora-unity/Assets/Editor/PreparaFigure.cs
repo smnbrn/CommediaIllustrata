@@ -30,7 +30,17 @@ public static class PreparaFigure
             {
                 string pt = AssetDatabase.GUIDToAssetPath(guid);
                 var imp = (TextureImporter)AssetImporter.GetAtPath(pt);
-                if (imp.maxTextureSize != 1024) { imp.maxTextureSize = 1024; imp.SaveAndReimport(); }
+                // texture più leggere: i dettagli piccoli (occhi, denti, lingua) a 256-512, il resto a 1024, tutte compresse in crunch
+                long peso = new FileInfo(pt).Length;
+                int lato = peso < 40000 ? 128 : peso < 150000 ? 512 : 1024;
+                if (imp.maxTextureSize != lato || !imp.crunchedCompression || imp.compressionQuality != 55 || imp.mipmapEnabled == false)
+                {
+                    imp.maxTextureSize = lato;
+                    imp.mipmapEnabled = true;
+                    imp.textureCompression = TextureImporterCompression.Compressed;
+                    imp.crunchedCompression = true; imp.compressionQuality = 55;
+                    imp.SaveAndReimport();
+                }
                 var tex = AssetDatabase.LoadAssetAtPath<Texture2D>(pt);
                 string mn = Path.GetFileNameWithoutExtension(pt);
                 string pm = $"{cartellaMat}/{mn}.mat";
@@ -45,6 +55,10 @@ public static class PreparaFigure
             // associa ai materiali del modello (per nome)
             var importer = (ModelImporter)AssetImporter.GetAtPath(fbx);
             importer.materialImportMode = ModelImporterMaterialImportMode.ImportStandard;
+            importer.meshCompression = ModelImporterMeshCompression.Medium;       // vertici quantizzati: file più piccoli
+            importer.importTangents = ModelImporterTangents.None;                 // gli shader non usano le tangenti
+            importer.importBlendShapes = false; importer.importCameras = false; importer.importLights = false;
+            importer.optimizeMeshPolygons = true; importer.optimizeMeshVertices = true;
             if (nome == "Alberi") importer.isReadable = true;   // le mesh degli alberi si uniscono a runtime
             importer.SaveAndReimport();
             int collegati = 0, senza = 0;

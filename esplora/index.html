@@ -9,10 +9,14 @@
       #unity-canvas { position: fixed; inset: 0; width: 100%; height: 100%; display: block; touch-action: none; }
       #caricamento { position: fixed; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center;
                      color: #e8dcc8; font: 16px/1.4 Georgia, serif; gap: 14px; text-align: center; padding: 0 16px; }
+      #dettaglio { font: 12px/1.4 sans-serif; color: #a89c88; max-width: 320px; }
       #barra { width: min(280px, 70vw); height: 6px; background: #2a1d1f; border-radius: 3px; overflow: hidden; }
       #barra > div { height: 100%; width: 0; background: #d9a441; }
       #crediti { position: fixed; left: 10px; bottom: 10px; max-width: min(560px, calc(100vw - 190px)); color: #cfc4b0; font: 11px/1.4 sans-serif;
                  background: rgba(0,0,0,.55); padding: 5px 9px; border-radius: 6px; }
+      #crediti summary { cursor: pointer; list-style: none; }
+      #crediti summary::-webkit-details-marker { display: none; }
+      #crediti[open] summary { margin-bottom: 4px; font-weight: bold; }
       #crediti a { color: #e8c98a; }
       #torna { position: fixed; right: 10px; bottom: 10px; color: #e8dcc8; font: 13px sans-serif; background: rgba(0,0,0,.55);
                padding: 6px 10px; border-radius: 6px; text-decoration: none; }
@@ -20,19 +24,26 @@
   </head>
   <body>
     <canvas id="unity-canvas" tabindex="-1"></canvas>
-    <div id="caricamento"><div>Discesa in corso…</div><div id="barra"><div id="avanzamento"></div></div></div>
+    <div id="caricamento">
+      <div id="titolo">Discesa in corso…</div>
+      <div id="barra"><div id="avanzamento"></div></div>
+      <div id="dettaglio">Al primo accesso si scaricano circa 9 MB; le volte dopo parte subito.</div>
+    </div>
     <a id="torna" href="../index.html">← Torna alla lettura</a>
-    <div id="crediti">Modelli 3D su Sketchfab (CC BY 4.0):
+    <details id="crediti"><summary>Crediti dei modelli 3D</summary>Modelli 3D su Sketchfab (CC BY 4.0):
       <a href="https://skfb.ly/6yrpM" target="_blank" rel="noopener">«Caronte»</a> di gb.prof.69,
       <a href="https://skfb.ly/67NZT" target="_blank" rel="noopener">«Cerberus»</a> di SeducedPigeon (Sian Knight),
       <a href="https://sketchfab.com/3d-models/satan-jean-jacques-feuchere-1807-1852-b798f112a5b34b49a2f3c4200358a33d" target="_blank" rel="noopener">«Satan, Jean-Jacques Feuchère»</a> di re1monsen,
       <a href="https://sketchfab.com/3d-models/low-poly-forest-tree-pack-5ff5a51e74324845a4e4905f182dfb2b" target="_blank" rel="noopener">«Low Poly Forest Tree Pack»</a> di 99.Miles,
       <a href="https://sketchfab.com/3d-models/mountain-low-poly-for-distant-mountains-cb7f28b5ee0e4ddfb12700ff9d9d35c8" target="_blank" rel="noopener">«Mountain low poly»</a> di Mehdi Shahsavan,
       <a href="https://sketchfab.com/3d-models/rock-mountain-with-cave-realistic-version-184293c4ef6f49daa06ea2654a40b6ed" target="_blank" rel="noopener">«Rock Mountain with cave»</a> di Jungle Jim.
-      Alleggeriti e adattati.</div>
+      Alleggeriti e adattati.</details>
     <script src="Build/esplora.loader.js"></script>
     <script>
       var avanz = document.getElementById("avanzamento");
+      var titolo = document.getElementById("titolo");
+      var dettaglio = document.getElementById("dettaglio");
+      var telefono = /Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
       createUnityInstance(document.querySelector("#unity-canvas"), {
         arguments: [],
         dataUrl: "Build/esplora.data.unityweb",
@@ -42,9 +53,16 @@
         companyName: "CommediaIllustrata",
         productName: "Inferno 3D",
         productVersion: "1.0",
-      }, function (p) { avanz.style.width = (p * 100) + "%"; })
+        devicePixelRatio: telefono ? 1 : Math.min(window.devicePixelRatio || 1, 1.5),   // meno pixel da disegnare: più fluido su telefono
+      }, function (p) {
+        avanz.style.width = (p * 100) + "%";
+        titolo.textContent = p < 0.9 ? "Discesa in corso… " + Math.round(p * 100 / 0.9) + "%" : "Preparo la voragine…";
+      })
       .then(function () { document.getElementById("caricamento").style.display = "none"; })
-      .catch(function (m) { document.getElementById("caricamento").firstChild.textContent = "Errore: " + m; });
+      .catch(function (m) {
+        titolo.textContent = "Non riesco ad aprire il 3D su questo dispositivo.";
+        dettaglio.textContent = "Serve un browser con WebGL. Puoi continuare con la lettura: " + m;
+      });
     </script>
   </body>
 </html>
