@@ -1,0 +1,17 @@
+{
+  "name": "Commedia Illustrata",
+  "short_name": "Commedia",
+  "description": "La Divina Commedia letta scena per scena, con le incisioni di Gustave Doré.",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3ead6",
+  "theme_color": "#f3ead6",
+  "icons": [
+    { "src": "img/icone/icona-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "img/icone/icona-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "img/icone/icona-ritagliabile-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "img/icone/icona-ritagliabile-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
