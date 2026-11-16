@@ -22,13 +22,14 @@ Shader "Esplora/TexturaLuce"
             #pragma vertex vert
             #pragma fragment frag
             #pragma target 3.0
+            #pragma multi_compile_fog
             #include "UnityCG.cginc"
 
             sampler2D _MainTex; float4 _MainTex_ST;
             fixed4 _Tint, _Alone; fixed _Cutoff, _Fondo; float4 _Luce;
 
             struct appdata { float4 vertex : POSITION; float3 normal : NORMAL; float2 uv : TEXCOORD0; };
-            struct v2f { float4 pos : SV_POSITION; float2 uv : TEXCOORD0; float3 n : TEXCOORD1; float3 vista : TEXCOORD2; };
+            struct v2f { float4 pos : SV_POSITION; float2 uv : TEXCOORD0; float3 n : TEXCOORD1; float3 vista : TEXCOORD2; UNITY_FOG_COORDS(3) };
 
             v2f vert (appdata v)
             {
@@ -37,6 +38,7 @@ Shader "Esplora/TexturaLuce"
                 o.uv = TRANSFORM_TEX(v.uv, _MainTex);
                 o.n = UnityObjectToWorldNormal(v.normal);
                 o.vista = UnityWorldSpaceViewDir(mul(unity_ObjectToWorld, v.vertex).xyz);
+                UNITY_TRANSFER_FOG(o, o.pos);
                 return o;
             }
 
@@ -49,6 +51,7 @@ Shader "Esplora/TexturaLuce"
                 float rim = pow(1 - saturate(dot(n, normalize(i.vista))), 3);
                 c.rgb = c.rgb * (_Fondo + (1 - _Fondo) * nl) + _Alone.rgb * rim * 0.35;
                 c.a = 1;
+                UNITY_APPLY_FOG(i.fogCoord, c);
                 return c;
             }
             ENDCG

@@ -60,6 +60,16 @@ public class Esplora : MonoBehaviour
     Transform dante;
     float distPercorsa;
     Transform portaModello;        // la caverna: resta sempre visibile
+    // suono d'ambiente (Resources/Audio, due voci per la dissolvenza incrociata): parte al primo tocco, il tasto lo spegne
+    AudioSource[] voci; AudioClip[] tracce; bool[] tracceInCaricamento; bool suonoAvviato, suonoAcceso = true; int vocePrincipale, tracciaCorrente = -1;
+    static readonly string[] NOMI_TRACCE = { "The_Surreal_Truth", "Infestation_in_the_Control_Room", "Final_Captains_Log", "Cage_of_the_Cryptid", "The_Depths_of_Hell" };
+    static readonly int[] TRACCIA_PER_CERCHIO = { 0, 0, 1, 1, 2, 2, 3, 3, 3, 4 };
+    // nebbia che cambia colore con la profondità, solo dentro la voragine
+    Color coloreNebbia = new Color(0.05f, 0.04f, 0.05f); Color sfondoIniziale;
+    // viaggio guidato: figure per luogo, pannello ripiegabile
+    readonly Dictionary<string, GameObject> figurePerLuogo = new Dictionary<string, GameObject>();
+    bool pannelloAperto; Segnaposto selezionatoPannello; bool eraAperto;
+    Vector3 posBraci; bool haBraci;
     Transform coperchio;           // tappo della voragine, sparisce quando si apre la porta dell'Inferno
     bool coperchioAperto, eraOltre; float coperchioT;   // 0 = chiuso, 1 = aperto
     int idxLucifero = -1, idxBurella = -1;   // segmenti del percorso che aggirano la statua di Lucifero
@@ -120,6 +130,8 @@ public class Esplora : MonoBehaviour
         c.clearFlags = CameraClearFlags.SolidColor;
         c.backgroundColor = new Color(0.035f, 0.025f, 0.04f);
         c.farClipPlane = 1000f;
+        if (c.GetComponent<AudioListener>() == null) c.gameObject.AddComponent<AudioListener>();
+        sfondoIniziale = c.backgroundColor;
         cam = c.GetComponent<CameraOrbita>();
         if (cam == null) cam = c.gameObject.AddComponent<CameraOrbita>();
         cam.bersaglio = new Vector3(0, -H * 0.45f, 0);
@@ -283,12 +295,24 @@ public class Esplora : MonoBehaviour
         }
 
         // scenografia: coperchio con la selva, colle e porta dell'Inferno (la porta sposta il suo punto sotto l'arco)
+        // terrazze (ripiani orizzontali) del profilo, per collocare le scene dei cerchi
+        var terrazze = new List<Terrazza>();
+        for (int i = 0; i < punti.Count - 1; i++)
+            if (Mathf.Approximately(punti[i].y, punti[i + 1].y) && punti[i].y > 0f && punti[i].x > punti[i + 1].x)
+            {
+                int ib = IndiceBanda(punti[i].y);
+                terrazze.Add(new Terrazza { y = -punti[i].y * H, rEsterno = punti[i].x * R, rInterno = punti[i + 1].x * R, cerchio = ib >= 0 ? bande[ib].cerchio : 0 });
+            }
+        var sCast = Trova("nobile-castello");
+        Ambienti.Costruisci(transform, terrazze, sCast != null ? sCast.pos : new Vector3(40f, 0f, 30f));
+
         var sSelva = Trova("selva-oscura"); var sColle = Trova("colle"); var sPorta = Trova("porta-inferno");
         if (sSelva != null && sColle != null && sPorta != null)
         {
             Vector3 pp = sPorta.pos;
             coperchio = Scenario.Costruisci(transform, NuovoMateriale(Color.white), ColoreProfondita(0f, false), R, sSelva.pos, sColle.pos, ref pp, out portaModello);
             sPorta.pos = pp; sPorta.pm = pp; sPorta.go.transform.position = pp;
+            posBraci = pp + Vector3.up * 0.4f; haBraci = true;
             // selva e colle un po' sopra il suolo: il tratto dritto del percorso non deve affondare nel terreno
             foreach (var sp in new[] { sSelva, sColle }) { sp.pos += Vector3.up * 0.7f; sp.pm = sp.pos; sp.go.transform.position = sp.pos; }
         }
@@ -322,6 +346,7 @@ public class Esplora : MonoBehaviour
         lr.shadowCastingMode = UnityEngine.Rendering.ShadowCastingMode.Off;
 
         PreparaMaterialiParticelle();
+        if (haBraci) Braci(posBraci);   // dopo il materiale delle particelle
 
         // Dante, con la sua scia dorata
         var d = Forme.Crea("Dante", Forme.Sfera());
@@ -356,6 +381,7 @@ public class Esplora : MonoBehaviour
         figura.transform.position = s.pos + dentro * verso_asse;
         figura.transform.rotation = Quaternion.LookRotation(dentro);
         figura.transform.localScale = Vector3.one * scala;
+        figurePerLuogo[idLuogo] = figura;
 
         // il segnaposto sale sopra la testa della figura
         var rs = figura.GetComponentsInChildren<Renderer>();
@@ -601,6 +627,18 @@ public class Esplora : MonoBehaviour
             // la camera sta sul lato dell'asse e guarda verso la parete: oscilla lentamente, senza uscire dalla voragine
             cam.yawTarget = YawEsterno(dante.position, cam.yawTarget) + 35f * Mathf.Sin(Time.time * 0.35f);
             cam.pitchTarget = 36f; cam.distTarget = DistanzaCamera(dante.position, 0.8f);
+            // dove c'è una figura (Caronte, Cerbero, Lucifero) la camera si avvicina e la inquadra
+            if (selezionato != null && figurePerLuogo.TryGetValue(selezionato.luogo.id, out var fig) && fig != null)
+            {
+                var rs = fig.GetComponentsInChildren<Renderer>();
+                if (rs.Length > 0)
+                {
+                    var b = rs[0].bounds; foreach (var r in rs) b.Encapsulate(r.bounds);
+                    cam.bersaglio = b.center;
+                    cam.distTarget = Mathf.Clamp(b.size.magnitude * 1.7f, 13f, 26f);
+                    cam.pitchTarget = 24f;
+                }
+            }
             return;
         }
 
@@ -670,6 +708,9 @@ public class Esplora : MonoBehaviour
         if (inViaggio && cam.Mosso) { inViaggio = false; cam.automatica = false; }   // si muove la vista a mano: il viaggio va in pausa
         if (inViaggio) AvanzaViaggio();
 
+        AggiornaNebbia();
+        AggiornaSuono();
+
         // il coperchio si apre quando il viaggio supera la caverna e si richiude se riparte da fuori;
         // con un clic sulla caverna si apre, con un secondo clic si richiude
         if (coperchio != null)
@@ -680,6 +721,8 @@ public class Esplora : MonoBehaviour
                 if (inViaggio && oltre != eraOltre) coperchioAperto = oltre;
                 eraOltre = oltre;
             }
+            if (coperchioAperto && !eraAperto) { Scintille(); cam.scossa = 1f; }   // scintille e un piccolo scossone all'apertura
+            eraAperto = coperchioAperto;
             coperchioT = Mathf.MoveTowards(coperchioT, coperchioAperto ? 1f : 0f, Time.deltaTime / 1.4f);
             bool visibile = coperchioT < 0.999f;
             if (coperchio.gameObject.activeSelf != visibile) coperchio.gameObject.SetActive(visibile);
@@ -724,6 +767,132 @@ public class Esplora : MonoBehaviour
             float vicino = Mathf.Clamp(Vector3.Distance(cam.transform.position, s.go.transform.position) / 90f, 0.45f, 1f);   // da vicino i segnaposti non coprono la scena
             s.go.transform.localScale = Vector3.one * (base_ * vicino * (sel ? 1.8f : 1f));
         }
+    }
+
+    // ---------- nebbia, suono, scintille ----------
+
+    void AggiornaNebbia()
+    {
+        var c = cam.transform.position;
+        float t = Mathf.Clamp01(-c.y / H);
+        int ib = IndiceBanda(t);
+        Color bersaglio = ib < 0 ? new Color(0.06f, 0.05f, 0.05f) : TEMI[Mathf.Clamp(bande[ib].cerchio, 0, 9)].muro * 0.30f;
+        bersaglio.a = 1f;
+        coloreNebbia = Color.Lerp(coloreNebbia, bersaglio, 1f - Mathf.Exp(-2f * Time.deltaTime));
+        float dentro = Mathf.Clamp01((-c.y - 3f) / 10f);        // 0 fuori, 1 ben dentro la voragine
+        RenderSettings.fog = dentro > 0.01f;
+        RenderSettings.fogMode = FogMode.Exponential;
+        RenderSettings.fogColor = coloreNebbia;
+        RenderSettings.fogDensity = 0.013f * dentro;
+        cam.GetComponent<Camera>().backgroundColor = Color.Lerp(sfondoIniziale, coloreNebbia * 0.7f, dentro);
+    }
+
+    void AggiornaSuono()
+    {
+        if (tracce == null)
+        {
+            tracce = new AudioClip[NOMI_TRACCE.Length]; tracceInCaricamento = new bool[NOMI_TRACCE.Length];
+            voci = new AudioSource[2];
+            for (int i = 0; i < 2; i++)
+            {
+                var go = new GameObject("Voce " + i); go.transform.SetParent(transform, false);
+                voci[i] = go.AddComponent<AudioSource>();
+                voci[i].loop = true; voci[i].playOnAwake = false; voci[i].spatialBlend = 0f; voci[i].volume = 0f;
+            }
+        }
+        if (!suonoAvviato)
+        {   // i browser vogliono un gesto dell'utente: il primo tocco o clic fa partire il suono
+            if (Input.GetMouseButtonDown(0) || Input.touchCount > 0 || Input.anyKeyDown) suonoAvviato = true; else return;
+        }
+        // quale traccia: fuori dalla voragine la prima; dentro, quella del cerchio dove si trova l'attenzione
+        int tr = 0;
+        if (coperchioAperto)
+        {
+            int ib = IndiceBanda(Mathf.Clamp01(-cam.bersaglio.y / H));
+            tr = TRACCIA_PER_CERCHIO[ib < 0 ? 0 : Mathf.Clamp(bande[ib].cerchio, 0, 9)];
+        }
+        if (tr != tracciaCorrente && tracce[tr] == null && !tracceInCaricamento[tr]) StartCoroutine(CaricaTraccia(tr));   // si scarica solo quando serve
+        if (tr != tracciaCorrente && tracce[tr] != null)
+        {
+            vocePrincipale = 1 - vocePrincipale;
+            voci[vocePrincipale].clip = tracce[tr];
+            voci[vocePrincipale].Play();
+            tracciaCorrente = tr;
+        }
+        for (int i = 0; i < 2; i++)
+        {
+            float obiettivo = (i == vocePrincipale && suonoAcceso) ? 0.55f : 0f;
+            voci[i].volume = Mathf.MoveTowards(voci[i].volume, obiettivo, Time.deltaTime * 0.3f);   // dissolvenza di circa 2 secondi
+            if (voci[i].isPlaying && voci[i].volume <= 0.001f && i != vocePrincipale) voci[i].Stop();
+        }
+    }
+
+    // le tracce stanno in StreamingAssets/Audio (mp3 leggeri) e si scaricano la prima volta che servono: non pesano sul primo caricamento
+    IEnumerator CaricaTraccia(int i)
+    {
+        tracceInCaricamento[i] = true;
+        string radice = Application.streamingAssetsPath;
+        if (!radice.Contains("://")) radice = "file://" + radice;
+        using (var rq = UnityEngine.Networking.UnityWebRequestMultimedia.GetAudioClip(radice + "/Audio/" + NOMI_TRACCE[i] + ".mp3", AudioType.MPEG))
+        {
+            yield return rq.SendWebRequest();
+            if (rq.result == UnityEngine.Networking.UnityWebRequest.Result.Success) tracce[i] = UnityEngine.Networking.DownloadHandlerAudioClip.GetContent(rq);
+            else Debug.LogWarning("[Esplora] Traccia audio non caricata: " + NOMI_TRACCE[i] + " (" + rq.error + ")");
+        }
+        tracceInCaricamento[i] = false;
+    }
+
+    // scintille che salgono dalla voragine quando si toglie il coperchio
+    void Scintille()
+    {
+        var go = new GameObject("Scintille"); go.transform.SetParent(transform, false);
+        go.transform.position = new Vector3(0, -4f, 0); go.transform.rotation = Quaternion.Euler(-90f, 0f, 0f);
+        var ps = go.AddComponent<ParticleSystem>();
+        ps.Stop(true, ParticleSystemStopBehavior.StopEmittingAndClear);
+        var main = ps.main;
+        main.loop = false; main.duration = 1.2f; main.startLifetime = 3.5f;
+        main.startSpeed = new ParticleSystem.MinMaxCurve(10f, 22f);
+        main.startSize = new ParticleSystem.MinMaxCurve(0.5f, 1.3f);
+        main.startColor = new ParticleSystem.MinMaxGradient(new Color(1f, 0.6f, 0.2f, 0.9f), new Color(1f, 0.9f, 0.5f, 0.9f));
+        main.simulationSpace = ParticleSystemSimulationSpace.World;
+        main.maxParticles = 200;
+        var em = ps.emission; em.rateOverTime = 0f; em.SetBursts(new[] { new ParticleSystem.Burst(0f, 160) });
+        var sh = ps.shape; sh.shapeType = ParticleSystemShapeType.Circle; sh.radius = R * 0.8f; sh.radiusThickness = 1f;
+        var col = ps.colorOverLifetime; col.enabled = true;
+        var g = new Gradient();
+        g.SetKeys(new[] { new GradientColorKey(Color.white, 0f), new GradientColorKey(Color.white, 1f) },
+                  new[] { new GradientAlphaKey(1f, 0f), new GradientAlphaKey(0.8f, 0.6f), new GradientAlphaKey(0f, 1f) });
+        col.color = g;
+        var rend = go.GetComponent<ParticleSystemRenderer>();
+        rend.sharedMaterial = matParticelle; rend.shadowCastingMode = UnityEngine.Rendering.ShadowCastingMode.Off;
+        ps.Play();
+        Destroy(go, 6f);
+    }
+
+    // braci che salgono lente dalla bocca della caverna
+    void Braci(Vector3 pos)
+    {
+        var go = new GameObject("Braci"); go.transform.SetParent(transform, false);
+        go.transform.position = pos; go.transform.rotation = Quaternion.Euler(-90f, 0f, 0f);
+        var ps = go.AddComponent<ParticleSystem>();
+        ps.Stop(true, ParticleSystemStopBehavior.StopEmittingAndClear);
+        var main = ps.main;
+        main.loop = true; main.startLifetime = 3f;
+        main.startSpeed = new ParticleSystem.MinMaxCurve(1.2f, 3f);
+        main.startSize = new ParticleSystem.MinMaxCurve(0.25f, 0.55f);
+        main.startColor = new ParticleSystem.MinMaxGradient(new Color(1f, 0.35f, 0.1f, 0.9f), new Color(1f, 0.7f, 0.2f, 0.9f));
+        main.simulationSpace = ParticleSystemSimulationSpace.World;
+        main.maxParticles = 60;
+        var em = ps.emission; em.rateOverTime = 12f;
+        var sh = ps.shape; sh.shapeType = ParticleSystemShapeType.Cone; sh.angle = 18f; sh.radius = 2.2f;
+        var col = ps.colorOverLifetime; col.enabled = true;
+        var g = new Gradient();
+        g.SetKeys(new[] { new GradientColorKey(Color.white, 0f), new GradientColorKey(Color.white, 1f) },
+                  new[] { new GradientAlphaKey(0f, 0f), new GradientAlphaKey(1f, 0.2f), new GradientAlphaKey(0f, 1f) });
+        col.color = g;
+        var rend = go.GetComponent<ParticleSystemRenderer>();
+        rend.sharedMaterial = matParticelle; rend.shadowCastingMode = UnityEngine.Rendering.ShadowCastingMode.Off;
+        ps.Play();
     }
 
     // ---------- tavole ----------
@@ -782,7 +951,7 @@ public class Esplora : MonoBehaviour
         stPiccolo = new GUIStyle(GUI.skin.label) { fontSize = 11, wordWrap = true, fontStyle = FontStyle.Italic };
         stPiccolo.normal.textColor = new Color(0.8f, 0.78f, 0.7f);
         stBottone = new GUIStyle(GUI.skin.button) { fontSize = 13, wordWrap = true, alignment = TextAnchor.MiddleCenter };
-        stEtichetta = new GUIStyle(GUI.skin.label) { fontSize = 12, fontStyle = FontStyle.Bold };
+        stEtichetta = new GUIStyle(GUI.skin.label) { fontSize = 12, fontStyle = FontStyle.Bold, wordWrap = true };
         stOmbra = new GUIStyle(stEtichetta);
         stEtichetta.normal.textColor = Color.white; stOmbra.normal.textColor = new Color(0, 0, 0, 0.85f);
     }
@@ -826,11 +995,11 @@ public class Esplora : MonoBehaviour
 
         // barra in alto
         bool largo = W >= 560f;
-        rBarra = new Rect(8, 8, largo ? 520f : W - 16f, 44);
+        rBarra = new Rect(8, 8, largo ? 590f : W - 16f, 44);
         GUI.Box(rBarra, GUIContent.none);
         float xTitolo = 0f;
         if (largo) { GUI.Label(new Rect(16, 12, 150, 36), "Inferno · 3D", stTitolo); xTitolo = 164f; }
-        float bw = (rBarra.width - xTitolo - 8f - 12f) / 3f;       // tre pulsanti uguali
+        float bw = (rBarra.width - xTitolo - 8f - 12f - 3f * 4f) / 4f;       // quattro pulsanti uguali
         float x0 = rBarra.x + xTitolo + 8f;
         if (percorso.Count > 0 && GUI.Button(new Rect(x0, 14, bw, 32), inViaggio ? "Pausa" : "Viaggio"))
         {
@@ -838,13 +1007,14 @@ public class Esplora : MonoBehaviour
             else AvviaViaggio();
         }
         GUI.enabled = inViaggio;
-        if (GUI.Button(new Rect(x0 + bw + 6f, 14, bw, 32), "Avanti")) SaltaAvanti();
+        if (GUI.Button(new Rect(x0 + bw + 4f, 14, bw, 32), "Avanti")) SaltaAvanti();
         GUI.enabled = true;
-        if (GUI.Button(new Rect(x0 + 2f * (bw + 6f), 14, bw, 32), "Vista intera"))
+        if (GUI.Button(new Rect(x0 + 2f * (bw + 4f), 14, bw, 32), "Vista intera"))
         {
             inViaggio = false; cam.automatica = false; selezionato = null;
             cam.Vai(new Vector3(0, -H * 0.45f, 0), 190f);
         }
+        if (GUI.Button(new Rect(x0 + 3f * (bw + 4f), 14, bw, 32), suonoAcceso ? "Suono" : "Muto")) { suonoAcceso = !suonoAcceso; suonoAvviato = true; }
         if (inViaggio && prossimo <= perOrdine.Count)
             GUI.Label(new Rect(rBarra.x + 8f, rBarra.yMax + 2f, 260, 20), $"Tappa {Mathf.Min(prossimo, perOrdine.Count)} di {perOrdine.Count}", stPiccolo);
 
@@ -854,6 +1024,18 @@ public class Esplora : MonoBehaviour
         if (selezionato != null)
         {
             bool stretto = W < 560f || Screen.height > Screen.width;   // telefono in verticale: il pannello sta in basso
+            if (selezionato != selezionatoPannello) { selezionatoPannello = selezionato; pannelloAperto = false; }
+            bool collassato = stretto && inViaggio && !pannelloAperto;   // in viaggio, su telefono, il pannello si riduce a una barra
+            if (collassato)
+            {
+                string titoloBarra = Pulisci(selezionato.luogo.nome);
+                if (scenePerLuogo.TryGetValue(selezionato.luogo.id, out var ls0) && ls0.Count > 0)
+                    titoloBarra = $"Canto {ls0[Mathf.Clamp(idxScena, 0, ls0.Count - 1)].canto} · " + titoloBarra;
+                rPannello = new Rect(8, Hh - 46, W - 16, 38);
+                if (GUI.Button(rPannello, titoloBarra + "  (tocca per leggere)", stBottone)) pannelloAperto = true;
+            }
+            else
+            {
             float pw = stretto ? W - 16 : 360f;
             float ph = stretto ? Mathf.Min(Hh * 0.58f, 420f) : Hh - 70f;
             rPannello = stretto ? new Rect(8, Hh - ph - 8, pw, ph) : new Rect(W - pw - 8, 60, pw, ph);
@@ -862,6 +1044,7 @@ public class Esplora : MonoBehaviour
             scorri = GUILayout.BeginScrollView(scorri);
             float w = rPannello.width - 44;
 
+            if (stretto && inViaggio && GUILayout.Button("Riduci", stBottone)) pannelloAperto = false;
             GUILayout.Label(Pulisci(selezionato.luogo.nome), stTitolo);
             GUILayout.Label(Pulisci(selezionato.luogo.descrizione), stTesto);
 
@@ -904,6 +1087,44 @@ public class Esplora : MonoBehaviour
 
             GUILayout.EndScrollView();
             GUILayout.EndArea();
+            }
+        }
+
+        // fumetto vicino al luogo durante le soste del viaggio
+        if (inViaggio && sosta > 0f && selezionato != null && scenePerLuogo.TryGetValue(selezionato.luogo.id, out var lf) && lf.Count > 0)
+        {
+            var rif = lf[Mathf.Clamp(idxScena, 0, lf.Count - 1)];
+            Vector3 pb = c.WorldToScreenPoint(selezionato.pm + Vector3.up * 5f);
+            if (pb.z > 0f)
+            {
+                string titolo = $"Canto {rif.canto} · {Pulisci(rif.scena.titolo_scena)}";
+                string sint = Pulisci(rif.scena.sintesi);
+                if (sint.Length > 120) sint = sint.Substring(0, 120).TrimEnd() + "...";
+                float bwf = Mathf.Min(250f, W - 24f);
+                float bhf = 14f + stEtichetta.CalcHeight(new GUIContent(titolo), bwf - 16f) + stPiccolo.CalcHeight(new GUIContent(sint), bwf - 16f);
+                var rb = new Rect(Mathf.Clamp(pb.x / s - bwf * 0.5f, 8f, W - bwf - 8f), Mathf.Clamp((Screen.height - pb.y) / s - bhf, 60f, Hh - bhf - 58f), bwf, bhf);
+                {
+                    GUI.Box(rb, GUIContent.none);
+                    GUI.Label(new Rect(rb.x + 8f, rb.y + 4f, rb.width - 16f, bhf - 6f), titolo, stEtichetta);
+                    GUI.Label(new Rect(rb.x + 8f, rb.y + 4f + stEtichetta.CalcHeight(new GUIContent(titolo), bwf - 16f), rb.width - 16f, bhf), sint, stPiccolo);
+                }
+            }
+        }
+
+        // l'iscrizione sulla porta dell'Inferno, vicino alla caverna
+        if (portaModello != null)
+        {
+            Vector3 pi = c.WorldToScreenPoint(portaModello.position + Vector3.up * 13f);
+            if (pi.z > 0f && pi.z < 150f && !coperchioAperto)
+            {
+                string iscr = "LASCIATE OGNE SPERANZA, VOI CH'INTRATE";
+                var stIscr = new GUIStyle(stEtichetta) { fontSize = 15, alignment = TextAnchor.MiddleCenter };
+                stIscr.normal.textColor = new Color(0.97f, 0.78f, 0.45f);
+                var ri = new Rect(pi.x / s - 190f, (Screen.height - pi.y) / s - 14f, 380f, 28f);
+                var stOm = new GUIStyle(stIscr); stOm.normal.textColor = new Color(0.25f, 0.02f, 0.02f, 0.95f);
+                GUI.Label(new Rect(ri.x + 1.5f, ri.y + 1.5f, ri.width, ri.height), iscr, stOm);
+                GUI.Label(ri, iscr, stIscr);
+            }
         }
         GUI.matrix = m;
     }

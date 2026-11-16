@@ -59,7 +59,7 @@ public static class PreparaFigure
             importer.importTangents = ModelImporterTangents.None;                 // gli shader non usano le tangenti
             importer.importBlendShapes = false; importer.importCameras = false; importer.importLights = false;
             importer.optimizeMeshPolygons = true; importer.optimizeMeshVertices = true;
-            if (nome == "Alberi") importer.isReadable = true;   // le mesh degli alberi si uniscono a runtime
+            importer.isReadable = true;   // gli alberi, i massi, le tombe ecc. si uniscono in una sola mesh a runtime
             importer.SaveAndReimport();
             int collegati = 0, senza = 0;
             foreach (var o in AssetDatabase.LoadAllAssetsAtPath(fbx))

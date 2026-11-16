@@ -15,6 +15,7 @@ public class CameraOrbita : MonoBehaviour
     public bool automatica;
     public float yawTarget, pitchTarget = 30f, distTarget = 40f;
     public float morbidezza = 1.8f;
+    public float scossa;   // piccolo scossone (1 = forte), si smorza da solo
 
     Vector3 bersaglioMorbido;
     float distMorbida;
@@ -111,5 +112,10 @@ public class CameraOrbita : MonoBehaviour
         var rot = Quaternion.Euler(pitch, yaw, 0f);
         transform.position = bersaglioMorbido - rot * Vector3.forward * distMorbida;
         transform.rotation = rot;
+        if (scossa > 0.001f)
+        {
+            transform.position += Random.insideUnitSphere * scossa * 0.6f;
+            scossa = Mathf.MoveTowards(scossa, 0f, Time.unscaledDeltaTime * 1.4f);
+        }
     }
 }

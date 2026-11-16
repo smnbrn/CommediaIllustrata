@@ -5,7 +5,7 @@ using UnityEngine;
 // build WebGL (con il codice inutilizzato tolto) non esiste e riempie la console di errori; qui non serve.
 public static class Forme
 {
-    static Mesh sfera, cilindro;
+    static Mesh sfera, cilindro, quadro;
 
     // sfera di diametro 1, come quella di Unity
     public static Mesh Sfera()
@@ -67,6 +67,18 @@ public static class Forme
         cilindro.SetVertices(v); cilindro.SetNormals(n); cilindro.SetTriangles(t, 0);
         cilindro.RecalculateBounds();
         return cilindro;
+    }
+
+    // quadrato orizzontale di lato 1 con le coordinate della texture, per l'ombra sotto le figure
+    public static Mesh Quadro()
+    {
+        if (quadro != null) return quadro;
+        quadro = new Mesh { name = "Quadro" };
+        quadro.SetVertices(new List<Vector3> { new Vector3(-0.5f, 0, -0.5f), new Vector3(0.5f, 0, -0.5f), new Vector3(0.5f, 0, 0.5f), new Vector3(-0.5f, 0, 0.5f) });
+        quadro.SetUVs(0, new List<Vector2> { new Vector2(0, 0), new Vector2(1, 0), new Vector2(1, 1), new Vector2(0, 1) });
+        quadro.SetTriangles(new List<int> { 0, 2, 1, 0, 3, 2 }, 0);
+        quadro.RecalculateBounds();
+        return quadro;
     }
 
     public static GameObject Crea(string nome, Mesh mesh)

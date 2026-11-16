@@ -1,0 +1,10 @@
+Model Information:
+* title:	sarcophagus
+* source:	https://sketchfab.com/3d-models/sarcophagus-72e6ec7290f24ceaa034f4bb79a0bf90
+* author:	persnetto (https://sketchfab.com/persnetto)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+This work is based on "sarcophagus" (https://sketchfab.com/3d-models/sarcophagus-72e6ec7290f24ceaa034f4bb79a0bf90) by persnetto (https://sketchfab.com/persnetto) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

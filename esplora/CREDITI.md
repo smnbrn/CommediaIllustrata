@@ -10,3 +10,13 @@ Le licenze originali sono in `esplora-unity/Assets/Resources/Modelli/*/LICENZA.t
 - This work is based on "Low Poly Forest Tree Pack" (https://sketchfab.com/3d-models/low-poly-forest-tree-pack-5ff5a51e74324845a4e4905f182dfb2b) by 99.Miles (https://sketchfab.com/99.Miles) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/). Usati solo gli alberi, ripetuti per riempire la selva.
 - This work is based on "Mountain low poly For distant mountains" (https://sketchfab.com/3d-models/mountain-low-poly-for-distant-mountains-cb7f28b5ee0e4ddfb12700ff9d9d35c8) by Mehdi Shahsavan (https://sketchfab.com/ahmagh2e) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/). Ritagliata la base piatta.
 - This work is based on "Rock Mountain with cave (realistic version)" (https://sketchfab.com/3d-models/rock-mountain-with-cave-realistic-version-184293c4ef6f49daa06ea2654a40b6ed) by Jungle Jim (https://sketchfab.com/jungle_jim) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/). Alleggerita.
+- This work is based on "Medieval castle" (https://sketchfab.com/3d-models/medieval-castle-98bb6d8a0b2246cc9481b9f02ac655cc) by ben.ford137 licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/). Alleggerito e adattato.
+- This work is based on "sarcophagus" (https://sketchfab.com/3d-models/sarcophagus-72e6ec7290f24ceaa034f4bb79a0bf90) by persnetto licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/). Alleggerito e adattato.
+- This work is based on "Dead Tree" (https://sketchfab.com/3d-models/dead-tree-33ccce6111604656a4b5709483670ec3) by MaX3Dd licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/). Alleggerito e adattato.
+- This work is based on "Ice Cluster" (https://sketchfab.com/3d-models/ice-cluster-free-4d2271f8bf7f400e9a5c8f10812a32de) by chrismartin1337 licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/). Alleggerito e adattato.
+- This work is based on "Rocks Set Stone Collection Scan" (https://sketchfab.com/3d-models/rocks-set-stone-collection-scan-b45a40fd145c4b9ba7bc5351d344db17) by Pers Scans licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/). Alleggerito e adattato.
+- This work is based on "Stone Bridge" (https://sketchfab.com/3d-models/stone-bridge-38879ba7169d4944ac3ef85580f5b1a5) by xplanepilot licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/). Alleggerito e adattato.
+
+## Musica
+
+- «Ambience Pack 1 -- Sci Fi Horror» di Joth, dedicata al pubblico dominio (CC0): https://opengameart.org/content/ambience-pack-1-sci-fi-horror . Usate cinque tracce, ridotte a mono e a bassa frequenza di campionamento.

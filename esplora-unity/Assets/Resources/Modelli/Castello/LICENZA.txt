@@ -1,0 +1,10 @@
+Model Information:
+* title:	Medieval castle.
+* source:	https://sketchfab.com/3d-models/medieval-castle-98bb6d8a0b2246cc9481b9f02ac655cc
+* author:	ben.ford137 (https://sketchfab.com/ben.ford137)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+This work is based on "Medieval castle." (https://sketchfab.com/3d-models/medieval-castle-98bb6d8a0b2246cc9481b9f02ac655cc) by ben.ford137 (https://sketchfab.com/ben.ford137) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
