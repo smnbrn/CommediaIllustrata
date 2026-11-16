@@ -16,7 +16,7 @@ public class Esplora : MonoBehaviour
     const int MAX_TEXTURE = 8;
     const string SITO = "https://smnbrn.github.io/CommediaIllustrata/";
 
-    class Segnaposto { public Luogo luogo; public Vector3 pos; public Material mat; public GameObject go; public Color colore; }
+    class Segnaposto { public Luogo luogo; public Vector3 pos; public Material mat; public GameObject go; public Color colore; public float alzo; }
 
     // Atmosfera di ogni cerchio (indice = numero del cerchio, 0 = Antinferno)
     struct Tema
@@ -332,6 +332,15 @@ public class Esplora : MonoBehaviour
         figura.transform.position = s.pos + dentro * verso_asse;
         figura.transform.rotation = Quaternion.LookRotation(dentro);
         figura.transform.localScale = Vector3.one * scala;
+
+        // il segnaposto sale sopra la testa della figura, così non la attraversa
+        var rs = figura.GetComponentsInChildren<Renderer>();
+        if (rs.Length > 0)
+        {
+            var b = rs[0].bounds; foreach (var r in rs) b.Encapsulate(r.bounds);
+            s.alzo = Mathf.Max(0f, b.max.y - s.pos.y) + (s == lucifero ? 3.2f : 2.0f);
+            s.go.transform.position = s.pos + Vector3.up * s.alzo;
+        }
     }
 
     void PosizionaFigure()
@@ -698,7 +707,7 @@ public class Esplora : MonoBehaviour
         {
             bool scelto = sp == selezionato;
             if (pass == 0 ? !scelto : (scelto || sp.luogo.tipo != "cerchio")) continue;
-            Vector3 p = c.WorldToScreenPoint(sp.pos + Vector3.up * 2.5f);
+            Vector3 p = c.WorldToScreenPoint(sp.pos + Vector3.up * (2.5f + sp.alzo));
             if (p.z <= 0 || Nascosto(sp.pos)) continue;
             string nome = Pulisci(sp.luogo.nome);
             var r = new Rect(p.x / s + 4, (Screen.height - p.y) / s - 10, stEtichetta.CalcSize(new GUIContent(nome)).x + 4, 20);
