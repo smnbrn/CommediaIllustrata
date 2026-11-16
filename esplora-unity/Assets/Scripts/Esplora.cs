@@ -360,7 +360,7 @@ public class Esplora : MonoBehaviour
         if (rs.Length == 0) return;
         var b = rs[0].bounds; foreach (var r in rs) b.Encapsulate(r.bounds);
         // il segnaposto (e il punto del percorso) sale sopra la testa della figura, così non la attraversa
-        s.pos = new Vector3(b.center.x, b.max.y + (s == lucifero ? 3.2f : 2.0f), b.center.z);
+        s.pos = new Vector3(b.center.x, b.max.y + (s == lucifero ? 3.2f : idLuogo == "acheronte" ? 0.9f : 2.0f), b.center.z);
         s.pm = s.pos;
         s.go.transform.position = s.pos;
     }
@@ -672,6 +672,7 @@ public class Esplora : MonoBehaviour
         {
             bool sel = s == selezionato;
             float base_ = s.luogo.tipo == "zona" ? 1.3f : 2.0f;
+            if (s.luogo.id == "acheronte") base_ *= 0.7f;   // più piccolo: deve restare sotto il coperchio
             if (s == lucifero) base_ *= 1.6f + 0.35f * Mathf.Sin(Time.time * 2.2f);
             s.go.transform.localScale = Vector3.one * (base_ * (sel ? 1.8f : 1f));
         }

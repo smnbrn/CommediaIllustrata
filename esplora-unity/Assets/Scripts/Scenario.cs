@@ -59,11 +59,11 @@ public class MeshFacce
     }
 
     // montagna irregolare a fasce: terra, roccia, neve
-    public void Montagna(Vector3 centro, float raggio, float altezza, int lati, System.Random rnd)
+    public void Montagna(Vector3 centro, float raggio, float altezza, int lati, System.Random rnd, Color[] colori = null)
     {
         float[] fr = { 1f, 0.66f, 0.34f, 0f };
         float[] fh = { 0f, 0.38f, 0.74f, 1f };
-        Color[] fasce = { new Color(0.30f, 0.26f, 0.17f), new Color(0.42f, 0.38f, 0.34f), new Color(0.72f, 0.74f, 0.78f) };
+        Color[] fasce = colori ?? new Color[] { new Color(0.30f, 0.26f, 0.17f), new Color(0.42f, 0.38f, 0.34f), new Color(0.72f, 0.74f, 0.78f) };
         var sv = new float[lati]; for (int i = 0; i < lati; i++) sv[i] = 0.8f + 0.4f * (float)rnd.NextDouble();
         Vector3 Punto(int anello, int i)
         {
@@ -168,25 +168,27 @@ public static class Scenario
         monte.Montagna(cm - new Vector3(-fuori.z, 0, fuori.x) * 8f + fuori * 1f, 6f, 10f, 8, rnd);
         Oggetto("Colle", rootFisso, monte.Costruisci("Colle"), mat, false);
 
-        // ---- la porta dell'Inferno: arco di pietra scura sul bordo, girato verso chi arriva dal colle
-        // (il percorso si ferma davanti all'arco, senza attraversarlo, e prosegue verso l'interno)
+        // ---- l'ingresso dell'Inferno: una caverna in una collinetta di roccia, con la bocca rivolta verso chi arriva dal colle
+        // (il percorso si ferma davanti alla bocca, senza attraversarla, e poi scende nel terreno verso l'interno)
         Vector3 bordo = new Vector3(porta.x, 0f, porta.z);
+        bordo += bordo.normalized * 13f;                                            // fuori dal coperchio, sul terreno
         Vector3 dir = bordo - new Vector3(colle.x, 0f, colle.z); dir.y = 0f; dir.Normalize();
-        Vector3 centro = bordo - dir * 4f;
+        Vector3 centro = bordo;
         Quaternion rot = Quaternion.LookRotation(dir, Vector3.up);
-        var arco = new MeshFacce();
-        Color pietra = new Color(0.20f, 0.17f, 0.20f);
-        float largo = 5.2f, alto = 10f;
-        arco.Scatola(rot * new Vector3(-largo, alto * 0.5f, 0), new Vector3(1.8f, alto, 2.4f), rot, pietra);
-        arco.Scatola(rot * new Vector3(largo, alto * 0.5f, 0), new Vector3(1.8f, alto, 2.4f), rot, pietra);
-        arco.Scatola(rot * new Vector3(0, alto + 0.9f, 0), new Vector3(largo * 2f + 3.2f, 1.8f, 2.8f), rot, new Color(0.26f, 0.2f, 0.22f));
-        arco.Scatola(rot * new Vector3(0, alto + 2.2f, 0), new Vector3(largo * 2f - 1f, 1.0f, 2.0f), rot, new Color(0.3f, 0.12f, 0.08f));
-        arco.Scatola(rot * new Vector3(0, alto - 0.2f, -1.25f), new Vector3(largo * 1.5f, 1.1f, 0.12f), rot, new Color(0.62f, 0.56f, 0.45f)); // l'iscrizione
-        arco.Scatola(rot * new Vector3(0, alto * 0.5f, 0.2f), new Vector3(largo * 2f - 1.8f, alto, 0.15f), rot, new Color(0.40f, 0.05f, 0.03f)); // bagliore dell'ingresso
-        var goPorta = Oggetto("Porta", rootFisso, arco.Costruisci("Porta"), mat, false);
+        var grotta = new MeshFacce();
+        Color[] roccia = { new Color(0.27f, 0.22f, 0.17f), new Color(0.36f, 0.32f, 0.30f), new Color(0.30f, 0.27f, 0.27f) };
+        grotta.Montagna(rot * new Vector3(0, 0, 7.5f), 8.5f, 9f, 10, rnd, roccia);
+        Color pietra = new Color(0.30f, 0.27f, 0.27f);
+        grotta.Scatola(rot * new Vector3(0, 2.1f, 0.2f), new Vector3(6.4f, 4.2f, 3.6f), rot, new Color(0.03f, 0.02f, 0.03f));     // la bocca, scura
+        grotta.Scatola(rot * new Vector3(-3.9f, 2.6f, 0.3f), new Vector3(1.8f, 5.2f, 3.2f), rot, pietra);
+        grotta.Scatola(rot * new Vector3(3.9f, 2.6f, 0.3f), new Vector3(1.8f, 5.2f, 3.2f), rot, pietra);
+        grotta.Scatola(rot * new Vector3(0, 4.9f, 0.3f), new Vector3(9.6f, 1.6f, 3.4f), rot, new Color(0.34f, 0.3f, 0.3f));
+        grotta.Cono(rot * new Vector3(-6f, 0, -0.5f), 2.4f, 3f, 6, new Color(0.33f, 0.3f, 0.29f), rnd);
+        grotta.Cono(rot * new Vector3(6.2f, 0, -0.2f), 2.1f, 2.6f, 6, new Color(0.31f, 0.28f, 0.27f), rnd);
+        var goPorta = Oggetto("Caverna", rootFisso, grotta.Costruisci("Caverna"), mat, false);
         goPorta.transform.position = centro;
         portaModello = goPorta.transform;
-        porta = centro - dir * 5.5f + Vector3.up * 0.8f;   // punto del percorso: davanti all'arco
+        porta = centro - dir * 3.5f + Vector3.up * 0.8f;   // punto del percorso: davanti alla bocca
 
         return coperchio;
     }
