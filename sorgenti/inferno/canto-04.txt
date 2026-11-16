@@ -3,6 +3,7 @@ titolo: Il Limbo
 
 ## scena-1 | cerchio-1 | Il risveglio sull'orlo dell'abisso
 personaggi: dante, virgilio
+tavola: ia | Il risveglio sull'orlo dell'abisso | img/ia/inferno-04-scena-1.jpg
 sintesi: Un tuono sveglia Dante: è sull'orlo della valle dell'abisso, oscura e piena di lamenti. Virgilio è pallido, ma per pietà, non per paura; entrano nel primo cerchio.
 
 1
@@ -227,6 +228,7 @@ sì com’era ’l parlar colà dov’era.
 
 ## scena-4 | nobile-castello | Il nobile castello e gli spiriti magni
 personaggi: dante, virgilio, elettra, ettore, enea, cesare, camilla, pentesilea, latino, lavinia, bruto, lucrezia, giulia, marzia, cornelia, saladino
+tavola: ia | Il nobile castello e gli spiriti magni | img/ia/inferno-04-scena-4.jpg
 sintesi: Oltre sette mura e un fiumicello si apre un prato verde: da un'altura Dante vede gli eroi e le eroine di Troia e di Roma, e in disparte il Saladino.
 
 106
@@ -279,6 +281,7 @@ e solo, in parte, vidi ’l Saladino.
 
 ## scena-5 | nobile-castello | I filosofi; la compagnia si divide
 personaggi: dante, virgilio, aristotele, socrate, platone, democrito, diogene, anassagora, talete, empedocle, eraclito, zenone, dioscoride, orfeo, cicerone, lino, seneca, euclide, tolomeo, ippocrate, avicenna, galeno, averroe
+tavola: ia | I filosofi; la compagnia si divide | img/ia/inferno-04-scena-5.jpg
 sintesi: Più in alto siede Aristotele, «il maestro di color che sanno», tra filosofi, scienziati e medici antichi e arabi. Poi i sei si separano e Virgilio conduce Dante dove nulla riluce.
 
 130

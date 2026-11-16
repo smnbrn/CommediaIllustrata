@@ -3,6 +3,7 @@ titolo: Il conte Ugolino, frate Alberigo
 
 ## scena-1 | antenora | Ugolino comincia a parlare
 personaggi: dante, ugolino, ruggieri
+tavola: ia | Ugolino comincia a parlare | img/ia/inferno-33-scena-1.jpg
 sintesi: Il dannato solleva la bocca dal «fiero pasto» e si pulisce sui capelli del cranio che rode. Rinnovare il dolore gli costa, ma parlerà se le sue parole porteranno infamia al traditore: è il conte Ugolino, e l'altro è l'arcivescovo Ruggieri. Racconterà ciò che Dante non può sapere: quanto fu crudele la sua morte.
 
 1
@@ -49,6 +50,7 @@ udirai, e saprai s’e’ m’ ha offeso.
 
 ## scena-2 | antenora | Il sogno nella torre della fame
 personaggi: ugolino, ruggieri, figli-di-ugolino
+tavola: ia | Il sogno nella torre della fame | img/ia/inferno-33-scena-2.jpg
 sintesi: Rinchiuso da mesi nella torre della Muda con i figli e i nipoti, Ugolino fa un sogno premonitore: Ruggieri guida una caccia al lupo e ai lupacchiotti, che le cagne sbranano. Al risveglio sente i figli piangere nel sonno e chiedere pane. All'ora del cibo sente inchiodare la porta della torre.
 
 22
@@ -168,6 +170,7 @@ Poscia, più che ’l dolor, poté ’l digiuno".
 
 ## scena-4 | antenora | L'invettiva contro Pisa
 personaggi: dante, ugolino, ruggieri, figli-di-ugolino
+tavola: ia | L'invettiva contro Pisa | img/ia/inferno-33-scena-4.jpg
 sintesi: Ugolino riprende a rodere il cranio con denti forti come quelli di un cane. Dante maledice Pisa, «vituperio de le genti»: le isole di Capraia e Gorgona chiudano la foce dell'Arno e la anneghino, perché, se anche il conte era colpevole, i figli innocenti non meritavano quella croce.
 
 76
@@ -202,6 +205,7 @@ e li altri due che ’l canto suso appella.
 
 ## scena-5 | tolomea | La Tolomea e frate Alberigo
 personaggi: dante, virgilio, frate-alberigo, branca-doria, michel-zanche
+tavola: ia | La Tolomea e frate Alberigo | img/ia/inferno-33-scena-5.jpg
 sintesi: Nella Tolomea i traditori degli ospiti giacciono supini e le lacrime gelano negli occhi come visiere di cristallo. Dante sente un vento. Frate Alberigo, che fece uccidere i parenti a un banchetto, rivela che qui l'anima può cadere prima della morte, mentre un demonio governa il corpo sulla terra: così è per Branca Doria, che sembra ancora vivo. Dante non gli libera gli occhi: «e cortesia fu lui esser villano».
 
 91

@@ -50,7 +50,17 @@
       "sintesi": "Virgilio spiega chi è la Fortuna: un'intelligenza celeste che Dio ha messo a governare i beni del mondo, spostandoli da un popolo all'altro secondo un giudizio nascosto agli uomini. Chi la maledice ha torto: lei è beata e non ascolta.",
       "luogo_id": "cerchio-4",
       "personaggi": ["dante", "virgilio"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La Fortuna",
+          "url": "img/ia/inferno-07-scena-3.jpg",
+          "miniatura": "img/ia/inferno-07-scena-3.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-4",

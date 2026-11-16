@@ -12,7 +12,17 @@
       "sintesi": "Un tuono sveglia Dante: è sull'orlo della valle dell'abisso, oscura e piena di lamenti. Virgilio è pallido, ma per pietà, non per paura; entrano nel primo cerchio.",
       "luogo_id": "cerchio-1",
       "personaggi": ["dante", "virgilio"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Il risveglio sull'orlo dell'abisso",
+          "url": "img/ia/inferno-04-scena-1.jpg",
+          "miniatura": "img/ia/inferno-04-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-2",
@@ -88,7 +98,17 @@
         "cornelia",
         "saladino"
       ],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Il nobile castello e gli spiriti magni",
+          "url": "img/ia/inferno-04-scena-4.jpg",
+          "miniatura": "img/ia/inferno-04-scena-4.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-5",
@@ -121,7 +141,17 @@
         "galeno",
         "averroe"
       ],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "I filosofi; la compagnia si divide",
+          "url": "img/ia/inferno-04-scena-5.jpg",
+          "miniatura": "img/ia/inferno-04-scena-5.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     }
   ],
   "terzine": [

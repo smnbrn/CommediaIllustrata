@@ -12,7 +12,17 @@
       "sintesi": "Si sente già il rimbombo della cascata del Flegetonte. Tre ombre si staccano di corsa da una schiera e chiamano Dante, che dall'abito sembra fiorentino. Virgilio gli chiede di essere cortese con loro. Non potendo fermarsi, girano in tondo come lottatori e si presentano: Guido Guerra, Tegghiaio Aldobrandi e Iacopo Rusticucci.",
       "luogo_id": "girone-7-3",
       "personaggi": ["dante", "virgilio", "guido-guerra", "tegghiaio", "iacopo-rusticucci"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Le tre ombre",
+          "url": "img/ia/inferno-16-scena-1.jpg",
+          "miniatura": "img/ia/inferno-16-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-2",
@@ -21,7 +31,17 @@
       "sintesi": "Dante li avrebbe abbracciati, se non fosse per il fuoco; dice di onorarne i nomi. Chiedono se a Firenze vivano ancora cortesia e valore. Dante risponde con un grido rivolto alla città: la gente nuova e i guadagni improvvisi hanno generato superbia ed eccesso. I tre gli chiedono di ricordarli nel mondo e fuggono via.",
       "luogo_id": "girone-7-3",
       "personaggi": ["dante", "guido-guerra", "tegghiaio", "iacopo-rusticucci", "guglielmo-borsiere"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Firenze, la gente nuova e i subiti guadagni",
+          "url": "img/ia/inferno-16-scena-2.jpg",
+          "miniatura": "img/ia/inferno-16-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-3",
@@ -30,7 +50,17 @@
       "sintesi": "Il fiume precipita da una ripa scoscesa con un fragore assordante, come l'Acquacheta presso San Benedetto. Virgilio si fa dare la corda che Dante porta alla cintura e la getta nel burrone. Dante, sotto giuramento, dice di aver visto salire dall'abisso, nuotando nell'aria, una figura meravigliosa.",
       "luogo_id": "girone-7-3",
       "personaggi": ["dante", "virgilio", "gerione", "lonza"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La cascata e la corda",
+          "url": "img/ia/inferno-16-scena-3.jpg",
+          "miniatura": "img/ia/inferno-16-scena-3.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     }
   ],
   "terzine": [

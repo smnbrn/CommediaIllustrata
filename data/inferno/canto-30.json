@@ -31,7 +31,17 @@
       "sintesi": "Un dannato gonfio d'idropisia, a forma di liuto, con le labbra aperte per la sete, è maestro Adamo: falsificò il fiorino d'oro per i conti Guidi di Romena e fu bruciato. Sogna i ruscelli del Casentino e vorrebbe vedere qui i Guidi più di ogni sorgente.",
       "luogo_id": "bolgia-10",
       "personaggi": ["dante", "virgilio", "maestro-adamo"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Maestro Adamo, il falsario di monete",
+          "url": "img/ia/inferno-30-scena-2.jpg",
+          "miniatura": "img/ia/inferno-30-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-3",
@@ -40,7 +50,17 @@
       "sintesi": "Accanto ad Adamo giacciono, fumanti di febbre, la moglie di Putifarre, che accusò falsamente Giuseppe, e il greco Sinone, che ingannò i Troiani. Sinone colpisce il ventre di Adamo, che risponde con un pugno in faccia; segue uno scambio di insulti. Dante ascolta incantato, finché Virgilio lo rimprovera: voler ascoltare queste cose è un desiderio basso. Dante si vergogna, e Virgilio lo perdona.",
       "luogo_id": "bolgia-10",
       "personaggi": ["dante", "virgilio", "maestro-adamo", "sinone", "moglie-di-putifarre"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La rissa tra maestro Adamo e Sinone",
+          "url": "img/ia/inferno-30-scena-3.jpg",
+          "miniatura": "img/ia/inferno-30-scena-3.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     }
   ],
   "terzine": [

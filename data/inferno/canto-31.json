@@ -12,7 +12,17 @@
       "sintesi": "La lingua di Virgilio, che prima ha ferito Dante, ora lo medica. Lasciata Malebolge, nella penombra si sente un corno più forte di quello di Orlando a Roncisvalle. Dante crede di vedere alte torri; Virgilio lo prende per mano e spiega che sono giganti, immersi nel pozzo dall'ombelico in giù.",
       "luogo_id": "pozzo-giganti",
       "personaggi": ["dante", "virgilio"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Il corno e le torri",
+          "url": "img/ia/inferno-31-scena-1.jpg",
+          "miniatura": "img/ia/inferno-31-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-2",

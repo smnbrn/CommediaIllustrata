@@ -12,7 +12,17 @@
       "sintesi": "I due proseguono in silenzio, come frati minori. Dante ripensa alla favola della rana e del topo e teme che i diavoli beffati li inseguano. Virgilio ha avuto lo stesso pensiero: se la riva destra scende verso la bolgia successiva, potranno sfuggire.",
       "luogo_id": "bolgia-5",
       "personaggi": ["dante", "virgilio", "malebranche"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La paura dell'inseguimento",
+          "url": "img/ia/inferno-23-scena-1.jpg",
+          "miniatura": "img/ia/inferno-23-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-2",

@@ -31,7 +31,17 @@
       "sintesi": "Mentre Virgilio parla con Gerione, Dante va da solo a vedere gli usurai, seduti sull'orlo: si difendono dal fuoco come cani dalle mosche. Non ne riconosce nessuno, ma ognuno porta al collo una borsa con lo stemma della famiglia. Il padovano Reginaldo degli Scrovegni gli annuncia i compagni che lo raggiungeranno e gli fa la linguaccia.",
       "luogo_id": "girone-7-3",
       "personaggi": ["dante", "gianfigliazzi", "obriachi", "reginaldo-scrovegni", "vitaliano", "buiamonte"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Gli usurai",
+          "url": "img/ia/inferno-17-scena-2.jpg",
+          "miniatura": "img/ia/inferno-17-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-3",

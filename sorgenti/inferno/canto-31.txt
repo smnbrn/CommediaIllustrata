@@ -3,6 +3,7 @@ titolo: I giganti: Nembrot, Fialte, Anteo
 
 ## scena-1 | pozzo-giganti | Il corno e le torri
 personaggi: dante, virgilio
+tavola: ia | Il corno e le torri | img/ia/inferno-31-scena-1.jpg
 sintesi: La lingua di Virgilio, che prima ha ferito Dante, ora lo medica. Lasciata Malebolge, nella penombra si sente un corno più forte di quello di Orlando a Roncisvalle. Dante crede di vedere alte torri; Virgilio lo prende per mano e spiega che sono giganti, immersi nel pozzo dall'ombelico in giù.
 
 1

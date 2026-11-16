@@ -36,6 +36,7 @@
     riempiSceltaCanto();
     preparaTema();
     preparaMappa();
+    preparaLente();
     window.addEventListener('hashchange', vai);
     window.addEventListener('scroll', programmaControllo, { passive: true });
     window.addEventListener('resize', programmaControllo);
@@ -318,9 +319,11 @@
       $('didascalia').innerHTML = '<span>Scena senza tavola</span>';
       pag.hidden = true;
       stato.richiestaImg++;
+      stato.corrente = null;
       return;
     }
     var k = (stato.pagine[s.id] || 0) % c.lista.length, t = c.lista[k];
+    stato.corrente = t;
     pag.hidden = c.lista.length < 2;
     pag.textContent = (k + 1) + ' / ' + c.lista.length;
     pag.setAttribute('aria-label', 'Tavola ' + (k + 1) + ' di ' + c.lista.length + ': mostra la successiva');
@@ -388,6 +391,67 @@
     });
     document.addEventListener('click', function () { if (m.classList.contains('aperta')) chiudi(); });
     document.addEventListener('keydown', function (e) { if (e.key === 'Escape') chiudi(); });
+  }
+
+  /* ---------- tavola ingrandita ---------- */
+  function preparaLente() {
+    var lente = $('lente'), scorri = $('lente-scorri'), img = $('lente-img'), cornice = $('tavola-cornice');
+    var chiudiBtn = $('lente-chiudi'), prima = null, numero = 0;
+
+    function adatta() { img.classList.remove('zoom'); img.style.width = ''; scorri.scrollLeft = 0; scorri.scrollTop = 0; }
+    function apri() {
+      var t = stato.corrente;
+      if (!t) return;
+      prima = document.activeElement;
+      var n = ++numero;
+      adatta();
+      img.alt = t.autore + ', ' + t.titolo;
+      img.src = t.miniatura || t.url;                      // subito quella già in cache
+      if (t.url && t.url !== (t.miniatura || t.url)) {     // poi il file originale, più nitido da vicino
+        var g = new Image();
+        g.onload = function () { if (n === numero && !lente.hidden) img.src = t.url; };
+        g.src = t.url;
+      }
+      $('lente-didascalia').innerHTML = $('didascalia').innerHTML;
+      lente.dataset.ia = t.autore_id === IA ? '1' : '';
+      lente.hidden = false;
+      document.documentElement.classList.add('lente-aperta');
+      chiudiBtn.focus();
+    }
+    function chiudi() {
+      if (lente.hidden) return;
+      lente.hidden = true; numero++;
+      document.documentElement.classList.remove('lente-aperta');
+      img.removeAttribute('src');
+      if (prima && prima.focus) prima.focus();
+    }
+    function zoom(e) {
+      var r = img.getBoundingClientRect();
+      if (img.classList.contains('zoom')) { adatta(); return; }
+      var fx = (e.clientX - r.left) / r.width, fy = (e.clientY - r.top) / r.height;
+      img.style.width = Math.round(r.width * 2.2) + 'px';
+      img.classList.add('zoom');
+      var s = scorri.getBoundingClientRect();
+      scorri.scrollLeft = fx * img.offsetWidth - (e.clientX - s.left);
+      scorri.scrollTop = fy * img.offsetHeight - (e.clientY - s.top);
+    }
+
+    cornice.addEventListener('click', function (e) {
+      if (e.target.closest('#tavola-pagina')) return;
+      apri();
+    });
+    cornice.addEventListener('keydown', function (e) {
+      if (e.target !== cornice || (e.key !== 'Enter' && e.key !== ' ')) return;
+      e.preventDefault(); apri();
+    });
+    img.addEventListener('click', function (e) { e.stopPropagation(); zoom(e); });
+    scorri.addEventListener('click', function (e) { if (e.target === scorri) chiudi(); });   // tocco sullo sfondo
+    chiudiBtn.addEventListener('click', chiudi);
+    document.addEventListener('keydown', function (e) {
+      if (lente.hidden) return;
+      if (e.key === 'Escape') { e.stopPropagation(); chiudi(); }
+      else if (e.key === 'Tab') { e.preventDefault(); chiudiBtn.focus(); }     // il focus resta nel riquadro
+    }, true);
   }
 
   /* ---------- modalità notte ---------- */

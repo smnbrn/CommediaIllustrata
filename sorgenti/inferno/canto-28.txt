@@ -3,6 +3,7 @@ titolo: I seminatori di discordia, Bertran de Born
 
 ## scena-1 | bolgia-9 | La bolgia del sangue
 personaggi: dante, virgilio
+tavola: ia | La bolgia del sangue | img/ia/inferno-28-scena-1.jpg
 sintesi: Nessuna parola può descrivere il sangue e le ferite della nona bolgia: neppure tutti i caduti delle guerre dell'Italia meridionale, dai tempi dei Troiani a Tagliacozzo, mostrerebbero tante membra squarciate e mozzate.
 
 1
@@ -49,6 +50,7 @@ il modo de la nona bolgia sozzo.
 
 ## scena-2 | bolgia-9 | Maometto e Alì
 personaggi: dante, virgilio, maometto, ali, fra-dolcino
+tavola: dore | Maometto | File:Mohammed (148619179).jpg
 sintesi: Un dannato è squarciato dal mento all'ano, come una botte sfondata. Si apre il petto con le mani: è Maometto, e davanti a lui va Alì, con il volto spaccato. Spiega che un diavolo li ferisce di nuovo con la spada a ogni giro, e manda un avvertimento a fra Dolcino.
 
 22
@@ -220,6 +222,7 @@ Curïo, ch’a dir fu così ardito!
 
 ## scena-4 | bolgia-9 | Mosca dei Lamberti
 personaggi: dante, mosca
+tavola: ia | Mosca dei Lamberti | img/ia/inferno-28-scena-4.jpg
 sintesi: Un dannato con le mani mozzate solleva i moncherini nel buio: è Mosca dei Lamberti, che con il suo «Cosa fatta capo ha» provocò l'uccisione di Buondelmonte e la divisione di Firenze. Dante aggiunge che fu anche la rovina della sua famiglia, e Mosca se ne va disperato.
 
 103

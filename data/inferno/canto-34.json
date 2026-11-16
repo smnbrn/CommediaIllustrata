@@ -12,7 +12,17 @@
       "sintesi": "«Avanzano i vessilli del re dell'Inferno»: da lontano Lucifero sembra un mulino a vento nella nebbia. Dante si ripara dietro Virgilio. Nella Giudecca i traditori dei benefattori sono interamente coperti dal ghiaccio, visibili come pagliuzze nel vetro, in posizioni diverse.",
       "luogo_id": "giudecca",
       "personaggi": ["dante", "virgilio"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La Giudecca",
+          "url": "img/ia/inferno-34-scena-1.jpg",
+          "miniatura": "img/ia/inferno-34-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-2",
@@ -40,7 +50,17 @@
       "sintesi": "Dante si aggrappa al collo di Virgilio, che scende lungo il corpo peloso di Lucifero tra il pelo e il ghiaccio. All'altezza delle anche Virgilio si capovolge, con fatica, e risale: Dante crede di tornare all'Inferno. Usciti da un foro nella roccia, Dante vede Lucifero con le gambe in su.",
       "luogo_id": "lucifero",
       "personaggi": ["dante", "virgilio", "lucifero"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Il passaggio per il centro della Terra",
+          "url": "img/ia/inferno-34-scena-3.jpg",
+          "miniatura": "img/ia/inferno-34-scena-3.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-4",
@@ -49,7 +69,17 @@
       "sintesi": "Sono in una grotta naturale, buia e dal suolo accidentato. Virgilio spiega: hanno superato il centro della Terra e sono nell'emisfero opposto, dove è mattina. Lucifero, cadendo dal cielo da questa parte, fece ritirare per paura la terra, che emerse nel nostro emisfero; e la terra che fuggì verso l'alto formò forse la montagna del Purgatorio.",
       "luogo_id": "natural-burella",
       "personaggi": ["dante", "virgilio", "lucifero"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La natural burella",
+          "url": "img/ia/inferno-34-scena-4.jpg",
+          "miniatura": "img/ia/inferno-34-scena-4.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-5",

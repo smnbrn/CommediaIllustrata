@@ -12,7 +12,17 @@
       "sintesi": "Dante restituisce le fronde al suicida fiorentino. Al limite della selva si apre una distesa di sabbia arida, il terzo girone, dove schiere di anime nude piangono: alcune giacciono supine, altre siedono raccolte, altre camminano senza sosta.",
       "luogo_id": "girone-7-3",
       "personaggi": ["dante", "virgilio"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Il sabbione",
+          "url": "img/ia/inferno-14-scena-1.jpg",
+          "miniatura": "img/ia/inferno-14-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-2",
@@ -40,7 +50,17 @@
       "sintesi": "Un grande dannato giace sprezzante, come se la pioggia di fuoco non lo toccasse: è Capaneo, uno dei sette re che assediarono Tebe. Sfida ancora Giove a fulminarlo. Virgilio, con voce fortissima, gli risponde che la sua superbia inestinguibile è la sua pena più grande.",
       "luogo_id": "girone-7-3",
       "personaggi": ["dante", "virgilio", "capaneo"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Capaneo",
+          "url": "img/ia/inferno-14-scena-3.jpg",
+          "miniatura": "img/ia/inferno-14-scena-3.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-4",
@@ -49,7 +69,17 @@
       "sintesi": "In silenzio arrivano a un ruscello rosso che esce dalla selva e spegne le fiammelle: i suoi argini di pietra sono il passaggio. Virgilio spiega l'origine dei fiumi infernali: dentro il monte Ida, a Creta, sta un grande vecchio di metalli diversi, incrinato, le cui lacrime scendono sottoterra e formano Acheronte, Stige, Flegetonte e Cocito.",
       "luogo_id": "girone-7-3",
       "personaggi": ["dante", "virgilio", "veglio-di-creta"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Il ruscello rosso e il Veglio di Creta",
+          "url": "img/ia/inferno-14-scena-4.jpg",
+          "miniatura": "img/ia/inferno-14-scena-4.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     }
   ],
   "terzine": [

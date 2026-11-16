@@ -74,6 +74,7 @@ per ben cessar la rena e la fiammella.
 
 ## scena-2 | girone-7-3 | Gli usurai
 personaggi: dante, gianfigliazzi, obriachi, reginaldo-scrovegni, vitaliano, buiamonte
+tavola: ia | Gli usurai | img/ia/inferno-17-scena-2.jpg
 sintesi: Mentre Virgilio parla con Gerione, Dante va da solo a vedere gli usurai, seduti sull'orlo: si difendono dal fuoco come cani dalle mosche. Non ne riconosce nessuno, ma ognuno porta al collo una borsa con lo stemma della famiglia. Il padovano Reginaldo degli Scrovegni gli annuncia i compagni che lo raggiungeranno e gli fa la linguaccia.
 
 34

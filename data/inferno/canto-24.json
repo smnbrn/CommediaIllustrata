@@ -12,7 +12,17 @@
       "sintesi": "Come il contadino che a fine inverno scambia la brina per neve e si dispera, per poi rincuorarsi, così Dante è sgomento per il turbamento di Virgilio e subito confortato dal suo sguardo dolce, lo stesso che aveva ai piedi del colle.",
       "luogo_id": "bolgia-6",
       "personaggi": ["dante", "virgilio"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Lo sgomento e il conforto",
+          "url": "img/ia/inferno-24-scena-1.jpg",
+          "miniatura": "img/ia/inferno-24-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-2",
@@ -21,7 +31,17 @@
       "sintesi": "Arrivati al ponte crollato, Virgilio studia la frana e aiuta Dante ad arrampicarsi di masso in masso. In cima Dante, senza fiato, si siede; Virgilio lo sprona: non si arriva alla fama stando sotto le coperte, e li attende una scala ancora più lunga. Dante si rialza e riprende il cammino.",
       "luogo_id": "bolgia-6",
       "personaggi": ["dante", "virgilio"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La faticosa salita",
+          "url": "img/ia/inferno-24-scena-2.jpg",
+          "miniatura": "img/ia/inferno-24-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-3",
@@ -49,7 +69,17 @@
       "sintesi": "Un serpente trafigge un dannato alla nuca: in un attimo si incendia, diventa cenere e poi si ricompone, come la fenice. È il pistoiese Vanni Fucci, ladro degli arredi della sagrestia del duomo, colpa attribuita ad altri. Umiliato di essere visto da Dante, si vendica con una profezia: i Bianchi saranno sconfitti.",
       "luogo_id": "bolgia-7",
       "personaggi": ["dante", "virgilio", "vanni-fucci"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Vanni Fucci, incenerito e risorto",
+          "url": "img/ia/inferno-24-scena-4.jpg",
+          "miniatura": "img/ia/inferno-24-scena-4.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     }
   ],
   "terzine": [

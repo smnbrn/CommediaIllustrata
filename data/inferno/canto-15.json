@@ -12,7 +12,17 @@
       "sintesi": "I due camminano su uno degli argini di pietra, protetti dal vapore del ruscello, simili alle dighe dei Fiamminghi e dei Padovani. Una schiera di anime li scruta strizzando gli occhi, come il vecchio sarto che infila l'ago.",
       "luogo_id": "girone-7-3",
       "personaggi": ["dante", "virgilio"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Sull'argine",
+          "url": "img/ia/inferno-15-scena-1.jpg",
+          "miniatura": "img/ia/inferno-15-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-2",
@@ -40,7 +50,17 @@
       "sintesi": "Brunetto profetizza a Dante un destino glorioso, ma anche l'ostilità dei Fiorentini, gente avara, invidiosa e superba discesa da Fiesole: entrambe le parti lo vorranno, ma non lo avranno. Dante ricorda con affetto la «cara e buona immagine paterna» del maestro, che gli insegnava come l'uomo si rende eterno, e si dice pronto ad affrontare la Fortuna.",
       "luogo_id": "girone-7-3",
       "personaggi": ["dante", "brunetto-latini"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La profezia di Brunetto",
+          "url": "img/ia/inferno-15-scena-3.jpg",
+          "miniatura": "img/ia/inferno-15-scena-3.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-4",
@@ -49,7 +69,17 @@
       "sintesi": "I compagni di Brunetto furono tutti chierici e letterati famosi, macchiati dello stesso peccato: tra loro Prisciano, Francesco d'Accorso e il vescovo Andrea dei Mozzi. Vedendo arrivare un'altra schiera, Brunetto raccomanda a Dante il suo Tesoro e corre via veloce, come chi vince il palio a Verona.",
       "luogo_id": "girone-7-3",
       "personaggi": ["dante", "brunetto-latini", "prisciano", "francesco-daccorso", "andrea-dei-mozzi"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "I compagni di Brunetto",
+          "url": "img/ia/inferno-15-scena-4.jpg",
+          "miniatura": "img/ia/inferno-15-scena-4.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     }
   ],
   "terzine": [

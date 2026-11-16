@@ -12,7 +12,17 @@
       "sintesi": "Lungo un sentiero tra le mura e le tombe, Dante chiede se si possano vedere i sepolti. Virgilio spiega che i sepolcri si chiuderanno dopo il giudizio universale e che in questa parte stanno Epicuro e i suoi seguaci, che credevano l'anima mortale con il corpo.",
       "luogo_id": "cerchio-6",
       "personaggi": ["dante", "virgilio", "epicuro"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Gli epicurei",
+          "url": "img/ia/inferno-10-scena-1.jpg",
+          "miniatura": "img/ia/inferno-10-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-2",
@@ -40,7 +50,17 @@
       "sintesi": "Dalla stessa tomba si alza fino al mento un'altra ombra: è Cavalcante dei Cavalcanti, che cerca accanto a Dante il figlio Guido. Fraintendendo un verbo al passato, crede che Guido sia morto e ricade supino nel sepolcro.",
       "luogo_id": "cerchio-6",
       "personaggi": ["dante", "cavalcante", "guido-cavalcanti"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Cavalcante",
+          "url": "img/ia/inferno-10-scena-3.jpg",
+          "miniatura": "img/ia/inferno-10-scena-3.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-4",
@@ -49,7 +69,17 @@
       "sintesi": "Farinata, impassibile, riprende il discorso: prima di cinquanta mesi Dante saprà quanto è difficile tornare dall'esilio. Ricorda di aver difeso Firenze da solo a Empoli e spiega che i dannati vedono il futuro lontano ma non il presente. Dante gli chiede di dire a Cavalcante che il figlio è vivo. Tra gli eretici ci sono anche Federico II e il cardinale Ottaviano degli Ubaldini.",
       "luogo_id": "cerchio-6",
       "personaggi": ["dante", "farinata", "federico-ii", "cardinale-ubaldini"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La profezia dell'esilio",
+          "url": "img/ia/inferno-10-scena-4.jpg",
+          "miniatura": "img/ia/inferno-10-scena-4.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-5",
@@ -58,7 +88,17 @@
       "sintesi": "Dante torna da Virgilio turbato dalla profezia. Virgilio gli dice di ricordarla: da Beatrice saprà il corso della sua vita. Poi i due lasciano il muro e si dirigono verso il centro, verso una valle da cui sale un fetore.",
       "luogo_id": "cerchio-6",
       "personaggi": ["dante", "virgilio", "beatrice"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Virgilio conforta Dante",
+          "url": "img/ia/inferno-10-scena-5.jpg",
+          "miniatura": "img/ia/inferno-10-scena-5.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     }
   ],
   "terzine": [

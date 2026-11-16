@@ -31,7 +31,17 @@
       "sintesi": "Virgilio spiega la struttura del basso Inferno. Sotto di loro ci sono tre cerchi. Il primo, dei violenti, è diviso in tre gironi: violenti contro il prossimo, contro se stessi, contro Dio, la natura e l'arte. La frode, peccato proprio dell'uomo, è punita più in basso: nell'ottavo cerchio quella contro chi non si fida, nel nono il tradimento di chi si fida.",
       "luogo_id": "cerchio-6",
       "personaggi": ["dante", "virgilio"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Violenti e fraudolenti",
+          "url": "img/ia/inferno-11-scena-2.jpg",
+          "miniatura": "img/ia/inferno-11-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-3",
@@ -40,7 +50,17 @@
       "sintesi": "Dante chiede perché i peccatori dei cerchi superiori non siano puniti dentro Dite. Virgilio richiama l'Etica di Aristotele: l'incontinenza offende Dio meno della malizia e della bestialità. Poi spiega perché l'usura offende Dio: l'usuraio disprezza la natura e il lavoro umano, che ne è figlio. È quasi l'alba: bisogna riprendere il cammino.",
       "luogo_id": "cerchio-6",
       "personaggi": ["dante", "virgilio"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Incontinenza e usura",
+          "url": "img/ia/inferno-11-scena-3.jpg",
+          "miniatura": "img/ia/inferno-11-scena-3.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     }
   ],
   "terzine": [

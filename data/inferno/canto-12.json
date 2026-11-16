@@ -31,7 +31,17 @@
       "sintesi": "Virgilio spiega che quella frana non c'era la prima volta che scese: la roccia crollò nel terremoto che scosse l'Inferno poco prima che Cristo vi scendesse a liberare le anime del Limbo. Poi indica il fiume di sangue bollente dove sono puniti i violenti contro il prossimo.",
       "luogo_id": "cerchio-7",
       "personaggi": ["dante", "virgilio", "cristo"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La frana del terremoto",
+          "url": "img/ia/inferno-12-scena-2.jpg",
+          "miniatura": "img/ia/inferno-12-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-3",
@@ -92,7 +102,17 @@
         "rinier-da-corneto",
         "rinier-pazzo"
       ],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "I tiranni e gli omicidi nel sangue",
+          "url": "img/ia/inferno-12-scena-5.jpg",
+          "miniatura": "img/ia/inferno-12-scena-5.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     }
   ],
   "terzine": [

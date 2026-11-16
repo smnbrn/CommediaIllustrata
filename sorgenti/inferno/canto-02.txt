@@ -26,6 +26,7 @@ qui si parrà la tua nobilitate.
 
 ## scena-2 | selva-oscura | Il dubbio di Dante
 personaggi: dante, virgilio, enea, san-paolo
+tavola: ia | Il dubbio di Dante | img/ia/inferno-02-scena-2.jpg
 sintesi: Dante teme di non essere all'altezza: nell'aldilà andarono Enea e san Paolo, ma per ragioni altissime. «Io non Enea, io non Paulo sono»: e rinuncia all'impresa appena cominciata.
 
 10
@@ -250,6 +251,7 @@ ch’onora te e quei ch’udito l’ hanno".
 
 ## scena-5 | selva-oscura | Dante ritrova il coraggio
 personaggi: dante, virgilio, beatrice
+tavola: ia | Dante ritrova il coraggio | img/ia/inferno-02-scena-5.jpg
 sintesi: Virgilio conclude: con tre donne benedette che si curano di lui, perché esitare? Come fiori che si riaprono al sole, Dante si rianima e lo segue per il cammino difficile.
 
 115

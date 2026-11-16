@@ -12,7 +12,17 @@
       "sintesi": "Dante ha visto molti segnali di battaglia, ma mai uno come quello di Barbariccia. Cammina con i dieci diavoli: «in chiesa coi santi, in taverna coi ghiottoni». I barattieri affiorano per alleviare la pena, come delfini o ranocchi, e si rituffano appena arriva Barbariccia.",
       "luogo_id": "bolgia-5",
       "personaggi": ["dante", "virgilio", "malebranche"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "In cammino con i diavoli",
+          "url": "img/ia/inferno-22-scena-1.jpg",
+          "miniatura": "img/ia/inferno-22-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-2",
@@ -21,7 +31,17 @@
       "sintesi": "Un dannato rimasto a galla viene uncinato per i capelli e tirato su come una lontra. È un navarrese, servitore del re Tebaldo, dove praticò la baratteria. Mentre i diavoli lo graffiano a turno, racconta di frate Gomita di Gallura e di Michele Zanche, barattieri sardi.",
       "luogo_id": "bolgia-5",
       "personaggi": ["dante", "virgilio", "malebranche", "ciampolo", "frate-gomita", "michel-zanche"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Il barattiere navarrese",
+          "url": "img/ia/inferno-22-scena-2.jpg",
+          "miniatura": "img/ia/inferno-22-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-3",

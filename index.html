@@ -14,7 +14,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap">
-  <link rel="stylesheet" href="css/stile.css?v=2026-11-15.7">
+  <link rel="stylesheet" href="css/stile.css?v=2026-11-16.1">
 </head>
 <body>
   <header class="testata">
@@ -33,7 +33,7 @@
   <main class="lettore">
     <aside class="pannello" aria-label="Tavola della scena">
       <figure class="tavola" id="tavola">
-        <div class="tavola-cornice">
+        <div class="tavola-cornice" id="tavola-cornice" role="button" tabindex="0" aria-label="Ingrandisci la tavola">
           <img id="img-a" class="tavola-img attiva" alt="">
           <img id="img-b" class="tavola-img" alt="">
           <div class="tavola-vuota" id="tavola-vuota" hidden>
@@ -62,9 +62,17 @@
     </article>
   </main>
 
-  <script>window.CI = { versione: "2026-11-15.7" };  // stessa versione dei ?v= di questa pagina: va cambiata a ogni pubblicazione</script>
-  <script src="js/dati.js?v=2026-11-15.7"></script>
-  <script src="js/mappa.js?v=2026-11-15.7"></script>
-  <script src="js/app.js?v=2026-11-15.7"></script>
+  <div class="lente" id="lente" role="dialog" aria-modal="true" aria-label="Tavola ingrandita" hidden>
+    <button class="lente-chiudi" id="lente-chiudi" type="button" aria-label="Chiudi" title="Chiudi (Esc)">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 5l14 14M19 5L5 19"/></svg>
+    </button>
+    <div class="lente-scorri" id="lente-scorri"><img id="lente-img" alt=""></div>
+    <p class="lente-didascalia" id="lente-didascalia"></p>
+  </div>
+
+  <script>window.CI = { versione: "2026-11-16.1" };  // stessa versione dei ?v= di questa pagina: va cambiata a ogni pubblicazione</script>
+  <script src="js/dati.js?v=2026-11-16.1"></script>
+  <script src="js/mappa.js?v=2026-11-16.1"></script>
+  <script src="js/app.js?v=2026-11-16.1"></script>
 </body>
 </html>

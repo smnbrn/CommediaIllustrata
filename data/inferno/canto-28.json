@@ -12,7 +12,17 @@
       "sintesi": "Nessuna parola può descrivere il sangue e le ferite della nona bolgia: neppure tutti i caduti delle guerre dell'Italia meridionale, dai tempi dei Troiani a Tagliacozzo, mostrerebbero tante membra squarciate e mozzate.",
       "luogo_id": "bolgia-9",
       "personaggi": ["dante", "virgilio"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La bolgia del sangue",
+          "url": "img/ia/inferno-28-scena-1.jpg",
+          "miniatura": "img/ia/inferno-28-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-2",
@@ -21,7 +31,17 @@
       "sintesi": "Un dannato è squarciato dal mento all'ano, come una botte sfondata. Si apre il petto con le mani: è Maometto, e davanti a lui va Alì, con il volto spaccato. Spiega che un diavolo li ferisce di nuovo con la spada a ogni giro, e manda un avvertimento a fra Dolcino.",
       "luogo_id": "bolgia-9",
       "personaggi": ["dante", "virgilio", "maometto", "ali", "fra-dolcino"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Maometto",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Mohammed_%28148619179%29.jpg",
+          "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mohammed_%28148619179%29.jpg/960px-Mohammed_%28148619179%29.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Mohammed_(148619179).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
     },
     {
       "id": "scena-3",
@@ -49,7 +69,17 @@
       "sintesi": "Un dannato con le mani mozzate solleva i moncherini nel buio: è Mosca dei Lamberti, che con il suo «Cosa fatta capo ha» provocò l'uccisione di Buondelmonte e la divisione di Firenze. Dante aggiunge che fu anche la rovina della sua famiglia, e Mosca se ne va disperato.",
       "luogo_id": "bolgia-9",
       "personaggi": ["dante", "mosca"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Mosca dei Lamberti",
+          "url": "img/ia/inferno-28-scena-4.jpg",
+          "miniatura": "img/ia/inferno-28-scena-4.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-5",

@@ -3,6 +3,7 @@ titolo: I barattieri e i Malebranche
 
 ## scena-1 | bolgia-5 | La pece bollente
 personaggi: dante, virgilio
+tavola: ia | La pece bollente | img/ia/inferno-21-scena-1.jpg
 sintesi: Dal ponte i due guardano la quinta bolgia, stranamente buia: vi bolle una pece densa, come quella che d'inverno nell'Arsenale di Venezia serve a riparare le navi.
 
 1
@@ -209,6 +210,7 @@ veggendo sé tra nemici cotanti.
 
 ## scena-4 | bolgia-5 | La scorta dei dieci diavoli
 personaggi: dante, virgilio, malebranche, malacoda
+tavola: ia | La scorta dei dieci diavoli | img/ia/inferno-21-scena-4.jpg
 sintesi: I diavoli minacciano Dante con gli uncini, ma Malacoda li ferma. Con una menzogna dice che il ponte successivo è crollato (il crollo avvenne alla morte di Cristo, 1266 anni prima) e assegna ai due una scorta di dieci diavoli guidati da Barbariccia. Dante ha paura; Virgilio lo rassicura. La schiera si avvia con un gesto osceno.
 
 97

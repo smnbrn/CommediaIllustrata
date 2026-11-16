@@ -12,7 +12,17 @@
       "sintesi": "Dal ponte i due guardano la quinta bolgia, stranamente buia: vi bolle una pece densa, come quella che d'inverno nell'Arsenale di Venezia serve a riparare le navi.",
       "luogo_id": "bolgia-5",
       "personaggi": ["dante", "virgilio"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La pece bollente",
+          "url": "img/ia/inferno-21-scena-1.jpg",
+          "miniatura": "img/ia/inferno-21-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-2",
@@ -59,7 +69,17 @@
       "sintesi": "I diavoli minacciano Dante con gli uncini, ma Malacoda li ferma. Con una menzogna dice che il ponte successivo è crollato (il crollo avvenne alla morte di Cristo, 1266 anni prima) e assegna ai due una scorta di dieci diavoli guidati da Barbariccia. Dante ha paura; Virgilio lo rassicura. La schiera si avvia con un gesto osceno.",
       "luogo_id": "bolgia-5",
       "personaggi": ["dante", "virgilio", "malebranche", "malacoda"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La scorta dei dieci diavoli",
+          "url": "img/ia/inferno-21-scena-4.jpg",
+          "miniatura": "img/ia/inferno-21-scena-4.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     }
   ],
   "terzine": [

@@ -12,7 +12,17 @@
       "sintesi": "Dante riprende i sensi nel terzo cerchio: una pioggia eterna, fredda e pesante di grandine, acqua sporca e neve cade sulla terra puzzolente, dove giacciono i golosi.",
       "luogo_id": "cerchio-3",
       "personaggi": ["dante", "virgilio"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La pioggia eterna",
+          "url": "img/ia/inferno-06-scena-1.jpg",
+          "miniatura": "img/ia/inferno-06-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-2",
@@ -59,7 +69,17 @@
       "sintesi": "Dante chiede del destino di Firenze divisa. Ciacco predice gli scontri tra Bianchi e Neri, la vittoria e poi la caduta dei Bianchi; i giusti sono due e inascoltati. Dei grandi fiorentini del passato dice che sono più in basso, tra le anime più nere; poi chiede di essere ricordato nel mondo e ricade nel fango.",
       "luogo_id": "cerchio-3",
       "personaggi": ["dante", "virgilio", "ciacco", "farinata", "tegghiaio", "iacopo-rusticucci", "arrigo", "mosca"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La profezia su Firenze",
+          "url": "img/ia/inferno-06-scena-4.jpg",
+          "miniatura": "img/ia/inferno-06-scena-4.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-5",
@@ -68,7 +88,17 @@
       "sintesi": "Virgilio spiega che Ciacco non si rialzerà fino al giudizio universale, quando ogni anima riprenderà il suo corpo; dopo, i dannati soffriranno di più, perché più perfetti. Girando il cerchio i due arrivano al punto della discesa, dove trovano Pluto.",
       "luogo_id": "cerchio-3",
       "personaggi": ["dante", "virgilio", "pluto"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Il giudizio universale e Pluto",
+          "url": "img/ia/inferno-06-scena-5.jpg",
+          "miniatura": "img/ia/inferno-06-scena-5.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     }
   ],
   "terzine": [

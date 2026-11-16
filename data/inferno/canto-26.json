@@ -12,7 +12,17 @@
       "sintesi": "Dante ironizza amaramente su Firenze, che spande il suo nome perfino all'Inferno: tra i ladri ha trovato cinque fiorentini. Predice alla città le sventure che le augurano anche i vicini. Poi i due risalgono e riprendono la strada sul ponte, aiutandosi con le mani.",
       "luogo_id": "bolgia-7",
       "personaggi": ["dante", "virgilio"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "L'invettiva contro Firenze",
+          "url": "img/ia/inferno-26-scena-1.jpg",
+          "miniatura": "img/ia/inferno-26-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-2",
@@ -21,7 +31,17 @@
       "sintesi": "Dante si addolora ancora ricordando ciò che vide, e frena il proprio ingegno perché non corra senza virtù. L'ottava bolgia brilla di fiamme come lucciole viste dal contadino in una sera d'estate; ogni fiamma nasconde un peccatore, come il carro di Elia che salì al cielo.",
       "luogo_id": "bolgia-8",
       "personaggi": ["dante", "virgilio"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Le fiamme dell'ottava bolgia",
+          "url": "img/ia/inferno-26-scena-2.jpg",
+          "miniatura": "img/ia/inferno-26-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-3",
@@ -49,7 +69,17 @@
       "sintesi": "Il corno più grande della fiamma parla: è Ulisse. Lasciata Circe, né l'affetto per il figlio, né il padre, né Penelope vinsero il suo desiderio di conoscere il mondo. Con pochi compagni oltrepassò le colonne d'Ercole con l'«orazion picciola»: «fatti non foste a viver come bruti». Dopo cinque mesi di navigazione videro una montagna altissima, ma un turbine affondò la nave.",
       "luogo_id": "bolgia-8",
       "personaggi": ["ulisse"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "L'ultimo viaggio di Ulisse",
+          "url": "img/ia/inferno-26-scena-4.jpg",
+          "miniatura": "img/ia/inferno-26-scena-4.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     }
   ],
   "terzine": [

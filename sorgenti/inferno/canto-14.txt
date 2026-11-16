@@ -3,6 +3,7 @@ titolo: Il sabbione infuocato, Capaneo, il Veglio di Creta
 
 ## scena-1 | girone-7-3 | Il sabbione
 personaggi: dante, virgilio
+tavola: ia | Il sabbione | img/ia/inferno-14-scena-1.jpg
 sintesi: Dante restituisce le fronde al suicida fiorentino. Al limite della selva si apre una distesa di sabbia arida, il terzo girone, dove schiere di anime nude piangono: alcune giacciono supine, altre siedono raccolte, altre camminano senza sosta.
 
 1
@@ -96,6 +97,7 @@ escotendo da sé l’arsura fresca.
 
 ## scena-3 | girone-7-3 | Capaneo
 personaggi: dante, virgilio, capaneo
+tavola: ia | Capaneo | img/ia/inferno-14-scena-3.jpg
 sintesi: Un grande dannato giace sprezzante, come se la pioggia di fuoco non lo toccasse: è Capaneo, uno dei sette re che assediarono Tebe. Sfida ancora Giove a fulminarlo. Virgilio, con voce fortissima, gli risponde che la sua superbia inestinguibile è la sua pena più grande.
 
 43
@@ -166,6 +168,7 @@ ma sempre al bosco tien li piedi stretti".
 
 ## scena-4 | girone-7-3 | Il ruscello rosso e il Veglio di Creta
 personaggi: dante, virgilio, veglio-di-creta
+tavola: ia | Il ruscello rosso e il Veglio di Creta | img/ia/inferno-14-scena-4.jpg
 sintesi: In silenzio arrivano a un ruscello rosso che esce dalla selva e spegne le fiammelle: i suoi argini di pietra sono il passaggio. Virgilio spiega l'origine dei fiumi infernali: dentro il monte Ida, a Creta, sta un grande vecchio di metalli diversi, incrinato, le cui lacrime scendono sottoterra e formano Acheronte, Stige, Flegetonte e Cocito.
 
 76

@@ -31,7 +31,17 @@
       "sintesi": "Nell'aria senza stelle risuonano lamenti: sono le anime di chi visse «sanza 'nfamia e sanza lodo», insieme agli angeli rimasti neutrali. Corrono nudi dietro un'insegna, punti da mosconi e vespe; tra loro, colui che fece il gran rifiuto.",
       "luogo_id": "vestibolo",
       "personaggi": ["dante", "virgilio", "gran-rifiuto"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Gli ignavi",
+          "url": "img/ia/inferno-03-scena-2.jpg",
+          "miniatura": "img/ia/inferno-03-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-3",
@@ -78,7 +88,17 @@
       "sintesi": "La campagna buia trema, dalla terra si leva un vento e balena una luce rossa: Dante perde i sensi e cade come chi è preso dal sonno.",
       "luogo_id": "acheronte",
       "personaggi": ["dante"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Il terremoto e lo svenimento",
+          "url": "img/ia/inferno-03-scena-5.jpg",
+          "miniatura": "img/ia/inferno-03-scena-5.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     }
   ],
   "terzine": [

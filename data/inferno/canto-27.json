@@ -12,7 +12,17 @@
       "sintesi": "Partita la fiamma di Ulisse, ne arriva un'altra da cui escono suoni confusi, come dal toro di bronzo di Falaride. Le parole trovano infine la via attraverso la punta: lo spirito, romagnolo, chiede se la sua terra sia in pace o in guerra.",
       "luogo_id": "bolgia-8",
       "personaggi": ["dante", "virgilio", "guido-da-montefeltro"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Una nuova fiamma chiede della Romagna",
+          "url": "img/ia/inferno-27-scena-1.jpg",
+          "miniatura": "img/ia/inferno-27-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-2",
@@ -21,7 +31,17 @@
       "sintesi": "Virgilio lascia parlare Dante, che descrive la Romagna: nessuna guerra aperta, ma tiranni dappertutto. Ravenna è dei Polenta, Forlì degli Ordelaffi, Rimini dei Malatesta, Faenza e Imola di Maghinardo Pagani; Cesena vive tra tirannia e libertà. Poi chiede allo spirito chi sia.",
       "luogo_id": "bolgia-8",
       "personaggi": ["dante", "virgilio"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La Romagna nel 1300",
+          "url": "img/ia/inferno-27-scena-2.jpg",
+          "miniatura": "img/ia/inferno-27-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-3",
@@ -30,7 +50,17 @@
       "sintesi": "Credendo che Dante non tornerà mai nel mondo, lo spirito si rivela: fu un condottiero astuto come una volpe, poi si fece frate francescano per pentirsi. Ma Bonifacio VIII, in guerra con i Colonna, lo assolse in anticipo e gli chiese come prendere Palestrina: Guido consigliò di promettere molto e mantenere poco.",
       "luogo_id": "bolgia-8",
       "personaggi": ["dante", "guido-da-montefeltro", "bonifacio-viii"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Il consiglio fraudolento",
+          "url": "img/ia/inferno-27-scena-3.jpg",
+          "miniatura": "img/ia/inferno-27-scena-3.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-4",
@@ -39,7 +69,17 @@
       "sintesi": "Alla morte di Guido venne san Francesco a prenderlo, ma un diavolo glielo contese: non si può essere assolti senza pentirsi, né pentirsi e voler peccare insieme. «Forse non pensavi che io fossi un logico!» Minosse lo mandò tra i consiglieri fraudolenti. La fiamma si allontana dolente.",
       "luogo_id": "bolgia-8",
       "personaggi": ["guido-da-montefeltro", "san-francesco", "minosse"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "San Francesco e il diavolo loico",
+          "url": "img/ia/inferno-27-scena-4.jpg",
+          "miniatura": "img/ia/inferno-27-scena-4.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     }
   ],
   "terzine": [

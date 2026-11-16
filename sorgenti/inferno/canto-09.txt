@@ -3,6 +3,7 @@ titolo: Le Furie, il messo celeste, gli eretici
 
 ## scena-1 | citta-di-dite | L'attesa davanti a Dite
 personaggi: dante, virgilio, eritone
+tavola: ia | L'attesa davanti a Dite | img/ia/inferno-09-scena-1.jpg
 sintesi: Virgilio, in ascolto, aspetta un aiuto e lascia a metà una frase che spaventa Dante. Alla domanda se qualcuno del Limbo scenda mai fin qui, risponde di aver già fatto quel cammino, evocato dalla maga Eritone fino al cerchio più profondo: conosce bene la strada.
 
 1

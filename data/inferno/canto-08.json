@@ -50,7 +50,17 @@
       "sintesi": "Un lamento arriva da lontano. Appare la città di Dite, con le moschee rosse per il fuoco eterno e le mura che sembrano di ferro. Dopo un lungo giro, Flegiàs fa scendere i due davanti all'ingresso.",
       "luogo_id": "citta-di-dite",
       "personaggi": ["dante", "virgilio", "flegias"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La città di Dite",
+          "url": "img/ia/inferno-08-scena-3.jpg",
+          "miniatura": "img/ia/inferno-08-scena-3.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-4",

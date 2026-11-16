@@ -12,7 +12,17 @@
       "sintesi": "Vanni Fucci alza le mani in un gesto osceno contro Dio, ma due serpenti lo stringono al collo e alle braccia. Dante maledice Pistoia. Arriva un centauro coperto di bisce, con un drago che sputa fuoco sulle spalle: è Caco, punito qui per il furto con inganno della mandria di Ercole.",
       "luogo_id": "bolgia-7",
       "personaggi": ["dante", "virgilio", "vanni-fucci", "caco"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Le fiche di Vanni Fucci e Caco",
+          "url": "img/ia/inferno-25-scena-1.jpg",
+          "miniatura": "img/ia/inferno-25-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-2",
@@ -40,7 +50,17 @@
       "sintesi": "Un serpentello nero e infuocato trafigge l'ombelico di Buoso. I due si fissano, fumando dalla ferita e dalla bocca, e si scambiano le nature: l'uomo diventa serpente e il serpente uomo. Dante sfida Lucano e Ovidio a eguagliare la metamorfosi. Solo Puccio Sciancato resta com'era; il serpente diventato uomo è Francesco Cavalcanti, ucciso a Gaville.",
       "luogo_id": "bolgia-7",
       "personaggi": ["dante", "buoso", "francesco-cavalcanti", "puccio-sciancato"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Lo scambio tra Buoso e Francesco",
+          "url": "img/ia/inferno-25-scena-3.jpg",
+          "miniatura": "img/ia/inferno-25-scena-3.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     }
   ],
   "terzine": [

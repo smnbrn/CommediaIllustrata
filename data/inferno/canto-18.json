@@ -12,7 +12,17 @@
       "sintesi": "L'ottavo cerchio, Malebolge, è tutto di pietra color ferro: dieci fossati concentrici scendono verso un pozzo centrale, attraversati da ponti di roccia come i ponticelli dei castelli. Scesi da Gerione, i due vanno verso sinistra.",
       "luogo_id": "cerchio-8",
       "personaggi": ["dante", "virgilio"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Malebolge",
+          "url": "img/ia/inferno-18-scena-1.jpg",
+          "miniatura": "img/ia/inferno-18-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-2",
@@ -40,7 +50,17 @@
       "sintesi": "Saliti sul ponte, i due guardano la fila dei seduttori. Virgilio indica Giasone, che ancora conserva un aspetto regale: conquistò il vello d'oro, sedusse e abbandonò Isifile incinta, e poi tradì Medea.",
       "luogo_id": "bolgia-1",
       "personaggi": ["dante", "virgilio", "giasone"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Giasone",
+          "url": "img/ia/inferno-18-scena-3.jpg",
+          "miniatura": "img/ia/inferno-18-scena-3.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-4",

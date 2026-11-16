@@ -12,7 +12,17 @@
       "sintesi": "Dante apostrofa Simon mago e i simoniaci, che vendettero le cose sacre. Nella terza bolgia la roccia è piena di fori rotondi, come i fonti battesimali di San Giovanni a Firenze, e da ciascuno sporgono le gambe di un dannato capovolto, con le piante dei piedi in fiamme.",
       "luogo_id": "bolgia-3",
       "personaggi": ["dante", "virgilio", "simon-mago"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "I fori infuocati dei simoniaci",
+          "url": "img/ia/inferno-19-scena-1.jpg",
+          "miniatura": "img/ia/inferno-19-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-2",
@@ -40,7 +50,17 @@
       "sintesi": "Dante risponde con durezza: Cristo non chiese denaro a san Pietro per affidargli le chiavi. L'avarizia dei papi rattrista il mondo, la Chiesa è la prostituta dell'Apocalisse, e il male cominciò con la donazione di Costantino. Niccolò scalcia per l'ira o il rimorso; Virgilio, compiaciuto, riporta Dante in braccio sul ponte successivo.",
       "luogo_id": "bolgia-3",
       "personaggi": ["dante", "virgilio", "niccolo-iii", "san-pietro", "costantino"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "L'invettiva contro i papi simoniaci",
+          "url": "img/ia/inferno-19-scena-3.jpg",
+          "miniatura": "img/ia/inferno-19-scena-3.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     }
   ],
   "terzine": [

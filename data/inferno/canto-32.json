@@ -12,7 +12,17 @@
       "sintesi": "Dante vorrebbe rime aspre per descrivere il fondo dell'universo e invoca le Muse. Una voce lo avverte di non calpestare le teste: sotto i suoi piedi c'è un lago ghiacciato, più spesso del Danubio e del Don d'inverno, in cui i traditori sono confitti fino al volto, livido, battendo i denti.",
       "luogo_id": "cerchio-9",
       "personaggi": ["dante", "virgilio"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "L'invocazione e il lago di ghiaccio",
+          "url": "img/ia/inferno-32-scena-1.jpg",
+          "miniatura": "img/ia/inferno-32-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-2",

@@ -3,6 +3,7 @@ titolo: Caco e le metamorfosi dei ladri
 
 ## scena-1 | bolgia-7 | Le fiche di Vanni Fucci e Caco
 personaggi: dante, virgilio, vanni-fucci, caco
+tavola: ia | Le fiche di Vanni Fucci e Caco | img/ia/inferno-25-scena-1.jpg
 sintesi: Vanni Fucci alza le mani in un gesto osceno contro Dio, ma due serpenti lo stringono al collo e alle braccia. Dante maledice Pistoia. Arriva un centauro coperto di bisce, con un drago che sputa fuoco sulle spalle: è Caco, punito qui per il furto con inganno della mandria di Ercole.
 
 1
@@ -168,6 +169,7 @@ parea; e tal sen gio con lento passo.
 
 ## scena-3 | bolgia-7 | Lo scambio tra Buoso e Francesco
 personaggi: dante, buoso, francesco-cavalcanti, puccio-sciancato
+tavola: ia | Lo scambio tra Buoso e Francesco | img/ia/inferno-25-scena-3.jpg
 sintesi: Un serpentello nero e infuocato trafigge l'ombelico di Buoso. I due si fissano, fumando dalla ferita e dalla bocca, e si scambiano le nature: l'uomo diventa serpente e il serpente uomo. Dante sfida Lucano e Ovidio a eguagliare la metamorfosi. Solo Puccio Sciancato resta com'era; il serpente diventato uomo è Francesco Cavalcanti, ucciso a Gaville.
 
 79

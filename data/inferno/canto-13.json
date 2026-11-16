@@ -50,7 +50,17 @@
       "sintesi": "Il tronco racconta: fu Pier delle Vigne, il più fidato consigliere di Federico II. L'invidia della corte lo fece cadere in disgrazia, e lui per sdegno si uccise, ingiusto contro se stesso innocente. Giura di non aver mai tradito il suo signore e chiede a Dante di riabilitare la sua memoria.",
       "luogo_id": "girone-7-2",
       "personaggi": ["dante", "virgilio", "pier-delle-vigne", "federico-ii"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Pier delle Vigne",
+          "url": "img/ia/inferno-13-scena-3.jpg",
+          "miniatura": "img/ia/inferno-13-scena-3.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-4",
@@ -59,7 +69,17 @@
       "sintesi": "Dante, troppo commosso, chiede a Virgilio di fare le domande. Pier spiega che l'anima del suicida, gettata da Minosse nella selva, germoglia come un seme e diventa pianta; le Arpie, mangiandone le foglie, le danno dolore. Dopo il giudizio i suicidi non riavranno il corpo: lo appenderanno al proprio albero.",
       "luogo_id": "girone-7-2",
       "personaggi": ["dante", "virgilio", "pier-delle-vigne", "arpie"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Il destino dei suicidi",
+          "url": "img/ia/inferno-13-scena-4.jpg",
+          "miniatura": "img/ia/inferno-13-scena-4.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-5",

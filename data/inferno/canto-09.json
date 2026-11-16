@@ -12,7 +12,17 @@
       "sintesi": "Virgilio, in ascolto, aspetta un aiuto e lascia a metà una frase che spaventa Dante. Alla domanda se qualcuno del Limbo scenda mai fin qui, risponde di aver già fatto quel cammino, evocato dalla maga Eritone fino al cerchio più profondo: conosce bene la strada.",
       "luogo_id": "citta-di-dite",
       "personaggi": ["dante", "virgilio", "eritone"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "L'attesa davanti a Dite",
+          "url": "img/ia/inferno-09-scena-1.jpg",
+          "miniatura": "img/ia/inferno-09-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-2",

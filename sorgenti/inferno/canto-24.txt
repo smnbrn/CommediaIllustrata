@@ -3,6 +3,7 @@ titolo: La salita, i ladri e i serpenti, Vanni Fucci
 
 ## scena-1 | bolgia-6 | Lo sgomento e il conforto
 personaggi: dante, virgilio
+tavola: ia | Lo sgomento e il conforto | img/ia/inferno-24-scena-1.jpg
 sintesi: Come il contadino che a fine inverno scambia la brina per neve e si dispera, per poi rincuorarsi, così Dante è sgomento per il turbamento di Virgilio e subito confortato dal suo sguardo dolce, lo stesso che aveva ai piedi del colle.
 
 1
@@ -43,6 +44,7 @@ e così tosto al mal giunse lo ’mpiastro;
 
 ## scena-2 | bolgia-6 | La faticosa salita
 personaggi: dante, virgilio
+tavola: ia | La faticosa salita | img/ia/inferno-24-scena-2.jpg
 sintesi: Arrivati al ponte crollato, Virgilio studia la frana e aiuta Dante ad arrampicarsi di masso in masso. In cima Dante, senza fiato, si siede; Virgilio lo sprona: non si arriva alla fama stando sotto le coperte, e li attende una scala ancora più lunga. Dante si rialza e riprende il cammino.
 
 19
@@ -208,6 +210,7 @@ e ’l capo, ed eran dinanzi aggroppate.
 
 ## scena-4 | bolgia-7 | Vanni Fucci, incenerito e risorto
 personaggi: dante, virgilio, vanni-fucci
+tavola: ia | Vanni Fucci, incenerito e risorto | img/ia/inferno-24-scena-4.jpg
 sintesi: Un serpente trafigge un dannato alla nuca: in un attimo si incendia, diventa cenere e poi si ricompone, come la fenice. È il pistoiese Vanni Fucci, ladro degli arredi della sagrestia del duomo, colpa attribuita ad altri. Umiliato di essere visto da Dante, si vendica con una profezia: i Bianchi saranno sconfitti.
 
 97

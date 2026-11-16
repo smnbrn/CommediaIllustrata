@@ -3,6 +3,7 @@ titolo: La fuga dai Malebranche, gli ipocriti
 
 ## scena-1 | bolgia-5 | La paura dell'inseguimento
 personaggi: dante, virgilio, malebranche
+tavola: ia | La paura dell'inseguimento | img/ia/inferno-23-scena-1.jpg
 sintesi: I due proseguono in silenzio, come frati minori. Dante ripensa alla favola della rana e del topo e teme che i diavoli beffati li inseguano. Virgilio ha avuto lo stesso pensiero: se la riva destra scende verso la bolgia successiva, potranno sfuggire.
 
 1

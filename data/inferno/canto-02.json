@@ -31,7 +31,17 @@
       "sintesi": "Dante teme di non essere all'altezza: nell'aldilà andarono Enea e san Paolo, ma per ragioni altissime. «Io non Enea, io non Paulo sono»: e rinuncia all'impresa appena cominciata.",
       "luogo_id": "selva-oscura",
       "personaggi": ["dante", "virgilio", "enea", "san-paolo"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Il dubbio di Dante",
+          "url": "img/ia/inferno-02-scena-2.jpg",
+          "miniatura": "img/ia/inferno-02-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-3",
@@ -78,7 +88,17 @@
       "sintesi": "Virgilio conclude: con tre donne benedette che si curano di lui, perché esitare? Come fiori che si riaprono al sole, Dante si rianima e lo segue per il cammino difficile.",
       "luogo_id": "selva-oscura",
       "personaggi": ["dante", "virgilio", "beatrice"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Dante ritrova il coraggio",
+          "url": "img/ia/inferno-02-scena-5.jpg",
+          "miniatura": "img/ia/inferno-02-scena-5.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     }
   ],
   "terzine": [

@@ -38,6 +38,7 @@ perduto". Ed elli: "Vedi ch’a ciò penso".
 
 ## scena-2 | cerchio-6 | Violenti e fraudolenti
 personaggi: dante, virgilio
+tavola: ia | Violenti e fraudolenti | img/ia/inferno-11-scena-2.jpg
 sintesi: Virgilio spiega la struttura del basso Inferno. Sotto di loro ci sono tre cerchi. Il primo, dei violenti, è diviso in tre gironi: violenti contro il prossimo, contro se stessi, contro Dio, la natura e l'arte. La frode, peccato proprio dell'uomo, è punita più in basso: nell'ottavo cerchio quella contro chi non si fida, nel nono il tradimento di chi si fida.
 
 16
@@ -144,6 +145,7 @@ qualunque trade in etterno è consunto".
 
 ## scena-3 | cerchio-6 | Incontinenza e usura
 personaggi: dante, virgilio
+tavola: ia | Incontinenza e usura | img/ia/inferno-11-scena-3.jpg
 sintesi: Dante chiede perché i peccatori dei cerchi superiori non siano puniti dentro Dite. Virgilio richiama l'Etica di Aristotele: l'incontinenza offende Dio meno della malizia e della bestialità. Poi spiega perché l'usura offende Dio: l'usuraio disprezza la natura e il lavoro umano, che ne è figlio. È quasi l'alba: bisogna riprendere il cammino.
 
 67

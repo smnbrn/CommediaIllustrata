@@ -3,6 +3,7 @@ titolo: Gli indovini
 
 ## scena-1 | bolgia-4 | Gli indovini con la testa voltata
 personaggi: dante, virgilio
+tavola: ia | Gli indovini con la testa voltata | img/ia/inferno-20-scena-1.jpg
 sintesi: Nella quarta bolgia avanza in silenzio, piangendo, una processione di dannati con la testa girata all'indietro: camminano a ritroso, e le lacrime bagnano loro le natiche. Dante piange per la figura umana così stravolta, e Virgilio lo rimprovera: qui la pietà consiste nel non averne.
 
 1
@@ -67,6 +68,7 @@ che al giudicio divin passion comporta?
 
 ## scena-2 | bolgia-4 | Anfiarao, Tiresia, Aronta
 personaggi: dante, virgilio, anfiarao, tiresia, aronta
+tavola: ia | Anfiarao, Tiresia, Aronta | img/ia/inferno-20-scena-2.jpg
 sintesi: Virgilio indica gli indovini antichi: Anfiarao, inghiottito dalla terra davanti a Tebe; Tiresia, che fu trasformato da uomo in donna e poi di nuovo in uomo; Aronta, che leggeva le stelle da una grotta tra i marmi di Carrara.
 
 31
@@ -113,6 +115,7 @@ e ’l mar non li era la veduta tronca.
 
 ## scena-3 | bolgia-4 | Manto e l'origine di Mantova
 personaggi: dante, virgilio, manto
+tavola: ia | Manto e l'origine di Mantova | img/ia/inferno-20-scena-3.jpg
 sintesi: Una donna con le trecce sciolte che le coprono il seno è Manto, la maga tebana. Virgilio racconta la fondazione della sua città, Mantova: dal lago di Garda nasce il Mincio, che forma una palude; lì Manto si stabilì per praticare le sue arti e morì, e sulle sue ossa gli abitanti fondarono la città, senza ricorrere a sortilegi.
 
 52
@@ -219,6 +222,7 @@ che li altri mi sarien carboni spenti.
 
 ## scena-4 | bolgia-4 | Euripilo, Michele Scotto e gli altri indovini
 personaggi: dante, virgilio, euripilo, michele-scotto, guido-bonatti, asdente
+tavola: ia | Euripilo, Michele Scotto e gli altri indovini | img/ia/inferno-20-scena-4.jpg
 sintesi: Virgilio indica altri indovini: il greco Euripilo, che con Calcante scelse il momento della partenza per Troia; Michele Scotto, mago alla corte di Federico II; l'astrologo Guido Bonatti; il calzolaio Asdente; e le donne che lasciarono l'ago per le fatture. La luna tramonta: è l'alba, e i due riprendono il cammino.
 
 103

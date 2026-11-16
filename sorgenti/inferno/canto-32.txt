@@ -3,6 +3,7 @@ titolo: Cocito: Caina e Antenora, Bocca degli Abati
 
 ## scena-1 | cerchio-9 | L'invocazione e il lago di ghiaccio
 personaggi: dante, virgilio
+tavola: ia | L'invocazione e il lago di ghiaccio | img/ia/inferno-32-scena-1.jpg
 sintesi: Dante vorrebbe rime aspre per descrivere il fondo dell'universo e invoca le Muse. Una voce lo avverte di non calpestare le teste: sotto i suoi piedi c'è un lago ghiacciato, più spesso del Danubio e del Don d'inverno, in cui i traditori sono confitti fino al volto, livido, battendo i denti.
 
 1

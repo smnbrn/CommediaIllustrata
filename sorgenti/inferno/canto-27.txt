@@ -3,6 +3,7 @@ titolo: Guido da Montefeltro
 
 ## scena-1 | bolgia-8 | Una nuova fiamma chiede della Romagna
 personaggi: dante, virgilio, guido-da-montefeltro
+tavola: ia | Una nuova fiamma chiede della Romagna | img/ia/inferno-27-scena-1.jpg
 sintesi: Partita la fiamma di Ulisse, ne arriva un'altra da cui escono suoni confusi, come dal toro di bronzo di Falaride. Le parole trovano infine la via attraverso la punta: lo spirito, romagnolo, chiede se la sua terra sia in pace o in guerra.
 
 1
@@ -67,6 +68,7 @@ e ’l giogo di che Tever si diserra".
 
 ## scena-2 | bolgia-8 | La Romagna nel 1300
 personaggi: dante, virgilio
+tavola: ia | La Romagna nel 1300 | img/ia/inferno-27-scena-2.jpg
 sintesi: Virgilio lascia parlare Dante, che descrive la Romagna: nessuna guerra aperta, ma tiranni dappertutto. Ravenna è dei Polenta, Forlì degli Ordelaffi, Rimini dei Malatesta, Faenza e Imola di Maghinardo Pagani; Cesena vive tra tirannia e libertà. Poi chiede allo spirito chi sia.
 
 31
@@ -125,6 +127,7 @@ se ’l nome tuo nel mondo tegna fronte".
 
 ## scena-3 | bolgia-8 | Il consiglio fraudolento
 personaggi: dante, guido-da-montefeltro, bonifacio-viii
+tavola: ia | Il consiglio fraudolento | img/ia/inferno-27-scena-3.jpg
 sintesi: Credendo che Dante non tornerà mai nel mondo, lo spirito si rivela: fu un condottiero astuto come una volpe, poi si fece frate francescano per pentirsi. Ma Bonifacio VIII, in guerra con i Colonna, lo assolse in anticipo e gli chiese come prendere Palestrina: Guido consigliò di promettere molto e mantenere poco.
 
 58
@@ -237,6 +240,7 @@ ti farà trïunfar ne l’alto seggio".
 
 ## scena-4 | bolgia-8 | San Francesco e il diavolo loico
 personaggi: guido-da-montefeltro, san-francesco, minosse
+tavola: ia | San Francesco e il diavolo loico | img/ia/inferno-27-scena-4.jpg
 sintesi: Alla morte di Guido venne san Francesco a prenderlo, ma un diavolo glielo contese: non si può essere assolti senza pentirsi, né pentirsi e voler peccare insieme. «Forse non pensavi che io fossi un logico!» Minosse lo mandò tra i consiglieri fraudolenti. La fiamma si allontana dolente.
 
 112

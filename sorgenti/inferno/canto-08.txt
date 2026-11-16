@@ -139,6 +139,7 @@ in sé medesmo si volvea co’ denti.
 
 ## scena-3 | citta-di-dite | La città di Dite
 personaggi: dante, virgilio, flegias
+tavola: ia | La città di Dite | img/ia/inferno-08-scena-3.jpg
 sintesi: Un lamento arriva da lontano. Appare la città di Dite, con le moschee rosse per il fuoco eterno e le mura che sembrano di ferro. Dopo un lungo giro, Flegiàs fa scendere i due davanti all'ingresso.
 
 64

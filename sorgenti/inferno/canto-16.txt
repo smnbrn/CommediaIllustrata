@@ -3,6 +3,7 @@ titolo: I tre fiorentini, la cascata, il segnale per Gerione
 
 ## scena-1 | girone-7-3 | Le tre ombre
 personaggi: dante, virgilio, guido-guerra, tegghiaio, iacopo-rusticucci
+tavola: ia | Le tre ombre | img/ia/inferno-16-scena-1.jpg
 sintesi: Si sente già il rimbombo della cascata del Flegetonte. Tre ombre si staccano di corsa da una schiera e chiamano Dante, che dall'abito sembra fiorentino. Virgilio gli chiede di essere cortese con loro. Non potendo fermarsi, girano in tondo come lottatori e si presentano: Guido Guerra, Tegghiaio Aldobrandi e Iacopo Rusticucci.
 
 1
@@ -97,6 +98,7 @@ la fiera moglie più ch’altro mi nuoce".
 
 ## scena-2 | girone-7-3 | Firenze, la gente nuova e i subiti guadagni
 personaggi: dante, guido-guerra, tegghiaio, iacopo-rusticucci, guglielmo-borsiere
+tavola: ia | Firenze, la gente nuova e i subiti guadagni | img/ia/inferno-16-scena-2.jpg
 sintesi: Dante li avrebbe abbracciati, se non fosse per il fuoco; dice di onorarne i nomi. Chiedono se a Firenze vivano ancora cortesia e valore. Dante risponde con un grido rivolto alla città: la gente nuova e i guadagni improvvisi hanno generato superbia ed eccesso. I tre gli chiedono di ricordarli nel mondo e fuggono via.
 
 46
@@ -191,6 +193,7 @@ per ch’al maestro parve di partirsi.
 
 ## scena-3 | girone-7-3 | La cascata e la corda
 personaggi: dante, virgilio, gerione, lonza
+tavola: ia | La cascata e la corda | img/ia/inferno-16-scena-3.jpg
 sintesi: Il fiume precipita da una ripa scoscesa con un fragore assordante, come l'Acquacheta presso San Benedetto. Virgilio si fa dare la corda che Dante porta alla cintura e la getta nel burrone. Dante, sotto giuramento, dice di aver visto salire dall'abisso, nuotando nell'aria, una figura meravigliosa.
 
 91

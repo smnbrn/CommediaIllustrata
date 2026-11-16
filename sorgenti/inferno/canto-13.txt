@@ -121,6 +121,7 @@ nel mondo sù, dove tornar li lece".
 
 ## scena-3 | girone-7-2 | Pier delle Vigne
 personaggi: dante, virgilio, pier-delle-vigne, federico-ii
+tavola: ia | Pier delle Vigne | img/ia/inferno-13-scena-3.jpg
 sintesi: Il tronco racconta: fu Pier delle Vigne, il più fidato consigliere di Federico II. L'invidia della corte lo fece cadere in disgrazia, e lui per sdegno si uccise, ingiusto contro se stesso innocente. Giura di non aver mai tradito il suo signore e chiede a Dante di riabilitare la sua memoria.
 
 55
@@ -173,6 +174,7 @@ ancor del colpo che ’nvidia le diede".
 
 ## scena-4 | girone-7-2 | Il destino dei suicidi
 personaggi: dante, virgilio, pier-delle-vigne, arpie
+tavola: ia | Il destino dei suicidi | img/ia/inferno-13-scena-4.jpg
 sintesi: Dante, troppo commosso, chiede a Virgilio di fare le domande. Pier spiega che l'anima del suicida, gettata da Minosse nella selva, germoglia come un seme e diventa pianta; le Arpie, mangiandone le foglie, le danno dolore. Dopo il giudizio i suicidi non riavranno il corpo: lo appenderanno al proprio albero.
 
 79

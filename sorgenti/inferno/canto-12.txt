@@ -68,6 +68,7 @@ sotto i miei piedi per lo novo carco.
 
 ## scena-2 | cerchio-7 | La frana del terremoto
 personaggi: dante, virgilio, cristo
+tavola: ia | La frana del terremoto | img/ia/inferno-12-scena-2.jpg
 sintesi: Virgilio spiega che quella frana non c'era la prima volta che scese: la roccia crollò nel terremoto che scosse l'Inferno poco prima che Cristo vi scendesse a liberare le anime del Limbo. Poi indica il fiume di sangue bollente dove sono puniti i violenti contro il prossimo.
 
 31
@@ -220,6 +221,7 @@ e fa cansar s’altra schiera v’intoppa".
 
 ## scena-5 | girone-7-1 | I tiranni e gli omicidi nel sangue
 personaggi: dante, virgilio, nesso, alessandro, dionisio, azzolino, obizzo-d-este, guido-di-monforte, attila, pirro, sesto-pompeo, rinier-da-corneto, rinier-pazzo
+tavola: ia | I tiranni e gli omicidi nel sangue | img/ia/inferno-12-scena-5.jpg
 sintesi: Lungo il fiume bollente Nesso indica i dannati, immersi più o meno secondo la colpa: fino agli occhi i tiranni, come Alessandro, Dionisio, Ezzelino e Obizzo d'Este; fino alla gola gli omicidi, come Guido di Monforte. Al guado il sangue bagna solo i piedi; dall'altra parte si fa di nuovo profondo, dove stanno Attila, Pirro, Sesto e i predoni di strada.
 
 100

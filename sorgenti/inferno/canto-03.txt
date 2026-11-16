@@ -50,6 +50,7 @@ mi mise dentro a le segrete cose.
 
 ## scena-2 | vestibolo | Gli ignavi
 personaggi: dante, virgilio, gran-rifiuto
+tavola: ia | Gli ignavi | img/ia/inferno-03-scena-2.jpg
 sintesi: Nell'aria senza stelle risuonano lamenti: sono le anime di chi visse «sanza 'nfamia e sanza lodo», insieme agli angeli rimasti neutrali. Corrono nudi dietro un'insegna, punti da mosconi e vespe; tra loro, colui che fece il gran rifiuto.
 
 22
@@ -280,6 +281,7 @@ ben puoi sapere omai che ’l suo dir suona".
 
 ## scena-5 | acheronte | Il terremoto e lo svenimento
 personaggi: dante
+tavola: ia | Il terremoto e lo svenimento | img/ia/inferno-03-scena-5.jpg
 sintesi: La campagna buia trema, dalla terra si leva un vento e balena una luce rossa: Dante perde i sensi e cade come chi è preso dal sonno.
 
 130

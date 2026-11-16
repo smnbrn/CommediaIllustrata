@@ -77,7 +77,6 @@ Per questi canti Doré ha inciso in media una o due tavole per canto, e nessuna 
 | `inferno/27/scena-3` | 58–111 | Il consiglio fraudolento |
 | `inferno/27/scena-4` | 112–136 | San Francesco e il diavolo loico |
 | `inferno/28/scena-1` | 1–21 | La bolgia del sangue |
-| `inferno/28/scena-2` | 22–63 | Maometto e Alì |
 | `inferno/28/scena-4` | 103–111 | Mosca dei Lamberti |
 | `inferno/30/scena-2` | 46–90 | Maestro Adamo, il falsario di monete |
 | `inferno/30/scena-3` | 91–148 | La rissa tra maestro Adamo e Sinone |
@@ -91,13 +90,13 @@ Per questi canti Doré ha inciso in media una o due tavole per canto, e nessuna 
 | `inferno/34/scena-3` | 70–93 | Il passaggio per il centro della Terra |
 | `inferno/34/scena-4` | 94–126 | La natural burella |
 
-Totale canti VI–XXXIV: 65 scene su 117. **Totale Inferno: 73 scene su 145.**
+Totale canti VI–XXXIV: 64 scene su 117. **Totale Inferno: 72 scene su 145.**
 
-### Tavola non usata: Maometto (canto XXVIII)
+### Tavola di Maometto (canto XXVIII)
 
-Doré ha inciso Maometto squarciato (`inferno/28/scena-2`; su Commons, per esempio, `Mohammed (148619179).jpg`, ritaglio pulito dall'edizione 1870). La raffigurazione di Maometto è considerata offensiva da molti musulmani, perciò per ora la scena resta senza tavola: **da decidere dal proprietario**. Per aggiungerla basta una riga `tavola: dore | Maometto | File:Mohammed (148619179).jpg` nella scena del sorgente `sorgenti/inferno/canto-28.txt`.
+Il 16/11/2026 il proprietario ha deciso di includere l'incisione di Doré di Maometto squarciato (`Mohammed (148619179).jpg` su Commons, ritaglio pulito dall'edizione 1870) in `inferno/28/scena-2`. Resta una scelta modificabile: basta togliere la riga `tavola:` da `sorgenti/inferno/canto-28.txt` e rilanciare `compila.py`.
 
-Scene senza Doré ma con un'immagine generata con IA (segnalata come tale nel sito, elenco in `illustrazioni-ia.md`): `inferno/1/scena-2` (il colle).
+Scene senza Doré ma con un'immagine generata con IA (segnalata come tale nel sito, elenco in `illustrazioni-ia.md`): tutte le scene dell'Inferno rimaste senza Doré.
 
 **Decisione del proprietario (15/11/2026):** non si riusa la tavola della scena vicina. Le scene senza Doré mostrano il riquadro «Nessuna tavola di Doré per questa scena», oppure un'immagine generata con IA quando il proprietario la crea.
 

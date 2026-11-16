@@ -133,6 +133,7 @@ qual ella sia, parole non ci appulcro.
 
 ## scena-3 | cerchio-4 | La Fortuna
 personaggi: dante, virgilio
+tavola: ia | La Fortuna | img/ia/inferno-07-scena-3.jpg
 sintesi: Virgilio spiega chi è la Fortuna: un'intelligenza celeste che Dio ha messo a governare i beni del mondo, spostandoli da un popolo all'altro secondo un giudizio nascosto agli uomini. Chi la maledice ha torto: lei è beata e non ascolta.
 
 61

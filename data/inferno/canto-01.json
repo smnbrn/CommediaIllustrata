@@ -107,7 +107,17 @@
       "sintesi": "Virgilio spiega che la lupa non lascia passare nessuno e annuncia la venuta di un veltro che la ricaccerà nell'Inferno.",
       "luogo_id": "selva-oscura",
       "personaggi": ["virgilio", "lupa", "veltro", "camilla"],
-      "tavole": []
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La profezia del veltro",
+          "url": "img/ia/inferno-01-scena-6.jpg",
+          "miniatura": "img/ia/inferno-01-scena-6.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
     },
     {
       "id": "scena-7",

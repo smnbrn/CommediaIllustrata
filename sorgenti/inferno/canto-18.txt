@@ -3,6 +3,7 @@ titolo: Malebolge: ruffiani, seduttori, adulatori
 
 ## scena-1 | cerchio-8 | Malebolge
 personaggi: dante, virgilio
+tavola: ia | Malebolge | img/ia/inferno-18-scena-1.jpg
 sintesi: L'ottavo cerchio, Malebolge, è tutto di pietra color ferro: dieci fossati concentrici scendono verso un pozzo centrale, attraversati da ponti di roccia come i ponticelli dei castelli. Scesi da Gerione, i due vanno verso sinistra.
 
 1
@@ -144,6 +145,7 @@ ruffian! qui non son femmine da conio".
 
 ## scena-3 | bolgia-1 | Giasone
 personaggi: dante, virgilio, giasone
+tavola: ia | Giasone | img/ia/inferno-18-scena-3.jpg
 sintesi: Saliti sul ponte, i due guardano la fila dei seduttori. Virgilio indica Giasone, che ancora conserva un aspetto regale: conquistò il vello d'oro, sedusse e abbandonò Isifile incinta, e poi tradì Medea.
 
 67

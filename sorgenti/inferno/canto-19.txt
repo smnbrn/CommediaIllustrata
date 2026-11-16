@@ -3,6 +3,7 @@ titolo: I simoniaci, papa Niccolò III
 
 ## scena-1 | bolgia-3 | I fori infuocati dei simoniaci
 personaggi: dante, virgilio, simon-mago
+tavola: ia | I fori infuocati dei simoniaci | img/ia/inferno-19-scena-1.jpg
 sintesi: Dante apostrofa Simon mago e i simoniaci, che vendettero le cose sacre. Nella terza bolgia la roccia è piena di fori rotondi, come i fonti battesimali di San Giovanni a Firenze, e da ciascuno sporgono le gambe di un dannato capovolto, con le piante dei piedi in fiamme.
 
 1
@@ -186,6 +187,7 @@ suo re, così fia lui chi Francia regge".
 
 ## scena-3 | bolgia-3 | L'invettiva contro i papi simoniaci
 personaggi: dante, virgilio, niccolo-iii, san-pietro, costantino
+tavola: ia | L'invettiva contro i papi simoniaci | img/ia/inferno-19-scena-3.jpg
 sintesi: Dante risponde con durezza: Cristo non chiese denaro a san Pietro per affidargli le chiavi. L'avarizia dei papi rattrista il mondo, la Chiesa è la prostituta dell'Apocalisse, e il male cominciò con la donazione di Costantino. Niccolò scalcia per l'ira o il rimorso; Virgilio, compiaciuto, riporta Dante in braccio sul ponte successivo.
 
 88

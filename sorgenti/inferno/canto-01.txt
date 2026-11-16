@@ -208,6 +208,7 @@ ch’ella mi fa tremar le vene e i polsi".
 
 ## scena-6 | selva-oscura | La profezia del veltro
 personaggi: virgilio, lupa, veltro, camilla
+tavola: ia | La profezia del veltro | img/ia/inferno-01-scena-6.jpg
 sintesi: Virgilio spiega che la lupa non lascia passare nessuno e annuncia la venuta di un veltro che la ricaccerà nell'Inferno.
 
 91

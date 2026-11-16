@@ -3,6 +3,7 @@ titolo: Farinata e Cavalcante
 
 ## scena-1 | cerchio-6 | Gli epicurei
 personaggi: dante, virgilio, epicuro
+tavola: ia | Gli epicurei | img/ia/inferno-10-scena-1.jpg
 sintesi: Lungo un sentiero tra le mura e le tombe, Dante chiede se si possano vedere i sepolti. Virgilio spiega che i sepolcri si chiuderanno dopo il giudizio universale e che in questa parte stanno Epicuro e i suoi seguaci, che credevano l'anima mortale con il corpo.
 
 1
@@ -114,6 +115,7 @@ ma i vostri non appreser ben quell’arte".
 
 ## scena-3 | cerchio-6 | Cavalcante
 personaggi: dante, cavalcante, guido-cavalcanti
+tavola: ia | Cavalcante | img/ia/inferno-10-scena-3.jpg
 sintesi: Dalla stessa tomba si alza fino al mento un'altra ombra: è Cavalcante dei Cavalcanti, che cerca accanto a Dante il figlio Guido. Fraintendendo un verbo al passato, crede che Guido sia morto e ricade supino nel sepolcro.
 
 52
@@ -160,6 +162,7 @@ supin ricadde e più non parve fora.
 
 ## scena-4 | cerchio-6 | La profezia dell'esilio
 personaggi: dante, farinata, federico-ii, cardinale-ubaldini
+tavola: ia | La profezia dell'esilio | img/ia/inferno-10-scena-4.jpg
 sintesi: Farinata, impassibile, riprende il discorso: prima di cinquanta mesi Dante saprà quanto è difficile tornare dall'esilio. Ricorda di aver difeso Firenze da solo a Empoli e spiega che i dannati vedono il futuro lontano ma non il presente. Dante gli chiede di dire a Cavalcante che il figlio è vivo. Tra gli eretici ci sono anche Federico II e il cardinale Ottaviano degli Ubaldini.
 
 73
@@ -260,6 +263,7 @@ e ’l Cardinale; e de li altri mi taccio".
 
 ## scena-5 | cerchio-6 | Virgilio conforta Dante
 personaggi: dante, virgilio, beatrice
+tavola: ia | Virgilio conforta Dante | img/ia/inferno-10-scena-5.jpg
 sintesi: Dante torna da Virgilio turbato dalla profezia. Virgilio gli dice di ricordarla: da Beatrice saprà il corso della sua vita. Poi i due lasciano il muro e si dirigono verso il centro, verso una valle da cui sale un fetore.
 
 121
