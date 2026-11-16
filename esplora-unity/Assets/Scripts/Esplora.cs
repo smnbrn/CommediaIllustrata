@@ -291,6 +291,43 @@ public class Esplora : MonoBehaviour
         vg.AddComponent<MeshRenderer>().sharedMaterial = TexturaTerreno.Materiale() ?? NuovoMateriale(Color.white);
         vg.AddComponent<MeshCollider>().sharedMesh = mesh; // serve a nascondere etichette e luoghi dietro la parete
 
+        // guscio sotto e attorno all'imbuto, con lo stesso terreno verde della superficie: da fuori la voragine non si vede più
+        {
+            float rG = punti[0].x * R, yG = -H - 6f;
+            Color verde = ColoreProfondita(0f, false); verde.a = 1f;
+            var gv = new List<Vector3>(); var gc = new List<Color>(); var gt = new List<int>(); var gu = new List<Vector2>(); var gs = new List<Vector4>();
+            Vector4 sG = TexturaTerreno.Stile(0);
+            int rip = Mathf.Max(1, Mathf.RoundToInt(Mathf.PI * 2f * rG / lato));
+            for (int s = 0; s < SEGMENTI; s++)
+            {
+                float t0 = s / (float)SEGMENTI * Mathf.PI * 2f, t1 = (s + 1) / (float)SEGMENTI * Mathf.PI * 2f;
+                float v = (s % 2 == 0) ? 1f : 0.93f;
+                Color cv = verde * v; cv.a = 1f;
+                Vector3 a0 = new Vector3(Mathf.Cos(t0) * rG, 0f, Mathf.Sin(t0) * rG), a1 = new Vector3(Mathf.Cos(t1) * rG, 0f, Mathf.Sin(t1) * rG);
+                Vector3 b0 = new Vector3(a0.x, yG, a0.z), b1 = new Vector3(a1.x, yG, a1.z);
+                int k = gv.Count;
+                // parete esterna
+                gv.Add(a0); gv.Add(a1); gv.Add(b1); gv.Add(b0);
+                float u0 = s / (float)SEGMENTI * rip, u1 = (s + 1) / (float)SEGMENTI * rip;
+                gu.Add(new Vector2(u0, 0f)); gu.Add(new Vector2(u1, 0f)); gu.Add(new Vector2(u1, yG / lato)); gu.Add(new Vector2(u0, yG / lato));
+                for (int q = 0; q < 4; q++) { gc.Add(cv); gs.Add(new Vector4(sG.x, sG.y, sG.z, sG.w * 0.7f)); }
+                gt.AddRange(new[] { k, k + 1, k + 2, k, k + 2, k + 3 });
+                // fondo
+                k = gv.Count;
+                gv.Add(new Vector3(0f, yG, 0f)); gv.Add(b0); gv.Add(b1);
+                for (int q = 0; q < 3; q++) { var p = gv[k + q]; gu.Add(new Vector2(p.x / lato, p.z / lato)); gc.Add(cv); gs.Add(sG); }
+                gt.AddRange(new[] { k, k + 1, k + 2 });
+            }
+            var gm = new Mesh { name = "Guscio", indexFormat = UnityEngine.Rendering.IndexFormat.UInt32 };
+            gm.SetVertices(gv); gm.SetColors(gc); gm.SetTriangles(gt, 0); gm.SetUVs(0, gu); gm.SetUVs(1, gs);
+            gm.RecalculateBounds();
+            var gg = new GameObject("Guscio");
+            gg.transform.SetParent(transform, false);
+            gg.AddComponent<MeshFilter>().sharedMesh = gm;
+            gg.AddComponent<MeshRenderer>().sharedMaterial = TexturaTerreno.Materiale() ?? NuovoMateriale(Color.white);
+            gg.AddComponent<MeshCollider>().sharedMesh = gm;   // come la voragine: nasconde le etichette dietro la parete
+        }
+
         // segnaposti
         foreach (var l in luoghi)
         {
