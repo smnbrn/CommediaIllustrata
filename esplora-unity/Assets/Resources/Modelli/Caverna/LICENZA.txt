@@ -1,0 +1,10 @@
+Model Information:
+* title:	Rock Mountain with cave (realistic version)
+* source:	https://sketchfab.com/3d-models/rock-mountain-with-cave-realistic-version-184293c4ef6f49daa06ea2654a40b6ed
+* author:	Jungle Jim (https://sketchfab.com/jungle_jim)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+This work is based on "Rock Mountain with cave (realistic version)" (https://sketchfab.com/3d-models/rock-mountain-with-cave-realistic-version-184293c4ef6f49daa06ea2654a40b6ed) by Jungle Jim (https://sketchfab.com/jungle_jim) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

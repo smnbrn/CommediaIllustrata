@@ -90,8 +90,80 @@ public class MeshFacce
     }
 }
 
+// Alberi dal modello Sketchfab (Resources/Modelli/Alberi): tanti alberi uniti in una sola mesh per tenere pochi i draw call
+public class AlberiModello
+{
+    readonly List<Mesh> varianti = new List<Mesh>();
+    public Material materiale;
+    public bool Pronto { get { return varianti.Count > 0 && materiale != null; } }
+
+    public AlberiModello()
+    {
+        var pf = Resources.Load<GameObject>("Modelli/Alberi/Alberi");
+        if (pf == null) return;
+        var tutti = new List<KeyValuePair<Mesh, Material>>();
+        float maxH = 0f;
+        foreach (var mf in pf.GetComponentsInChildren<MeshFilter>())
+        {
+            if (mf.sharedMesh == null) continue;
+            var mr = mf.GetComponent<MeshRenderer>();
+            tutti.Add(new KeyValuePair<Mesh, Material>(mf.sharedMesh, mr != null ? mr.sharedMaterial : null));
+            maxH = Mathf.Max(maxH, mf.sharedMesh.bounds.size.y);
+        }
+        foreach (var kv in tutti)
+            if (kv.Key.bounds.size.y >= maxH * 0.5f) { varianti.Add(kv.Key); if (materiale == null) materiale = kv.Value; }
+        if (materiale != null)
+        {
+            materiale = new Material(materiale);
+            materiale.SetColor("_Tint", new Color(0.72f, 0.82f, 0.70f));   // un po' più scuri, per il buio dell'Inferno
+        }
+    }
+
+    public void Aggiungi(List<CombineInstance> dove, System.Random rnd, Vector3 piede, float altezza)
+    {
+        var m = varianti[rnd.Next(varianti.Count)];
+        var b = m.bounds;
+        float s = altezza / Mathf.Max(b.size.y, 0.0001f);
+        var mtx = Matrix4x4.TRS(piede, Quaternion.Euler(0f, (float)rnd.NextDouble() * 360f, 0f), new Vector3(s * 1.7f, s, s * 1.7f))
+                  * Matrix4x4.Translate(new Vector3(-b.center.x, -b.min.y, -b.center.z));
+        dove.Add(new CombineInstance { mesh = m, transform = mtx });
+    }
+
+    public Mesh Unisci(List<CombineInstance> l, string nome)
+    {
+        var m = new Mesh { name = nome, indexFormat = UnityEngine.Rendering.IndexFormat.UInt32 };
+        m.CombineMeshes(l.ToArray(), true, true);
+        return m;
+    }
+}
+
 public static class Scenario
 {
+    const float YAW_BOCCA = 0f;   // calibrazione: rotazione per far guardare la bocca del modello della caverna verso il colle
+
+    static Bounds Limiti(GameObject go)
+    {
+        var rs = go.GetComponentsInChildren<Renderer>();
+        var b = rs[0].bounds; foreach (var r in rs) b.Encapsulate(r.bounds);
+        return b;
+    }
+
+    // mette un modello: lato lungo orientato lungo 'asseLungo' (direzione orizzontale), lungo 'lunghezza', con il centro in
+    // 'centro' e il punto più basso a quota -affondo (così il bordo tagliato resta sotto terra)
+    static GameObject Metti(string risorsa, Transform padre, Vector3 centro, float yaw, float lunghezza, float affondo)
+    {
+        var pf = Resources.Load<GameObject>(risorsa);
+        if (pf == null) return null;
+        var go = Object.Instantiate(pf, padre);
+        go.transform.rotation = Quaternion.Euler(0f, yaw, 0f);
+        var b = Limiti(go);
+        float k = lunghezza / Mathf.Max(b.size.x, b.size.z, 0.0001f);
+        go.transform.localScale = Vector3.one * k;
+        b = Limiti(go);
+        go.transform.position += new Vector3(centro.x - b.center.x, -affondo - b.min.y, centro.z - b.center.z);
+        return go;
+    }
+
     static GameObject Oggetto(string nome, Transform padre, Mesh mesh, Material mat, bool collider)
     {
         var go = new GameObject(nome);
@@ -134,39 +206,55 @@ public static class Scenario
             disco.Tri(o, p0, p1, col);
             disco.Tri(o, p1, p0, col);   // doppio verso: il collider deve fermare i raggi da sopra e da sotto
         }
+        var modelloAlberi = new AlberiModello();
         var alberi = new MeshFacce();
+        var alberiM = new List<CombineInstance>();
         Vector2 sa = new Vector2(selva.x, selva.z), co = new Vector2(colle.x, colle.z);
-        for (int n = 0; n < 520; n++)
+        for (int n = 0; n < (modelloAlberi.Pronto ? 420 : 520); n++)
         {
             float ang = (float)rnd.NextDouble() * Mathf.PI * 2f;
             float rr = Mathf.Sqrt((float)rnd.NextDouble()) * (raggioBordo - 2.5f);
             var p = new Vector2(Mathf.Cos(ang) * rr, Mathf.Sin(ang) * rr);
             if (DistPuntoSegmento(p, sa, co) < 4f) continue;   // lascia libero il sentiero
-            alberi.Albero(new Vector3(p.x, yTerra, p.y), 4f + 5f * (float)rnd.NextDouble(), rnd);
+            float h = 4f + 5f * (float)rnd.NextDouble();
+            if (modelloAlberi.Pronto) modelloAlberi.Aggiungi(alberiM, rnd, new Vector3(p.x, yTerra, p.y), h * 1.3f);
+            else alberi.Albero(new Vector3(p.x, yTerra, p.y), h, rnd);
         }
         Oggetto("Disco", coperchio, disco.Costruisci("DiscoCoperchio"), mat, true);
-        Oggetto("Alberi", coperchio, alberi.Costruisci("AlberiCoperchio"), mat, false);
+        if (modelloAlberi.Pronto) Oggetto("Alberi", coperchio, modelloAlberi.Unisci(alberiM, "AlberiCoperchio"), modelloAlberi.materiale, false);
+        else Oggetto("Alberi", coperchio, alberi.Costruisci("AlberiCoperchio"), mat, false);
 
         // ---- selva oscura attorno al punto di partenza (fuori dal coperchio, resta sempre)
         var selvaMesh = new MeshFacce();
+        var selvaM = new List<CombineInstance>();
         for (int n = 0; n < 110; n++)
         {
             float ang = (float)rnd.NextDouble() * Mathf.PI * 2f;
             float rr = 3.5f + Mathf.Sqrt((float)rnd.NextDouble()) * 17f;
             var p = sa + new Vector2(Mathf.Cos(ang), Mathf.Sin(ang)) * rr;
             if (p.magnitude < raggioBordo + 2.5f) continue;            // non sopra il coperchio
-            selvaMesh.Albero(new Vector3(p.x, 0f, p.y), 5f + 6f * (float)rnd.NextDouble(), rnd);
+            float h = 5f + 6f * (float)rnd.NextDouble();
+            if (modelloAlberi.Pronto) modelloAlberi.Aggiungi(selvaM, rnd, new Vector3(p.x, 0f, p.y), h * 1.3f);
+            else selvaMesh.Albero(new Vector3(p.x, 0f, p.y), h, rnd);
         }
-        Oggetto("Selva", rootFisso, selvaMesh.Costruisci("Selva"), mat, false);
+        if (modelloAlberi.Pronto) Oggetto("Selva", rootFisso, modelloAlberi.Unisci(selvaM, "Selva"), modelloAlberi.materiale, false);
+        else Oggetto("Selva", rootFisso, selvaMesh.Costruisci("Selva"), mat, false);
 
         // ---- il colle: una montagna dietro il luogo, vista dalla voragine
         Vector3 fuori = new Vector3(colle.x, 0f, colle.z).normalized;
-        var monte = new MeshFacce();
-        Vector3 cm = new Vector3(colle.x, 0f, colle.z) + fuori * 15f;   // dietro il segnaposto, che resta davanti alla montagna
-        monte.Montagna(cm, 10f, 20f, 9, rnd);
-        monte.Montagna(cm + new Vector3(-fuori.z, 0, fuori.x) * 9f + fuori * 2f, 7f, 12f, 8, rnd);
-        monte.Montagna(cm - new Vector3(-fuori.z, 0, fuori.x) * 8f + fuori * 1f, 6f, 10f, 8, rnd);
-        Oggetto("Colle", rootFisso, monte.Costruisci("Colle"), mat, false);
+        Vector3 tang = new Vector3(-fuori.z, 0f, fuori.x);
+        var colleModello = Metti("Modelli/Colle/Colle", rootFisso, new Vector3(colle.x, 0f, colle.z) + fuori * 16f,
+                                 Mathf.Atan2(tang.x, tang.z) * Mathf.Rad2Deg - 90f, 40f, 1.0f);
+        if (colleModello != null) colleModello.name = "Colle";
+        else
+        {
+            var monte = new MeshFacce();
+            Vector3 cm = new Vector3(colle.x, 0f, colle.z) + fuori * 15f;   // dietro il segnaposto, che resta davanti alla montagna
+            monte.Montagna(cm, 10f, 20f, 9, rnd);
+            monte.Montagna(cm + tang * 9f + fuori * 2f, 7f, 12f, 8, rnd);
+            monte.Montagna(cm - tang * 8f + fuori * 1f, 6f, 10f, 8, rnd);
+            Oggetto("Colle", rootFisso, monte.Costruisci("Colle"), mat, false);
+        }
 
         // ---- l'ingresso dell'Inferno: una caverna in una collinetta di roccia, con la bocca rivolta verso chi arriva dal colle
         // (il percorso si ferma davanti alla bocca, senza attraversarla, e poi scende nel terreno verso l'interno)
@@ -175,19 +263,25 @@ public static class Scenario
         Vector3 dir = bordo - new Vector3(colle.x, 0f, colle.z); dir.y = 0f; dir.Normalize();
         Vector3 centro = bordo;
         Quaternion rot = Quaternion.LookRotation(dir, Vector3.up);
-        var grotta = new MeshFacce();
-        Color[] roccia = { new Color(0.27f, 0.22f, 0.17f), new Color(0.36f, 0.32f, 0.30f), new Color(0.30f, 0.27f, 0.27f) };
-        grotta.Montagna(rot * new Vector3(0, 0, 7.5f), 8.5f, 9f, 10, rnd, roccia);
-        Color pietra = new Color(0.30f, 0.27f, 0.27f);
-        grotta.Scatola(rot * new Vector3(0, 2.1f, 0.2f), new Vector3(6.4f, 4.2f, 3.6f), rot, new Color(0.03f, 0.02f, 0.03f));     // la bocca, scura
-        grotta.Scatola(rot * new Vector3(-3.9f, 2.6f, 0.3f), new Vector3(1.8f, 5.2f, 3.2f), rot, pietra);
-        grotta.Scatola(rot * new Vector3(3.9f, 2.6f, 0.3f), new Vector3(1.8f, 5.2f, 3.2f), rot, pietra);
-        grotta.Scatola(rot * new Vector3(0, 4.9f, 0.3f), new Vector3(9.6f, 1.6f, 3.4f), rot, new Color(0.34f, 0.3f, 0.3f));
-        grotta.Cono(rot * new Vector3(-6f, 0, -0.5f), 2.4f, 3f, 6, new Color(0.33f, 0.3f, 0.29f), rnd);
-        grotta.Cono(rot * new Vector3(6.2f, 0, -0.2f), 2.1f, 2.6f, 6, new Color(0.31f, 0.28f, 0.27f), rnd);
-        var goPorta = Oggetto("Caverna", rootFisso, grotta.Costruisci("Caverna"), mat, false);
-        goPorta.transform.position = centro;
-        portaModello = goPorta.transform;
+        float yawBocca = Mathf.Atan2(-dir.x, -dir.z) * Mathf.Rad2Deg + YAW_BOCCA;   // la bocca del modello guarda verso chi arriva dal colle
+        var grottaModello = Metti("Modelli/Caverna/Caverna", rootFisso, bordo + dir * 11f, yawBocca, 24f, 0.3f);
+        if (grottaModello != null) { grottaModello.name = "Caverna"; portaModello = grottaModello.transform; }
+        else
+        {
+            var grotta = new MeshFacce();
+            Color[] roccia = { new Color(0.27f, 0.22f, 0.17f), new Color(0.36f, 0.32f, 0.30f), new Color(0.30f, 0.27f, 0.27f) };
+            grotta.Montagna(rot * new Vector3(0, 0, 7.5f), 8.5f, 9f, 10, rnd, roccia);
+            Color pietra = new Color(0.30f, 0.27f, 0.27f);
+            grotta.Scatola(rot * new Vector3(0, 2.1f, 0.2f), new Vector3(6.4f, 4.2f, 3.6f), rot, new Color(0.03f, 0.02f, 0.03f));     // la bocca, scura
+            grotta.Scatola(rot * new Vector3(-3.9f, 2.6f, 0.3f), new Vector3(1.8f, 5.2f, 3.2f), rot, pietra);
+            grotta.Scatola(rot * new Vector3(3.9f, 2.6f, 0.3f), new Vector3(1.8f, 5.2f, 3.2f), rot, pietra);
+            grotta.Scatola(rot * new Vector3(0, 4.9f, 0.3f), new Vector3(9.6f, 1.6f, 3.4f), rot, new Color(0.34f, 0.3f, 0.3f));
+            grotta.Cono(rot * new Vector3(-6f, 0, -0.5f), 2.4f, 3f, 6, new Color(0.33f, 0.3f, 0.29f), rnd);
+            grotta.Cono(rot * new Vector3(6.2f, 0, -0.2f), 2.1f, 2.6f, 6, new Color(0.31f, 0.28f, 0.27f), rnd);
+            var goPorta = Oggetto("Caverna", rootFisso, grotta.Costruisci("Caverna"), mat, false);
+            goPorta.transform.position = centro;
+            portaModello = goPorta.transform;
+        }
         porta = centro - dir * 3.5f + Vector3.up * 0.8f;   // punto del percorso: davanti alla bocca
 
         return coperchio;
