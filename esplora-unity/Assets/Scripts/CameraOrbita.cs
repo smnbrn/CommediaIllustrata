@@ -9,6 +9,12 @@ public class CameraOrbita : MonoBehaviour
     public float distanza = 150f, yaw = 30f, pitch = 55f;
     public float distMin = 8f, distMax = 260f;
 
+    // Modalità automatica (viaggio cinematografico): la camera tende a questi valori.
+    // Si spegne da sola se l'utente trascina o usa la rotella/pizzico.
+    public bool automatica;
+    public float yawTarget, pitchTarget = 30f, distTarget = 40f;
+    public float morbidezza = 1.8f;
+
     Vector3 bersaglioMorbido;
     float distMorbida;
     Vector2 inizio;
@@ -35,6 +41,7 @@ public class CameraOrbita : MonoBehaviour
             var a = Input.GetTouch(0); var b = Input.GetTouch(1);
             float prima = ((a.position - a.deltaPosition) - (b.position - b.deltaPosition)).magnitude;
             float ora = (a.position - b.position).magnitude;
+            automatica = false;
             if (prima > 1f) distanza *= prima / Mathf.Max(ora, 1f);
             trascinato = true;
         }
@@ -60,7 +67,7 @@ public class CameraOrbita : MonoBehaviour
             else if (!su)
             {
                 if ((pos - inizio).magnitude > 12f) trascinato = true;
-                if (trascinato) { yaw += delta.x * 0.25f; pitch = Mathf.Clamp(pitch - delta.y * 0.25f, -80f, 85f); }
+                if (trascinato) { automatica = false; yaw += delta.x * 0.25f; pitch = Mathf.Clamp(pitch - delta.y * 0.25f, -80f, 85f); }
             }
             if (su && !trascinato && Time.unscaledTime - tempoInizio < 0.5f)
             {
@@ -69,13 +76,20 @@ public class CameraOrbita : MonoBehaviour
         }
 
         float rotella = Input.mouseScrollDelta.y;
-        if (Mathf.Abs(rotella) > 0.01f) distanza *= 1f - rotella * 0.08f;
+        if (Mathf.Abs(rotella) > 0.01f) { automatica = false; distanza *= 1f - rotella * 0.08f; }
         distanza = Mathf.Clamp(distanza, distMin, distMax);
     }
 
     void LateUpdate()
     {
-        float k = 1f - Mathf.Exp(-8f * Time.unscaledDeltaTime);
+        if (automatica)
+        {
+            float ka = 1f - Mathf.Exp(-morbidezza * Time.unscaledDeltaTime);
+            yaw = Mathf.LerpAngle(yaw, yawTarget, ka);
+            pitch = Mathf.Lerp(pitch, pitchTarget, ka);
+            distanza = Mathf.Lerp(distanza, distTarget, ka);
+        }
+        float k = 1f - Mathf.Exp(-(automatica ? 3.5f : 8f) * Time.unscaledDeltaTime);
         bersaglioMorbido = Vector3.Lerp(bersaglioMorbido, bersaglio, k);
         distMorbida = Mathf.Lerp(distMorbida, distanza, k);
         var rot = Quaternion.Euler(pitch, yaw, 0f);

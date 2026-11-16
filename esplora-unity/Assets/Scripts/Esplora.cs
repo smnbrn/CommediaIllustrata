@@ -60,6 +60,10 @@ public class Esplora : MonoBehaviour
     Transform dante;
     float distPercorsa;
     bool inViaggio;
+    int prossimo = 1;          // prossimo luogo da raggiungere (indice in perOrdine)
+    float sosta;               // secondi ancora da trascorrere nel luogo corrente
+    const float VELOCITA = 16f;
+    const float SECONDI_PER_SCENA = 4.5f;
 
     // tavole
     readonly Dictionary<string, Texture2D> texture = new Dictionary<string, Texture2D>();
@@ -449,6 +453,101 @@ public class Esplora : MonoBehaviour
         return perOrdine[best];
     }
 
+    // ---------- viaggio cinematografico ----------
+
+    void AvviaViaggio()
+    {
+        if (distPercorsa >= lunghezze[lunghezze.Count - 1] - 0.1f) { distPercorsa = 0f; sosta = 0f; }
+        prossimo = 1;
+        while (prossimo < lunghezze.Count && lunghezze[prossimo] <= distPercorsa + 0.01f) prossimo++;
+        if (prossimo >= lunghezze.Count) { distPercorsa = 0f; prossimo = 1; }
+        inViaggio = true;
+        cam.automatica = true;
+        cam.yawTarget = cam.yaw;
+        if (selezionato == null) selezionato = perOrdine[Mathf.Max(prossimo - 1, 0)];
+    }
+
+    void SaltaAvanti()
+    {
+        if (!inViaggio) return;
+        if (sosta > 0f) { sosta = 0f; return; }          // durante una sosta: riparte subito
+        if (prossimo >= perOrdine.Count) return;
+        distPercorsa = lunghezze[prossimo] - 0.001f;     // in cammino: arriva subito al prossimo luogo
+    }
+
+    float DurataSosta(Segnaposto s)
+    {
+        int n = scenePerLuogo.TryGetValue(s.luogo.id, out var l) ? l.Count : 0;
+        return n == 0 ? 2.5f : Mathf.Clamp(n * SECONDI_PER_SCENA, 5f, 16f);
+    }
+
+    void AvanzaViaggio()
+    {
+        cam.bersaglio = dante.position; // la camera automatica si spegne da sola se l'utente la muove
+
+        if (sosta > 0f)
+        {
+            // sosta in un luogo: la camera gira lentamente attorno a Dante, le scene scorrono
+            sosta -= Time.deltaTime;
+            // la camera sta sul lato dell'asse e guarda verso la parete: oscilla lentamente, senza uscire dalla voragine
+            cam.yawTarget = YawEsterno(dante.position, cam.yawTarget) + 35f * Mathf.Sin(Time.time * 0.35f);
+            cam.pitchTarget = 36f; cam.distTarget = DistanzaCamera(dante.position, 0.8f);
+            return;
+        }
+
+        if (prossimo >= perOrdine.Count)
+        {
+            // arrivo in fondo: ritorno alla vista intera
+            inViaggio = false; cam.automatica = false; selezionato = null;
+            cam.Vai(new Vector3(0, -H * 0.45f, 0), 190f);
+            cam.pitch = 55f;
+            return;
+        }
+
+        float restante = lunghezze[prossimo] - distPercorsa;
+        float fattore = 0.3f + 0.7f * Mathf.Clamp01(restante / 7f);   // rallenta in arrivo
+        distPercorsa += VELOCITA * fattore * Time.deltaTime;
+
+        if (distPercorsa >= lunghezze[prossimo])
+        {
+            distPercorsa = lunghezze[prossimo];
+            dante.position = perOrdine[prossimo].pos;
+            selezionato = perOrdine[prossimo];
+            sosta = DurataSosta(selezionato);
+            prossimo++;
+            return;
+        }
+
+        dante.position = PuntoSulPercorso(distPercorsa);
+        cam.bersaglio = dante.position;
+
+        // inquadratura in movimento: dietro Dante, un po' dall'alto, guardando nella direzione di marcia
+        // mescolata con lo sguardo verso l'asse della voragine (così si vede l'interno)
+        Vector3 dir = perOrdine[prossimo].pos - dante.position;
+        Vector3 esterno = new Vector3(dante.position.x, 0f, dante.position.z);   // dall'asse verso la parete
+        Vector3 h = new Vector3(dir.x, 0f, dir.z);
+        // la camera guarda soprattutto verso la parete (sta dal lato dell'asse, dentro la voragine),
+        // con un po' di direzione di marcia
+        Vector3 mix = (h.sqrMagnitude > 0.5f ? h.normalized : Vector3.zero) * 0.4f + (esterno.sqrMagnitude > 1f ? esterno.normalized : Vector3.zero) * 0.6f;
+        if (mix.sqrMagnitude > 0.01f) cam.yawTarget = Mathf.Atan2(mix.x, mix.z) * Mathf.Rad2Deg;
+        cam.pitchTarget = 32f + Mathf.Clamp(-dir.y, 0f, 20f) * 0.6f; // più alta quando scende ripida
+        cam.distTarget = DistanzaCamera(dante.position, 0.9f);
+    }
+
+    // angolo della camera per guardare dall'asse verso la parete, nel punto dato
+    static float YawEsterno(Vector3 p, float attuale)
+    {
+        if (p.x * p.x + p.z * p.z < 1f) return attuale;
+        return Mathf.Atan2(p.x, p.z) * Mathf.Rad2Deg;
+    }
+
+    // distanza proporzionale al raggio della voragine in quel punto (più stretta in basso)
+    static float DistanzaCamera(Vector3 p, float fattore)
+    {
+        float r = Mathf.Sqrt(p.x * p.x + p.z * p.z);
+        return Mathf.Clamp(r * fattore, 14f, 42f);
+    }
+
     float DistanzaDi(Segnaposto s)
     {
         int i = perOrdine.IndexOf(s);
@@ -459,22 +558,17 @@ public class Esplora : MonoBehaviour
     {
         if (percorso.Count == 0) return;
 
-        if (inViaggio)
-        {
-            distPercorsa += Time.deltaTime * 10f;
-            float fine = lunghezze[lunghezze.Count - 1];
-            if (distPercorsa >= fine) { distPercorsa = fine; inViaggio = false; }
-            dante.position = PuntoSulPercorso(distPercorsa);
-            cam.bersaglio = dante.position;
-            var vicino = PiuVicinoSulPercorso(distPercorsa);
-            if (vicino != selezionato) selezionato = vicino;
-        }
+        if (inViaggio) AvanzaViaggio();
 
         if (cam.ClicEseguito && !SuGui(cam.PosizioneClic))
         {
             float soglia = 45f * ScalaGui();
             var s = PiuVicinoAlTocco(cam.PosizioneClic, soglia);
-            if (s != null) { inViaggio = false; Seleziona(s, true); dante.position = s.pos; distPercorsa = DistanzaDi(s); }
+            if (s != null)
+            {
+                inViaggio = false; cam.automatica = false;
+                Seleziona(s, true); dante.position = s.pos; distPercorsa = DistanzaDi(s);
+            }
         }
 
         // cambio di luogo: si riparte dalla prima scena; in viaggio le scene scorrono da sole
@@ -482,7 +576,7 @@ public class Esplora : MonoBehaviour
         if (inViaggio && selezionato != null && scenePerLuogo.TryGetValue(selezionato.luogo.id, out var sc) && sc.Count > 1)
         {
             tCiclo += Time.deltaTime;
-            if (tCiclo > 6f) { tCiclo = 0f; idxScena = (idxScena + 1) % sc.Count; }
+            if (tCiclo > SECONDI_PER_SCENA) { tCiclo = 0f; idxScena = (idxScena + 1) % sc.Count; }
         }
 
         // evidenzia il selezionato; Lucifero pulsa
@@ -593,20 +687,28 @@ public class Esplora : MonoBehaviour
         }
 
         // barra in alto
-        rBarra = new Rect(8, 8, Mathf.Min(W - 16, 420), 44);
+        bool largo = W >= 560f;
+        rBarra = new Rect(8, 8, largo ? 520f : W - 16f, 44);
         GUI.Box(rBarra, GUIContent.none);
-        GUI.Label(new Rect(16, 12, 150, 36), "Inferno · 3D", stTitolo);
-        if (percorso.Count > 0 && GUI.Button(new Rect(rBarra.xMax - 270, 14, 120, 32), inViaggio ? "Pausa" : "Viaggio"))
+        float xTitolo = 0f;
+        if (largo) { GUI.Label(new Rect(16, 12, 150, 36), "Inferno · 3D", stTitolo); xTitolo = 164f; }
+        float bw = (rBarra.width - xTitolo - 8f - 12f) / 3f;       // tre pulsanti uguali
+        float x0 = rBarra.x + xTitolo + 8f;
+        if (percorso.Count > 0 && GUI.Button(new Rect(x0, 14, bw, 32), inViaggio ? "Pausa" : "Viaggio"))
         {
-            if (!inViaggio && distPercorsa >= lunghezze[lunghezze.Count - 1] - 0.1f) distPercorsa = 0f;
-            inViaggio = !inViaggio;
-            cam.distanza = Mathf.Min(cam.distanza, 70f);
+            if (inViaggio) { inViaggio = false; cam.automatica = false; }
+            else AvviaViaggio();
         }
-        if (GUI.Button(new Rect(rBarra.xMax - 142, 14, 126, 32), "Vista intera"))
+        GUI.enabled = inViaggio;
+        if (GUI.Button(new Rect(x0 + bw + 6f, 14, bw, 32), "Avanti")) SaltaAvanti();
+        GUI.enabled = true;
+        if (GUI.Button(new Rect(x0 + 2f * (bw + 6f), 14, bw, 32), "Vista intera"))
         {
-            inViaggio = false; selezionato = null;
+            inViaggio = false; cam.automatica = false; selezionato = null;
             cam.Vai(new Vector3(0, -H * 0.45f, 0), 190f);
         }
+        if (inViaggio && prossimo <= perOrdine.Count)
+            GUI.Label(new Rect(rBarra.x + 8f, rBarra.yMax + 2f, 260, 20), $"Tappa {Mathf.Min(prossimo, perOrdine.Count)} di {perOrdine.Count}", stPiccolo);
 
         if (stato != "") GUI.Label(new Rect(16, 62, W - 32, 40), stato, stTesto);
 
