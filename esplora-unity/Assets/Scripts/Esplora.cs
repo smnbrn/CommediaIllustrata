@@ -317,7 +317,7 @@ public class Esplora : MonoBehaviour
         PosizionaFigure();
     }
 
-    // ---------- figure: Caronte e Cerbero ----------
+    // ---------- figure: Caronte, Cerbero e Lucifero ----------
 
     Segnaposto Trova(string id) { return segnaposti.Find(s => s.luogo.id == id); }
 
@@ -338,7 +338,7 @@ public class Esplora : MonoBehaviour
     {
         Metti("acheronte", Figure.Caronte(), 3.2f, 1.0f);
         Metti("cerchio-3", Figure.Cerbero(), 2.5f, 1.0f);
-        // Lucifero: nessun modello per ora (vedi PROGRESS.md)
+        Metti("lucifero", Figure.Lucifero(), 0f, 1.0f);   // Satana nel ghiaccio di Cocito
     }
 
     // ---------- atmosfera: particelle diverse per ogni cerchio ----------
