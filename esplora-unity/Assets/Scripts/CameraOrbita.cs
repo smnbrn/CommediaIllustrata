@@ -98,12 +98,35 @@ public class CameraOrbita : MonoBehaviour
         }
     }
 
+    // Raggio massimo percorribile a una certa quota (fornito da Esplora: pareti della voragine). Sopra la pianura non c'e limite.
+    public System.Func<float, float> LiberoRaggio;
+    const float MARGINE = 1.2f;   // distanza minima dal terreno
+
+    // vero se il punto e in aria: sopra la pianura o dentro la voragine, lontano dalle pareti e dai gradini
+    bool Libero(Vector3 p)
+    {
+        if (p.y >= MARGINE) return true;
+        float r = new Vector2(p.x, p.z).magnitude;
+        return r <= LiberoRaggio(p.y - MARGINE) - MARGINE && p.y > -80f + MARGINE;
+    }
+
     // La vista resta sempre sul modello: il punto guardato non esce dal cilindro che contiene voragine, selva, colle e caverna.
     void Limita()
     {
         var h = new Vector2(bersaglio.x, bersaglio.z);
         if (h.magnitude > raggioMax) { h = h.normalized * raggioMax; bersaglio.x = h.x; bersaglio.z = h.y; }
         bersaglio.y = Mathf.Clamp(bersaglio.y, yMin, yMax);
+        if (LiberoRaggio != null && bersaglio.y < MARGINE)
+        {
+            // anche il punto guardato resta nello spazio libero (WASD / E,Q non lo spingono nella roccia)
+            float bordo = LiberoRaggio(0f);
+            if (h.magnitude > bordo) bersaglio.y = MARGINE;   // fuori dal bordo: il punto resta sopra la pianura
+            else
+            {
+                float rm = Mathf.Max(0f, LiberoRaggio(bersaglio.y - MARGINE) - MARGINE);
+                if (h.magnitude > rm) { h = h.normalized * rm; bersaglio.x = h.x; bersaglio.z = h.y; }
+            }
+        }
     }
 
     void LateUpdate()
@@ -121,11 +144,23 @@ public class CameraOrbita : MonoBehaviour
         distMorbida = Mathf.Lerp(distMorbida, distanza, k);
         var rot = Quaternion.Euler(pitch, yaw, 0f);
         Vector3 pos = bersaglioMorbido - rot * Vector3.forward * distMorbida;
-        // fuori dalla voragine la camera resta sopra la pianura: non si vede mai il terreno da sotto
-        if (new Vector2(pos.x, pos.z).magnitude > raggioTerra && pos.y < 1.5f)
+        // la camera non entra mai nel terreno: se la posizione cade nella roccia, la si avvicina al punto guardato
+        if (LiberoRaggio != null && !Libero(pos))
         {
-            pos.y = 1.5f;
-            rot = Quaternion.LookRotation(bersaglioMorbido - pos, Vector3.up);
+            Vector3 da = bersaglioMorbido;
+            if (!Libero(da)) { da = bersaglio; }
+            float lo = 0f, hi = 1f;   // lo = libero, hi = bloccato
+            if (Libero(da))
+            {
+                for (int i = 0; i < 14; i++)
+                {
+                    float m = (lo + hi) * 0.5f;
+                    if (Libero(Vector3.Lerp(da, pos, m))) lo = m; else hi = m;
+                }
+                pos = Vector3.Lerp(da, pos, lo);
+            }
+            else pos = da;
+            if ((bersaglioMorbido - pos).sqrMagnitude > 0.01f) rot = Quaternion.LookRotation(bersaglioMorbido - pos, Vector3.up);
         }
         transform.position = pos;
         transform.rotation = rot;

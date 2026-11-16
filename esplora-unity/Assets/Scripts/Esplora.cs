@@ -250,6 +250,22 @@ public class Esplora : MonoBehaviour
         }
         { Vector2 prec = punti[punti.Count - 1]; punti.Add(new Vector2(prec.x, 1f)); punti.Add(new Vector2(0f, 1f)); }
 
+        // spazio libero per la camera: raggio massimo percorribile a una certa quota (pareti della voragine)
+        {
+            var muri = new List<Vector3>();   // (profondita da, profondita a, raggio) in unita
+            for (int i = 1; i < punti.Count - 1; i++)
+                if (Mathf.Approximately(punti[i].x, punti[i + 1].x) && punti[i + 1].y > punti[i].y)
+                    muri.Add(new Vector3(punti[i].y * H, punti[i + 1].y * H, punti[i].x * R));
+            cam.LiberoRaggio = quota =>
+            {
+                float d = Mathf.Max(0f, -quota);
+                if (d > H) return -1f;
+                for (int i = 0; i < muri.Count; i++)
+                    if (d >= muri[i].x && d <= muri[i].y) return muri[i].z;
+                return muri.Count > 0 ? muri[muri.Count - 1].z : 0f;
+            };
+        }
+
         var vert = new List<Vector3>(); var col = new List<Color>(); var tri = new List<int>();
         var uvT = new List<Vector2>(); var stT = new List<Vector4>();   // coordinate della texture del terreno e stile del cerchio
         float lato = TexturaTerreno.Lato;
