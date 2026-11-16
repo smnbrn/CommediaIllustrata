@@ -2,6 +2,7 @@ using UnityEngine;
 
 // Camera che orbita attorno a un punto. Mouse: trascina per ruotare, rotella per zoom.
 // Telefono: un dito ruota, due dita avvicinano/allontanano.
+// Tastiera: W A S D (o frecce) spostano la vista, E/Q salgono e scendono, Maiusc va più veloce.
 // Un tocco breve senza trascinare è un "clic" (lo legge Esplora).
 public class CameraOrbita : MonoBehaviour
 {
@@ -21,6 +22,7 @@ public class CameraOrbita : MonoBehaviour
     float tempoInizio;
     bool trascinato;
 
+    public bool Mosso { get; private set; }   // vero nel frame in cui la tastiera sposta la vista
     public bool ClicEseguito { get; private set; }
     public Vector2 PosizioneClic { get; private set; }
 
@@ -35,6 +37,7 @@ public class CameraOrbita : MonoBehaviour
     void Update()
     {
         ClicEseguito = false;
+        Mosso = false;
 
         if (Input.touchCount >= 2)
         {
@@ -78,6 +81,19 @@ public class CameraOrbita : MonoBehaviour
         float rotella = Input.mouseScrollDelta.y;
         if (Mathf.Abs(rotella) > 0.01f) { automatica = false; distanza *= 1f - rotella * 0.08f; }
         distanza = Mathf.Clamp(distanza, distMin, distMax);
+
+        // spostamento con la tastiera: orizzontale rispetto a dove guarda la camera, più veloce quando si è lontani
+        float avanti = (Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.UpArrow) ? 1f : 0f) - (Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.DownArrow) ? 1f : 0f);
+        float lato = (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow) ? 1f : 0f) - (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow) ? 1f : 0f);
+        float salita = (Input.GetKey(KeyCode.E) ? 1f : 0f) - (Input.GetKey(KeyCode.Q) ? 1f : 0f);
+        if (avanti != 0f || lato != 0f || salita != 0f)
+        {
+            automatica = false; Mosso = true;
+            Vector3 piano = Quaternion.Euler(0f, yaw, 0f) * new Vector3(lato, 0f, avanti);
+            if (piano.sqrMagnitude > 1f) piano.Normalize();
+            float v = Mathf.Max(distanza * 0.8f, 10f) * (Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift) ? 2.5f : 1f);
+            bersaglio += (piano + Vector3.up * salita) * v * Time.unscaledDeltaTime;
+        }
     }
 
     void LateUpdate()

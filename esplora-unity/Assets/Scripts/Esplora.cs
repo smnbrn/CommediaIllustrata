@@ -16,7 +16,7 @@ public class Esplora : MonoBehaviour
     const int MAX_TEXTURE = 8;
     const string SITO = "https://smnbrn.github.io/CommediaIllustrata/";
 
-    class Segnaposto { public Luogo luogo; public Vector3 pos; public Material mat; public GameObject go; public Color colore; public float alzo; }
+    class Segnaposto { public Luogo luogo; public Vector3 pos; public Material mat; public GameObject go; public Color colore; public Vector3 pm; }
 
     // Atmosfera di ogni cerchio (indice = numero del cerchio, 0 = Antinferno)
     struct Tema
@@ -59,6 +59,10 @@ public class Esplora : MonoBehaviour
     List<Segnaposto> perOrdine = new List<Segnaposto>();
     Transform dante;
     float distPercorsa;
+    Transform portaModello;        // la caverna: resta sempre visibile
+    Transform coperchio;           // tappo della voragine, sparisce quando si apre la porta dell'Inferno
+    bool coperchioAperto, eraOltre; float coperchioT;   // 0 = chiuso, 1 = aperto
+    int idxPorta = -1;             // indice della porta dell'Inferno nel percorso: fin lì il tratto è dritto
     bool inViaggio;
     int prossimo = 1;          // prossimo luogo da raggiungere (indice in perOrdine)
     float sosta;               // secondi ancora da trascorrere nel luogo corrente
@@ -273,10 +277,22 @@ public class Esplora : MonoBehaviour
             var col2 = ColoreMarcatore(l);
             var mat = NuovoMateriale(col2);
             go.GetComponent<MeshRenderer>().sharedMaterial = mat;
-            var sp = new Segnaposto { luogo = l, pos = pos, mat = mat, go = go, colore = col2 };
+            var sp = new Segnaposto { luogo = l, pos = pos, pm = pos, mat = mat, go = go, colore = col2 };
             segnaposti.Add(sp);
             if (l.id == "lucifero") lucifero = sp;
         }
+
+        // scenografia: coperchio con la selva, colle e porta dell'Inferno (la porta sposta il suo punto sotto l'arco)
+        var sSelva = Trova("selva-oscura"); var sColle = Trova("colle"); var sPorta = Trova("porta-inferno");
+        if (sSelva != null && sColle != null && sPorta != null)
+        {
+            Vector3 pp = sPorta.pos;
+            coperchio = Scenario.Costruisci(transform, NuovoMateriale(Color.white), ColoreProfondita(0f, false), R, sSelva.pos, sColle.pos, ref pp, out portaModello);
+            sPorta.pos = pp; sPorta.pm = pp; sPorta.go.transform.position = pp;
+            // selva e colle un po' sopra il suolo: il tratto dritto del percorso non deve affondare nel terreno
+            foreach (var sp in new[] { sSelva, sColle }) { sp.pos += Vector3.up * 0.7f; sp.pm = sp.pos; sp.go.transform.position = sp.pos; }
+        }
+        PosizionaFigure();   // prima del percorso: sposta il punto di passaggio accanto alle figure
 
         // percorso di Dante: i luoghi in ordine di discesa
         perOrdine = new List<Segnaposto>(segnaposti);
@@ -288,9 +304,16 @@ public class Esplora : MonoBehaviour
             if (i > 0) tot += Vector3.Distance(perOrdine[i - 1].pos, perOrdine[i].pos);
             percorso.Add(perOrdine[i].pos); lunghezze.Add(tot);
         }
+        idxPorta = perOrdine.FindIndex(x => x.luogo.id == "porta-inferno");
         var lr = new GameObject("Percorso").AddComponent<LineRenderer>();
         lr.transform.SetParent(transform, false);
-        lr.positionCount = percorso.Count; lr.SetPositions(percorso.ToArray());
+        var linea = new List<Vector3>();
+        for (int i = 1; i < percorso.Count; i++)
+        {
+            int passi = i <= idxPorta ? 1 : 14;    // fino alla porta il tratto è dritto, poi segue la parete
+            for (int k = (i == 1 ? 0 : 1); k <= passi; k++) linea.Add(Curva(percorso[i - 1], percorso[i], k / (float)passi, i <= idxPorta));
+        }
+        lr.positionCount = linea.Count; lr.SetPositions(linea.ToArray());
         lr.widthMultiplier = 0.5f; lr.useWorldSpace = true; lr.numCornerVertices = 4;
         lr.sharedMaterial = NuovoMateriale(new Color(1f, 0.95f, 0.6f));
         lr.shadowCastingMode = UnityEngine.Rendering.ShadowCastingMode.Off;
@@ -314,7 +337,6 @@ public class Esplora : MonoBehaviour
         scia.widthCurve = new AnimationCurve(new Keyframe(0, 1), new Keyframe(1, 0));
 
         CreaAtmosfera();
-        PosizionaFigure();
     }
 
     // ---------- figure: Caronte, Cerbero e Lucifero ----------
@@ -333,14 +355,14 @@ public class Esplora : MonoBehaviour
         figura.transform.rotation = Quaternion.LookRotation(dentro);
         figura.transform.localScale = Vector3.one * scala;
 
-        // il segnaposto sale sopra la testa della figura, così non la attraversa
+        // il segnaposto sale sopra la testa della figura
         var rs = figura.GetComponentsInChildren<Renderer>();
-        if (rs.Length > 0)
-        {
-            var b = rs[0].bounds; foreach (var r in rs) b.Encapsulate(r.bounds);
-            s.alzo = Mathf.Max(0f, b.max.y - s.pos.y) + (s == lucifero ? 3.2f : 2.0f);
-            s.go.transform.position = s.pos + Vector3.up * s.alzo;
-        }
+        if (rs.Length == 0) return;
+        var b = rs[0].bounds; foreach (var r in rs) b.Encapsulate(r.bounds);
+        // il segnaposto (e il punto del percorso) sale sopra la testa della figura, così non la attraversa
+        s.pos = new Vector3(b.center.x, b.max.y + (s == lucifero ? 3.2f : idLuogo == "acheronte" ? 0.9f : 2.0f), b.center.z);
+        s.pm = s.pos;
+        s.go.transform.position = s.pos;
     }
 
     void PosizionaFigure()
@@ -455,12 +477,25 @@ public class Esplora : MonoBehaviour
         var c = cam.GetComponent<Camera>();
         foreach (var s in segnaposti)
         {
-            Vector3 sp = c.WorldToScreenPoint(s.pos);
-            if (sp.z <= 0 || Nascosto(s.pos)) continue;
+            Vector3 sp = c.WorldToScreenPoint(s.pm);
+            if (sp.z <= 0 || Nascosto(s.pm)) continue;
             float d = ((Vector2)sp - schermo).magnitude;
             if (d < bd) { bd = d; best = s; }
         }
         return best;
+    }
+
+    // punto tra due luoghi che segue la parete della voragine (angolo e raggio interpolati) invece della corda,
+    // così il percorso non attraversa il terreno
+    static Vector3 Curva(Vector3 a, Vector3 b, float t, bool dritto)
+    {
+        if (dritto) return Vector3.Lerp(a, b, t);
+        float ra = new Vector2(a.x, a.z).magnitude, rb = new Vector2(b.x, b.z).magnitude;
+        float aa = Mathf.Atan2(a.z, a.x) * Mathf.Rad2Deg, ab = Mathf.Atan2(b.z, b.x) * Mathf.Rad2Deg;
+        if (ra < 0.01f) aa = ab; else if (rb < 0.01f) ab = aa;
+        float ang = Mathf.LerpAngle(aa, ab, t) * Mathf.Deg2Rad;
+        float r = Mathf.Max(0f, Mathf.Lerp(ra, rb, t) - 1.0f * Mathf.Sin(Mathf.PI * t));
+        return new Vector3(Mathf.Cos(ang) * r, Mathf.Lerp(a.y, b.y, t), Mathf.Sin(ang) * r);
     }
 
     Vector3 PuntoSulPercorso(float dist)
@@ -471,7 +506,7 @@ public class Esplora : MonoBehaviour
             if (dist <= lunghezze[i])
             {
                 float t = (dist - lunghezze[i - 1]) / Mathf.Max(lunghezze[i] - lunghezze[i - 1], 0.0001f);
-                return Vector3.Lerp(percorso[i - 1], percorso[i], t);
+                return Curva(percorso[i - 1], percorso[i], t, i <= idxPorta);
             }
         return percorso[percorso.Count - 1];
     }
@@ -495,6 +530,7 @@ public class Esplora : MonoBehaviour
         prossimo = 1;
         while (prossimo < lunghezze.Count && lunghezze[prossimo] <= distPercorsa + 0.01f) prossimo++;
         if (prossimo >= lunghezze.Count) { distPercorsa = 0f; prossimo = 1; }
+        if (idxPorta >= 0) coperchioAperto = distPercorsa >= lunghezze[idxPorta] - 0.01f;   // da fuori il tappo è chiuso, da dentro aperto
         inViaggio = true;
         cam.automatica = true;
         cam.yawTarget = cam.yaw;
@@ -592,7 +628,27 @@ public class Esplora : MonoBehaviour
     {
         if (percorso.Count == 0) return;
 
+        if (inViaggio && cam.Mosso) { inViaggio = false; cam.automatica = false; }   // si muove la vista a mano: il viaggio va in pausa
         if (inViaggio) AvanzaViaggio();
+
+        // il coperchio si apre quando il viaggio supera la caverna e si richiude se riparte da fuori;
+        // con un clic sulla caverna si apre, con un secondo clic si richiude
+        if (coperchio != null)
+        {
+            if (idxPorta >= 0)
+            {
+                bool oltre = distPercorsa >= lunghezze[idxPorta] - 0.01f;
+                if (inViaggio && oltre != eraOltre) coperchioAperto = oltre;
+                eraOltre = oltre;
+            }
+            coperchioT = Mathf.MoveTowards(coperchioT, coperchioAperto ? 1f : 0f, Time.deltaTime / 1.4f);
+            bool visibile = coperchioT < 0.999f;
+            if (coperchio.gameObject.activeSelf != visibile) coperchio.gameObject.SetActive(visibile);
+            float e = 1f - coperchioT * coperchioT * (3f - 2f * coperchioT);   // si rimpicciolisce verso il centro
+            coperchio.localScale = new Vector3(e, e < 0.5f ? e * 2f : 1f, e);
+            var col = coperchio.GetComponentInChildren<MeshCollider>();
+            if (col != null) col.enabled = !coperchioAperto;
+        }
 
         if (cam.ClicEseguito && !SuGui(cam.PosizioneClic))
         {
@@ -602,6 +658,11 @@ public class Esplora : MonoBehaviour
             {
                 inViaggio = false; cam.automatica = false;
                 Seleziona(s, true); dante.position = s.pos; distPercorsa = DistanzaDi(s);
+                if (idxPorta >= 0 && coperchio != null)
+                {
+                    if (s == perOrdine[idxPorta]) coperchioAperto = !coperchioAperto;                     // la caverna apre e chiude il tappo
+                    else if (s.luogo.ordine > perOrdine[idxPorta].luogo.ordine) coperchioAperto = true;   // un luogo dell'Inferno: serve il tappo aperto
+                }
             }
         }
 
@@ -618,6 +679,7 @@ public class Esplora : MonoBehaviour
         {
             bool sel = s == selezionato;
             float base_ = s.luogo.tipo == "zona" ? 1.3f : 2.0f;
+            if (s.luogo.id == "acheronte") base_ *= 0.7f;   // più piccolo: deve restare sotto il coperchio
             if (s == lucifero) base_ *= 1.6f + 0.35f * Mathf.Sin(Time.time * 2.2f);
             s.go.transform.localScale = Vector3.one * (base_ * (sel ? 1.8f : 1f));
         }
@@ -707,8 +769,8 @@ public class Esplora : MonoBehaviour
         {
             bool scelto = sp == selezionato;
             if (pass == 0 ? !scelto : (scelto || sp.luogo.tipo != "cerchio")) continue;
-            Vector3 p = c.WorldToScreenPoint(sp.pos + Vector3.up * (2.5f + sp.alzo));
-            if (p.z <= 0 || Nascosto(sp.pos)) continue;
+            Vector3 p = c.WorldToScreenPoint(sp.pm + Vector3.up * 2.5f);
+            if (p.z <= 0 || Nascosto(sp.pm)) continue;
             string nome = Pulisci(sp.luogo.nome);
             var r = new Rect(p.x / s + 4, (Screen.height - p.y) / s - 10, stEtichetta.CalcSize(new GUIContent(nome)).x + 4, 20);
             if (selezionato != null && rPannello.Overlaps(r)) continue; // non sopra il pannello
