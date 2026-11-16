@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cerberus
+* source:	https://sketchfab.com/3d-models/cerberus-2e3c41e089f64f82afbcfcd64ff3bdb8
+* author:	SeducedPigeon (Sian Knight) (https://sketchfab.com/seducedpigeon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cerberus" (https://sketchfab.com/3d-models/cerberus-2e3c41e089f64f82afbcfcd64ff3bdb8) by SeducedPigeon (Sian Knight) (https://sketchfab.com/seducedpigeon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
