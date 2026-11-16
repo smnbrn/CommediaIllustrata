@@ -62,6 +62,7 @@ public class Esplora : MonoBehaviour
     Transform portaModello;        // la caverna: resta sempre visibile
     Transform coperchio;           // tappo della voragine, sparisce quando si apre la porta dell'Inferno
     bool coperchioAperto, eraOltre; float coperchioT;   // 0 = chiuso, 1 = aperto
+    int idxLucifero = -1, idxBurella = -1;   // segmenti del percorso che aggirano la statua di Lucifero
     int idxPorta = -1;             // indice della porta dell'Inferno nel percorso: fin lì il tratto è dritto
     bool inViaggio;
     int prossimo = 1;          // prossimo luogo da raggiungere (indice in perOrdine)
@@ -292,6 +293,7 @@ public class Esplora : MonoBehaviour
             foreach (var sp in new[] { sSelva, sColle }) { sp.pos += Vector3.up * 0.7f; sp.pm = sp.pos; sp.go.transform.position = sp.pos; }
         }
         PosizionaFigure();   // prima del percorso: sposta il punto di passaggio accanto alle figure
+        SpostaCocito();
 
         // percorso di Dante: i luoghi in ordine di discesa
         perOrdine = new List<Segnaposto>(segnaposti);
@@ -304,13 +306,15 @@ public class Esplora : MonoBehaviour
             percorso.Add(perOrdine[i].pos); lunghezze.Add(tot);
         }
         idxPorta = perOrdine.FindIndex(x => x.luogo.id == "porta-inferno");
+        idxLucifero = perOrdine.FindIndex(x => x.luogo.id == "lucifero");
+        idxBurella = perOrdine.FindIndex(x => x.luogo.id == "natural-burella");
         var lr = new GameObject("Percorso").AddComponent<LineRenderer>();
         lr.transform.SetParent(transform, false);
         var linea = new List<Vector3>();
         for (int i = 1; i < percorso.Count; i++)
         {
             int passi = i <= idxPorta ? 1 : 14;    // fino alla porta il tratto è dritto, poi segue la parete
-            for (int k = (i == 1 ? 0 : 1); k <= passi; k++) linea.Add(Curva(percorso[i - 1], percorso[i], k / (float)passi, i <= idxPorta));
+            for (int k = (i == 1 ? 0 : 1); k <= passi; k++) linea.Add(Segmento(i, k / (float)passi));
         }
         lr.positionCount = linea.Count; lr.SetPositions(linea.ToArray());
         lr.widthMultiplier = 0.5f; lr.useWorldSpace = true; lr.numCornerVertices = 4;
@@ -485,6 +489,43 @@ public class Esplora : MonoBehaviour
 
     // punto tra due luoghi che segue la parete della voragine (angolo e raggio interpolati) invece della corda,
     // così il percorso non attraversa il terreno
+    // punto del segmento i (da perOrdine[i-1] a perOrdine[i]): dritto fino alla caverna, poi lungo la parete;
+    // attorno a Lucifero due archi che salgono sopra la statua invece di attraversarla
+    Vector3 Segmento(int i, float t)
+    {
+        Vector3 a = percorso[i - 1], b = percorso[i];
+        if (i == idxLucifero) return Arco(a, new Vector3(a.x, b.y, a.z), b, t);   // sale fuori dalla statua, poi entra dall'alto
+        if (i == idxBurella) return Arco(a, new Vector3(b.x, a.y, b.z), b, t);    // esce in orizzontale sopra la statua, poi scende di lato
+        return Curva(a, b, t, i <= idxPorta);
+    }
+
+    static Vector3 Arco(Vector3 a, Vector3 c, Vector3 b, float t)
+    {
+        float u = 1f - t;
+        return u * u * a + 2f * u * t * c + t * t * b;
+    }
+
+    // Cocito: Tolomea e Giudecca non devono stare dentro la statua; la burella naturale esce di lato, non dai suoi piedi
+    void SpostaCocito()
+    {
+        foreach (var id in new[] { "tolomea", "giudecca" })
+        {
+            var s = Trova(id);
+            if (s == null) continue;
+            var h = new Vector2(s.pos.x, s.pos.z);
+            if (h.magnitude >= 6.2f || h.magnitude < 0.01f) continue;
+            h = h.normalized * 6.2f;
+            s.pos = new Vector3(h.x, s.pos.y, h.y); s.pm = s.pos; s.go.transform.position = s.pos;
+        }
+        var b = Trova("natural-burella");
+        if (b != null)
+        {
+            float a = 315f * Mathf.Deg2Rad;
+            b.pos = new Vector3(Mathf.Cos(a) * 7.5f, -H + 0.8f, Mathf.Sin(a) * 7.5f);
+            b.pm = b.pos; b.go.transform.position = b.pos;
+        }
+    }
+
     static Vector3 Curva(Vector3 a, Vector3 b, float t, bool dritto)
     {
         if (dritto) return Vector3.Lerp(a, b, t);
@@ -504,7 +545,7 @@ public class Esplora : MonoBehaviour
             if (dist <= lunghezze[i])
             {
                 float t = (dist - lunghezze[i - 1]) / Mathf.Max(lunghezze[i] - lunghezze[i - 1], 0.0001f);
-                return Curva(percorso[i - 1], percorso[i], t, i <= idxPorta);
+                return Segmento(i, t);
             }
         return percorso[percorso.Count - 1];
     }
