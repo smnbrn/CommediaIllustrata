@@ -57,4 +57,5 @@ public static class Figure
 
     public static GameObject Caronte() { return Carica("Caronte", 7.5f, 0f, new Color(0.07f, 0.20f, 0.26f), 5.5f, 1.8f); }
     public static GameObject Cerbero() { return Carica("Cerbero", 6.5f, 0f, new Color(0.22f, 0.20f, 0.09f), 5f, 0.8f); }
+    public static GameObject Lucifero() { return Carica("Lucifero", 5.2f, 0f, new Color(0.62f, 0.78f, 0.88f), 5.2f, 0f); }
 }

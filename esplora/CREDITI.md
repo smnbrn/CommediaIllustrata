@@ -6,3 +6,4 @@ I modelli sono stati scaricati da Sketchfab con licenza **CC BY 4.0** (uso comme
 - This work is based on "Cerberus" (https://skfb.ly/67NZT) by SeducedPigeon (Sian Knight) (https://sketchfab.com/seducedpigeon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/).
 
 Le licenze originali sono in `esplora-unity/Assets/Resources/Modelli/*/LICENZA.txt`.
+- This work is based on "Satan, Jean-Jacques Feuchère (1807-1852)" (https://sketchfab.com/3d-models/satan-jean-jacques-feuchere-1807-1852-b798f112a5b34b49a2f3c4200358a33d) by re1monsen (https://sketchfab.com/re1monsen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/). Opera originale di nebulousflynn. È una statua di Satana (non il Lucifero a tre facce di Dante): qui sta nel ghiaccio di Cocito.
