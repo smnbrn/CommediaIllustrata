@@ -317,7 +317,7 @@ public class Esplora : MonoBehaviour
         PosizionaFigure();
     }
 
-    // ---------- figure: Caronte, Cerbero, Lucifero ----------
+    // ---------- figure: Caronte e Cerbero ----------
 
     Segnaposto Trova(string id) { return segnaposti.Find(s => s.luogo.id == id); }
 
@@ -337,33 +337,8 @@ public class Esplora : MonoBehaviour
     void PosizionaFigure()
     {
         Metti("acheronte", Figure.Caronte(), 3.2f, 1.0f);
-        Metti("cerchio-3", Figure.Cerbero(), 2.5f, 0.9f);
-
-        // Lucifero sta al centro, sul fondo della voragine, ritto: non ruotato verso l'asse
-        var lu = Trova("lucifero");
-        if (lu != null)
-        {
-            var f = Figure.Lucifero();
-            f.transform.SetParent(transform, false);
-            f.transform.position = new Vector3(0f, lu.pos.y, 0f);
-            f.transform.localScale = Vector3.one * 0.85f;
-            lu.go.GetComponent<MeshRenderer>().enabled = false; // il segnaposto resta cliccabile ma non si vede
-        }
-    }
-
-    // vicino a Lucifero la camera sale e si allontana: la figura è alta e ha le ali larghe
-    void AdattaCameraAFigure()
-    {
-        if (lucifero == null) return;
-        Vector3 c = new Vector3(0f, lucifero.pos.y, 0f);
-        float d = Vector3.Distance(dante.position, c);
-        if (d < 32f)
-        {
-            float k = 1f - d / 32f;
-            cam.distTarget = Mathf.Lerp(cam.distTarget, 50f, k);
-            cam.pitchTarget = Mathf.Lerp(cam.pitchTarget, 18f, k);
-            cam.bersaglio = dante.position + Vector3.up * (8f * k);
-        }
+        Metti("cerchio-3", Figure.Cerbero(), 2.5f, 1.0f);
+        // Lucifero: nessun modello per ora (vedi PROGRESS.md)
     }
 
     // ---------- atmosfera: particelle diverse per ogni cerchio ----------
@@ -542,7 +517,6 @@ public class Esplora : MonoBehaviour
             // la camera sta sul lato dell'asse e guarda verso la parete: oscilla lentamente, senza uscire dalla voragine
             cam.yawTarget = YawEsterno(dante.position, cam.yawTarget) + 35f * Mathf.Sin(Time.time * 0.35f);
             cam.pitchTarget = 36f; cam.distTarget = DistanzaCamera(dante.position, 0.8f);
-            AdattaCameraAFigure();
             return;
         }
 
@@ -583,7 +557,6 @@ public class Esplora : MonoBehaviour
         if (mix.sqrMagnitude > 0.01f) cam.yawTarget = Mathf.Atan2(mix.x, mix.z) * Mathf.Rad2Deg;
         cam.pitchTarget = 32f + Mathf.Clamp(-dir.y, 0f, 20f) * 0.6f; // più alta quando scende ripida
         cam.distTarget = DistanzaCamera(dante.position, 0.9f);
-        AdattaCameraAFigure();
     }
 
     // angolo della camera per guardare dall'asse verso la parete, nel punto dato
