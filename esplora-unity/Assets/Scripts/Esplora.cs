@@ -59,9 +59,9 @@ public class Esplora : MonoBehaviour
     List<Segnaposto> perOrdine = new List<Segnaposto>();
     Transform dante;
     float distPercorsa;
-    Transform portaModello;        // arco della porta, sparisce insieme al coperchio
+    Transform portaModello;        // la caverna: resta sempre visibile
     Transform coperchio;           // tappo della voragine, sparisce quando si apre la porta dell'Inferno
-    bool coperchioAperto; float coperchioT;   // 0 = chiuso, 1 = aperto
+    bool coperchioAperto, eraOltre; float coperchioT;   // 0 = chiuso, 1 = aperto
     int idxPorta = -1;             // indice della porta dell'Inferno nel percorso: fin lì il tratto è dritto
     bool inViaggio;
     int prossimo = 1;          // prossimo luogo da raggiungere (indice in perOrdine)
@@ -530,7 +530,7 @@ public class Esplora : MonoBehaviour
         prossimo = 1;
         while (prossimo < lunghezze.Count && lunghezze[prossimo] <= distPercorsa + 0.01f) prossimo++;
         if (prossimo >= lunghezze.Count) { distPercorsa = 0f; prossimo = 1; }
-        if (idxPorta >= 0 && distPercorsa < lunghezze[idxPorta] - 0.01f) coperchioAperto = false;   // si riparte da fuori: il tappo si richiude
+        if (idxPorta >= 0) coperchioAperto = distPercorsa >= lunghezze[idxPorta] - 0.01f;   // da fuori il tappo è chiuso, da dentro aperto
         inViaggio = true;
         cam.automatica = true;
         cam.yawTarget = cam.yaw;
@@ -628,22 +628,24 @@ public class Esplora : MonoBehaviour
     {
         if (percorso.Count == 0) return;
 
+        if (inViaggio && cam.Mosso) { inViaggio = false; cam.automatica = false; }   // si muove la vista a mano: il viaggio va in pausa
         if (inViaggio) AvanzaViaggio();
 
-        // il coperchio si apre quando si seleziona la porta dell'Inferno (o un luogo più in basso) o il viaggio la supera
+        // il coperchio si apre quando il viaggio supera la caverna e si richiude se riparte da fuori;
+        // con un clic sulla caverna si apre, con un secondo clic si richiude
         if (coperchio != null)
         {
             if (idxPorta >= 0)
             {
-                if (selezionato != null && selezionato.luogo.ordine >= perOrdine[idxPorta].luogo.ordine) coperchioAperto = true;
-                if (inViaggio && distPercorsa >= lunghezze[idxPorta] - 0.01f) coperchioAperto = true;
+                bool oltre = distPercorsa >= lunghezze[idxPorta] - 0.01f;
+                if (inViaggio && oltre != eraOltre) coperchioAperto = oltre;
+                eraOltre = oltre;
             }
             coperchioT = Mathf.MoveTowards(coperchioT, coperchioAperto ? 1f : 0f, Time.deltaTime / 1.4f);
             bool visibile = coperchioT < 0.999f;
             if (coperchio.gameObject.activeSelf != visibile) coperchio.gameObject.SetActive(visibile);
             float e = 1f - coperchioT * coperchioT * (3f - 2f * coperchioT);   // si rimpicciolisce verso il centro
             coperchio.localScale = new Vector3(e, e < 0.5f ? e * 2f : 1f, e);
-            if (portaModello != null) { portaModello.localScale = Vector3.one * e; portaModello.gameObject.SetActive(visibile); }
             var col = coperchio.GetComponentInChildren<MeshCollider>();
             if (col != null) col.enabled = !coperchioAperto;
         }
@@ -656,6 +658,11 @@ public class Esplora : MonoBehaviour
             {
                 inViaggio = false; cam.automatica = false;
                 Seleziona(s, true); dante.position = s.pos; distPercorsa = DistanzaDi(s);
+                if (idxPorta >= 0 && coperchio != null)
+                {
+                    if (s == perOrdine[idxPorta]) coperchioAperto = !coperchioAperto;                     // la caverna apre e chiude il tappo
+                    else if (s.luogo.ordine > perOrdine[idxPorta].luogo.ordine) coperchioAperto = true;   // un luogo dell'Inferno: serve il tappo aperto
+                }
             }
         }
 
