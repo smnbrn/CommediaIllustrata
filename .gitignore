@@ -1,3 +1,15 @@
 __pycache__/
 *.pyc
 .claude/
+
+# Unity (esplora-unity)
+esplora-unity/Library/
+esplora-unity/Temp/
+esplora-unity/Obj/
+esplora-unity/Logs/
+esplora-unity/UserSettings/
+esplora-unity/Builds/
+esplora-unity/*.csproj
+esplora-unity/*.sln
+esplora-unity/Assets/Screenshots/
+esplora-unity/Assets/Screenshots.meta
