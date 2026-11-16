@@ -227,6 +227,13 @@ button, select { font: inherit; color: inherit; }
   box-shadow: 0 0 0 100vmax rgb(0 0 0 / 0.55), var(--ombra);
 }
 .mappa.aperta .mappa-luogo { font-size: 1rem; }
+.mappa-3d { display: none; }
+.mappa.aperta .mappa-3d {
+  display: inline-block; margin-top: 0.6rem; padding: 0.4rem 1rem;
+  border: 1px solid var(--rubrica); border-radius: 999px;
+  color: var(--rubrica); font-size: 1rem; cursor: pointer;
+}
+.mappa.aperta .mappa-3d:hover { background: var(--rubrica-velo); }
 .mappa .etichetta { display: none; }
 .mappa.aperta .etichetta { display: inline; }
 
@@ -344,17 +351,14 @@ button, select { font: inherit; color: inherit; }
     box-shadow: 0 6px 14px -10px rgb(0 0 0 / 0.35);
   }
   .tavola-cornice { border-radius: 3px; }
+  /* la didascalia sta sotto la tavola, mai sopra l'immagine */
   .didascalia {
-    position: absolute; left: 0; right: 0; bottom: 0;
-    min-height: 0; padding: 0.5rem 0.6rem 0.35rem;
+    min-height: 0; padding: 0.3rem 0.1rem 0;
     font-size: 0.8rem; line-height: 1.25;
-    color: #e9dfcc;
-    background: linear-gradient(transparent, rgb(0 0 0 / 0.7) 40%);
-    border-radius: 0 0 3px 3px;
+    color: var(--tenue);
     white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
-    pointer-events: auto;
   }
-  .didascalia b { color: #fff; }
+  .didascalia b { color: var(--inchiostro); }
   .tavola { position: relative; }
   .comandi { align-self: center; }
   .posizione { margin: 0; font-size: 0.98rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }

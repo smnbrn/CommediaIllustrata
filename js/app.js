@@ -386,6 +386,7 @@
     m.setAttribute('aria-expanded', 'false');
     m.addEventListener('click', function (e) {
       e.stopPropagation();
+      if (m.classList.contains('aperta') && e.target.closest && e.target.closest('#mappa-3d')) { location.href = 'esplora/'; return; }
       var aperta = m.classList.toggle('aperta');
       m.setAttribute('aria-expanded', String(aperta));
     });

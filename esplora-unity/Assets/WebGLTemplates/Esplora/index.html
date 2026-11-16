@@ -65,6 +65,8 @@
       #crediti { position: fixed; z-index: 14; left: 0.75rem; bottom: 0.75rem; max-width: min(36rem, calc(100vw - 11rem)); max-height: 60vh; overflow-y: auto;
                  font-size: 0.85rem; line-height: 1.4; color: var(--tenue); padding: 0.3rem 0.8rem; border-radius: 12px;
                  background: color-mix(in srgb, var(--carta) 94%, transparent); border: 1px solid var(--linea); }
+      .cr-corto { display: none; }
+      @media (max-width: 899px) { .cr-corto { display: inline; } }
       #crediti summary { cursor: pointer; list-style: none; font-style: italic; }
       #crediti summary::-webkit-details-marker { display: none; }
       #crediti[open] summary { margin-bottom: 0.3rem; color: var(--inchiostro); }
@@ -77,14 +79,17 @@
         .e3-barra-comandi { width: 100%; order: 3; }
         #comandi3d { width: 100%; justify-content: space-between; flex-wrap: nowrap; }
         #comandi3d .illustratore { flex: 1; padding: 0 0.3rem; }
-        #stato3d, #tappa3d { top: auto; bottom: 0.75rem; }
+        /* stato e tappa sotto la testata (che su telefono va a capo), non in basso dove stanno scheda e collegamenti */
+        #stato3d, #tappa3d { top: calc(var(--alt-testata, 8rem) + 0.5rem); }
+        #crediti { max-width: calc(100vw - 12.5rem); }
+        .cr-lungo { display: none; }
+        #crediti[open] { max-width: calc(100vw - 1.5rem); }
         #pannello3d { left: 0.5rem; right: 0.5rem; width: auto; top: auto; bottom: 3.1rem; max-height: 56vh; }
         #pannello3d .tavola-cornice { height: min(26vh, 13rem); }
         #pannello3d[data-compatto="1"] > :not(.e3-testa) { display: none; }
         #pannello3d[data-compatto="1"] { padding: 0.6rem 0.9rem; cursor: pointer; }
         #pannello3d[data-compatto="1"] .e3-testa .posizione { font-size: 1.05rem; }
         #pannello3d[data-compatto="1"] #compatta3d { display: grid; }
-        #crediti { max-width: calc(100vw - 9rem); }
       }
     </style>
   </head>
@@ -143,7 +148,7 @@
       <div id="dettaglio">Al primo accesso si scaricano circa 10 MB; le volte dopo parte subito.</div>
     </div>
     <a id="torna" href="../index.html">← Torna alla lettura</a>
-    <details id="crediti"><summary>Crediti dei modelli 3D</summary>Modelli 3D su Sketchfab (CC BY 4.0):
+    <details id="crediti"><summary><span class="cr-lungo">Crediti dei modelli 3D</span><span class="cr-corto">Crediti 3D</span></summary>Modelli 3D su Sketchfab (CC BY 4.0):
       <a href="https://skfb.ly/6yrpM" target="_blank" rel="noopener">«Caronte»</a> di gb.prof.69,
       <a href="https://skfb.ly/67NZT" target="_blank" rel="noopener">«Cerberus»</a> di SeducedPigeon (Sian Knight),
       <a href="https://sketchfab.com/3d-models/satan-jean-jacques-feuchere-1807-1852-b798f112a5b34b49a2f3c4200358a33d" target="_blank" rel="noopener">«Satan, Jean-Jacques Feuchère»</a> di re1monsen,
@@ -221,6 +226,10 @@
         pann.addEventListener("click", function () { if (pann.dataset.compatto === "1") { aperta = true; compatta(); } });
         $("compatta3d").addEventListener("click", function (e) { e.stopPropagation(); aperta = true; compatta(); });
         window.addEventListener("resize", compatta);
+        var testata = $("testata");
+        function altezzaTestata() { document.documentElement.style.setProperty("--alt-testata", testata.offsetHeight + "px"); }
+        altezzaTestata(); window.addEventListener("resize", altezzaTestata);
+        if (window.ResizeObserver) new ResizeObserver(altezzaTestata).observe(testata);
 
         function testo(id, v) { var e = $(id); if (e.textContent !== v) e.textContent = v; }
         function mostra(id, si) { $(id).hidden = !si; }
