@@ -168,10 +168,12 @@ public static class Scenario
         monte.Montagna(cm - new Vector3(-fuori.z, 0, fuori.x) * 8f + fuori * 1f, 6f, 10f, 8, rnd);
         Oggetto("Colle", rootFisso, monte.Costruisci("Colle"), mat, false);
 
-        // ---- la porta dell'Inferno: arco di pietra scura sul bordo, rivolto verso l'esterno
-        Vector3 rad = new Vector3(porta.x, 0f, porta.z).normalized;
-        Vector3 centro = rad * (raggioBordo + 2.8f);
-        Quaternion rot = Quaternion.LookRotation(rad, Vector3.up);
+        // ---- la porta dell'Inferno: arco di pietra scura sul bordo, girato verso chi arriva dal colle
+        // (il percorso si ferma davanti all'arco, senza attraversarlo, e prosegue verso l'interno)
+        Vector3 bordo = new Vector3(porta.x, 0f, porta.z);
+        Vector3 dir = bordo - new Vector3(colle.x, 0f, colle.z); dir.y = 0f; dir.Normalize();
+        Vector3 centro = bordo - dir * 4f;
+        Quaternion rot = Quaternion.LookRotation(dir, Vector3.up);
         var arco = new MeshFacce();
         Color pietra = new Color(0.20f, 0.17f, 0.20f);
         float largo = 5.2f, alto = 10f;
@@ -179,9 +181,10 @@ public static class Scenario
         arco.Scatola(centro + rot * new Vector3(largo, alto * 0.5f, 0), new Vector3(1.8f, alto, 2.4f), rot, pietra);
         arco.Scatola(centro + rot * new Vector3(0, alto + 0.9f, 0), new Vector3(largo * 2f + 3.2f, 1.8f, 2.8f), rot, new Color(0.26f, 0.2f, 0.22f));
         arco.Scatola(centro + rot * new Vector3(0, alto + 2.2f, 0), new Vector3(largo * 2f - 1f, 1.0f, 2.0f), rot, new Color(0.3f, 0.12f, 0.08f));
+        arco.Scatola(centro + rot * new Vector3(0, alto - 0.2f, -1.25f), new Vector3(largo * 1.5f, 1.1f, 0.12f), rot, new Color(0.62f, 0.56f, 0.45f)); // l'iscrizione
         arco.Scatola(centro + rot * new Vector3(0, alto * 0.5f, 0.2f), new Vector3(largo * 2f - 1.8f, alto, 0.15f), rot, new Color(0.40f, 0.05f, 0.03f)); // bagliore dell'ingresso
         Oggetto("Porta", rootFisso, arco.Costruisci("Porta"), mat, false);
-        porta = centro + Vector3.up * 0.8f;
+        porta = centro - dir * 5.5f + Vector3.up * 0.8f;   // punto del percorso: davanti all'arco
 
         return coperchio;
     }
