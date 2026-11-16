@@ -1,3 +1,6 @@
+#if UNITY_WEBGL && !UNITY_EDITOR
+#define UI_HTML   // nel browser barra e pannello sono HTML (esplora/index.html), nello stile del sito; nell'editor resta l'IMGUI
+#endif
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -291,41 +294,37 @@ public class Esplora : MonoBehaviour
         vg.AddComponent<MeshRenderer>().sharedMaterial = TexturaTerreno.Materiale() ?? NuovoMateriale(Color.white);
         vg.AddComponent<MeshCollider>().sharedMesh = mesh; // serve a nascondere etichette e luoghi dietro la parete
 
-        // guscio sotto e attorno all'imbuto, con lo stesso terreno verde della superficie: da fuori la voragine non si vede più
+        // pianura attorno alla voragine, con lo stesso terreno verde della superficie: si perde nel buio in lontananza
         {
-            float rG = punti[0].x * R, yG = -H - 6f;
+            float r0 = punti[0].x * R;
+            float[] anelli = { r0, 220f, 520f };
             Color verde = ColoreProfondita(0f, false); verde.a = 1f;
+            Color buio = new Color(0.035f, 0.025f, 0.04f, 1f);
+            Color[] colAnello = { verde, verde * 0.85f, buio };
             var gv = new List<Vector3>(); var gc = new List<Color>(); var gt = new List<int>(); var gu = new List<Vector2>(); var gs = new List<Vector4>();
             Vector4 sG = TexturaTerreno.Stile(0);
-            int rip = Mathf.Max(1, Mathf.RoundToInt(Mathf.PI * 2f * rG / lato));
-            for (int s = 0; s < SEGMENTI; s++)
-            {
-                float t0 = s / (float)SEGMENTI * Mathf.PI * 2f, t1 = (s + 1) / (float)SEGMENTI * Mathf.PI * 2f;
-                float v = (s % 2 == 0) ? 1f : 0.93f;
-                Color cv = verde * v; cv.a = 1f;
-                Vector3 a0 = new Vector3(Mathf.Cos(t0) * rG, 0f, Mathf.Sin(t0) * rG), a1 = new Vector3(Mathf.Cos(t1) * rG, 0f, Mathf.Sin(t1) * rG);
-                Vector3 b0 = new Vector3(a0.x, yG, a0.z), b1 = new Vector3(a1.x, yG, a1.z);
-                int k = gv.Count;
-                // parete esterna
-                gv.Add(a0); gv.Add(a1); gv.Add(b1); gv.Add(b0);
-                float u0 = s / (float)SEGMENTI * rip, u1 = (s + 1) / (float)SEGMENTI * rip;
-                gu.Add(new Vector2(u0, 0f)); gu.Add(new Vector2(u1, 0f)); gu.Add(new Vector2(u1, yG / lato)); gu.Add(new Vector2(u0, yG / lato));
-                for (int q = 0; q < 4; q++) { gc.Add(cv); gs.Add(new Vector4(sG.x, sG.y, sG.z, sG.w * 0.7f)); }
-                gt.AddRange(new[] { k, k + 1, k + 2, k, k + 2, k + 3 });
-                // fondo
-                k = gv.Count;
-                gv.Add(new Vector3(0f, yG, 0f)); gv.Add(b0); gv.Add(b1);
-                for (int q = 0; q < 3; q++) { var p = gv[k + q]; gu.Add(new Vector2(p.x / lato, p.z / lato)); gc.Add(cv); gs.Add(sG); }
-                gt.AddRange(new[] { k, k + 1, k + 2 });
-            }
-            var gm = new Mesh { name = "Guscio", indexFormat = UnityEngine.Rendering.IndexFormat.UInt32 };
+            for (int ring = 0; ring < anelli.Length - 1; ring++)
+                for (int s = 0; s < SEGMENTI; s++)
+                {
+                    float t0 = s / (float)SEGMENTI * Mathf.PI * 2f, t1 = (s + 1) / (float)SEGMENTI * Mathf.PI * 2f;
+                    float v = (s % 2 == 0) ? 1f : 0.93f;
+                    int k = gv.Count;
+                    float ra = anelli[ring], rb = anelli[ring + 1];
+                    gv.Add(new Vector3(Mathf.Cos(t0) * ra, 0f, Mathf.Sin(t0) * ra)); gv.Add(new Vector3(Mathf.Cos(t1) * ra, 0f, Mathf.Sin(t1) * ra));
+                    gv.Add(new Vector3(Mathf.Cos(t1) * rb, 0f, Mathf.Sin(t1) * rb)); gv.Add(new Vector3(Mathf.Cos(t0) * rb, 0f, Mathf.Sin(t0) * rb));
+                    Color ca = colAnello[ring] * v, cb = colAnello[ring + 1] * v; ca.a = 1f; cb.a = 1f;
+                    gc.Add(ca); gc.Add(ca); gc.Add(cb); gc.Add(cb);
+                    for (int q = 0; q < 4; q++) { gu.Add(new Vector2(gv[k + q].x, gv[k + q].z) / lato); gs.Add(sG); }
+                    gt.AddRange(new[] { k, k + 1, k + 2, k, k + 2, k + 3 });
+                }
+            var gm = new Mesh { name = "Pianura", indexFormat = UnityEngine.Rendering.IndexFormat.UInt32 };
             gm.SetVertices(gv); gm.SetColors(gc); gm.SetTriangles(gt, 0); gm.SetUVs(0, gu); gm.SetUVs(1, gs);
             gm.RecalculateBounds();
-            var gg = new GameObject("Guscio");
+            var gg = new GameObject("Pianura");
             gg.transform.SetParent(transform, false);
             gg.AddComponent<MeshFilter>().sharedMesh = gm;
             gg.AddComponent<MeshRenderer>().sharedMaterial = TexturaTerreno.Materiale() ?? NuovoMateriale(Color.white);
-            gg.AddComponent<MeshCollider>().sharedMesh = gm;   // come la voragine: nasconde le etichette dietro la parete
+            gg.AddComponent<MeshCollider>().sharedMesh = gm;   // come la voragine: nasconde le etichette dietro il terreno
         }
 
         // segnaposti
@@ -754,6 +753,7 @@ public class Esplora : MonoBehaviour
 
     void Update()
     {
+        InviaUi();
         if (percorso.Count == 0) return;
 
         if (inViaggio && cam.Mosso) { inViaggio = false; cam.automatica = false; }   // si muove la vista a mano: il viaggio va in pausa
@@ -978,6 +978,80 @@ public class Esplora : MonoBehaviour
         inCaricamento.Remove(url);
     }
 
+    // ---------- ponte con l'interfaccia HTML (solo nel browser) ----------
+
+    [Serializable]
+    class StatoUi
+    {
+        public string stato = "", nome = "", descrizione = "", titolo = "", sintesi = "", url = "", didascalia = "", indirizzo = "";
+        public bool haPercorso, viaggio, suono, haLuogo, haScene, ia;
+        public int tappa, totale, scena, numScene, canto;
+    }
+    string ultimoStatoUi = ""; float tempoUi;
+
+#if UI_HTML
+    [System.Runtime.InteropServices.DllImport("__Internal")] static extern void EsploraUiAggiorna(string json);
+#endif
+
+    // manda a esplora/index.html lo stato da mostrare (barra, luogo, scena); solo quando cambia
+    void InviaUi()
+    {
+#if UI_HTML
+        if (Time.unscaledTime - tempoUi < 0.1f) return;
+        tempoUi = Time.unscaledTime;
+        var u = new StatoUi { stato = stato, haPercorso = percorso.Count > 0, viaggio = inViaggio, suono = suonoAcceso, totale = perOrdine.Count };
+        if (inViaggio && prossimo <= perOrdine.Count) u.tappa = Mathf.Min(prossimo, perOrdine.Count);
+        if (selezionato != null)
+        {
+            u.haLuogo = true; u.nome = selezionato.luogo.nome ?? ""; u.descrizione = selezionato.luogo.descrizione ?? "";
+            if (scenePerLuogo.TryGetValue(selezionato.luogo.id, out var lista) && lista.Count > 0)
+            {
+                idxScena = Mathf.Clamp(idxScena, 0, lista.Count - 1);
+                var rif = lista[idxScena];
+                u.haScene = true; u.scena = idxScena + 1; u.numScene = lista.Count; u.canto = rif.canto;
+                u.titolo = rif.scena.titolo_scena ?? ""; u.sintesi = rif.scena.sintesi ?? ""; u.indirizzo = rif.Indirizzo;
+                if (rif.scena.tavole != null && rif.scena.tavole.Length > 0)
+                {
+                    var tv = rif.scena.tavole[0];
+                    u.url = UrlTavola(tv); u.ia = tv.autore_id == "ia";
+                    u.didascalia = u.ia ? "Immagine generata con IA, nello stile di Doré. Non è un'opera di Doré." : tv.autore + " · " + tv.titolo;
+                }
+            }
+        }
+        string json = JsonUtility.ToJson(u);
+        if (json == ultimoStatoUi) return;
+        ultimoStatoUi = json;
+        EsploraUiAggiorna(json);
+#endif
+    }
+
+    // comandi dai pulsanti HTML: unityInstance.SendMessage("Esplora", "Comando", "viaggio")
+    public void Comando(string c)
+    {
+        suonoAvviato = true;   // il clic sull'HTML è il gesto che il browser chiede per far partire il suono
+        switch (c)
+        {
+            case "viaggio":
+                if (percorso.Count == 0) break;
+                if (inViaggio) { inViaggio = false; cam.automatica = false; } else AvviaViaggio();
+                break;
+            case "avanti": SaltaAvanti(); break;
+            case "intera":
+                inViaggio = false; cam.automatica = false; selezionato = null;
+                cam.Vai(new Vector3(0, -H * 0.45f, 0), 190f);
+                break;
+            case "suono": suonoAcceso = !suonoAcceso; break;
+            case "chiudi": selezionato = null; break;
+            case "prec": case "succ":
+                if (selezionato != null && scenePerLuogo.TryGetValue(selezionato.luogo.id, out var l) && l.Count > 1)
+                {
+                    idxScena = (idxScena + (c == "succ" ? 1 : l.Count - 1)) % l.Count; tCiclo = 0f;
+                }
+                break;
+        }
+        tempoUi = -1f;   // aggiorna subito l'HTML
+    }
+
     // ---------- interfaccia (IMGUI, semplice e leggera) ----------
 
     Rect rBarra, rPannello;
@@ -989,6 +1063,9 @@ public class Esplora : MonoBehaviour
 
     bool SuGui(Vector2 posSchermo)
     {
+#if UI_HTML
+        return false;   // i clic sull'HTML non arrivano al canvas
+#endif
         float s = ScalaGui();
         Vector2 p = new Vector2(posSchermo.x / s, (Screen.height - posSchermo.y) / s);
         return rBarra.Contains(p) || (selezionato != null && rPannello.Contains(p));
@@ -1044,6 +1121,7 @@ public class Esplora : MonoBehaviour
             GUI.Label(r, nome, stEtichetta);
         }
 
+#if !UI_HTML
         // barra in alto
         bool largo = W >= 560f;
         rBarra = new Rect(8, 8, largo ? 590f : W - 16f, 44);
@@ -1162,6 +1240,7 @@ public class Esplora : MonoBehaviour
             }
         }
 
+#endif
         // l'iscrizione sulla porta dell'Inferno, vicino alla caverna
         if (portaModello != null)
         {

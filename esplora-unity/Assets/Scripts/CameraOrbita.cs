@@ -9,6 +9,7 @@ public class CameraOrbita : MonoBehaviour
     public Vector3 bersaglio = Vector3.zero;
     public float distanza = 150f, yaw = 30f, pitch = 55f;
     public float distMin = 8f, distMax = 260f;
+    public float raggioMax = 88f, yMin = -86f, yMax = 30f, raggioTerra = 96f;   // limiti del punto guardato (spostamento con WASD, E/Q)
 
     // Modalità automatica (viaggio cinematografico): la camera tende a questi valori.
     // Si spegne da sola se l'utente trascina o usa la rotella/pizzico.
@@ -97,8 +98,17 @@ public class CameraOrbita : MonoBehaviour
         }
     }
 
+    // La vista resta sempre sul modello: il punto guardato non esce dal cilindro che contiene voragine, selva, colle e caverna.
+    void Limita()
+    {
+        var h = new Vector2(bersaglio.x, bersaglio.z);
+        if (h.magnitude > raggioMax) { h = h.normalized * raggioMax; bersaglio.x = h.x; bersaglio.z = h.y; }
+        bersaglio.y = Mathf.Clamp(bersaglio.y, yMin, yMax);
+    }
+
     void LateUpdate()
     {
+        Limita();
         if (automatica)
         {
             float ka = 1f - Mathf.Exp(-morbidezza * Time.unscaledDeltaTime);
@@ -110,7 +120,14 @@ public class CameraOrbita : MonoBehaviour
         bersaglioMorbido = Vector3.Lerp(bersaglioMorbido, bersaglio, k);
         distMorbida = Mathf.Lerp(distMorbida, distanza, k);
         var rot = Quaternion.Euler(pitch, yaw, 0f);
-        transform.position = bersaglioMorbido - rot * Vector3.forward * distMorbida;
+        Vector3 pos = bersaglioMorbido - rot * Vector3.forward * distMorbida;
+        // fuori dalla voragine la camera resta sopra la pianura: non si vede mai il terreno da sotto
+        if (new Vector2(pos.x, pos.z).magnitude > raggioTerra && pos.y < 1.5f)
+        {
+            pos.y = 1.5f;
+            rot = Quaternion.LookRotation(bersaglioMorbido - pos, Vector3.up);
+        }
+        transform.position = pos;
         transform.rotation = rot;
         if (scossa > 0.001f)
         {
