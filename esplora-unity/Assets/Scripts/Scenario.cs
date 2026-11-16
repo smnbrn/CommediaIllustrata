@@ -244,7 +244,7 @@ public static class Scenario
         Vector3 fuori = new Vector3(colle.x, 0f, colle.z).normalized;
         Vector3 tang = new Vector3(-fuori.z, 0f, fuori.x);
         var colleModello = Metti("Modelli/Colle/Colle", rootFisso, new Vector3(colle.x, 0f, colle.z) + fuori * 16f,
-                                 Mathf.Atan2(tang.x, tang.z) * Mathf.Rad2Deg - 90f, 40f, 1.0f);
+                                 Mathf.Atan2(tang.x, tang.z) * Mathf.Rad2Deg, 40f, 1.0f);
         if (colleModello != null) colleModello.name = "Colle";
         else
         {
