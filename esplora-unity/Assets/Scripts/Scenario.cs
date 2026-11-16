@@ -81,10 +81,17 @@ public class MeshFacce
             }
     }
 
-    public Mesh Costruisci(string nome)
+    // 'stileSuolo': se presente, la mesh è terreno orizzontale e riceve le coordinate della texture (shader Terreno)
+    public Mesh Costruisci(string nome, Vector4? stileSuolo = null)
     {
         var m = new Mesh { name = nome, indexFormat = UnityEngine.Rendering.IndexFormat.UInt32 };
         m.SetVertices(v); m.SetColors(c); m.SetTriangles(t, 0);
+        if (stileSuolo.HasValue)
+        {
+            var uv = new List<Vector2>(v.Count); var st = new List<Vector4>(v.Count);
+            foreach (var p in v) { uv.Add(new Vector2(p.x, p.z) / TexturaTerreno.Lato); st.Add(stileSuolo.Value); }
+            m.SetUVs(0, uv); m.SetUVs(1, st);
+        }
         m.RecalculateBounds();
         return m;
     }
@@ -220,7 +227,8 @@ public static class Scenario
             if (modelloAlberi.Pronto) modelloAlberi.Aggiungi(alberiM, rnd, new Vector3(p.x, yTerra, p.y), h * 1.3f);
             else alberi.Albero(new Vector3(p.x, yTerra, p.y), h, rnd);
         }
-        Oggetto("Disco", coperchio, disco.Costruisci("DiscoCoperchio"), mat, true);
+        var matSuolo = TexturaTerreno.Materiale();
+        Oggetto("Disco", coperchio, disco.Costruisci("DiscoCoperchio", matSuolo != null ? TexturaTerreno.Stile(0) : (Vector4?)null), matSuolo ?? mat, true);
         if (modelloAlberi.Pronto) Oggetto("Alberi", coperchio, modelloAlberi.Unisci(alberiM, "AlberiCoperchio"), modelloAlberi.materiale, false);
         else Oggetto("Alberi", coperchio, alberi.Costruisci("AlberiCoperchio"), mat, false);
 

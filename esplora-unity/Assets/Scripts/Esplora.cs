@@ -248,12 +248,18 @@ public class Esplora : MonoBehaviour
         { Vector2 prec = punti[punti.Count - 1]; punti.Add(new Vector2(prec.x, 1f)); punti.Add(new Vector2(0f, 1f)); }
 
         var vert = new List<Vector3>(); var col = new List<Color>(); var tri = new List<int>();
+        var uvT = new List<Vector2>(); var stT = new List<Vector4>();   // coordinate della texture del terreno e stile del cerchio
+        float lato = TexturaTerreno.Lato;
         for (int i = 0; i < punti.Count - 1; i++)
         {
             Vector2 a = punti[i], b = punti[i + 1];
             bool parete = Mathf.Approximately(a.x, b.x);
             Color ca = ColoreProfondita(a.y, parete), cb = ColoreProfondita(b.y, parete);
             if (i == 0) { ca = cb = ColoreProfondita(0, false); }
+            int ibT = IndiceBanda(a.y);
+            Vector4 stile = TexturaTerreno.Stile(ibT >= 0 ? bande[ibT].cerchio : 0);
+            if (parete) stile.w *= 0.7f;
+            int ripetizioni = Mathf.Max(1, Mathf.RoundToInt(Mathf.PI * 2f * a.x * R / lato));   // intero: la parete si chiude senza cucitura
             for (int s = 0; s < SEGMENTI; s++)
             {
                 float t0 = s / (float)SEGMENTI * Mathf.PI * 2f, t1 = (s + 1) / (float)SEGMENTI * Mathf.PI * 2f;
@@ -265,16 +271,24 @@ public class Esplora : MonoBehaviour
                 vert.Add(new Vector3(Mathf.Cos(t0) * b.x * R, -b.y * H, Mathf.Sin(t0) * b.x * R));
                 Color c1 = ca * v, c2 = cb * v; c1.a = 1f; c2.a = 1f;
                 col.Add(c1); col.Add(c1); col.Add(c2); col.Add(c2);
+                for (int q = 0; q < 4; q++)
+                {
+                    var p = vert[k + q];
+                    if (parete) uvT.Add(new Vector2((q == 0 || q == 3 ? s : s + 1) / (float)SEGMENTI * ripetizioni, p.y / lato));
+                    else uvT.Add(new Vector2(p.x / lato, p.z / lato));
+                    stT.Add(stile);
+                }
                 tri.AddRange(new[] { k, k + 1, k + 2, k, k + 2, k + 3 });
             }
         }
         var mesh = new Mesh { name = "Voragine", indexFormat = UnityEngine.Rendering.IndexFormat.UInt32 };
         mesh.SetVertices(vert); mesh.SetColors(col); mesh.SetTriangles(tri, 0);
+        mesh.SetUVs(0, uvT); mesh.SetUVs(1, stT);
         mesh.RecalculateBounds();
         var vg = new GameObject("Voragine");
         vg.transform.SetParent(transform, false);
         vg.AddComponent<MeshFilter>().sharedMesh = mesh;
-        vg.AddComponent<MeshRenderer>().sharedMaterial = NuovoMateriale(Color.white);
+        vg.AddComponent<MeshRenderer>().sharedMaterial = TexturaTerreno.Materiale() ?? NuovoMateriale(Color.white);
         vg.AddComponent<MeshCollider>().sharedMesh = mesh; // serve a nascondere etichette e luoghi dietro la parete
 
         // segnaposti
