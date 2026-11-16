@@ -74,6 +74,7 @@ public class Esplora : MonoBehaviour
     bool pannelloAperto; Segnaposto selezionatoPannello; bool eraAperto;
     Vector3 posBraci; bool haBraci;
     Transform coperchio;           // tappo della voragine, sparisce quando si apre la porta dell'Inferno
+    float iscrizioneFino;          // l'iscrizione sulla porta compare per 2 secondi dopo un clic sul modello
     bool coperchioAperto, eraOltre; float coperchioT;   // 0 = chiuso, 1 = aperto
     int idxLucifero = -1, idxBurella = -1;   // segmenti del percorso che aggirano la statua di Lucifero
     int idxPorta = -1;             // indice della porta dell'Inferno nel percorso: fin lì il tratto è dritto
@@ -565,6 +566,21 @@ public class Esplora : MonoBehaviour
         return Physics.Linecast(da, punto + verso * 1.2f);
     }
 
+    // vero se il tocco cade sul modello della caverna (il suo ingombro, visto dalla camera)
+    bool ClicSuPorta(Vector2 schermo)
+    {
+        if (portaModello == null) return false;
+        var c = Camera.main; if (c == null) return false;
+        bool primo = true; Bounds b = new Bounds();
+        foreach (var r in portaModello.GetComponentsInChildren<Renderer>())
+        {
+            if (primo) { b = r.bounds; primo = false; } else b.Encapsulate(r.bounds);
+        }
+        if (primo) return false;
+        b.Expand(new Vector3(1.5f, 1.5f, 1.5f));
+        return b.IntersectRay(c.ScreenPointToRay(schermo));
+    }
+
     Segnaposto PiuVicinoAlTocco(Vector2 schermo, float soglia)
     {
         Segnaposto best = null; float bd = soglia;
@@ -807,11 +823,15 @@ public class Esplora : MonoBehaviour
             {
                 inViaggio = false; cam.automatica = false;
                 Seleziona(s, true); dante.position = s.pos; distPercorsa = DistanzaDi(s);
-                if (idxPorta >= 0 && coperchio != null)
-                {
-                    if (s == perOrdine[idxPorta]) coperchioAperto = !coperchioAperto;                     // la caverna apre e chiude il tappo
-                    else if (s.luogo.ordine > perOrdine[idxPorta].luogo.ordine) coperchioAperto = true;   // un luogo dell'Inferno: serve il tappo aperto
-                }
+                if (idxPorta >= 0 && coperchio != null && s != perOrdine[idxPorta] && s.luogo.ordine > perOrdine[idxPorta].luogo.ordine)
+                    coperchioAperto = true;   // un luogo dell'Inferno: serve il tappo aperto
+            }
+            else if (coperchio != null && ClicSuPorta(cam.PosizioneClic))
+            {
+                // il modello della caverna apre e chiude il tappo e mostra l'iscrizione per 2 secondi
+                inViaggio = false; cam.automatica = false;
+                coperchioAperto = !coperchioAperto;
+                iscrizioneFino = Time.unscaledTime + 2f;
             }
         }
 
@@ -1261,7 +1281,7 @@ public class Esplora : MonoBehaviour
         if (portaModello != null)
         {
             Vector3 pi = c.WorldToScreenPoint(portaModello.position + Vector3.up * 13f);
-            if (pi.z > 0f && pi.z < 150f && !coperchioAperto)
+            if (pi.z > 0f && Time.unscaledTime < iscrizioneFino)
             {
                 string iscr = "LASCIATE OGNE SPERANZA, VOI CH'INTRATE";
                 var stIscr = new GUIStyle(stEtichetta) { fontSize = 15, alignment = TextAnchor.MiddleCenter };
