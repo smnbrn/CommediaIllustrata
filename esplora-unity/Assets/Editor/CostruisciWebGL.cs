@@ -21,6 +21,9 @@ public static class CostruisciWebGL
         PlayerSettings.WebGL.template = "PROJECT:Esplora";
         PlayerSettings.SetManagedStrippingLevel(UnityEditor.Build.NamedBuildTarget.WebGL, ManagedStrippingLevel.High);
         PlayerSettings.runInBackground = true;
+        UnityEditor.WebGL.UserBuildSettings.codeOptimization = UnityEditor.WebGL.WasmCodeOptimization.DiskSizeLTO;   // codice più piccolo, anche se la build è più lenta
+        PlayerSettings.stripEngineCode = true;
+        PlayerSettings.SplashScreen.show = false;   // il logo di avvio pesava circa 2,7 MB
 
         var opzioni = new BuildPlayerOptions
         {

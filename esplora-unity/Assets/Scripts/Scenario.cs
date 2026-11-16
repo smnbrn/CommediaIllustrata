@@ -264,7 +264,7 @@ public static class Scenario
         Vector3 centro = bordo;
         Quaternion rot = Quaternion.LookRotation(dir, Vector3.up);
         float yawBocca = Mathf.Atan2(-dir.x, -dir.z) * Mathf.Rad2Deg + YAW_BOCCA;   // la bocca del modello guarda verso chi arriva dal colle
-        var grottaModello = Metti("Modelli/Caverna/Caverna", rootFisso, bordo + dir * 11f, yawBocca, 24f, 0.3f);
+        var grottaModello = Metti("Modelli/Caverna/Caverna", rootFisso, bordo + dir * 15f, yawBocca, 32f, 0.3f);
         if (grottaModello != null) { grottaModello.name = "Caverna"; portaModello = grottaModello.transform; }
         else
         {

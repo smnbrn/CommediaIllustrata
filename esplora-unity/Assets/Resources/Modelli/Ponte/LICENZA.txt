@@ -1,0 +1,10 @@
+Model Information:
+* title:	Stone Bridge
+* source:	https://sketchfab.com/3d-models/stone-bridge-38879ba7169d4944ac3ef85580f5b1a5
+* author:	xplanepilot (https://sketchfab.com/xplanepilot)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+This work is based on "Stone Bridge" (https://sketchfab.com/3d-models/stone-bridge-38879ba7169d4944ac3ef85580f5b1a5) by xplanepilot (https://sketchfab.com/xplanepilot) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

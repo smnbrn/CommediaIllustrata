@@ -1,0 +1,10 @@
+Model Information:
+* title:	Rocks Set Stone Collection Scan
+* source:	https://sketchfab.com/3d-models/rocks-set-stone-collection-scan-b45a40fd145c4b9ba7bc5351d344db17
+* author:	Pers Scans (https://sketchfab.com/perz_scans)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+This work is based on "Rocks Set Stone Collection Scan" (https://sketchfab.com/3d-models/rocks-set-stone-collection-scan-b45a40fd145c4b9ba7bc5351d344db17) by Pers Scans (https://sketchfab.com/perz_scans) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
