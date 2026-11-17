@@ -1,0 +1,336 @@
+# Purgatorio, canto XXIX
+titolo: La processione mistica
+
+## scena-1 | paradiso-terrestre | La luce improvvisa nella foresta
+personaggi: dante, virgilio, stazio, matelda
+tavola: ia | La luce improvvisa nella foresta | img/ia/purgatorio-29-scena-1.jpg
+sintesi: Matelda canta «Beati quorum tecta sunt peccata» e cammina lungo il fiume come una ninfa; Dante la segue sull'altra riva. Dopo meno di cento passi le rive girano e Dante guarda a oriente: Matelda lo invita a guardare e ad ascoltare. Un improvviso lustro attraversa la foresta come un lampo, ma continua e cresce di splendore, mentre una dolce melodia corre per l'aria. Dante rimpiange l'ardimento di Eva, che non volle restare sotto alcun velo.
+
+1
+Cantando come donna innamorata,
+continüò col fin di sue parole:
+’Beati quorum tecta sunt peccata!’.
+> Cantando come donna innamorata, continuò, alla fine delle sue parole: «Beati quorum tecta sunt peccata!».
+
+4
+E come ninfe che si givan sole
+per le salvatiche ombre, disïando
+qual di veder, qual di fuggir lo sole,
+> E come ninfe che andavano sole per le ombre selvagge, desiderando chi di vedere, chi di fuggire il sole,
+
+7
+allor si mosse contra ’l fiume, andando
+su per la riva; e io pari di lei,
+picciol passo con picciol seguitando.
+> allora si mosse contro il fiume, andando su per la riva; e io pari a lei, piccolo passo con piccolo seguendo.
+
+10
+Non eran cento tra ’ suoi passi e ’ miei,
+quando le ripe igualmente dier volta,
+per modo ch’a levante mi rendei.
+> Non erano cento tra i suoi passi e i miei, quando le rive diedero ugualmente una svolta, così che mi trovai rivolto a levante.
+
+13
+Né ancor fu così nostra via molta,
+quando la donna tutta a me si torse,
+dicendo: "Frate mio, guarda e ascolta".
+> Né ancora era così lunga la nostra via, quando la donna tutta si volse a me, dicendo: «Fratello mio, guarda e ascolta».
+
+16
+Ed ecco un lustro sùbito trascorse
+da tutte parti per la gran foresta,
+tal che di balenar mi mise in forse.
+> Ed ecco un lustro improvviso corse da tutte le parti per la gran foresta, tale che mi mise in dubbio se fosse un lampo.
+
+19
+Ma perché ’l balenar, come vien, resta,
+e quel, durando, più e più splendeva,
+nel mio pensier dicea: ’Che cosa è questa?’.
+> Ma perché il lampo, come viene, cessa, e quello, durando, più e più splendeva, nel mio pensiero dicevo: «Che cosa è questa?».
+
+22
+E una melodia dolce correva
+per l’aere luminoso; onde buon zelo
+mi fé riprender l’ardimento d’Eva,
+> E una melodia dolce correva per l'aria luminosa; per cui buon zelo mi fece rimproverare l'ardimento di Eva,
+
+25
+che là dove ubidia la terra e ’l cielo,
+femmina, sola e pur testé formata,
+non sofferse di star sotto alcun velo;
+> che là dove obbediva la terra e il cielo, donna, sola e appena allora formata, non sopportò di stare sotto alcun velo;
+
+28
+sotto ’l qual se divota fosse stata,
+avrei quelle ineffabili delizie
+sentite prima e più lunga fïata.
+> sotto il quale se fosse stata devota, avrei sentito quelle ineffabili delizie prima e più a lungo.
+
+31
+Mentr’io m’andava tra tante primizie
+de l’etterno piacer tutto sospeso,
+e disïoso ancora a più letizie,
+> Mentre andavo tra tante primizie dell'eterno piacere tutto sospeso, e desideroso ancora di più letizie,
+
+34
+dinanzi a noi, tal quale un foco acceso,
+ci si fé l’aere sotto i verdi rami;
+e ’l dolce suon per canti era già inteso.
+> davanti a noi, come un fuoco acceso, si fece l'aria sotto i verdi rami; e il dolce suono era già inteso per canti.
+
+## scena-2 | paradiso-terrestre | I sette candelabri
+personaggi: dante, virgilio
+tavola: ia | I sette candelabri | img/ia/purgatorio-29-scena-2.jpg
+sintesi: Dante invoca le Muse perché lo aiutino a mettere in versi cose forti a pensare. Un po' più avanti vede sette alberi d'oro; avvicinatosi, capisce che sono candelabri, e che le voci cantano «Osanna». Sopra, il bello arnese fiammeggia più chiaro della luna a mezzanotte. Dante si volge a Virgilio, pieno di meraviglia, ma anche lui è stupito; poi guarda le alte cose che avanzano più lente di novelle spose. Matelda lo rimprovera di guardare solo le luci e non ciò che viene dietro.
+
+37
+O sacrosante Vergini, se fami,
+freddi o vigilie mai per voi soffersi,
+cagion mi sprona ch’io mercé vi chiami.
+> O sacrosante Vergini, se fame, freddi o vigilie mai per voi soffersi, la causa mi spinge a chiedere il vostro aiuto.
+
+40
+Or convien che Elicona per me versi,
+e Uranìe m’aiuti col suo coro
+forti cose a pensar mettere in versi.
+> Ora conviene che Elicona versi per me, e Urania mi aiuti col suo coro a mettere in versi cose forti a pensare.
+
+43
+Poco più oltre, sette alberi d’oro
+falsava nel parere il lungo tratto
+del mezzo ch’era ancor tra noi e loro;
+> Poco più oltre, sette alberi d'oro falsava nell'apparenza la lunga distanza dello spazio che era ancora tra noi e loro;
+
+46
+ma quand’i’ fui sì presso di lor fatto,
+che l’obietto comun, che ’l senso inganna,
+non perdea per distanza alcun suo atto,
+> ma quando fui tanto vicino a loro, che l'oggetto comune, che inganna il senso, non perdeva per la distanza nessuno dei suoi atti,
+
+49
+la virtù ch’a ragion discorso ammanna,
+sì com’elli eran candelabri apprese,
+e ne le voci del cantare ’Osanna’.
+> la virtù che prepara il discorso alla ragione li riconobbe come candelabri, e nelle voci del cantare «Osanna».
+
+52
+Di sopra fiammeggiava il bello arnese
+più chiaro assai che luna per sereno
+di mezza notte nel suo mezzo mese.
+> Di sopra fiammeggiava il bell'arnese molto più chiaro della luna in cielo sereno a mezzanotte nel suo mezzo mese.
+
+55
+Io mi rivolsi d’ammirazion pieno
+al buon Virgilio, ed esso mi rispuose
+con vista carca di stupor non meno.
+> Io mi rivolsi pieno di ammirazione al buon Virgilio, ed egli mi rispose con aspetto carico di stupore non minore.
+
+58
+Indi rendei l’aspetto a l’alte cose
+che si movieno incontr’a noi sì tardi,
+che foran vinte da novelle spose.
+> Poi rivolsi l'aspetto alle alte cose che si muovevano verso di noi così lente, che sarebbero vinte da novelle spose.
+
+61
+La donna mi sgridò: "Perché pur ardi
+sì ne l’affetto de le vive luci,
+e ciò che vien di retro a lor non guardi?".
+> La donna mi sgridò: «Perché ardi così nell'affetto delle vive luci, e ciò che viene dietro ad esse non guardi?».
+
+64
+Genti vid’io allor, come a lor duci,
+venire appresso, vestite di bianco;
+e tal candor di qua già mai non fuci.
+> Vidi allora genti, come a loro duci, venire dietro, vestite di bianco; e tale candore di qua non fu mai.
+
+67
+L’acqua imprendëa dal sinistro fianco,
+e rendea me la mia sinistra costa,
+s’io riguardava in lei, come specchio anco.
+> L'acqua prendeva dal fianco sinistro, e rendeva a me la mia costa sinistra, se io guardavo in lei, come anche specchio.
+
+70
+Quand’io da la mia riva ebbi tal posta,
+che solo il fiume mi facea distante,
+per veder meglio ai passi diedi sosta,
+> Quando io dalla mia riva ebbi tale postazione, che solo il fiume mi faceva distante, per vedere meglio fermai i passi,
+
+73
+e vidi le fiammelle andar davante,
+lasciando dietro a sé l’aere dipinto,
+e di tratti pennelli avean sembiante;
+> e vidi le fiammelle andare davanti, lasciando dietro di sé l'aria dipinta, e avevano sembianza di pennelli tracciati;
+
+76
+sì che lì sopra rimanea distinto
+di sette liste, tutte in quei colori
+onde fa l’arco il Sole e Delia il cinto.
+> così che sopra rimaneva distinta di sette liste, tutte in quei colori con cui fa l'arco il Sole e Delia il cinto.
+
+79
+Questi ostendali in dietro eran maggiori
+che la mia vista; e, quanto a mio avviso,
+diece passi distavan quei di fori.
+> Questi stendardi indietro erano maggiori della mia vista; e, a mio avviso, dieci passi distavano quelli esterni.
+
+## scena-3 | paradiso-terrestre | I ventiquattro seniori e i quattro animali
+personaggi: dante, matelda
+tavola: dore | La processione mistica | img/dore/purgatorio-29-processione-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148975531).jpg
+sintesi: Sotto un cielo così bello vengono ventiquattro seniori a due a due, incoronati di gigli, cantando «Benedetta tu fra le figlie di Adamo». Dopo di loro vengono quattro animali coronati di fronde verdi, ciascuno con sei ali piene di occhi come quelli di Argo; Dante rimanda il lettore a Ezechiele per descriverli, ma precisa che le ali sono sei, come in Giovanni.
+
+82
+Sotto così bel ciel com’io diviso,
+ventiquattro seniori, a due a due,
+coronati venien di fiordaliso.
+> Sotto così bel cielo come io descrivo, ventiquattro seniori, a due a due, venivano coronati di fiordaliso.
+
+85
+Tutti cantavan: "Benedicta tue
+ne le figlie d’Adamo, e benedette
+sieno in etterno le bellezze tue!".
+> Tutti cantavano: «Benedetta tu fra le figlie di Adamo, e benedette siano in eterno le tue bellezze!».
+
+88
+Poscia che i fiori e l’altre fresche erbette
+a rimpetto di me da l’altra sponda
+libere fuor da quelle genti elette,
+> Dopo che i fiori e le altre fresche erbette di fronte a me dall'altra sponda furono libere da quelle genti elette,
+
+91
+sì come luce luce in ciel seconda,
+vennero appresso lor quattro animali,
+coronati ciascun di verde fronda.
+> come luce segue luce in cielo, vennero dietro a loro quattro animali, coronati ciascuno di fronda verde.
+
+94
+Ognuno era pennuto di sei ali;
+le penne piene d’occhi; e li occhi d’Argo,
+se fosser vivi, sarebber cotali.
+> Ognuno era pennuto di sei ali; le penne piene di occhi; e gli occhi di Argo, se fossero vivi, sarebbero tali.
+
+97
+A descriver lor forme più non spargo
+rime, lettor; ch’altra spesa mi strigne,
+tanto ch’a questa non posso esser largo;
+> A descrivere le loro forme non spargo più rime, lettore; perché altra spesa mi stringe, tanto che a questa non posso essere largo;
+
+100
+ma leggi Ezechïel, che li dipigne
+come li vide da la fredda parte
+venir con vento e con nube e con igne;
+> ma leggi Ezechiele, che li dipinge come li vide dalla parte fredda venire con vento e con nube e con fuoco;
+
+103
+e quali i troverai ne le sue carte,
+tali eran quivi, salvo ch’a le penne
+Giovanni è meco e da lui si diparte.
+> e quali li troverai nelle sue carte, tali erano qui, salvo che alle penne Giovanni è con me e da lui si diparte.
+
+## scena-4 | paradiso-terrestre | Il carro e il grifone
+personaggi: dante, matelda, grifone
+tavola: dore | Le tre virtù alla ruota del carro | img/dore/purgatorio-29-virtu-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148975583).jpg
+sintesi: Nello spazio tra i quattro animali viene un carro trionfale a due ruote, tirato da un grifone dalle membra d'oro e bianche e vermiglie, più bello del carro di Scipione o di Augusto. Alla ruota destra tre donne danzano, una rossa come il fuoco, una verde come smeraldo, una bianca come neve; a sinistra quattro in porpora, guidate da una con tre occhi. Dietro, due vecchi (medico e uomo con la spada), quattro in umile aspetto e un vecchio solo che dorme. A un tuono, la processione si ferma.
+
+106
+Lo spazio dentro a lor quattro contenne
+un carro, in su due rote, trïunfale,
+ch’al collo d’un grifon tirato venne.
+> Lo spazio dentro a loro quattro conteneva un carro, su due ruote, trionfale, che venne tirato al collo da un grifone.
+
+109
+Esso tendeva in sù l’una e l’altra ale
+tra la mezzana e le tre e tre liste,
+sì ch’a nulla, fendendo, facea male.
+> Esso tendeva in su l'una e l'altra ala tra la striscia di mezzo e le tre e tre liste, così che non faceva male a nessuna, fendendo.
+
+112
+Tanto salivan che non eran viste;
+le membra d’oro avea quant’era uccello,
+e bianche l’altre, di vermiglio miste.
+> Salivano tanto che non si vedevano; le membra aveva d'oro quanto era uccello, e bianche le altre, miste di vermiglio.
+
+115
+Non che Roma di carro così bello
+rallegrasse Affricano, o vero Augusto,
+ma quel del Sol saria pover con ello;
+> Non solo Roma di carro così bello rallegrò Africano, o anche Augusto, ma quello del Sole sarebbe povero a paragone;
+
+118
+quel del Sol che, svïando, fu combusto
+per l’orazion de la Terra devota,
+quando fu Giove arcanamente giusto.
+> quello del Sole che, sviando, fu bruciato per l'orazione della Terra devota, quando Giove fu segretamente giusto.
+
+121
+Tre donne in giro da la destra rota
+venian danzando; l’una tanto rossa
+ch’a pena fora dentro al foco nota;
+> Tre donne in giro dalla ruota destra venivano danzando; l'una tanto rossa che a stento sarebbe nota dentro al fuoco;
+
+124
+l’altr’era come se le carni e l’ossa
+fossero state di smeraldo fatte;
+la terza parea neve testé mossa;
+> l'altra era come se le carni e le ossa fossero state fatte di smeraldo; la terza pareva neve appena mossa;
+
+127
+e or parëan da la bianca tratte,
+or da la rossa; e dal canto di questa
+l’altre toglien l’andare e tarde e ratte.
+> e ora parevano guidate dalla bianca, ora dalla rossa; e dal canto di questa le altre prendevano l'andare e lento e rapido.
+
+130
+Da la sinistra quattro facean festa,
+in porpore vestite, dietro al modo
+d’una di lor ch’avea tre occhi in testa.
+> Dalla sinistra quattro facevano festa, in porpore vestite, seguendo il modo di una di loro che aveva tre occhi in testa.
+
+133
+Appresso tutto il pertrattato nodo
+vidi due vecchi in abito dispari,
+ma pari in atto e onesto e sodo.
+> Dopo tutto il gruppo descritto vidi due vecchi in abito dispari, ma pari in atto e onesto e fermo.
+
+136
+L’un si mostrava alcun de’ famigliari
+di quel sommo Ipocràte che natura
+a li animali fé ch’ell’ ha più cari;
+> L'uno si mostrava uno dei familiari di quel sommo Ippocrate che natura fece per gli animali che ha più cari;
+
+139
+mostrava l’altro la contraria cura
+con una spada lucida e aguta,
+tal che di qua dal rio mi fé paura.
+> mostrava l'altro la cura contraria con una spada lucida e aguzza, tale che di qua dal rio mi fece paura.
+
+142
+Poi vidi quattro in umile paruta;
+e di retro da tutti un vecchio solo
+venir, dormendo, con la faccia arguta.
+> Poi vidi quattro in umile aspetto; e dietro a tutti un vecchio solo venire, dormendo, con la faccia acuta.
+
+145
+E questi sette col primaio stuolo
+erano abitüati, ma di gigli
+dintorno al capo non facëan brolo,
+> E questi sette con il primo stuolo erano abituati, ma di gigli non facevano una cinta intorno al capo,
+
+148
+anzi di rose e d’altri fior vermigli;
+giurato avria poco lontano aspetto
+che tutti ardesser di sopra da’ cigli.
+> anzi di rose e di altri fiori vermigli; avrebbe giurato poco lontano l'aspetto che tutti ardessero sopra le ciglia.
+
+151
+E quando il carro a me fu a rimpetto,
+un tuon s’udì, e quelle genti degne
+parvero aver l’andar più interdetto,
+> E quando il carro mi fu di fronte, si udì un tuono, e quelle genti degne parvero avere l'andare impedito,
+
+154
+fermandosi ivi con le prime insegne.
+> fermandosi lì con le prime insegne.
+
+## personaggio | grifone | Il grifone
+dibattuto: sì
+chi_era: Animale metà aquila e metà leone che tira il carro della processione. Nell'interpretazione tradizionale simboleggia Cristo nelle sue due nature, divina e umana; Dante non lo dice esplicitamente.

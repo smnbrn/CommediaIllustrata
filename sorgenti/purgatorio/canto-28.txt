@@ -1,0 +1,319 @@
+# Purgatorio, canto XXVIII
+titolo: La divina foresta, Matelda e la natura del Paradiso terrestre
+
+## scena-1 | paradiso-terrestre | La divina foresta e il ruscello
+personaggi: dante, virgilio, stazio
+tavola: dore | La divina foresta | img/dore/purgatorio-28-foresta-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148975446).jpg
+sintesi: Dante, desideroso di esplorare la divina foresta fitta e viva, lascia la riva e cammina lentamente sul suolo profumato. Un'aria dolce gli sfiora la fronte e piega le fronde verso la parte da cui cade la prima ombra del monte, ma non tanto da impedire agli uccelli di cantare, come nella pineta di Classe. Si ferma davanti a un ruscello limpidissimo che piega l'erba verso sinistra, più puro di ogni acqua terrena, benché scuro sotto l'ombra perpetua.
+
+1
+Vago già di cercar dentro e dintorno
+la divina foresta spessa e viva,
+ch’a li occhi temperava il novo giorno,
+> Desideroso ormai di cercare dentro e intorno la divina foresta fitta e viva, che agli occhi temperava il nuovo giorno,
+
+4
+sanza più aspettar, lasciai la riva,
+prendendo la campagna lento lento
+su per lo suol che d’ogne parte auliva.
+> senza più aspettare lasciai la riva, prendendo la campagna lento lento su per il suolo che da ogni parte profumava.
+
+7
+Un’aura dolce, sanza mutamento
+avere in sé, mi feria per la fronte
+non di più colpo che soave vento;
+> Un'aria dolce, senza variazione in sé, mi feriva la fronte non con più colpo di un vento soave;
+
+10
+per cui le fronde, tremolando, pronte
+tutte quante piegavano a la parte
+u’ la prim’ombra gitta il santo monte;
+> per cui le fronde, tremolando, pronte tutte quante si piegavano verso la parte dove la prima ombra getta il santo monte;
+
+13
+non però dal loro esser dritto sparte
+tanto, che li augelletti per le cime
+lasciasser d’operare ogne lor arte;
+> non tanto, però, spostate dal loro essere dritte, che gli uccelletti sulle cime lasciassero di operare ogni loro arte;
+
+16
+ma con piena letizia l’ore prime,
+cantando, ricevieno intra le foglie,
+che tenevan bordone a le sue rime,
+> ma con piena letizia le prime ore, cantando, ricevevano tra le foglie, che facevano bordone alle loro rime,
+
+19
+tal qual di ramo in ramo si raccoglie
+per la pineta in su ’l lito di Chiassi,
+quand’Ëolo scilocco fuor discioglie.
+> come si raccoglie di ramo in ramo per la pineta sul lido di Classe, quando Eolo scioglie lo scirocco.
+
+22
+Già m’avean trasportato i lenti passi
+dentro a la selva antica tanto, ch’io
+non potea rivedere ond’io mi ’ntrassi;
+> Già mi avevano trasportato i lenti passi dentro l'antica selva tanto, che io non potevo rivedere da dove ero entrato;
+
+25
+ed ecco più andar mi tolse un rio,
+che ’nver’ sinistra con sue picciole onde
+piegava l’erba che ’n sua ripa uscìo.
+> ed ecco più andare mi tolse un rio, che verso sinistra con le sue piccole onde piegava l'erba che sulla sua riva usciva.
+
+28
+Tutte l’acque che son di qua più monde,
+parrieno avere in sé mistura alcuna
+verso di quella, che nulla nasconde,
+> Tutte le acque che sono di qua più pure sembrerebbero avere in sé qualche mescolanza rispetto a quella, che nulla nasconde,
+
+31
+avvegna che si mova bruna bruna
+sotto l’ombra perpetüa, che mai
+raggiar non lascia sole ivi né luna.
+> benché si muova scura scura sotto l'ombra perpetua, che mai non lascia raggiare sole né luna.
+
+## scena-2 | paradiso-terrestre | Matelda
+personaggi: dante, virgilio, stazio, matelda
+tavola: ia | Matelda | img/ia/purgatorio-28-scena-2.jpg
+sintesi: Dante si ferma sulla riva e guarda al di là del fiumicello la grande varietà dei freschi fiori; lì gli appare, improvvisa, una donna sola che va cantando e scegliendo fior da fiore. La prega di avvicinarsi per intendere il suo canto: gli ricorda Proserpina quando perse la primavera. Ella si volge come danzatrice, si avvicina, e leva gli occhi su di lui, più luminosi di quelli di Venere ferita da Amore. Dall'altra riva ride, intrecciando fiori; è separata da Dante solo da tre passi d'acqua.
+
+34
+Coi piè ristetti e con li occhi passai
+di là dal fiumicello, per mirare
+la gran varïazion d’i freschi mai;
+> Con i piedi mi fermai e con gli occhi passai al di là del fiumicello, per guardare la grande varietà dei freschi maggi;
+
+37
+e là m’apparve, sì com’elli appare
+subitamente cosa che disvia
+per maraviglia tutto altro pensare,
+> e là mi apparve, come appare improvvisamente cosa che distoglie per meraviglia ogni altro pensiero,
+
+40
+una donna soletta che si gia
+e cantando e scegliendo fior da fiore
+ond’era pinta tutta la sua via.
+> una donna solitaria che andava e cantando e scegliendo fiore da fiore di cui era dipinta tutta la sua via.
+
+43
+"Deh, bella donna, che a’ raggi d’amore
+ti scaldi, s’i’ vo’ credere a’ sembianti
+che soglion esser testimon del core,
+> «Deh, bella donna, che ai raggi d'amore ti scaldi, se voglio credere ai sembianti che sogliono essere testimoni del cuore,
+
+46
+vegnati in voglia di trarreti avanti",
+diss’io a lei, "verso questa rivera,
+tanto ch’io possa intender che tu canti.
+> ti venga voglia di farti avanti», le dissi, «verso questa riva, tanto che io possa intendere che cosa canti.
+
+49
+Tu mi fai rimembrar dove e qual era
+Proserpina nel tempo che perdette
+la madre lei, ed ella primavera".
+> Tu mi fai ricordare dove e quale era Proserpina nel tempo che perdette la madre, ed ella la primavera».
+
+52
+Come si volge, con le piante strette
+a terra e intra sé, donna che balli,
+e piede innanzi piede a pena mette,
+> Come si volge, con le piante strette a terra e tra loro, donna che balli, e piede innanzi a piede appena mette,
+
+55
+volsesi in su i vermigli e in su i gialli
+fioretti verso me, non altrimenti
+che vergine che li occhi onesti avvalli;
+> si volse sopra i vermigli e sopra i gialli fioretti verso di me, non diversamente da una vergine che abbassi gli occhi onesti;
+
+58
+e fece i prieghi miei esser contenti,
+sì appressando sé, che ’l dolce suono
+veniva a me co’ suoi intendimenti.
+> e fece contenti i miei preghi, appressandosi così che il dolce suono veniva a me con i suoi significati.
+
+61
+Tosto che fu là dove l’erbe sono
+bagnate già da l’onde del bel fiume,
+di levar li occhi suoi mi fece dono.
+> Appena fu là dove le erbe sono già bagnate dalle onde del bel fiume, mi fece dono di levare gli occhi suoi.
+
+64
+Non credo che splendesse tanto lume
+sotto le ciglia a Venere, trafitta
+dal figlio fuor di tutto suo costume.
+> Non credo che splendesse tanto lume sotto le ciglia a Venere, trafitta dal figlio fuori di ogni suo costume.
+
+67
+Ella ridea da l’altra riva dritta,
+trattando più color con le sue mani,
+che l’alta terra sanza seme gitta.
+> Ella rideva dall'altra riva diritta, intrecciando più colori con le sue mani, che l'alta terra senza seme produce.
+
+70
+Tre passi ci facea il fiume lontani;
+ma Elesponto, là ’ve passò Serse,
+ancora freno a tutti orgogli umani,
+> Il fiume ci faceva tre passi lontani; ma l'Ellesponto, dove passò Serse, ancora freno a tutti gli orgogli umani,
+
+73
+più odio da Leandro non sofferse
+per mareggiare intra Sesto e Abido,
+che quel da me perch’allor non s’aperse.
+> non sopportò più odio da Leandro per il mareggiare tra Sesto e Abido, di quello che da me perché allora non si aprì.
+
+76
+"Voi siete nuovi, e forse perch’io rido",
+cominciò ella, "in questo luogo eletto
+a l’umana natura per suo nido,
+> «Voi siete nuovi, e forse perché io rido», cominciò ella, «in questo luogo eletto alla natura umana per suo nido,
+
+79
+maravigliando tienvi alcun sospetto;
+ma luce rende il salmo Delectasti,
+che puote disnebbiar vostro intelletto.
+> una qualche inquietudine vi tiene meravigliati; ma il salmo Delectasti rende luce, che può dissolvere la nebbia del vostro intelletto.
+
+82
+E tu che se’ dinanzi e mi pregasti,
+dì s’altro vuoli udir; ch’i’ venni presta
+ad ogne tua question tanto che basti".
+> E tu che sei davanti e mi pregasti, dimmi se altro vuoi udire; io venni pronta a ogni tua domanda tanto che basti».
+
+## scena-3 | paradiso-terrestre | La natura del Paradiso terrestre
+personaggi: dante, virgilio, stazio, matelda
+tavola: ia | La natura del Paradiso terrestre | img/ia/purgatorio-28-scena-3.jpg
+sintesi: Dante le chiede come mai l'acqua e il vento della foresta contrastino con ciò che aveva sentito dire. Matelda spiega: Dio creò l'uomo buono e gli diede questo luogo come caparra di pace eterna; il monte sale in alto, oltre le perturbazioni dell'aria. La rotazione del cielo percuote la foresta, la quale feconda la terra intorno con sementi nuove. Le acque non vengono da vena: vi è un'unica fonte che si versa in due fiumi, Letè, che toglie memoria del peccato, ed Eunoè, che rende memoria del bene; i poeti antichi che parlarono dell'età dell'oro forse sognarono questo luogo.
+
+85
+"L’acqua", diss’io, "e ’l suon de la foresta
+impugnan dentro a me novella fede
+di cosa ch’io udi’ contraria a questa".
+> «L'acqua», dissi, «e il suono della foresta combattono dentro di me una fede nuova in una cosa che udii contraria a questa».
+
+88
+Ond’ella: "Io dicerò come procede
+per sua cagion ciò ch’ammirar ti face,
+e purgherò la nebbia che ti fiede.
+> Perciò ella: «Io dirò come procede per sua causa ciò che ti fa meravigliare, e purgherò la nebbia che ti colpisce.
+
+91
+Lo sommo ben, che solo esso a sé piace,
+fé l’uom buono e a bene, e questo loco
+diede per arr’a lui d’etterna pace.
+> Il sommo bene, che solo ad esso piace, fece l'uomo buono e a bene, e questo luogo gli diede per caparra di pace eterna.
+
+94
+Per sua difalta qui dimorò poco;
+per sua difalta in pianto e in affanno
+cambiò onesto riso e dolce gioco.
+> Per sua colpa qui dimorò poco; per sua colpa in pianto e in affanno cambiò onesto riso e dolce gioco.
+
+97
+Perché ’l turbar che sotto da sé fanno
+l’essalazion de l’acqua e de la terra,
+che quanto posson dietro al calor vanno,
+> Perché il turbamento che sotto di sé fanno le esalazioni dell'acqua e della terra, che quanto possono vanno dietro al calore,
+
+100
+a l’uomo non facesse alcuna guerra,
+questo monte salìo verso ’l ciel tanto,
+e libero n’è d’indi ove si serra.
+> all'uomo non facesse alcuna guerra, questo monte salì verso il cielo tanto, ed è libero da quel punto in cui si chiude.
+
+103
+Or perché in circuito tutto quanto
+l’aere si volge con la prima volta,
+se non li è rotto il cerchio d’alcun canto,
+> Ora poiché in giro tutta quanta l'aria si volge con il primo giro, se non le è rotto il cerchio da qualche parte,
+
+106
+in questa altezza ch’è tutta disciolta
+ne l’aere vivo, tal moto percuote,
+e fa sonar la selva perch’è folta;
+> in questa altezza che è tutta sciolta nell'aria viva, tale moto percuote e fa risuonare la selva perché è folta;
+
+109
+e la percossa pianta tanto puote,
+che de la sua virtute l’aura impregna
+e quella poi, girando, intorno scuote;
+> e la pianta percossa tanto può, che dell'aria sua virtù impregna e quella poi, girando, intorno scuote;
+
+112
+e l’altra terra, secondo ch’è degna
+per sé e per suo ciel, concepe e figlia
+di diverse virtù diverse legna.
+> e l'altra terra, secondo che è degna per sé e per il suo cielo, concepisce e partorisce di diverse virtù diversi alberi.
+
+115
+Non parrebbe di là poi maraviglia,
+udito questo, quando alcuna pianta
+sanza seme palese vi s’appiglia.
+> Non parrebbe di là poi meraviglia, udito questo, quando qualche pianta senza seme palese vi si attacca.
+
+118
+E saper dei che la campagna santa
+dove tu se’, d’ogne semenza è piena,
+e frutto ha in sé che di là non si schianta.
+> E devi sapere che la campagna santa dove tu sei, è piena di ogni semenza, e ha in sé frutto che di là non si coglie.
+
+121
+L’acqua che vedi non surge di vena
+che ristori vapor che gel converta,
+come fiume ch’acquista e perde lena;
+> L'acqua che vedi non sorge da vena che ristori vapore che gelo converta, come fiume che acquista e perde forza;
+
+124
+ma esce di fontana salda e certa,
+che tanto dal voler di Dio riprende,
+quant’ella versa da due parti aperta.
+> ma esce da fontana salda e certa, che tanto dalla volontà di Dio riprende, quanto essa versa da due parti aperta.
+
+127
+Da questa parte con virtù discende
+che toglie altrui memoria del peccato;
+da l’altra d’ogne ben fatto la rende.
+> Da questa parte discende con virtù che toglie ad altri memoria del peccato; dall'altra la rende di ogni bene fatto.
+
+130
+Quinci Letè; così da l’altro lato
+Eünoè si chiama, e non adopra
+se quinci e quindi pria non è gustato:
+> Di qui Lete; così dall'altro lato Eunoè si chiama, e non opera se di qua e di là prima non è gustato:
+
+133
+a tutti altri sapori esto è di sopra.
+E avvegna ch’assai possa esser sazia
+la sete tua perch’io più non ti scuopra,
+> a tutti gli altri sapori questo è superiore. E benché possa essere assai sazia la tua sete se io non ti scopro altro,
+
+136
+darotti un corollario ancor per grazia;
+né credo che ’l mio dir ti sia men caro,
+se oltre promession teco si spazia.
+> ti darò ancora un corollario per grazia; né credo che il mio dire ti sia meno caro, se oltre promessa con te si dilunga.
+
+139
+Quelli ch’anticamente poetaro
+l’età de l’oro e suo stato felice,
+forse in Parnaso esto loco sognaro.
+> Quelli che anticamente poetarono l'età dell'oro e il suo stato felice, forse in Parnaso sognarono questo luogo.
+
+142
+Qui fu innocente l’umana radice;
+qui primavera sempre e ogne frutto;
+nettare è questo di che ciascun dice".
+> Qui fu innocente l'umana radice; qui primavera sempre e ogni frutto; nettare è questo di cui ciascuno parla».
+
+145
+Io mi rivolsi ’n dietro allora tutto
+a’ miei poeti, e vidi che con riso
+udito avëan l’ultimo costrutto;
+> Io mi rivolsi allora tutto indietro ai miei poeti, e vidi che con riso avevano udito l'ultima conclusione;
+
+148
+poi a la bella donna torna’ il viso.
+> poi alla bella donna tornai il viso.
+
+## personaggio | matelda | Matelda
+dibattuto: sì
+chi_era: La donna che Dante incontra nel Paradiso terrestre, guida e custode del luogo; il suo nome compare solo a XXXIII 119. L'identificazione resta discussa: tra le ipotesi, Matilde di Canossa (la contessa del XI secolo), Matilde di Hackeborn o di Magdeburgo, una figura simbolica della vita attiva.

@@ -1,0 +1,342 @@
+{
+  "cantica": "purgatorio",
+  "canto": 20,
+  "titolo": "Gli esempi di povertà, Ugo Capeto e il terremoto",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_XX",
+  "numero_versi": 151,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 39],
+      "titolo_scena": "Gli esempi di povertà e di generosità",
+      "sintesi": "Dante, per cortesia verso Adriano, lascia il pozzo del suo desiderio non sazio; i poeti avanzano lungo la roccia, stretti dal bordo, perché dall'altra parte gli avari piangono troppo vicino. Dante maledice l'antica lupa. Sente una voce che invoca Maria, povera nella stalla, poi Fabrizio che preferì la povertà alla ricchezza viziosa, e san Nicola che dotò le fanciulle. Dante si accosta per sapere chi parla.",
+      "luogo_id": "cornice-5",
+      "personaggi": ["dante", "virgilio", "maria"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Dante e Virgilio tra gli avari",
+          "url": "img/dore/purgatorio-20-avari-960.jpg",
+          "miniatura": "img/dore/purgatorio-20-avari-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148974996).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [40, 96],
+      "titolo_scena": "Ugo Capeto",
+      "sintesi": "L'anima si presenta come Ugo Capeto, radice della mala pianta che oscura la cristianità, figlio di un macellaio di Parigi; da lui nacquero i re di Francia. Racconta i misfatti dei suoi discendenti: la rapina di Carlo, la morte di Corradino e di san Tommaso, un altro Carlo che scende in Italia con la lancia di Giuda e fa scoppiare Firenze, un altro che vende la figlia, l'oltraggio di Anagni a Bonifacio VIII. Invoca la vendetta divina.",
+      "luogo_id": "cornice-5",
+      "personaggi": ["dante", "virgilio", "ugo-capeto"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Ugo Capeto",
+          "url": "img/ia/purgatorio-20-scena-2.jpg",
+          "miniatura": "img/ia/purgatorio-20-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [97, 123],
+      "titolo_scena": "Gli esempi di avarizia punita",
+      "sintesi": "Ugo spiega perché lo ha sentito parlare di Maria: di giorno le anime ricordano esempi di povertà e generosità, ma di notte il tono si fa opposto. Si ripetono Pigmalione, Mida, Acan che rubò le spoglie, Safira, Eliodoro, Polinestore e Crasso, a cui si grida: «Dicci di che sapore è l'oro».",
+      "luogo_id": "cornice-5",
+      "personaggi": ["dante", "virgilio", "ugo-capeto"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Gli esempi di avarizia punita",
+          "url": "img/ia/purgatorio-20-scena-3.jpg",
+          "miniatura": "img/ia/purgatorio-20-scena-3.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [124, 151],
+      "titolo_scena": "Il terremoto e il «Gloria in excelsis»",
+      "sintesi": "Lasciata l'anima, i poeti avanzano quando il monte trema come cosa che cade; Dante si gela come chi va a morire. Poi da tutte le parti sorge un grido: tutti cantano «Gloria in excelsis Deo», come i pastori che per primi udirono quel canto, finché il tremito cessa. Ripreso il cammino, Dante, pensoso, desidera sapere ciò che è accaduto, ma non osa chiedere per la fretta.",
+      "luogo_id": "cornice-5",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Il terremoto e il «Gloria in excelsis»",
+          "url": "img/ia/purgatorio-20-scena-4.jpg",
+          "miniatura": "img/ia/purgatorio-20-scena-4.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Contra miglior voler voler mal pugna;\nonde contra ’l piacer mio, per piacerli,\ntrassi de l’acqua non sazia la spugna.",
+      "parafrasi": "Contro un volere migliore, un volere cattivo non lotta; perciò, contro il mio piacere, per compiacerlo, trassi dall'acqua la spugna non sazia."
+    },
+    {
+      "versi": [4, 6],
+      "testo": "Mossimi; e ’l duca mio si mosse per li\nluoghi spediti pur lungo la roccia,\ncome si va per muro stretto a’ merli;",
+      "parafrasi": "Mi mossi; e la mia guida si mosse per i luoghi liberi, lungo la roccia, come si va sul muro stretto tra i merli;"
+    },
+    {
+      "versi": [7, 9],
+      "testo": "ché la gente che fonde a goccia a goccia\nper li occhi il mal che tutto ’l mondo occupa,\nda l’altra parte in fuor troppo s’approccia.",
+      "parafrasi": "perché la gente che fonde goccia a goccia dagli occhi il male che occupa tutto il mondo, dall'altra parte si avvicina troppo al bordo."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "Maladetta sie tu, antica lupa,\nche più che tutte l’altre bestie hai preda\nper la tua fame sanza fine cupa!",
+      "parafrasi": "Maledetta sia tu, antica lupa, che più di tutte le altre bestie hai preda per la tua fame senza fine profonda!"
+    },
+    {
+      "versi": [13, 15],
+      "testo": "O ciel, nel cui girar par che si creda\nle condizion di qua giù trasmutarsi,\nquando verrà per cui questa disceda?",
+      "parafrasi": "O cielo, nel cui girare pare che si creda che si trasmutino le condizioni quaggiù, quando verrà colui per cui questa se ne andrà?"
+    },
+    {
+      "versi": [16, 18],
+      "testo": "Noi andavam con passi lenti e scarsi,\ne io attento a l’ombre, ch’i’ sentia\npietosamente piangere e lagnarsi;",
+      "parafrasi": "Andavamo con passi lenti e scarsi, e io attento alle ombre che sentivo piangere e lamentarsi pietosamente;"
+    },
+    {
+      "versi": [19, 21],
+      "testo": "e per ventura udi’ \"Dolce Maria!\"\ndinanzi a noi chiamar così nel pianto\ncome fa donna che in parturir sia;",
+      "parafrasi": "e per caso udii «Dolce Maria!» gridare davanti a noi così nel pianto come fa una donna che sta partorendo;"
+    },
+    {
+      "versi": [22, 24],
+      "testo": "e seguitar: \"Povera fosti tanto,\nquanto veder si può per quello ospizio\ndove sponesti il tuo portato santo\".",
+      "parafrasi": "e proseguire: «Fosti tanto povera, quanto si può vedere da quell'ospizio dove deponesti il tuo santo peso»."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Seguentemente intesi: \"O buon Fabrizio,\ncon povertà volesti anzi virtute\nche gran ricchezza posseder con vizio\".",
+      "parafrasi": "Poi udii: «O buon Fabrizio, volesti la povertà con la virtù piuttosto che possedere grande ricchezza con il vizio»."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Queste parole m’eran sì piaciute,\nch’io mi trassi oltre per aver contezza\ndi quello spirto onde parean venute.",
+      "parafrasi": "Queste parole mi erano piaciute tanto che mi trassi oltre per avere notizia di quello spirito da cui sembravano venute."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "Esso parlava ancor de la larghezza\nche fece Niccolò a le pulcelle,\nper condurre ad onor lor giovinezza.",
+      "parafrasi": "Egli parlava ancora della generosità che Niccolò fece alle fanciulle, per condurre ad onore la loro giovinezza."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "\"O anima che tanto ben favelle,\ndimmi chi fosti\", dissi, \"e perché sola\ntu queste degne lode rinovelle.",
+      "parafrasi": "«O anima che parli così bene, dimmi chi fosti», dissi, «e perché sola rinnovi queste degne lodi."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Non fia sanza mercé la tua parola,\ns’io ritorno a compiér lo cammin corto\ndi quella vita ch’al termine vola\".",
+      "parafrasi": "Non sarà senza ricompensa la tua parola, se io ritorno a compiere il cammino breve di quella vita che vola al termine»."
+    },
+    {
+      "versi": [40, 42],
+      "testo": "Ed elli: \"Io ti dirò, non per conforto\nch’io attenda di là, ma perché tanta\ngrazia in te luce prima che sie morto.",
+      "parafrasi": "Ed egli: «Io ti dirò, non per conforto che io attenda di là, ma perché tanta grazia in te risplenda prima che tu muoia."
+    },
+    {
+      "versi": [43, 45],
+      "testo": "Io fui radice de la mala pianta\nche la terra cristiana tutta aduggia,\nsì che buon frutto rado se ne schianta.",
+      "parafrasi": "Io fui radice della mala pianta che adombra tutta la terra cristiana, così che raramente se ne coglie buon frutto."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Ma se Doagio, Lilla, Guanto e Bruggia\npotesser, tosto ne saria vendetta;\ne io la cheggio a lui che tutto giuggia.",
+      "parafrasi": "Ma se Douai, Lilla, Gand e Bruges potessero, presto ne sarebbe vendetta; e io la chiedo a colui che tutto giudica."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "Chiamato fui di là Ugo Ciappetta;\ndi me son nati i Filippi e i Luigi\nper cui novellamente è Francia retta.",
+      "parafrasi": "Fui chiamato di là Ugo Capeto; da me sono nati i Filippi e i Luigi per cui di recente è retta la Francia."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "Figliuol fu’ io d’un beccaio di Parigi:\nquando li regi antichi venner meno\ntutti, fuor ch’un renduto in panni bigi,",
+      "parafrasi": "Fui figlio di un macellaio di Parigi: quando i re antichi vennero meno tutti, tranne uno rinchiuso in vesti grigie,"
+    },
+    {
+      "versi": [55, 57],
+      "testo": "trova’ mi stretto ne le mani il freno\ndel governo del regno, e tanta possa\ndi nuovo acquisto, e sì d’amici pieno,",
+      "parafrasi": "mi trovai stretto nelle mani il freno del governo del regno, e tanto potere di nuovo acquisto, e tanto pieno di amici,"
+    },
+    {
+      "versi": [58, 60],
+      "testo": "ch’a la corona vedova promossa\nla testa di mio figlio fu, dal quale\ncominciar di costor le sacrate ossa.",
+      "parafrasi": "che alla corona vedova fu promossa la testa di mio figlio, dal quale cominciò la serie di costoro dalle sacre ossa."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Mentre che la gran dota provenzale\nal sangue mio non tolse la vergogna,\npoco valea, ma pur non facea male.",
+      "parafrasi": "Finché la gran dote provenzale non tolse la vergogna al mio sangue, valeva poco, ma almeno non faceva male."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Lì cominciò con forza e con menzogna\nla sua rapina; e poscia, per ammenda,\nPontì e Normandia prese e Guascogna.",
+      "parafrasi": "Lì cominciò con forza e con menzogna la sua rapina; e poi, per ammenda, prese Ponthieu, Normandia e Guascogna."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Carlo venne in Italia e, per ammenda,\nvittima fé di Curradino; e poi\nripinse al ciel Tommaso, per ammenda.",
+      "parafrasi": "Carlo venne in Italia e, per ammenda, fece vittima Corradino; e poi ricacciò al cielo Tommaso, per ammenda."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "Tempo vegg’io, non molto dopo ancoi,\nche tragge un altro Carlo fuor di Francia,\nper far conoscer meglio e sé e ’ suoi.",
+      "parafrasi": "Vedo tempo, non molto dopo oggi, che trae un altro Carlo fuori di Francia, per far conoscere meglio sé e i suoi."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Sanz’arme n’esce e solo con la lancia\ncon la qual giostrò Giuda, e quella ponta\nsì, ch’a Fiorenza fa scoppiar la pancia.",
+      "parafrasi": "Esce senz'armi e solo con la lancia con la quale giostrò Giuda, e quella punge così che a Firenze fa scoppiare la pancia."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "Quindi non terra, ma peccato e onta\nguadagnerà, per sé tanto più grave,\nquanto più lieve simil danno conta.",
+      "parafrasi": "Di qui non terra, ma peccato e onta guadagnerà, per sé tanto più grave quanto più lieve conta un simile danno."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "L’altro, che già uscì preso di nave,\nveggio vender sua figlia e patteggiarne\ncome fanno i corsar de l’altre schiave.",
+      "parafrasi": "L'altro, che già uscì prigioniero dalla nave, vedo vendere sua figlia e patteggiare come fanno i corsari con altre schiave."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "O avarizia, che puoi tu più farne,\nposcia c’ ha’ il mio sangue a te sì tratto,\nche non si cura de la propria carne?",
+      "parafrasi": "O avarizia, che puoi farne di più, poiché hai tratto a te il mio sangue così che non si cura della propria carne?"
+    },
+    {
+      "versi": [85, 87],
+      "testo": "Perché men paia il mal futuro e ’l fatto,\nveggio in Alagna intrar lo fiordaliso,\ne nel vicario suo Cristo esser catto.",
+      "parafrasi": "Perché paia meno il male futuro e passato, vedo entrare in Anagni il fiordaliso, e nel suo vicario Cristo essere catturato."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Veggiolo un’altra volta esser deriso;\nveggio rinovellar l’aceto e ’l fiele,\ne tra vivi ladroni esser anciso.",
+      "parafrasi": "Lo vedo un'altra volta essere deriso; vedo rinnovarsi l'aceto e il fiele, e tra vivi ladroni essere ucciso."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Veggio il novo Pilato sì crudele,\nche ciò nol sazia, ma sanza decreto\nportar nel Tempio le cupide vele.",
+      "parafrasi": "Vedo il nuovo Pilato così crudele che ciò non lo sazia, ma senza decreto porta nel Tempio le sue vele cupide."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "O Segnor mio, quando sarò io lieto\na veder la vendetta che, nascosa,\nfa dolce l’ira tua nel tuo secreto?",
+      "parafrasi": "O Signore mio, quando sarò lieto di vedere la vendetta che, nascosta, rende dolce l'ira tua nel tuo segreto?"
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Ciò ch’io dicea di quell’unica sposa\nde lo Spirito Santo e che ti fece\nverso me volger per alcuna chiosa,",
+      "parafrasi": "Ciò che dicevo di quell'unica sposa dello Spirito Santo e che ti fece volgere a me per qualche chiosa,"
+    },
+    {
+      "versi": [100, 102],
+      "testo": "tanto è risposto a tutte nostre prece\nquanto ’l dì dura; ma com’el s’annotta,\ncontrario suon prendemo in quella vece.",
+      "parafrasi": "a tutte le nostre preghiere è risposto tanto quanto dura il giorno; ma quando si fa notte, prendiamo in vece il suono contrario."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Noi repetiam Pigmalïon allotta,\ncui traditore e ladro e paricida\nfece la voglia sua de l’oro ghiotta;",
+      "parafrasi": "Allora ripetiamo Pigmalione, che traditore, ladro e parricida fece la sua voglia ghiotta dell'oro;"
+    },
+    {
+      "versi": [106, 108],
+      "testo": "e la miseria de l’avaro Mida,\nche seguì a la sua dimanda gorda,\nper la qual sempre convien che si rida.",
+      "parafrasi": "e la miseria dell'avaro Mida, che seguì alla sua domanda ingorda, per la quale sempre conviene che si rida."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "Del folle Acàn ciascun poi si ricorda,\ncome furò le spoglie, sì che l’ira\ndi Iosüè qui par ch’ancor lo morda.",
+      "parafrasi": "Del folle Acan ognuno poi si ricorda, come rubò le spoglie, così che l'ira di Giosuè qui sembra morderlo ancora."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Indi accusiam col marito Saffira;\nlodiamo i calci ch’ebbe Elïodoro;\ne in infamia tutto ’l monte gira",
+      "parafrasi": "Poi accusiamo con il marito Saffira; lodiamo i calci che ebbe Eliodoro; e in infamia tutto il monte gira"
+    },
+    {
+      "versi": [115, 117],
+      "testo": "Polinestòr ch’ancise Polidoro;\nultimamente ci si grida: \"Crasso,\ndilci, che ’l sai: di che sapore è l’oro?\".",
+      "parafrasi": "Polinestore che uccise Polidoro; da ultimo qui si grida: «Crasso, dicci, che lo sai: di che sapore è l'oro?»."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Talor parla l’uno alto e l’altro basso,\nsecondo l’affezion ch’ad ir ci sprona\nora a maggiore e ora a minor passo:",
+      "parafrasi": "Talvolta parla l'uno alto e l'altro basso, secondo l'affetto che ci sprona ora a maggiore e ora a minor passo:"
+    },
+    {
+      "versi": [121, 123],
+      "testo": "però al ben che ’l dì ci si ragiona,\ndianzi non era io sol; ma qui da presso\nnon alzava la voce altra persona\".",
+      "parafrasi": "perciò al bene che il giorno qui si ragiona, poco fa non ero io solo; ma qui vicino non alzava la voce nessun altro»."
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Noi eravam partiti già da esso,\ne brigavam di soverchiar la strada\ntanto quanto al poder n’era permesso,",
+      "parafrasi": "Eravamo già partiti da lui e ci sforzavamo di superare la strada quanto ci era consentito dalla possibilità,"
+    },
+    {
+      "versi": [127, 129],
+      "testo": "quand’io senti’, come cosa che cada,\ntremar lo monte; onde mi prese un gelo\nqual prender suol colui ch’a morte vada.",
+      "parafrasi": "quando sentii, come una cosa che cada, tremare il monte; per cui mi prese un gelo quale suole prendere chi va a morire."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Certo non si scoteo sì forte Delo,\npria che Latona in lei facesse ’l nido\na parturir li due occhi del cielo.",
+      "parafrasi": "Certo non si scosse così forte Delo, prima che Latona vi facesse il nido per partorire i due occhi del cielo."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "Poi cominciò da tutte parti un grido\ntal, che ’l maestro inverso me si feo,\ndicendo: \"Non dubbiar, mentr’io ti guido\".",
+      "parafrasi": "Poi cominciò da tutte le parti un grido tale che il maestro si fece verso di me, dicendo: «Non dubitare, mentre ti guido»."
+    },
+    {
+      "versi": [136, 138],
+      "testo": "’Glorïa in excelsis’ tutti ’Deo’\ndicean, per quel ch’io da’ vicin compresi,\nonde intender lo grido si poteo.",
+      "parafrasi": "«Gloria in excelsis» tutti «Deo» dicevano, per quel che capii dai vicini, per cui si poté intendere il grido."
+    },
+    {
+      "versi": [139, 141],
+      "testo": "No’ istavamo immobili e sospesi\ncome i pastor che prima udir quel canto,\nfin che ’l tremar cessò ed el compiési.",
+      "parafrasi": "Stavamo immobili e sospesi come i pastori che per primi udirono quel canto, finché il tremare cessò ed esso si compì."
+    },
+    {
+      "versi": [142, 144],
+      "testo": "Poi ripigliammo nostro cammin santo,\nguardando l’ombre che giacean per terra,\ntornate già in su l’usato pianto.",
+      "parafrasi": "Poi riprendemmo il nostro santo cammino, guardando le ombre che giacevano a terra, tornate già al consueto pianto."
+    },
+    {
+      "versi": [145, 147],
+      "testo": "Nulla ignoranza mai con tanta guerra\nmi fé desideroso di sapere,\nse la memoria mia in ciò non erra,",
+      "parafrasi": "Nessuna ignoranza mai con tanta lotta mi fece desideroso di sapere, se la mia memoria in ciò non sbaglia,"
+    },
+    {
+      "versi": [148, 150],
+      "testo": "quanta pareami allor, pensando, avere;\nné per la fretta dimandare er’oso,\nné per me lì potea cosa vedere:",
+      "parafrasi": "quanta mi sembrava allora, pensando, di averne; né per la fretta osavo domandare, né da me potevo vedere qualcosa:"
+    },
+    {
+      "versi": [151, 151],
+      "testo": "così m’andava timido e pensoso.",
+      "parafrasi": "così andavo timido e pensoso."
+    }
+  ]
+}

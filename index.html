@@ -15,11 +15,13 @@
   <script>
     // tema prima del primo disegno, per evitare il lampo
     try { var t = localStorage.getItem('ci-tema'); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+    // colori della cantica (Purgatorio: viola) prima del primo disegno
+    var c = /^#(purgatorio|paradiso)/.exec(location.hash); if (c) document.documentElement.dataset.cantica = c[1];
   </script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap">
-  <link rel="stylesheet" href="css/stile.css?v=2026-11-16.2">
+  <link rel="stylesheet" href="css/stile.css?v=2026-11-17.1">
 </head>
 <body>
   <header class="testata">
@@ -76,9 +78,9 @@
     <p class="lente-didascalia" id="lente-didascalia"></p>
   </div>
 
-  <script>window.CI = { versione: "2026-11-16.2" };  // stessa versione dei ?v= di questa pagina: va cambiata a ogni pubblicazione</script>
-  <script src="js/dati.js?v=2026-11-16.2"></script>
-  <script src="js/mappa.js?v=2026-11-16.2"></script>
-  <script src="js/app.js?v=2026-11-16.2"></script>
+  <script>window.CI = { versione: "2026-11-17.1" };  // stessa versione dei ?v= di questa pagina: va cambiata a ogni pubblicazione</script>
+  <script src="js/dati.js?v=2026-11-17.1"></script>
+  <script src="js/mappa.js?v=2026-11-17.1"></script>
+  <script src="js/app.js?v=2026-11-17.1"></script>
 </body>
 </html>

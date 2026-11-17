@@ -1,0 +1,318 @@
+# Purgatorio, canto III
+titolo: Il limite della ragione e Manfredi
+
+## scena-1 | spiaggia | La ragione ha un limite
+personaggi: dante, virgilio
+tavola: ia | La ragione ha un limite | img/ia/purgatorio-03-scena-1.jpg
+sintesi: Dopo la fuga delle anime Dante, spaventato di restare solo, si stringe a Virgilio, che si rimprovera con dignità per un piccolo indugio. Notando che Dante è corporeo e proietta ombra, Virgilio spiega che i corpi di spiriti soffrono senza che sappiamo come, e avverte che la ragione umana non può spiegare Dio: bisogna accontentarsi del «quia».
+
+1
+Avvegna che la subitana fuga
+dispergesse color per la campagna,
+rivolti al monte ove ragion ne fruga,
+> Benché la fuga improvvisa avesse disperso quelle anime per la pianura, rivolte al monte dove la ragione ci spinge,
+
+4
+i’ mi ristrinsi a la fida compagna:
+e come sare’ io sanza lui corso?
+chi m’avria tratto su per la montagna?
+> io mi strinsi alla fedele compagna: e come avrei fatto a correre senza di lui? Chi mi avrebbe portato su per la montagna?
+
+7
+El mi parea da sé stesso rimorso:
+o dignitosa coscïenza e netta,
+come t’è picciol fallo amaro morso!
+> Mi sembrava rimordersi da sé: oh coscienza degna e pura, come ti è amaro un piccolo errore!
+
+10
+Quando li piedi suoi lasciar la fretta,
+che l’onestade ad ogn’atto dismaga,
+la mente mia, che prima era ristretta,
+> Quando i suoi piedi lasciarono la fretta, che toglie dignità a ogni gesto, la mia mente, che prima era raccolta,
+
+13
+lo ’ntento rallargò, sì come vaga,
+e diedi ’l viso mio incontr’al poggio
+che ’nverso ’l ciel più alto si dislaga.
+> allargò l'attenzione, come desiderosa, e rivolsi lo sguardo al monte che si innalza più alto verso il cielo.
+
+16
+Lo sol, che dietro fiammeggiava roggio,
+rotto m’era dinanzi a la figura,
+ch’avëa in me de’ suoi raggi l’appoggio.
+> Il sole, che fiammeggiava rosso alle mie spalle, era interrotto davanti a me dalla figura del mio corpo, che ne bloccava i raggi.
+
+19
+Io mi volsi dallato con paura
+d’essere abbandonato, quand’io vidi
+solo dinanzi a me la terra oscura;
+> Mi voltai di lato con paura di essere stato abbandonato, quando vidi solo davanti a me la terra scura;
+
+22
+e ’l mio conforto: "Perché pur diffidi?",
+a dir mi cominciò tutto rivolto;
+"non credi tu me teco e ch’io ti guidi?
+> e il mio conforto cominciò a dirmi, tutto rivolto verso di me: «Perché dubiti ancora? Non credi che io sia con te e ti guidi?
+
+25
+Vespero è già colà dov’è sepolto
+lo corpo dentro al quale io facea ombra;
+Napoli l’ ha, e da Brandizio è tolto.
+> Laggiù è già sera, dove è sepolto il corpo dentro il quale facevo ombra: ce l'ha Napoli, ed è stato portato via da Brindisi.
+
+28
+Ora, se innanzi a me nulla s’aombra,
+non ti maravigliar più che d’i cieli
+che l’uno a l’altro raggio non ingombra.
+> Ora, se davanti a me nessuna ombra si forma, non ti stupire più che per i cieli, dove un raggio non ostacola l'altro.
+
+31
+A sofferir tormenti, caldi e geli
+simili corpi la Virtù dispone
+che, come fa, non vuol ch’a noi si sveli.
+> La Virtù divina dispone che corpi simili soffrano tormenti, caldo e freddo, e non vuole che il modo ci sia rivelato.
+
+34
+Matto è chi spera che nostra ragione
+possa trascorrer la infinita via
+che tiene una sustanza in tre persone.
+> È pazzo chi spera che la nostra ragione possa percorrere la via infinita che segue una sola sostanza in tre persone.
+
+37
+State contenti, umana gente, al quia;
+ché, se potuto aveste veder tutto,
+mestier non era parturir Maria;
+> Accontentatevi del «quia», genti umane; perché, se aveste potuto vedere tutto, non sarebbe stato necessario che Maria partorisse;
+
+40
+e disïar vedeste sanza frutto
+tai che sarebbe lor disio quetato,
+ch’etternalmente è dato lor per lutto:
+> e vedeste desiderare inutilmente persone il cui desiderio sarebbe stato appagato, mentre invece è dato loro in eterno come pena:
+
+43
+io dico d’Aristotile e di Plato
+e di molt’altri"; e qui chinò la fronte,
+e più non disse, e rimase turbato.
+> parlo di Aristotele, di Platone e di molti altri»; e qui chinò la fronte, non disse altro e rimase turbato.
+
+## scena-2 | antipurgatorio-scomunicati | La roccia e le anime lente
+personaggi: dante, virgilio
+tavola: dore | Dante e Virgilio ai piedi della roccia | img/dore/purgatorio-03-roccia-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148974172).jpg
+sintesi: Arrivati ai piedi del monte, i poeti trovano la roccia così ripida che le gambe più pronte sarebbero inutili; Virgilio si ferma incerto sul lato da cui salire. A sinistra appare una schiera di anime che avanza lentissima: Dante la indica a Virgilio, che gli dice di andare loro incontro e di non perdere la speranza.
+
+46
+Noi divenimmo intanto a piè del monte;
+quivi trovammo la roccia sì erta,
+che ’ndarno vi sarien le gambe pronte.
+> Intanto arrivammo ai piedi del monte; qui trovammo la roccia così ripida che le gambe più pronte vi sarebbero inutili.
+
+49
+Tra Lerice e Turbìa la più diserta,
+la più rotta ruina è una scala,
+verso di quella, agevole e aperta.
+> Tra Lerici e Turbia la frana più deserta e più dirupata è una scala facile e aperta, in confronto a quella.
+
+52
+"Or chi sa da qual man la costa cala",
+disse ’l maestro mio fermando ’l passo,
+"sì che possa salir chi va sanz’ala?".
+> «Ora chi sa da quale lato il pendio scende», disse il mio maestro fermando il passo, «in modo che possa salire chi va senz'ali?».
+
+55
+E mentre ch’e’ tenendo ’l viso basso
+essaminava del cammin la mente,
+e io mirava suso intorno al sasso,
+> E mentre lui, tenendo il viso basso, esaminava nella mente il cammino, e io guardavo in su intorno alla roccia,
+
+58
+da man sinistra m’apparì una gente
+d’anime, che movieno i piè ver’ noi,
+e non pareva, sì venïan lente.
+> a sinistra mi apparve una schiera di anime che muovevano i piedi verso di noi, e non sembrava, tanto andavano lente.
+
+61
+"Leva", diss’io, "maestro, li occhi tuoi:
+ecco di qua chi ne darà consiglio,
+se tu da te medesmo aver nol puoi".
+> «Alza, maestro, gli occhi», dissi, «ecco di qua chi ci darà consiglio, se tu non puoi trovarlo da te».
+
+64
+Guardò allora, e con libero piglio
+rispuose: "Andiamo in là, ch’ei vegnon piano;
+e tu ferma la spene, dolce figlio".
+> Guardò allora e con aria sollevata rispose: «Andiamo là, perché vengono piano; e tu, dolce figlio, rafforza la speranza».
+
+67
+Ancora era quel popol di lontano,
+i’ dico dopo i nostri mille passi,
+quanto un buon gittator trarria con mano,
+> Quel popolo era ancora lontano, dico dopo mille dei nostri passi, quanto lancerebbe un buon lanciatore con la mano,
+
+70
+quando si strinser tutti ai duri massi
+de l’alta ripa, e stetter fermi e stretti
+com’a guardar, chi va dubbiando, stassi.
+> quando si strinsero tutti alle dure rocce dell'alta riva e restarono fermi e stretti come chi si ferma a guardare, dubbioso.
+
+73
+"O ben finiti, o già spiriti eletti",
+Virgilio incominciò, "per quella pace
+ch’i’ credo che per voi tutti s’aspetti,
+> «O morti ben finiti, o spiriti già eletti», cominciò Virgilio, «per quella pace che credo vi attenda tutti,
+
+76
+ditene dove la montagna giace,
+sì che possibil sia l’andare in suso;
+ché perder tempo a chi più sa più spiace".
+> diteci dove la montagna è meno ripida, in modo che si possa salire; perché perdere tempo dispiace più a chi più sa».
+
+## scena-3 | antipurgatorio-scomunicati | Le anime come pecorelle
+personaggi: dante, virgilio
+tavola: ia | Le anime come pecorelle | img/ia/purgatorio-03-scena-3.jpg
+sintesi: Le anime escono dal gruppo a una, a due, a tre, come pecore dall'ovile, timide e semplici, e si fermano vedendo l'ombra di Dante sul terreno. Virgilio spiega che il corpo è vero e che Dante sale per volere del cielo; un'anima dalla schiera lo invita a seguirli e gli chiede di guardarla in viso.
+
+79
+Come le pecorelle escon del chiuso
+a una, a due, a tre, e l’altre stanno
+timidette atterrando l’occhio e ’l muso;
+> Come le pecorelle escono dal recinto a una, a due, a tre, e le altre restano timide, abbassando occhi e muso,
+
+82
+e ciò che fa la prima, e l’altre fanno,
+addossandosi a lei, s’ella s’arresta,
+semplici e quete, e lo ’mperché non sanno;
+> e ciò che fa la prima fanno le altre, addossandosi a lei se si ferma, semplici e quiete, senza sapere il perché;
+
+85
+sì vid’io muovere a venir la testa
+di quella mandra fortunata allotta,
+pudica in faccia e ne l’andare onesta.
+> così vidi muoversi per venire il capo di quella mandria fortunata, pudica in volto e onesta nel camminare.
+
+88
+Come color dinanzi vider rotta
+la luce in terra dal mio destro canto,
+sì che l’ombra era da me a la grotta,
+> Quando i primi videro la luce interrotta a terra dal mio lato destro, così che l'ombra andava da me alla roccia,
+
+91
+restaro, e trasser sé in dietro alquanto,
+e tutti li altri che venieno appresso,
+non sappiendo ’l perché, fenno altrettanto.
+> si fermarono e si ritirarono un poco, e tutti gli altri che venivano dietro, senza sapere il perché, fecero lo stesso.
+
+94
+"Sanza vostra domanda io vi confesso
+che questo è corpo uman che voi vedete;
+per che ’l lume del sole in terra è fesso.
+> «Senza che me lo chiediate vi confesso che questo che vedete è un corpo umano; per questo la luce del sole è spezzata a terra.
+
+97
+Non vi maravigliate, ma credete
+che non sanza virtù che da ciel vegna
+cerchi di soverchiar questa parete".
+> Non vi stupite, ma credete che non senza un potere che viene dal cielo egli cerchi di superare questa parete».
+
+100
+Così ’l maestro; e quella gente degna
+"Tornate", disse, "intrate innanzi dunque",
+coi dossi de le man faccendo insegna.
+> Così il maestro; e quella gente degna disse: «Tornate indietro, entrate dunque davanti a noi», facendo il gesto con il dorso delle mani.
+
+103
+E un di loro incominciò: "Chiunque
+tu se’, così andando, volgi ’l viso:
+pon mente se di là mi vedesti unque".
+> E uno di loro cominciò: «Chiunque tu sia, camminando così volgi il viso: pensa se mi hai mai visto di là».
+
+106
+Io mi volsi ver’ lui e guardail fiso:
+biondo era e bello e di gentile aspetto,
+ma l’un de’ cigli un colpo avea diviso.
+> Mi voltai verso di lui e lo guardai fisso: era biondo, bello e di nobile aspetto, ma un colpo gli aveva diviso uno dei sopraccigli.
+
+## scena-4 | antipurgatorio-scomunicati | Manfredi
+personaggi: dante, virgilio, manfredi
+tavola: ia | Manfredi | img/ia/purgatorio-03-scena-4.jpg
+sintesi: Dante dichiara di non averlo mai visto; l'anima gli mostra una ferita sul petto e si presenta: è Manfredi, nipote dell'imperatrice Costanza. Racconta di essersi pentito in punto di morte, della sepoltura tolta dal papa, della legge degli scomunicati, e prega Dante di riferire alla figlia Costanza come l'ha visto.
+
+109
+Quand’io mi fui umilmente disdetto
+d’averlo visto mai, el disse: "Or vedi";
+e mostrommi una piaga a sommo ’l petto.
+> Quando mi fui scusato umilmente di non averlo mai visto, disse: «Guarda ora»; e mi mostrò una ferita in alto sul petto.
+
+112
+Poi sorridendo disse: "Io son Manfredi,
+nepote di Costanza imperadrice;
+ond’io ti priego che, quando tu riedi,
+> Poi disse sorridendo: «Sono Manfredi, nipote dell'imperatrice Costanza; perciò ti prego che, quando tornerai,
+
+115
+vadi a mia bella figlia, genitrice
+de l’onor di Cicilia e d’Aragona,
+e dichi ’l vero a lei, s’altro si dice.
+> vada dalla mia bella figlia, madre dell'onore di Sicilia e di Aragona, e le dica la verità, se si dice altro.
+
+118
+Poscia ch’io ebbi rotta la persona
+di due punte mortali, io mi rendei,
+piangendo, a quei che volontier perdona.
+> Dopo che ebbi il corpo spezzato da due ferite mortali, mi affidai, piangendo, a colui che perdona volentieri.
+
+121
+Orribil furon li peccati miei;
+ma la bontà infinita ha sì gran braccia,
+che prende ciò che si rivolge a lei.
+> Terribili furono i miei peccati; ma la bontà infinita ha braccia così grandi che accoglie chiunque si volge a lei.
+
+124
+Se ’l pastor di Cosenza, che a la caccia
+di me fu messo per Clemente allora,
+avesse in Dio ben letta questa faccia,
+> Se il pastore di Cosenza, che fu mandato a darmi la caccia da Clemente, avesse letto bene in Dio questa parola,
+
+127
+l’ossa del corpo mio sarieno ancora
+in co del ponte presso a Benevento,
+sotto la guardia de la grave mora.
+> le ossa del mio corpo sarebbero ancora in capo al ponte presso Benevento, sotto la guardia del pesante mucchio di pietre.
+
+130
+Or le bagna la pioggia e move il vento
+di fuor dal regno, quasi lungo ’l Verde,
+dov’e’ le trasmutò a lume spento.
+> Ora le bagnano la pioggia e le muove il vento, fuori dal regno, quasi lungo il Verde, dove le portò con candele spente.
+
+133
+Per lor maladizion sì non si perde,
+che non possa tornar, l’etterno amore,
+mentre che la speranza ha fior del verde.
+> Con la loro maledizione non si perde l'amore eterno al punto che non possa tornare, finché la speranza ha un filo di verde.
+
+136
+Vero è che quale in contumacia more
+di Santa Chiesa, ancor ch’al fin si penta,
+star li convien da questa ripa in fore,
+> È vero che chi muore in ribellione alla Santa Chiesa, anche se alla fine si pente, deve stare fuori da questa riva
+
+139
+per ognun tempo ch’elli è stato, trenta,
+in sua presunzïon, se tal decreto
+più corto per buon prieghi non diventa.
+> per un tempo trenta volte quello in cui è stato nella sua presunzione, se tale decreto non diventa più breve per buone preghiere.
+
+142
+Vedi oggimai se tu mi puoi far lieto,
+revelando a la mia buona Costanza
+come m’ hai visto, e anco esto divieto;
+> Vedi ormai se puoi rendermi lieto, rivelando alla mia buona Costanza come mi hai visto, e anche questo divieto;
+
+145
+ché qui per quei di là molto s’avanza".
+> perché qui, per quelli di là, si guadagna molto».
+
+## personaggio | manfredi | Manfredi
+dibattuto: no
+chi_era: Manfredi di Svevia (1232-1266), figlio di Federico II, re di Sicilia. Scomunicato dal papa, morì nella battaglia di Benevento contro Carlo d'Angiò; il suo corpo fu sepolto sotto un mucchio di pietre e poi disseppellito dall'arcivescovo di Cosenza. Dante lo mostra salvato per il pentimento in punto di morte.

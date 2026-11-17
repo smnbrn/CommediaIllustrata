@@ -1,0 +1,322 @@
+{
+  "cantica": "purgatorio",
+  "canto": 4,
+  "titolo": "La salita nella roccia, il sole a sinistra e Belacqua",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_IV",
+  "numero_versi": 139,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 18],
+      "titolo_scena": "L'anima assorta nell'ascolto",
+      "sintesi": "Dante riflette su come un piacere o un dolore intensi assorbano l'anima in un'unica facoltà, facendo trascorrere il tempo senza che ce ne accorgiamo: ascoltando Manfredi, il sole era salito di cinquanta gradi senza che se ne avvedesse, quando le anime gridano loro dove trovare la via.",
+      "luogo_id": "antipurgatorio-scomunicati",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "L'anima assorta nell'ascolto",
+          "url": "img/ia/purgatorio-04-scena-1.jpg",
+          "miniatura": "img/ia/purgatorio-04-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [19, 48],
+      "titolo_scena": "La salita nel passaggio stretto",
+      "sintesi": "Il varco per cui salgono è più stretto di un'apertura che un contadino chiude con un forcone di spine; si sale dentro la roccia spaccata, aiutandosi con mani e piedi. In cima, Dante, stanco, supplica Virgilio di aspettarlo e questi gli indica una balza poco più in alto.",
+      "luogo_id": "antipurgatorio-scomunicati",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "La salita sulla roccia",
+          "url": "img/dore/purgatorio-04-salita-960.jpg",
+          "miniatura": "img/dore/purgatorio-04-salita-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148974180).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [49, 96],
+      "titolo_scena": "La balza e il corso del sole",
+      "sintesi": "Spronato dalle parole di Virgilio, Dante si arrampica fino alla balza. Seduti rivolti a oriente, vedono con stupore il sole colpirli da sinistra; Virgilio spiega, con l'immagine di Sion e del monte opposti sulla Terra, perché il sole qui sta a nord. Poi consola Dante: questa montagna è faticosa all'inizio e diventa lieve salendo.",
+      "luogo_id": "antipurgatorio-pigri",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La balza e il corso del sole",
+          "url": "img/ia/purgatorio-04-scena-3.jpg",
+          "miniatura": "img/ia/purgatorio-04-scena-3.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [97, 139],
+      "titolo_scena": "Belacqua e i pigri",
+      "sintesi": "Una voce ironica li invita a sedersi prima di salire: dietro un grande masso stanno all'ombra i pigri, tra cui uno seduto con la testa tra le ginocchia, che Dante riconosce come il fiorentino Belacqua. Questi spiega che, finché non lo aiuteranno le preghiere dei vivi, dovrà aspettare fuori dalla porta tanto quanto ha ritardato il pentimento.",
+      "luogo_id": "antipurgatorio-pigri",
+      "personaggi": ["dante", "virgilio", "belacqua"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Gli spiriti pigri",
+          "url": "img/dore/purgatorio-04-pigri-960.jpg",
+          "miniatura": "img/dore/purgatorio-04-pigri-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148974184).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Quando per dilettanze o ver per doglie,\nche alcuna virtù nostra comprenda,\nl’anima bene ad essa si raccoglie,",
+      "parafrasi": "Quando, per piaceri o per dolori che una qualche nostra facoltà percepisca, l'anima si concentra bene su di essi,"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "par ch’a nulla potenza più intenda;\ne questo è contra quello error che crede\nch’un’anima sovr’altra in noi s’accenda.",
+      "parafrasi": "sembra che non badi a nessun'altra facoltà; e questo è contro l'errore che crede che un'anima si accenda in noi sopra un'altra."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "E però, quando s’ode cosa o vede\nche tegna forte a sé l’anima volta,\nvassene ’l tempo e l’uom non se n’avvede;",
+      "parafrasi": "E perciò, quando si ode o si vede qualcosa che tiene fortemente rivolta a sé l'anima, il tempo passa e l'uomo non se ne accorge;"
+    },
+    {
+      "versi": [10, 12],
+      "testo": "ch’altra potenza è quella che l’ascolta,\ne altra è quella c’ ha l’anima intera:\nquesta è quasi legata e quella è sciolta.",
+      "parafrasi": "perché altra è la facoltà che ascolta, e altra quella che ha l'anima intera: questa è quasi legata e quella è libera."
+    },
+    {
+      "versi": [13, 15],
+      "testo": "Di ciò ebb’io esperïenza vera,\nudendo quello spirto e ammirando;\nché ben cinquanta gradi salito era",
+      "parafrasi": "Ne ebbi vera esperienza, ascoltando quello spirito e ammirandolo; perché il sole era salito di ben cinquanta gradi"
+    },
+    {
+      "versi": [16, 18],
+      "testo": "lo sole, e io non m’era accorto, quando\nvenimmo ove quell’anime ad una\ngridaro a noi: \"Qui è vostro dimando\".",
+      "parafrasi": "e io non me n'ero accorto, quando arrivammo dove quelle anime gridarono insieme a noi: «Qui è ciò che chiedete»."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "Maggiore aperta molte volte impruna\ncon una forcatella di sue spine\nl’uom de la villa quando l’uva imbruna,",
+      "parafrasi": "Un contadino, quando l'uva scurisce, chiude con una forcata di spine un'apertura più larga"
+    },
+    {
+      "versi": [22, 24],
+      "testo": "che non era la calla onde salìne\nlo duca mio, e io appresso, soli,\ncome da noi la schiera si partìne.",
+      "parafrasi": "di quel passaggio per cui salì la mia guida e io dietro, soli, appena la schiera si allontanò da noi."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Vassi in Sanleo e discendesi in Noli,\nmontasi su in Bismantova e ’n Cacume\ncon esso i piè; ma qui convien ch’om voli;",
+      "parafrasi": "Si va a Sanleo e si scende a Noli, si sale a Bismantova e al Cacume con i soli piedi; ma qui bisogna volare;"
+    },
+    {
+      "versi": [28, 30],
+      "testo": "dico con l’ale snelle e con le piume\ndel gran disio, di retro a quel condotto\nche speranza mi dava e facea lume.",
+      "parafrasi": "dico con le ali rapide e le penne del gran desiderio, dietro a quella guida che mi dava speranza e faceva luce."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "Noi salavam per entro ’l sasso rotto,\ne d’ogne lato ne stringea lo stremo,\ne piedi e man volea il suol di sotto.",
+      "parafrasi": "Salivamo dentro la roccia spaccata, e da ogni lato il bordo ci stringeva, e il suolo di sotto voleva piedi e mani."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Poi che noi fummo in su l’orlo suppremo\nde l’alta ripa, a la scoperta piaggia,\n\"Maestro mio\", diss’io, \"che via faremo?\".",
+      "parafrasi": "Quando fummo sull'orlo più alto della rupe, in un luogo scoperto, dissi: «Maestro mio, che strada faremo?»."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Ed elli a me: \"Nessun tuo passo caggia;\npur su al monte dietro a me acquista,\nfin che n’appaia alcuna scorta saggia\".",
+      "parafrasi": "Ed egli a me: «Non cada nessun tuo passo; continua a salire il monte dietro di me, finché non ci appaia una guida esperta»."
+    },
+    {
+      "versi": [40, 42],
+      "testo": "Lo sommo er’alto che vincea la vista,\ne la costa superba più assai\nche da mezzo quadrante a centro lista.",
+      "parafrasi": "La cima era così alta che superava la vista, e il pendio molto più ripido della linea che va dal punto di mezzo del quadrante al centro."
+    },
+    {
+      "versi": [43, 45],
+      "testo": "Io era lasso, quando cominciai:\n\"O dolce padre, volgiti, e rimira\ncom’io rimango sol, se non restai\".",
+      "parafrasi": "Io ero stanco quando cominciai: «O dolce padre, voltati, e guarda come resto solo, se non ti fermi»."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "\"Figliuol mio\", disse, \"infin quivi ti tira\",\nadditandomi un balzo poco in sùe\nche da quel lato il poggio tutto gira.",
+      "parafrasi": "«Figlio mio», disse, «trascinati fin lì», indicandomi una balza poco più in alto, che gira tutto intorno al monte da quel lato."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "Sì mi spronaron le parole sue,\nch’i’ mi sforzai carpando appresso lui,\ntanto che ’l cinghio sotto i piè mi fue.",
+      "parafrasi": "Le sue parole mi spronarono tanto che mi sforzai di arrampicarmi dietro di lui, finché la cornice fu sotto i miei piedi."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "A seder ci ponemmo ivi ambedui\nvòlti a levante ond’eravam saliti,\nche suole a riguardar giovare altrui.",
+      "parafrasi": "Ci sedemmo lì entrambi, rivolti a oriente da dove eravamo saliti, cosa che di solito giova a chi guarda."
+    },
+    {
+      "versi": [55, 57],
+      "testo": "Li occhi prima drizzai ai bassi liti;\nposcia li alzai al sole, e ammirava\nche da sinistra n’eravam feriti.",
+      "parafrasi": "Prima volsi gli occhi alle rive in basso, poi li alzai al sole, e mi stupivo che ci colpisse da sinistra."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Ben s’avvide il poeta ch’ïo stava\nstupido tutto al carro de la luce,\nove tra noi e Aquilone intrava.",
+      "parafrasi": "Il poeta si accorse bene che stavo stupito davanti al carro della luce, là dove passava tra noi e l'Aquilone."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Ond’elli a me: \"Se Castore e Poluce\nfossero in compagnia di quello specchio\nche sù e giù del suo lume conduce,",
+      "parafrasi": "Perciò mi disse: «Se Castore e Polluce fossero in compagnia di quello specchio che porta la luce in alto e in basso,"
+    },
+    {
+      "versi": [64, 66],
+      "testo": "tu vedresti il Zodïaco rubecchio\nancora a l’Orse più stretto rotare,\nse non uscisse fuor del cammin vecchio.",
+      "parafrasi": "vedresti lo Zodiaco rossastro girare ancora più vicino alle Orse, se non uscisse dal suo vecchio cammino."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Come ciò sia, se ’l vuoi poter pensare,\ndentro raccolto, imagina Sïòn\ncon questo monte in su la terra stare",
+      "parafrasi": "Se vuoi poter capire come ciò sia, raccogliti in te e immagina Sion e questo monte stare sulla terra"
+    },
+    {
+      "versi": [70, 72],
+      "testo": "sì, ch’amendue hanno un solo orizzòn\ne diversi emisperi; onde la strada\nche mal non seppe carreggiar Fetòn,",
+      "parafrasi": "in modo che abbiano un solo orizzonte ma emisferi diversi; allora, per la strada che Fetonte non seppe percorrere,"
+    },
+    {
+      "versi": [73, 75],
+      "testo": "vedrai come a costui convien che vada\nda l’un, quando a colui da l’altro fianco,\nse lo ’ntelletto tuo ben chiaro bada\".",
+      "parafrasi": "vedrai come debba andare da una parte per l'uno, quando va dall'altra per l'altro, se la tua mente guarda bene chiaro»."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "\"Certo, maestro mio\", diss’io, \"unquanco\nnon vid’io chiaro sì com’io discerno\nlà dove mio ingegno parea manco,",
+      "parafrasi": "«Certo, maestro mio», dissi, «non ho mai visto così chiaro come ora capisco là dove il mio ingegno sembrava mancare,"
+    },
+    {
+      "versi": [79, 81],
+      "testo": "che ’l mezzo cerchio del moto superno,\nche si chiama Equatore in alcun’arte,\ne che sempre riman tra ’l sole e ’l verno,",
+      "parafrasi": "che il cerchio mediano del moto superiore, che in qualche arte si chiama Equatore, e che resta sempre tra il sole e l'inverno,"
+    },
+    {
+      "versi": [82, 84],
+      "testo": "per la ragion che di’, quinci si parte\nverso settentrïon, quanto li Ebrei\nvedevan lui verso la calda parte.",
+      "parafrasi": "per la ragione che dici, si allontana da qui verso nord, quanto gli Ebrei lo vedevano verso la parte calda."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "Ma se a te piace, volontier saprei\nquanto avemo ad andar; ché ’l poggio sale\npiù che salir non posson li occhi miei\".",
+      "parafrasi": "Ma se ti piace, vorrei volentieri sapere quanto dobbiamo ancora andare; perché il pendio sale più di quanto possano salire i miei occhi»."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Ed elli a me: \"Questa montagna è tale,\nche sempre al cominciar di sotto è grave;\ne quant’om più va sù, e men fa male.",
+      "parafrasi": "Ed egli a me: «Questa montagna è tale che all'inizio, dal basso, è sempre faticosa; e quanto più si sale, tanto meno fa male."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Però, quand’ella ti parrà soave\ntanto, che sù andar ti fia leggero\ncom’a seconda giù andar per nave,",
+      "parafrasi": "Perciò, quando ti sembrerà tanto dolce che salire ti sarà facile come andare giù per nave col fiume a favore,"
+    },
+    {
+      "versi": [94, 96],
+      "testo": "allor sarai al fin d’esto sentiero;\nquivi di riposar l’affanno aspetta.\nPiù non rispondo, e questo so per vero\".",
+      "parafrasi": "allora sarai alla fine di questo sentiero; lì aspetta di riposare dalla fatica. Non rispondo di più, e questo so per certo»."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "E com’elli ebbe sua parola detta,\nuna voce di presso sonò: \"Forse\nche di sedere in pria avrai distretta!\".",
+      "parafrasi": "E appena ebbe detto queste parole, una voce vicina risuonò: «Forse prima di allora avrai bisogno di sederti!»."
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Al suon di lei ciascun di noi si torse,\ne vedemmo a mancina un gran petrone,\ndel qual né io né ei prima s’accorse.",
+      "parafrasi": "Al suono di essa ciascuno di noi si voltò, e vedemmo a sinistra un grande masso, di cui né io né lui ci eravamo accorti prima."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Là ci traemmo; e ivi eran persone\nche si stavano a l’ombra dietro al sasso\ncome l’uom per negghienza a star si pone.",
+      "parafrasi": "Ci andammo e lì c'erano persone che stavano all'ombra dietro il sasso, come l'uomo si mette a stare per pigrizia."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "E un di lor, che mi sembiava lasso,\nsedeva e abbracciava le ginocchia,\ntenendo ’l viso giù tra esse basso.",
+      "parafrasi": "E uno di loro, che mi sembrava stanco, sedeva abbracciando le ginocchia e tenendo il viso basso fra esse."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "\"O dolce segnor mio\", diss’io, \"adocchia\ncolui che mostra sé più negligente\nche se pigrizia fosse sua serocchia\".",
+      "parafrasi": "«O dolce mio signore», dissi, «guarda colui che si mostra più pigro che se la pigrizia fosse sua sorella»."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Allor si volse a noi e puose mente,\nmovendo ’l viso pur su per la coscia,\ne disse: \"Or va tu sù, che se’ valente!\".",
+      "parafrasi": "Allora si volse verso di noi e fece attenzione, muovendo il viso solo su lungo la coscia, e disse: «Va' su tu, che sei bravo!»."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "Conobbi allor chi era, e quella angoscia\nche m’avacciava un poco ancor la lena,\nnon m’impedì l’andare a lui; e poscia",
+      "parafrasi": "Allora capii chi era, e l'affanno che mi accorciava ancora un poco il respiro non mi impedì di andare da lui; e dopo"
+    },
+    {
+      "versi": [118, 120],
+      "testo": "ch’a lui fu’ giunto, alzò la testa a pena,\ndicendo: \"Hai ben veduto come ’l sole\nda l’omero sinistro il carro mena?\".",
+      "parafrasi": "che gli fui giunto, alzò appena la testa, dicendo: «Hai ben visto come il sole conduce il carro dalla spalla sinistra?»."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "Li atti suoi pigri e le corte parole\nmosser le labbra mie un poco a riso;\npoi cominciai: \"Belacqua, a me non dole",
+      "parafrasi": "I suoi gesti pigri e le parole brevi mossero un po' le mie labbra al riso; poi cominciai: «Belacqua, di te"
+    },
+    {
+      "versi": [124, 126],
+      "testo": "di te omai; ma dimmi: perché assiso\nquiritto se’ ? attendi tu iscorta,\no pur lo modo usato t’ ha’ ripriso?\".",
+      "parafrasi": "non mi dispiace più; ma dimmi: perché sei seduto proprio qui? Aspetti una guida, o hai ripreso il tuo solito modo?»."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Ed elli: \"O frate, andar in sù che porta?\nché non mi lascerebbe ire a’ martìri\nl’angel di Dio che siede in su la porta.",
+      "parafrasi": "Ed egli: «O fratello, andare su a che serve? Non mi lascerebbe entrare ai tormenti l'angelo di Dio che siede sulla porta."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Prima convien che tanto il ciel m’aggiri\ndi fuor da essa, quanto fece in vita,\nperch’io ’ndugiai al fine i buon sospiri,",
+      "parafrasi": "Prima bisogna che il cielo giri attorno a me, fuori da essa, tanto quanto fece in vita, perché ritardai fino alla fine i buoni sospiri,"
+    },
+    {
+      "versi": [133, 135],
+      "testo": "se orazïone in prima non m’aita\nche surga sù di cuor che in grazia viva;\nl’altra che val, che ’n ciel non è udita?\".",
+      "parafrasi": "se prima non mi aiuta la preghiera che sorga da un cuore che viva in grazia; l'altra a che vale, se in cielo non è ascoltata?»."
+    },
+    {
+      "versi": [136, 138],
+      "testo": "E già il poeta innanzi mi saliva,\ne dicea: \"Vienne omai; vedi ch’è tocco\nmeridïan dal sole, e a la riva",
+      "parafrasi": "E già il poeta mi saliva davanti e diceva: «Vieni ormai; vedi che il sole ha toccato il meridiano, e sulla riva"
+    },
+    {
+      "versi": [139, 139],
+      "testo": "cuopre la notte già col piè Morrocco\".",
+      "parafrasi": "la notte già copre col piede il Marocco»."
+    }
+  ]
+}

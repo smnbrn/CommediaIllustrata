@@ -1,0 +1,336 @@
+{
+  "cantica": "purgatorio",
+  "canto": 1,
+  "titolo": "Catone, il giunco e la rugiada",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_I",
+  "numero_versi": 136,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 27],
+      "titolo_scena": "Il proemio e il cielo d'oriente",
+      "sintesi": "Dante apre il Purgatorio invocando le Muse; uscito dall'aria nera dell'Inferno, vede il cielo d'oriente color zaffiro, Venere che fa ridere l'aurora e, nell'altro emisfero, quattro stelle mai viste da nessuno dopo i primi uomini.",
+      "luogo_id": "spiaggia",
+      "personaggi": ["dante"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Il proemio e il cielo d'oriente",
+          "url": "img/ia/purgatorio-01-scena-1.jpg",
+          "miniatura": "img/ia/purgatorio-01-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [28, 48],
+      "titolo_scena": "Catone appare",
+      "sintesi": "Distolto lo sguardo dalle stelle, Dante vede accanto a sé un vecchio solo, dall'aspetto venerabile, con la barba lunga e bianca, il viso illuminato dalle quattro luci come dal sole; è Catone, che interroga severo i due viaggiatori.",
+      "luogo_id": "spiaggia",
+      "personaggi": ["dante", "virgilio", "catone"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Catone",
+          "url": "img/dore/purgatorio-01-catone-960.jpg",
+          "miniatura": "img/dore/purgatorio-01-catone-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148974123).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [49, 84],
+      "titolo_scena": "La risposta di Virgilio",
+      "sintesi": "Virgilio fa inginocchiare Dante e risponde a Catone: sono venuti per volere di una donna scesa dal cielo; Dante è ancora vivo e cerca la libertà, come ben sa chi, come Catone, scelse la morte per essa. Virgilio invoca anche l'amore di Marzia, che sta nel Limbo.",
+      "luogo_id": "spiaggia",
+      "personaggi": ["dante", "virgilio", "catone"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Catone",
+          "url": "img/dore/purgatorio-01-catone-960.jpg",
+          "miniatura": "img/dore/purgatorio-01-catone-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148974123).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [85, 111],
+      "titolo_scena": "La risposta di Catone",
+      "sintesi": "Catone risponde che Marzia gli fu cara, ma ora il fiume infernale lo separa da lei; per lei non occorrono lusinghe, basta l'ordine della donna celeste. Ordina a Virgilio di cingere Dante con un giunco e di lavargli il viso, poi sparisce, indicando la via per salire il monte.",
+      "luogo_id": "spiaggia",
+      "personaggi": ["dante", "virgilio", "catone"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La risposta di Catone",
+          "url": "img/ia/purgatorio-01-scena-4.jpg",
+          "miniatura": "img/ia/purgatorio-01-scena-4.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-5",
+      "versi": [112, 136],
+      "titolo_scena": "La rugiada e il giunco",
+      "sintesi": "All'alba i due poeti attraversano il piano deserto; dove la rugiada resiste al sole Virgilio, con le mani aperte sull'erba, lava il viso a Dante dal nero dell'Inferno. Poi sul lido cinge Dante col giunco, che subito rinasce al posto di quello strappato.",
+      "luogo_id": "spiaggia",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Dante e Virgilio sul piano solitario",
+          "url": "img/dore/purgatorio-01-poeti-piano-960.jpg",
+          "miniatura": "img/dore/purgatorio-01-poeti-piano-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148974097).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Per correr miglior acque alza le vele\nomai la navicella del mio ingegno,\nche lascia dietro a sé mar sì crudele;",
+      "parafrasi": "Per correre acque migliori, la piccola barca del mio ingegno alza ormai le vele, lasciandosi alle spalle un mare così crudele;"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "e canterò di quel secondo regno\ndove l’umano spirito si purga\ne di salire al ciel diventa degno.",
+      "parafrasi": "e canterò di quel secondo regno dove lo spirito umano si purifica e diventa degno di salire al cielo."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "Ma qui la morta poesì resurga,\no sante Muse, poi che vostro sono;\ne qui Calïopè alquanto surga,",
+      "parafrasi": "Ma qui la poesia, rimasta come morta, torni a vivere, o sante Muse, poiché sono vostro; e qui Calliope si alzi un poco,"
+    },
+    {
+      "versi": [10, 12],
+      "testo": "seguitando il mio canto con quel suono\ndi cui le Piche misere sentiro\nlo colpo tal, che disperar perdono.",
+      "parafrasi": "accompagnando il mio canto con quella musica il cui colpo fece disperare le Piche sventurate di ottenere perdono."
+    },
+    {
+      "versi": [13, 15],
+      "testo": "Dolce color d’orïental zaffiro,\nche s’accoglieva nel sereno aspetto\ndel mezzo, puro infino al primo giro,",
+      "parafrasi": "Il dolce colore dello zaffiro orientale, che si raccoglieva nella serenità del cielo, limpido fino al primo orizzonte,"
+    },
+    {
+      "versi": [16, 18],
+      "testo": "a li occhi miei ricominciò diletto,\ntosto ch’io usci’ fuor de l’aura morta\nche m’avea contristati li occhi e ’l petto.",
+      "parafrasi": "tornò a rallegrare i miei occhi appena fui uscito dall'aria morta che mi aveva rattristato gli occhi e il petto."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "Lo bel pianeto che d’amar conforta\nfaceva tutto rider l’orïente,\nvelando i Pesci ch’erano in sua scorta.",
+      "parafrasi": "Il bel pianeta che spinge ad amare faceva ridere tutto l'oriente, coprendo con la sua luce i Pesci che gli stavano accanto."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "I’ mi volsi a man destra, e puosi mente\na l’altro polo, e vidi quattro stelle\nnon viste mai fuor ch’a la prima gente.",
+      "parafrasi": "Mi voltai a destra e rivolsi lo sguardo all'altro polo, e vidi quattro stelle che nessuno aveva più visto dopo i primi uomini."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Goder pareva ’l ciel di lor fiammelle:\noh settentrïonal vedovo sito,\npoi che privato se’ di mirar quelle!",
+      "parafrasi": "Il cielo sembrava godere delle loro fiammelle: oh settentrione, luogo rimasto vedovo, perché ti è tolto di guardarle!"
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Com’io da loro sguardo fui partito,\nun poco me volgendo a l’altro polo,\nlà onde ’l Carro già era sparito,",
+      "parafrasi": "Quando mi fui distolto dal loro sguardo, voltandomi un poco verso l'altro polo, dove il Carro era già tramontato,"
+    },
+    {
+      "versi": [31, 33],
+      "testo": "vidi presso di me un veglio solo,\ndegno di tanta reverenza in vista,\nche più non dee a padre alcun figliuolo.",
+      "parafrasi": "vidi vicino a me un vecchio solo, tanto degno di rispetto nell'aspetto che nessun figlio ne deve di più al padre."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Lunga la barba e di pel bianco mista\nportava, a’ suoi capelli simigliante,\nde’ quai cadeva al petto doppia lista.",
+      "parafrasi": "Portava la barba lunga e mista di peli bianchi, simile ai capelli, che gli cadevano sul petto in due ciocche."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Li raggi de le quattro luci sante\nfregiavan sì la sua faccia di lume,\nch’i’ ’l vedea come ’l sol fosse davante.",
+      "parafrasi": "I raggi delle quattro stelle sante gli adornavano talmente il viso di luce che lo vedevo come se avesse il sole davanti."
+    },
+    {
+      "versi": [40, 42],
+      "testo": "\"Chi siete voi che contro al cieco fiume\nfuggita avete la pregione etterna?\",\ndiss’el, movendo quelle oneste piume.",
+      "parafrasi": "«Chi siete voi che, risalendo il fiume nascosto, siete fuggiti dalla prigione eterna?», disse, muovendo quella barba onesta."
+    },
+    {
+      "versi": [43, 45],
+      "testo": "\"Chi v’ ha guidati, o che vi fu lucerna,\nuscendo fuor de la profonda notte\nche sempre nera fa la valle inferna?",
+      "parafrasi": "«Chi vi ha guidati, o chi vi ha fatto da luce, mentre uscivate dalla notte profonda che rende sempre nera la valle infernale?"
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Son le leggi d’abisso così rotte?\no è mutato in ciel novo consiglio,\nche, dannati, venite a le mie grotte?\".",
+      "parafrasi": "Sono dunque infrante le leggi dell'abisso? O in cielo è stato preso un nuovo consiglio, che voi, dannati, venite alle mie rupi?»."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "Lo duca mio allor mi diè di piglio,\ne con parole e con mani e con cenni\nreverenti mi fé le gambe e ’l ciglio.",
+      "parafrasi": "Allora la mia guida mi prese e, con le parole, con le mani e con i gesti, mi fece inchinare le ginocchia e abbassare lo sguardo con rispetto."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "Poscia rispuose lui: \"Da me non venni:\ndonna scese del ciel, per li cui prieghi\nde la mia compagnia costui sovvenni.",
+      "parafrasi": "Poi rispose a lui: «Non sono venuto da me: una donna scese dal cielo e, per le sue preghiere, ho soccorso costui con la mia compagnia."
+    },
+    {
+      "versi": [55, 57],
+      "testo": "Ma da ch’è tuo voler che più si spieghi\ndi nostra condizion com’ell’è vera,\nesser non puote il mio che a te si nieghi.",
+      "parafrasi": "Ma poiché è tua volontà che si spieghi di più la nostra condizione, così com'è davvero, non può il mio volere negarsi a te."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Questi non vide mai l’ultima sera;\nma per la sua follia le fu sì presso,\nche molto poco tempo a volger era.",
+      "parafrasi": "Costui non ha visto la sua ultima sera, ma per la sua follia le fu così vicino che restava pochissimo tempo."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Sì com’io dissi, fui mandato ad esso\nper lui campare; e non lì era altra via\nche questa per la quale i’ mi son messo.",
+      "parafrasi": "Come ti ho detto, fui mandato da lui per salvarlo; e non c'era altra via che questa per la quale mi sono messo."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Mostrata ho lui tutta la gente ria;\ne ora intendo mostrar quelli spirti\nche purgan sé sotto la tua balìa.",
+      "parafrasi": "Gli ho mostrato tutta la gente colpevole; e ora intendo mostrargli quegli spiriti che si purificano sotto il tuo comando."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Com’io l’ ho tratto, saria lungo a dirti;\nde l’alto scende virtù che m’aiuta\nconducerlo a vederti e a udirti.",
+      "parafrasi": "Come l'ho condotto fin qui sarebbe lungo da dire: dall'alto scende una virtù che mi aiuta a guidarlo a vederti e ad ascoltarti."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "Or ti piaccia gradir la sua venuta:\nlibertà va cercando, ch’è sì cara,\ncome sa chi per lei vita rifiuta.",
+      "parafrasi": "Ora ti piaccia di gradire la sua venuta: egli cerca la libertà, che è tanto cara, come sa chi per essa rinuncia alla vita."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Tu ’l sai, ché non ti fu per lei amara\nin Utica la morte, ove lasciasti\nla vesta ch’al gran dì sarà sì chiara.",
+      "parafrasi": "Lo sai tu, per cui non fu amara a Utica la morte, dove lasciasti il corpo che nel gran giorno sarà così splendente."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "Non son li editti etterni per noi guasti,\nché questi vive e Minòs me non lega;\nma son del cerchio ove son li occhi casti",
+      "parafrasi": "Non abbiamo violato le leggi eterne, perché costui è vivo e Minosse non mi vincola; ma io sono del cerchio dove stanno gli occhi casti"
+    },
+    {
+      "versi": [79, 81],
+      "testo": "di Marzia tua, che ’n vista ancor ti priega,\no santo petto, che per tua la tegni:\nper lo suo amore adunque a noi ti piega.",
+      "parafrasi": "di tua moglie Marzia, che con lo sguardo ancora ti prega, o santo cuore, di considerarla tua: per amor suo, dunque, inclinati verso di noi."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "Lasciane andar per li tuoi sette regni;\ngrazie riporterò di te a lei,\nse d’esser mentovato là giù degni\".",
+      "parafrasi": "Lasciaci andare per i tuoi sette regni; riporterò a lei la tua gratitudine, se ti degni di essere ricordato laggiù»."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "\"Marzïa piacque tanto a li occhi miei\nmentre ch’i’ fu’ di là\", diss’elli allora,\n\"che quante grazie volse da me, fei.",
+      "parafrasi": "«Marzia piacque tanto ai miei occhi», disse allora, «quando fui di là, che le concessi tutte le grazie che volle da me."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Or che di là dal mal fiume dimora,\npiù muover non mi può, per quella legge\nche fatta fu quando me n’usci’ fora.",
+      "parafrasi": "Ora che sta di là dal fiume maligno, non può più commuovermi, per quella legge che fu fatta quando ne uscii."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Ma se donna del ciel ti move e regge,\ncome tu di’, non c’è mestier lusinghe:\nbastisi ben che per lei mi richegge.",
+      "parafrasi": "Ma se una donna del cielo ti muove e ti guida, come dici, non servono lusinghe: ti basti che ti chieda in suo nome."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Va dunque, e fa che tu costui ricinghe\nd’un giunco schietto e che li lavi ’l viso,\nsì ch’ogne sucidume quindi stinghe;",
+      "parafrasi": "Va' dunque, e fa' che tu lo cinga con un giunco liscio e gli lavi il viso, in modo che ne tolga ogni sporcizia;"
+    },
+    {
+      "versi": [97, 99],
+      "testo": "ché non si converria, l’occhio sorpriso\nd’alcuna nebbia, andar dinanzi al primo\nministro, ch’è di quei di paradiso.",
+      "parafrasi": "perché non converrebbe, con l'occhio velato da qualche nebbia, presentarsi davanti al primo ministro, che è uno di quelli del Paradiso."
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Questa isoletta intorno ad imo ad imo,\nlà giù colà dove la batte l’onda,\nporta di giunchi sovra ’l molle limo:",
+      "parafrasi": "Quest'isoletta, tutt'intorno alla base, laggiù dove l'onda la batte, porta giunchi sul fango molle:"
+    },
+    {
+      "versi": [103, 105],
+      "testo": "null’altra pianta che facesse fronda\no indurasse, vi puote aver vita,\nperò ch’a le percosse non seconda.",
+      "parafrasi": "nessun'altra pianta che faccia fronda o si indurisca può viverci, perché non cede ai colpi dell'acqua."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Poscia non sia di qua vostra reddita;\nlo sol vi mosterrà, che surge omai,\nprendere il monte a più lieve salita\".",
+      "parafrasi": "Poi non tornate da questa parte; il sole, che sta ormai sorgendo, vi mostrerà dove prendere il monte per una salita più facile»."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "Così sparì; e io sù mi levai\nsanza parlare, e tutto mi ritrassi\nal duca mio, e li occhi a lui drizzai.",
+      "parafrasi": "Così sparì; e io mi alzai in piedi senza parlare e mi strinsi tutto alla mia guida, volgendo gli occhi a lui."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "El cominciò: \"Figliuol, segui i miei passi:\nvolgianci in dietro, ché di qua dichina\nquesta pianura a’ suoi termini bassi\".",
+      "parafrasi": "Cominciò: «Figlio, segui i miei passi: torniamo indietro, perché da questa parte la pianura scende verso i suoi limiti bassi»."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "L’alba vinceva l’ora mattutina\nche fuggia innanzi, sì che di lontano\nconobbi il tremolar de la marina.",
+      "parafrasi": "L'alba vinceva l'ora del mattino che fuggiva davanti a lei, tanto che da lontano riconobbi il tremolio del mare."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Noi andavam per lo solingo piano\ncom’om che torna a la perduta strada,\nche ’nfino ad essa li pare ire in vano.",
+      "parafrasi": "Camminavamo per la pianura solitaria, come chi torna alla strada perduta e fino a ritrovarla gli pare di andare invano."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "Quando noi fummo là ’ve la rugiada\npugna col sole, per essere in parte\ndove, ad orezza, poco si dirada,",
+      "parafrasi": "Quando arrivammo dove la rugiada lotta col sole, perché, essendo in un luogo ventilato, si asciuga poco,"
+    },
+    {
+      "versi": [124, 126],
+      "testo": "ambo le mani in su l’erbetta sparte\nsoavemente ’l mio maestro pose:\nond’io, che fui accorto di sua arte,",
+      "parafrasi": "il mio maestro posò dolcemente le due mani aperte sull'erbetta: e io, che capii il suo intento,"
+    },
+    {
+      "versi": [127, 129],
+      "testo": "porsi ver’ lui le guance lagrimose;\nivi mi fece tutto discoverto\nquel color che l’inferno mi nascose.",
+      "parafrasi": "gli porsi le guance rigate di lacrime; così mi fece ritornare tutto scoperto quel colore che l'Inferno mi aveva nascosto."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Venimmo poi in sul lito diserto,\nche mai non vide navicar sue acque\nomo, che di tornar sia poscia esperto.",
+      "parafrasi": "Poi arrivammo sul lido deserto, che non vide mai navigare le sue acque nessuno che poi abbia saputo tornare."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "Quivi mi cinse sì com’altrui piacque:\noh maraviglia! ché qual elli scelse\nl’umile pianta, cotal si rinacque",
+      "parafrasi": "Là mi cinse come piacque a un altro: oh meraviglia! Quale egli scelse l'umile pianta, tale subito rinacque"
+    },
+    {
+      "versi": [136, 136],
+      "testo": "subitamente là onde l’avelse.",
+      "parafrasi": "nello stesso punto da cui l'aveva strappata."
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "cantica": "purgatorio",
+  "canto": 3,
+  "titolo": "Il limite della ragione e Manfredi",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_III",
+  "numero_versi": 145,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 45],
+      "titolo_scena": "La ragione ha un limite",
+      "sintesi": "Dopo la fuga delle anime Dante, spaventato di restare solo, si stringe a Virgilio, che si rimprovera con dignità per un piccolo indugio. Notando che Dante è corporeo e proietta ombra, Virgilio spiega che i corpi di spiriti soffrono senza che sappiamo come, e avverte che la ragione umana non può spiegare Dio: bisogna accontentarsi del «quia».",
+      "luogo_id": "spiaggia",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La ragione ha un limite",
+          "url": "img/ia/purgatorio-03-scena-1.jpg",
+          "miniatura": "img/ia/purgatorio-03-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [46, 78],
+      "titolo_scena": "La roccia e le anime lente",
+      "sintesi": "Arrivati ai piedi del monte, i poeti trovano la roccia così ripida che le gambe più pronte sarebbero inutili; Virgilio si ferma incerto sul lato da cui salire. A sinistra appare una schiera di anime che avanza lentissima: Dante la indica a Virgilio, che gli dice di andare loro incontro e di non perdere la speranza.",
+      "luogo_id": "antipurgatorio-scomunicati",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Dante e Virgilio ai piedi della roccia",
+          "url": "img/dore/purgatorio-03-roccia-960.jpg",
+          "miniatura": "img/dore/purgatorio-03-roccia-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148974172).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [79, 108],
+      "titolo_scena": "Le anime come pecorelle",
+      "sintesi": "Le anime escono dal gruppo a una, a due, a tre, come pecore dall'ovile, timide e semplici, e si fermano vedendo l'ombra di Dante sul terreno. Virgilio spiega che il corpo è vero e che Dante sale per volere del cielo; un'anima dalla schiera lo invita a seguirli e gli chiede di guardarla in viso.",
+      "luogo_id": "antipurgatorio-scomunicati",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Le anime come pecorelle",
+          "url": "img/ia/purgatorio-03-scena-3.jpg",
+          "miniatura": "img/ia/purgatorio-03-scena-3.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [109, 145],
+      "titolo_scena": "Manfredi",
+      "sintesi": "Dante dichiara di non averlo mai visto; l'anima gli mostra una ferita sul petto e si presenta: è Manfredi, nipote dell'imperatrice Costanza. Racconta di essersi pentito in punto di morte, della sepoltura tolta dal papa, della legge degli scomunicati, e prega Dante di riferire alla figlia Costanza come l'ha visto.",
+      "luogo_id": "antipurgatorio-scomunicati",
+      "personaggi": ["dante", "virgilio", "manfredi"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Manfredi",
+          "url": "img/ia/purgatorio-03-scena-4.jpg",
+          "miniatura": "img/ia/purgatorio-03-scena-4.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Avvegna che la subitana fuga\ndispergesse color per la campagna,\nrivolti al monte ove ragion ne fruga,",
+      "parafrasi": "Benché la fuga improvvisa avesse disperso quelle anime per la pianura, rivolte al monte dove la ragione ci spinge,"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "i’ mi ristrinsi a la fida compagna:\ne come sare’ io sanza lui corso?\nchi m’avria tratto su per la montagna?",
+      "parafrasi": "io mi strinsi alla fedele compagna: e come avrei fatto a correre senza di lui? Chi mi avrebbe portato su per la montagna?"
+    },
+    {
+      "versi": [7, 9],
+      "testo": "El mi parea da sé stesso rimorso:\no dignitosa coscïenza e netta,\ncome t’è picciol fallo amaro morso!",
+      "parafrasi": "Mi sembrava rimordersi da sé: oh coscienza degna e pura, come ti è amaro un piccolo errore!"
+    },
+    {
+      "versi": [10, 12],
+      "testo": "Quando li piedi suoi lasciar la fretta,\nche l’onestade ad ogn’atto dismaga,\nla mente mia, che prima era ristretta,",
+      "parafrasi": "Quando i suoi piedi lasciarono la fretta, che toglie dignità a ogni gesto, la mia mente, che prima era raccolta,"
+    },
+    {
+      "versi": [13, 15],
+      "testo": "lo ’ntento rallargò, sì come vaga,\ne diedi ’l viso mio incontr’al poggio\nche ’nverso ’l ciel più alto si dislaga.",
+      "parafrasi": "allargò l'attenzione, come desiderosa, e rivolsi lo sguardo al monte che si innalza più alto verso il cielo."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "Lo sol, che dietro fiammeggiava roggio,\nrotto m’era dinanzi a la figura,\nch’avëa in me de’ suoi raggi l’appoggio.",
+      "parafrasi": "Il sole, che fiammeggiava rosso alle mie spalle, era interrotto davanti a me dalla figura del mio corpo, che ne bloccava i raggi."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "Io mi volsi dallato con paura\nd’essere abbandonato, quand’io vidi\nsolo dinanzi a me la terra oscura;",
+      "parafrasi": "Mi voltai di lato con paura di essere stato abbandonato, quando vidi solo davanti a me la terra scura;"
+    },
+    {
+      "versi": [22, 24],
+      "testo": "e ’l mio conforto: \"Perché pur diffidi?\",\na dir mi cominciò tutto rivolto;\n\"non credi tu me teco e ch’io ti guidi?",
+      "parafrasi": "e il mio conforto cominciò a dirmi, tutto rivolto verso di me: «Perché dubiti ancora? Non credi che io sia con te e ti guidi?"
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Vespero è già colà dov’è sepolto\nlo corpo dentro al quale io facea ombra;\nNapoli l’ ha, e da Brandizio è tolto.",
+      "parafrasi": "Laggiù è già sera, dove è sepolto il corpo dentro il quale facevo ombra: ce l'ha Napoli, ed è stato portato via da Brindisi."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Ora, se innanzi a me nulla s’aombra,\nnon ti maravigliar più che d’i cieli\nche l’uno a l’altro raggio non ingombra.",
+      "parafrasi": "Ora, se davanti a me nessuna ombra si forma, non ti stupire più che per i cieli, dove un raggio non ostacola l'altro."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "A sofferir tormenti, caldi e geli\nsimili corpi la Virtù dispone\nche, come fa, non vuol ch’a noi si sveli.",
+      "parafrasi": "La Virtù divina dispone che corpi simili soffrano tormenti, caldo e freddo, e non vuole che il modo ci sia rivelato."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Matto è chi spera che nostra ragione\npossa trascorrer la infinita via\nche tiene una sustanza in tre persone.",
+      "parafrasi": "È pazzo chi spera che la nostra ragione possa percorrere la via infinita che segue una sola sostanza in tre persone."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "State contenti, umana gente, al quia;\nché, se potuto aveste veder tutto,\nmestier non era parturir Maria;",
+      "parafrasi": "Accontentatevi del «quia», genti umane; perché, se aveste potuto vedere tutto, non sarebbe stato necessario che Maria partorisse;"
+    },
+    {
+      "versi": [40, 42],
+      "testo": "e disïar vedeste sanza frutto\ntai che sarebbe lor disio quetato,\nch’etternalmente è dato lor per lutto:",
+      "parafrasi": "e vedeste desiderare inutilmente persone il cui desiderio sarebbe stato appagato, mentre invece è dato loro in eterno come pena:"
+    },
+    {
+      "versi": [43, 45],
+      "testo": "io dico d’Aristotile e di Plato\ne di molt’altri\"; e qui chinò la fronte,\ne più non disse, e rimase turbato.",
+      "parafrasi": "parlo di Aristotele, di Platone e di molti altri»; e qui chinò la fronte, non disse altro e rimase turbato."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Noi divenimmo intanto a piè del monte;\nquivi trovammo la roccia sì erta,\nche ’ndarno vi sarien le gambe pronte.",
+      "parafrasi": "Intanto arrivammo ai piedi del monte; qui trovammo la roccia così ripida che le gambe più pronte vi sarebbero inutili."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "Tra Lerice e Turbìa la più diserta,\nla più rotta ruina è una scala,\nverso di quella, agevole e aperta.",
+      "parafrasi": "Tra Lerici e Turbia la frana più deserta e più dirupata è una scala facile e aperta, in confronto a quella."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "\"Or chi sa da qual man la costa cala\",\ndisse ’l maestro mio fermando ’l passo,\n\"sì che possa salir chi va sanz’ala?\".",
+      "parafrasi": "«Ora chi sa da quale lato il pendio scende», disse il mio maestro fermando il passo, «in modo che possa salire chi va senz'ali?»."
+    },
+    {
+      "versi": [55, 57],
+      "testo": "E mentre ch’e’ tenendo ’l viso basso\nessaminava del cammin la mente,\ne io mirava suso intorno al sasso,",
+      "parafrasi": "E mentre lui, tenendo il viso basso, esaminava nella mente il cammino, e io guardavo in su intorno alla roccia,"
+    },
+    {
+      "versi": [58, 60],
+      "testo": "da man sinistra m’apparì una gente\nd’anime, che movieno i piè ver’ noi,\ne non pareva, sì venïan lente.",
+      "parafrasi": "a sinistra mi apparve una schiera di anime che muovevano i piedi verso di noi, e non sembrava, tanto andavano lente."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "\"Leva\", diss’io, \"maestro, li occhi tuoi:\necco di qua chi ne darà consiglio,\nse tu da te medesmo aver nol puoi\".",
+      "parafrasi": "«Alza, maestro, gli occhi», dissi, «ecco di qua chi ci darà consiglio, se tu non puoi trovarlo da te»."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Guardò allora, e con libero piglio\nrispuose: \"Andiamo in là, ch’ei vegnon piano;\ne tu ferma la spene, dolce figlio\".",
+      "parafrasi": "Guardò allora e con aria sollevata rispose: «Andiamo là, perché vengono piano; e tu, dolce figlio, rafforza la speranza»."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Ancora era quel popol di lontano,\ni’ dico dopo i nostri mille passi,\nquanto un buon gittator trarria con mano,",
+      "parafrasi": "Quel popolo era ancora lontano, dico dopo mille dei nostri passi, quanto lancerebbe un buon lanciatore con la mano,"
+    },
+    {
+      "versi": [70, 72],
+      "testo": "quando si strinser tutti ai duri massi\nde l’alta ripa, e stetter fermi e stretti\ncom’a guardar, chi va dubbiando, stassi.",
+      "parafrasi": "quando si strinsero tutti alle dure rocce dell'alta riva e restarono fermi e stretti come chi si ferma a guardare, dubbioso."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "\"O ben finiti, o già spiriti eletti\",\nVirgilio incominciò, \"per quella pace\nch’i’ credo che per voi tutti s’aspetti,",
+      "parafrasi": "«O morti ben finiti, o spiriti già eletti», cominciò Virgilio, «per quella pace che credo vi attenda tutti,"
+    },
+    {
+      "versi": [76, 78],
+      "testo": "ditene dove la montagna giace,\nsì che possibil sia l’andare in suso;\nché perder tempo a chi più sa più spiace\".",
+      "parafrasi": "diteci dove la montagna è meno ripida, in modo che si possa salire; perché perdere tempo dispiace più a chi più sa»."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Come le pecorelle escon del chiuso\na una, a due, a tre, e l’altre stanno\ntimidette atterrando l’occhio e ’l muso;",
+      "parafrasi": "Come le pecorelle escono dal recinto a una, a due, a tre, e le altre restano timide, abbassando occhi e muso,"
+    },
+    {
+      "versi": [82, 84],
+      "testo": "e ciò che fa la prima, e l’altre fanno,\naddossandosi a lei, s’ella s’arresta,\nsemplici e quete, e lo ’mperché non sanno;",
+      "parafrasi": "e ciò che fa la prima fanno le altre, addossandosi a lei se si ferma, semplici e quiete, senza sapere il perché;"
+    },
+    {
+      "versi": [85, 87],
+      "testo": "sì vid’io muovere a venir la testa\ndi quella mandra fortunata allotta,\npudica in faccia e ne l’andare onesta.",
+      "parafrasi": "così vidi muoversi per venire il capo di quella mandria fortunata, pudica in volto e onesta nel camminare."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Come color dinanzi vider rotta\nla luce in terra dal mio destro canto,\nsì che l’ombra era da me a la grotta,",
+      "parafrasi": "Quando i primi videro la luce interrotta a terra dal mio lato destro, così che l'ombra andava da me alla roccia,"
+    },
+    {
+      "versi": [91, 93],
+      "testo": "restaro, e trasser sé in dietro alquanto,\ne tutti li altri che venieno appresso,\nnon sappiendo ’l perché, fenno altrettanto.",
+      "parafrasi": "si fermarono e si ritirarono un poco, e tutti gli altri che venivano dietro, senza sapere il perché, fecero lo stesso."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "\"Sanza vostra domanda io vi confesso\nche questo è corpo uman che voi vedete;\nper che ’l lume del sole in terra è fesso.",
+      "parafrasi": "«Senza che me lo chiediate vi confesso che questo che vedete è un corpo umano; per questo la luce del sole è spezzata a terra."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Non vi maravigliate, ma credete\nche non sanza virtù che da ciel vegna\ncerchi di soverchiar questa parete\".",
+      "parafrasi": "Non vi stupite, ma credete che non senza un potere che viene dal cielo egli cerchi di superare questa parete»."
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Così ’l maestro; e quella gente degna\n\"Tornate\", disse, \"intrate innanzi dunque\",\ncoi dossi de le man faccendo insegna.",
+      "parafrasi": "Così il maestro; e quella gente degna disse: «Tornate indietro, entrate dunque davanti a noi», facendo il gesto con il dorso delle mani."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "E un di loro incominciò: \"Chiunque\ntu se’, così andando, volgi ’l viso:\npon mente se di là mi vedesti unque\".",
+      "parafrasi": "E uno di loro cominciò: «Chiunque tu sia, camminando così volgi il viso: pensa se mi hai mai visto di là»."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Io mi volsi ver’ lui e guardail fiso:\nbiondo era e bello e di gentile aspetto,\nma l’un de’ cigli un colpo avea diviso.",
+      "parafrasi": "Mi voltai verso di lui e lo guardai fisso: era biondo, bello e di nobile aspetto, ma un colpo gli aveva diviso uno dei sopraccigli."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "Quand’io mi fui umilmente disdetto\nd’averlo visto mai, el disse: \"Or vedi\";\ne mostrommi una piaga a sommo ’l petto.",
+      "parafrasi": "Quando mi fui scusato umilmente di non averlo mai visto, disse: «Guarda ora»; e mi mostrò una ferita in alto sul petto."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Poi sorridendo disse: \"Io son Manfredi,\nnepote di Costanza imperadrice;\nond’io ti priego che, quando tu riedi,",
+      "parafrasi": "Poi disse sorridendo: «Sono Manfredi, nipote dell'imperatrice Costanza; perciò ti prego che, quando tornerai,"
+    },
+    {
+      "versi": [115, 117],
+      "testo": "vadi a mia bella figlia, genitrice\nde l’onor di Cicilia e d’Aragona,\ne dichi ’l vero a lei, s’altro si dice.",
+      "parafrasi": "vada dalla mia bella figlia, madre dell'onore di Sicilia e di Aragona, e le dica la verità, se si dice altro."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Poscia ch’io ebbi rotta la persona\ndi due punte mortali, io mi rendei,\npiangendo, a quei che volontier perdona.",
+      "parafrasi": "Dopo che ebbi il corpo spezzato da due ferite mortali, mi affidai, piangendo, a colui che perdona volentieri."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "Orribil furon li peccati miei;\nma la bontà infinita ha sì gran braccia,\nche prende ciò che si rivolge a lei.",
+      "parafrasi": "Terribili furono i miei peccati; ma la bontà infinita ha braccia così grandi che accoglie chiunque si volge a lei."
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Se ’l pastor di Cosenza, che a la caccia\ndi me fu messo per Clemente allora,\navesse in Dio ben letta questa faccia,",
+      "parafrasi": "Se il pastore di Cosenza, che fu mandato a darmi la caccia da Clemente, avesse letto bene in Dio questa parola,"
+    },
+    {
+      "versi": [127, 129],
+      "testo": "l’ossa del corpo mio sarieno ancora\nin co del ponte presso a Benevento,\nsotto la guardia de la grave mora.",
+      "parafrasi": "le ossa del mio corpo sarebbero ancora in capo al ponte presso Benevento, sotto la guardia del pesante mucchio di pietre."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Or le bagna la pioggia e move il vento\ndi fuor dal regno, quasi lungo ’l Verde,\ndov’e’ le trasmutò a lume spento.",
+      "parafrasi": "Ora le bagnano la pioggia e le muove il vento, fuori dal regno, quasi lungo il Verde, dove le portò con candele spente."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "Per lor maladizion sì non si perde,\nche non possa tornar, l’etterno amore,\nmentre che la speranza ha fior del verde.",
+      "parafrasi": "Con la loro maledizione non si perde l'amore eterno al punto che non possa tornare, finché la speranza ha un filo di verde."
+    },
+    {
+      "versi": [136, 138],
+      "testo": "Vero è che quale in contumacia more\ndi Santa Chiesa, ancor ch’al fin si penta,\nstar li convien da questa ripa in fore,",
+      "parafrasi": "È vero che chi muore in ribellione alla Santa Chiesa, anche se alla fine si pente, deve stare fuori da questa riva"
+    },
+    {
+      "versi": [139, 141],
+      "testo": "per ognun tempo ch’elli è stato, trenta,\nin sua presunzïon, se tal decreto\npiù corto per buon prieghi non diventa.",
+      "parafrasi": "per un tempo trenta volte quello in cui è stato nella sua presunzione, se tale decreto non diventa più breve per buone preghiere."
+    },
+    {
+      "versi": [142, 144],
+      "testo": "Vedi oggimai se tu mi puoi far lieto,\nrevelando a la mia buona Costanza\ncome m’ hai visto, e anco esto divieto;",
+      "parafrasi": "Vedi ormai se puoi rendermi lieto, rivelando alla mia buona Costanza come mi hai visto, e anche questo divieto;"
+    },
+    {
+      "versi": [145, 145],
+      "testo": "ché qui per quei di là molto s’avanza\".",
+      "parafrasi": "perché qui, per quelli di là, si guadagna molto»."
+    }
+  ]
+}

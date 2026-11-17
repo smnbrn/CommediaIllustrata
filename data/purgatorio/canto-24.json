@@ -1,0 +1,347 @@
+{
+  "cantica": "purgatorio",
+  "canto": 24,
+  "titolo": "Bonagiunta, il dolce stil novo e l'angelo della sesta cornice",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_XXIV",
+  "numero_versi": 154,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 63],
+      "titolo_scena": "Bonagiunta e il dolce stil novo",
+      "sintesi": "Parlando, i poeti procedono veloci come nave spinta dal buon vento, mentre le ombre, smagrite fino a sembrare morte, si stupiscono di vedere Dante vivo. Forese gli indica alcune anime: Bonagiunta da Lucca, papa Martino IV, e altri come Ubaldino e Marchese. Bonagiunta mormora «Gentucca» e profetizza che una giovane donna gli farà amare Lucca; poi chiede se Dante sia colui che scrisse «Donne ch'avete intelletto d'amore». Dante definisce la sua poetica; Bonagiunta capisce il «nodo» che tenne lui, il Notaro e Guittone lontani dal dolce stil novo.",
+      "luogo_id": "cornice-6",
+      "personaggi": ["dante", "virgilio", "stazio", "forese-donati", "bonagiunta-da-lucca"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Bonagiunta e il dolce stil novo",
+          "url": "img/ia/purgatorio-24-scena-1.jpg",
+          "miniatura": "img/ia/purgatorio-24-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [64, 99],
+      "titolo_scena": "Forese si congeda e profetizza",
+      "sintesi": "Come gli uccelli che svernano lungo il Nilo, le anime volano in schiera e poi in fila; ormai leggere per magrezza e per volontà, accelerano. Forese resta indietro con Dante, chiedendogli quando si rivedranno; Dante risponde che non sa, ma non sarà presto. Forese predice la sorte di Corso Donati, il maggior colpevole della rovina di Firenze, trascinato dalla coda di una bestia verso la valle dell'inferno. Poi corre via, come un cavaliere che esce dalla schiera per l'onore del primo scontro.",
+      "luogo_id": "cornice-6",
+      "personaggi": ["dante", "virgilio", "stazio", "forese-donati"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Forese si congeda e profetizza",
+          "url": "img/ia/purgatorio-24-scena-2.jpg",
+          "miniatura": "img/ia/purgatorio-24-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [100, 129],
+      "titolo_scena": "L'albero rovesciato",
+      "sintesi": "Quando Forese è lontano, Dante vede davanti a sé i rami gravidi di un altro albero, sotto il quale gente alza le mani e grida come fanciulli desiderosi e vani verso qualcuno che non risponde. Poi si parte come disingannata. I poeti arrivano al grande albero che rifiuta tanti preghi e lacrime, e una voce tra le fronde dice di passare oltre, perché più su c'è la pianta morsa da Eva, di cui questa è un germoglio. La voce cita esempi di gola punita: i centauri e gli Ebrei di Gedeone.",
+      "luogo_id": "cornice-6",
+      "personaggi": ["dante", "virgilio", "stazio"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "L'albero dei golosi",
+          "url": "img/dore/purgatorio-24-albero-960.jpg",
+          "miniatura": "img/dore/purgatorio-24-albero-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148975239).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [130, 154],
+      "titolo_scena": "L'angelo della temperanza",
+      "sintesi": "Allargatisi sulla strada solitaria, i tre poeti procedono per mille passi senza parlare, quando una voce improvvisa domanda «Che andate pensando voi sol tre?»: Dante si scuote come bestia spaventata. Vede un angelo luminoso più di vetro e metallo in fornace, che dice di voltare qui per salire. Dante non regge la luce e segue i maestri, come un cieco; sente un vento sulla fronte e una voce: «Beati cui alluma tanta grazia che l'amor del gusto nel petto non fuma troppo disio, esurendo sempre quanto è giusto!».",
+      "luogo_id": "cornice-6",
+      "personaggi": ["dante", "virgilio", "stazio", "angelo-della-temperanza"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "L'angelo della temperanza",
+          "url": "img/ia/purgatorio-24-scena-4.jpg",
+          "miniatura": "img/ia/purgatorio-24-scena-4.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Né ’l dir l’andar, né l’andar lui più lento\nfacea, ma ragionando andavam forte,\nsì come nave pinta da buon vento;",
+      "parafrasi": "Né il parlare rallentava il cammino, né il cammino il parlare, ma ragionando andavamo forte, come nave spinta da buon vento;"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "e l’ombre, che parean cose rimorte,\nper le fosse de li occhi ammirazione\ntraean di me, di mio vivere accorte.",
+      "parafrasi": "e le ombre, che sembravano cose morte, dalle fosse degli occhi traevano ammirazione di me, accorgendosi che ero vivo."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "E io, continüando al mio sermone,\ndissi: \"Ella sen va sù forse più tarda\nche non farebbe, per altrui cagione.",
+      "parafrasi": "E io, continuando il mio discorso, dissi: «Ella se ne va su forse più lenta di quanto farebbe per altrui causa."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "Ma dimmi, se tu sai, dov’è Piccarda;\ndimmi s’io veggio da notar persona\ntra questa gente che sì mi riguarda\".",
+      "parafrasi": "Ma dimmi, se lo sai, dov'è Piccarda; dimmi se vedo qualcuno da notare tra questa gente che mi guarda così»."
+    },
+    {
+      "versi": [13, 15],
+      "testo": "\"La mia sorella, che tra bella e buona\nnon so qual fosse più, trïunfa lieta\nne l’alto Olimpo già di sua corona\".",
+      "parafrasi": "«Mia sorella, che tra bella e buona non so quale fosse più, trionfa lieta nell'alto Olimpo già della sua corona»."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "Sì disse prima; e poi: \"Qui non si vieta\ndi nominar ciascun, da ch’è sì munta\nnostra sembianza via per la dïeta.",
+      "parafrasi": "Così disse prima; e poi: «Qui non è vietato nominare ciascuno, poiché così è munta la nostra sembianza dalla dieta."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "Questi\", e mostrò col dito, \"è Bonagiunta,\nBonagiunta da Lucca; e quella faccia\ndi là da lui più che l’altre trapunta",
+      "parafrasi": "Questi», e mostrò col dito, «è Bonagiunta, Bonagiunta da Lucca; e quella faccia di là da lui più degli altri trapunta"
+    },
+    {
+      "versi": [22, 24],
+      "testo": "ebbe la Santa Chiesa in le sue braccia:\ndal Torso fu, e purga per digiuno\nl’anguille di Bolsena e la vernaccia\".",
+      "parafrasi": "ebbe la Santa Chiesa nelle sue braccia: fu di Tours, e purga con il digiuno le anguille di Bolsena e la vernaccia»."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Molti altri mi nomò ad uno ad uno;\ne del nomar parean tutti contenti,\nsì ch’io però non vidi un atto bruno.",
+      "parafrasi": "Molti altri mi nominò a uno a uno; e del nominare sembravano tutti contenti, tanto che non vidi un atto cupo."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Vidi per fame a vòto usar li denti\nUbaldin da la Pila e Bonifazio\nche pasturò col rocco molte genti.",
+      "parafrasi": "Vidi per fame usare a vuoto i denti Ubaldino della Pila e Bonifazio che pasturò con la verga molte genti."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "Vidi messer Marchese, ch’ebbe spazio\ngià di bere a Forlì con men secchezza,\ne sì fu tal, che non si sentì sazio.",
+      "parafrasi": "Vidi messer Marchese, che ebbe già tempo di bere a Forlì con meno secchezza, e fu tale che non si sentì sazio."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Ma come fa chi guarda e poi s’apprezza\npiù d’un che d’altro, fei a quel da Lucca,\nche più parea di me aver contezza.",
+      "parafrasi": "Ma come fa chi guarda e poi stima più uno che un altro, feci a quello da Lucca, che sembrava aver più conoscenza di me."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "El mormorava; e non so che \"Gentucca\"\nsentiv’io là, ov’el sentia la piaga\nde la giustizia che sì li pilucca.",
+      "parafrasi": "Egli mormorava; e non so che «Gentucca» sentivo là, dove sentiva la piaga della giustizia che tanto lo spolpa."
+    },
+    {
+      "versi": [40, 42],
+      "testo": "\"O anima\", diss’io, \"che par sì vaga\ndi parlar meco, fa sì ch’io t’intenda,\ne te e me col tuo parlare appaga\".",
+      "parafrasi": "«O anima», dissi, «che sembri così desiderosa di parlare con me, fa' che io ti capisca, e appaga te e me col tuo parlare»."
+    },
+    {
+      "versi": [43, 45],
+      "testo": "\"Femmina è nata, e non porta ancor benda\",\ncominciò el, \"che ti farà piacere\nla mia città, come ch’om la riprenda.",
+      "parafrasi": "«Una donna è nata, e non porta ancora benda», cominciò egli, «che ti farà piacere la mia città, per quanto la si biasimi."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Tu te n’andrai con questo antivedere:\nse nel mio mormorar prendesti errore,\ndichiareranti ancor le cose vere.",
+      "parafrasi": "Te ne andrai con questa previsione: se nel mio mormorare prendesti errore, ti chiariranno ancora le cose vere."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "Ma dì s’i’ veggio qui colui che fore\ntrasse le nove rime, cominciando\n’Donne ch’avete intelletto d’amore’ \".",
+      "parafrasi": "Ma dimmi se vedo qui colui che tirò fuori le nuove rime, cominciando «Donne ch'avete intelletto d'amore»»."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "E io a lui: \"I’ mi son un che, quando\nAmor mi spira, noto, e a quel modo\nch’e’ ditta dentro vo significando\".",
+      "parafrasi": "E io a lui: «Io sono uno che, quando Amore mi ispira, annoto, e a quel modo che detta dentro vado significando»."
+    },
+    {
+      "versi": [55, 57],
+      "testo": "\"O frate, issa vegg’io\", diss’elli, \"il nodo\nche ’l Notaro e Guittone e me ritenne\ndi qua dal dolce stil novo ch’i’ odo!",
+      "parafrasi": "«O fratello, ora vedo», disse egli, «il nodo che il Notaro e Guittone e me trattenne di qua dal dolce stil novo che io sento!"
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Io veggio ben come le vostre penne\ndi retro al dittator sen vanno strette,\nche de le nostre certo non avvenne;",
+      "parafrasi": "Io vedo bene come le vostre penne vanno strette dietro al dettatore, il che certo non avvenne con le nostre;"
+    },
+    {
+      "versi": [61, 63],
+      "testo": "e qual più a gradire oltre si mette,\nnon vede più da l’uno a l’altro stilo\";\ne, quasi contentato, si tacette.",
+      "parafrasi": "e chi più si mette a voler piacere, non vede più differenza da uno stile all'altro»; e, quasi contentato, si tacque."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Come li augei che vernan lungo ’l Nilo,\nalcuna volta in aere fanno schiera,\npoi volan più a fretta e vanno in filo,",
+      "parafrasi": "Come gli uccelli che svernano lungo il Nilo, talvolta in aria fanno schiera, poi volano più in fretta e vanno in fila,"
+    },
+    {
+      "versi": [67, 69],
+      "testo": "così tutta la gente che lì era,\nvolgendo ’l viso, raffrettò suo passo,\ne per magrezza e per voler leggera.",
+      "parafrasi": "così tutta la gente che era lì, voltando il viso, accelerò il suo passo, e per magrezza e per volontà leggera."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "E come l’uom che di trottare è lasso,\nlascia andar li compagni, e sì passeggia\nfin che si sfoghi l’affollar del casso,",
+      "parafrasi": "E come l'uomo che è stanco di trottare, lascia andare i compagni, e così passeggia finché si sfoga l'affollarsi del petto,"
+    },
+    {
+      "versi": [73, 75],
+      "testo": "sì lasciò trapassar la santa greggia\nForese, e dietro meco sen veniva,\ndicendo: \"Quando fia ch’io ti riveggia?\".",
+      "parafrasi": "così lasciò passare la santa greggia Forese, e dietro con me se ne veniva, dicendo: «Quando sarà che ti rivedo?»."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "\"Non so\", rispuos’io lui, \"quant’io mi viva;\nma già non fïa il tornar mio tantosto,\nch’io non sia col voler prima a la riva;",
+      "parafrasi": "«Non so», risposi, «quanto vivrò; ma già non sarà il mio ritorno così presto che io non sia col volere prima alla riva;"
+    },
+    {
+      "versi": [79, 81],
+      "testo": "però che ’l loco u’ fui a viver posto,\ndi giorno in giorno più di ben si spolpa,\ne a trista ruina par disposto\".",
+      "parafrasi": "perché il luogo dove fui posto a vivere, di giorno in giorno si spoglia di più bene e sembra disposto a triste rovina»."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "\"Or va\", diss’el; \"che quei che più n’ ha colpa,\nvegg’ïo a coda d’una bestia tratto\ninver’ la valle ove mai non si scolpa.",
+      "parafrasi": "«Ora va'», disse; «che colui che più ne ha colpa, io vedo a coda di una bestia tratto verso la valle dove mai non ci si scolpa."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "La bestia ad ogne passo va più ratto,\ncrescendo sempre, fin ch’ella il percuote,\ne lascia il corpo vilmente disfatto.",
+      "parafrasi": "La bestia a ogni passo va più veloce, crescendo sempre, finché lo percuote e lascia il corpo vilmente disfatto."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Non hanno molto a volger quelle ruote\",\ne drizzò li occhi al ciel, \"che ti fia chiaro\nciò che ’l mio dir più dichiarar non puote.",
+      "parafrasi": "Non hanno molto da volgere quelle ruote», e drizzò gli occhi al cielo, «che ti sarà chiaro ciò che il mio dire più non può dichiarare."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Tu ti rimani omai; ché ’l tempo è caro\nin questo regno, sì ch’io perdo troppo\nvenendo teco sì a paro a paro\".",
+      "parafrasi": "Tu resta ormai; perché il tempo è prezioso in questo regno, così che io ne perdo troppo venendo con te così a pari»."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Qual esce alcuna volta di gualoppo\nlo cavalier di schiera che cavalchi,\ne va per farsi onor del primo intoppo,",
+      "parafrasi": "Come esce talvolta di galoppo il cavaliere dalla schiera che cavalca, e va per farsi onore del primo scontro,"
+    },
+    {
+      "versi": [97, 99],
+      "testo": "tal si partì da noi con maggior valchi;\ne io rimasi in via con esso i due\nche fuor del mondo sì gran marescalchi.",
+      "parafrasi": "tale si partì da noi con maggiori passi; e io rimasi in via con quei due che furono del mondo così grandi maestri."
+    },
+    {
+      "versi": [100, 102],
+      "testo": "E quando innanzi a noi intrato fue,\nche li occhi miei si fero a lui seguaci,\ncome la mente a le parole sue,",
+      "parafrasi": "E quando fu entrato davanti a noi, tanto che i miei occhi lo seguirono come la mente le sue parole,"
+    },
+    {
+      "versi": [103, 105],
+      "testo": "parvermi i rami gravidi e vivaci\nd’un altro pomo, e non molto lontani\nper esser pur allora vòlto in laci.",
+      "parafrasi": "mi apparvero i rami gravidi e vivaci di un altro albero, e non molto lontani per essermi appena voltato così;"
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Vidi gente sott’esso alzar le mani\ne gridar non so che verso le fronde,\nquasi bramosi fantolini e vani",
+      "parafrasi": "vidi gente sotto di esso alzare le mani e gridare non so che verso le fronde, come bramosi bimbi e vani"
+    },
+    {
+      "versi": [109, 111],
+      "testo": "che pregano, e ’l pregato non risponde,\nma, per fare esser ben la voglia acuta,\ntien alto lor disio e nol nasconde.",
+      "parafrasi": "che pregano, e il pregato non risponde, ma, per rendere ben acuta la voglia, tiene in alto il loro desiderio e non lo nasconde."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Poi si partì sì come ricreduta;\ne noi venimmo al grande arbore adesso,\nche tanti prieghi e lagrime rifiuta.",
+      "parafrasi": "Poi si partì come ricreduta; e noi arrivammo al grande albero, che rifiuta tanti preghi e lacrime."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "\"Trapassate oltre sanza farvi presso:\nlegno è più sù che fu morso da Eva,\ne questa pianta si levò da esso\".",
+      "parafrasi": "«Passate oltre senza farvi presso: più su c'è l'albero che fu morso da Eva, e questa pianta si levò da esso»."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Sì tra le frasche non so chi diceva;\nper che Virgilio e Stazio e io, ristretti,\noltre andavam dal lato che si leva.",
+      "parafrasi": "Così tra le frasche non so chi diceva; per cui Virgilio, Stazio e io, stretti, andavamo oltre dal lato che si leva."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "\"Ricordivi\", dicea, \"d’i maladetti\nnei nuvoli formati, che, satolli,\nTesëo combatter co’ doppi petti;",
+      "parafrasi": "«Ricordatevi», diceva, «dei maledetti formati nelle nuvole che, sazi, combatterono con Teseo con i doppi petti;"
+    },
+    {
+      "versi": [124, 126],
+      "testo": "e de li Ebrei ch’al ber si mostrar molli,\nper che no i volle Gedeon compagni,\nquando inver’ Madïan discese i colli\".",
+      "parafrasi": "e degli Ebrei che al bere si mostrarono molli, per cui Gedeone non li volle compagni, quando contro Madian discese i colli»."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Sì accostati a l’un d’i due vivagni\npassammo, udendo colpe de la gola\nseguite già da miseri guadagni.",
+      "parafrasi": "Così accostati a uno dei due margini passammo, udendo colpe di gola seguite già da miseri guadagni."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Poi, rallargati per la strada sola,\nben mille passi e più ci portar oltre,\ncontemplando ciascun sanza parola.",
+      "parafrasi": "Poi, allargati per la strada solitaria, ben mille passi e più ci portarono oltre, contemplando ciascuno senza parola."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "\"Che andate pensando sì voi sol tre?\",\nsùbita voce disse; ond’io mi scossi\ncome fan bestie spaventate e poltre.",
+      "parafrasi": "«Che andate pensando voi solo tre?», disse una voce improvvisa; per cui mi scossi come fanno le bestie spaventate e pigre."
+    },
+    {
+      "versi": [136, 138],
+      "testo": "Drizzai la testa per veder chi fossi;\ne già mai non si videro in fornace\nvetri o metalli sì lucenti e rossi,",
+      "parafrasi": "Drizzai la testa per vedere chi fosse; e già mai non si videro in fornace vetri o metalli così lucenti e rossi,"
+    },
+    {
+      "versi": [139, 141],
+      "testo": "com’io vidi un che dicea: \"S’a voi piace\nmontare in sù, qui si convien dar volta;\nquinci si va chi vuole andar per pace\".",
+      "parafrasi": "come vidi uno che diceva: «Se vi piace salire in su, qui conviene girare; di qui si va chi vuole andare per pace»."
+    },
+    {
+      "versi": [142, 144],
+      "testo": "L’aspetto suo m’avea la vista tolta;\nper ch’io mi volsi dietro a’ miei dottori,\ncom’om che va secondo ch’elli ascolta.",
+      "parafrasi": "Il suo aspetto mi aveva tolto la vista; per cui mi volsi dietro ai miei dottori, come chi va secondo che altri ascolta."
+    },
+    {
+      "versi": [145, 147],
+      "testo": "E quale, annunziatrice de li albori,\nl’aura di maggio movesi e olezza,\ntutta impregnata da l’erba e da’ fiori;",
+      "parafrasi": "E come, annunciatrice degli albori, l'aria di maggio si muove e olezza, tutta impregnata dall'erba e dai fiori;"
+    },
+    {
+      "versi": [148, 150],
+      "testo": "tal mi senti’ un vento dar per mezza\nla fronte, e ben senti’ mover la piuma,\nche fé sentir d’ambrosïa l’orezza.",
+      "parafrasi": "tale mi sentii un vento darmi per mezzo la fronte, e sentii bene muovere la penna, che fece sentire d'ambrosia l'aria."
+    },
+    {
+      "versi": [151, 153],
+      "testo": "E senti’ dir: \"Beati cui alluma\ntanto di grazia, che l’amor del gusto\nnel petto lor troppo disir non fuma,",
+      "parafrasi": "E sentii dire: «Beati coloro che tanta grazia illumina, che l'amore del gusto non fuma nel petto loro troppo desiderio,"
+    },
+    {
+      "versi": [154, 154],
+      "testo": "esurïendo sempre quanto è giusto!\".",
+      "parafrasi": "esurendo sempre quanto è giusto!»."
+    }
+  ]
+}

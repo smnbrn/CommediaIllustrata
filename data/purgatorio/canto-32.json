@@ -1,0 +1,357 @@
+{
+  "cantica": "purgatorio",
+  "canto": 32,
+  "titolo": "L'albero spoglio, il sonno di Dante e le sventure del carro",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_XXXII",
+  "numero_versi": 160,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 72],
+      "titolo_scena": "La processione si volge e l'albero spoglio",
+      "sintesi": "Gli occhi di Dante sono tanto fissi a spegnere la sete di dieci anni che gli altri sensi sono spenti, finché le dee gli dicono «Troppo fiso!» e lo costringono a distogliere lo sguardo; abbagliato, per un po' non vede. Poi vede la processione girare a destra e ripartire col sole e le sette fiamme in volto; il grifone muove il carro senza scuotere una piuma. Seguono la ruota Matelda, Stazio e Dante, tra l'alta foresta vuota; giungono a un albero spoglio, venerato da tutti con il nome «Adamo». Il grifone lega il timone al suo tronco e l'albero rifiorisce; Dante si addormenta ascoltando l'inno.",
+      "luogo_id": "paradiso-terrestre",
+      "personaggi": ["dante", "beatrice", "matelda", "stazio", "grifone"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La processione si volge e l'albero spoglio",
+          "url": "img/ia/purgatorio-32-scena-1.jpg",
+          "miniatura": "img/ia/purgatorio-32-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [73, 108],
+      "titolo_scena": "Beatrice sotto l'albero",
+      "sintesi": "Come Pietro, Giovanni e Giacomo, condotti a vedere la Trasfigurazione e vinti dal sonno, tornano alla parola di Cristo, e videro scomparsi Mosè ed Elia e il maestro cambiato di veste, così Dante si risveglia, e vede Matelda sopra di sé. Chiede dov'è Beatrice: ella è seduta sotto la fronda nuova sulla sua radice, sola come guardia del carro lasciato, circondata dalle sette ninfe con i lumi in mano. Gli dice che sarà poco tempo silvano, poi cittadino con lei di quella Roma di cui Cristo è romano; per ora guardi il carro e scriva ciò che vede.",
+      "luogo_id": "paradiso-terrestre",
+      "personaggi": ["dante", "beatrice", "matelda"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Beatrice sotto l'albero",
+          "url": "img/ia/purgatorio-32-scena-2.jpg",
+          "miniatura": "img/ia/purgatorio-32-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [109, 141],
+      "titolo_scena": "L'aquila, la volpe e il drago",
+      "sintesi": "Dante vede scendere come folgore l'uccello di Giove attraverso l'albero, rompendo scorza, fiori e foglie, e colpire il carro che piega come nave in tempesta. Poi una volpe magra si avventa nel carro, ma Beatrice la mette in fuga. L'aquila scende ancora e lascia sul carro le sue piume; una voce dal cielo dice: «O navicella mia, come sei mal carica!». Poi dalla terra esce un drago che ficca la coda nel carro e, ritiratala, se ne va con parte del fondo; il resto si ricopre di piume.",
+      "luogo_id": "paradiso-terrestre",
+      "personaggi": ["dante", "beatrice"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "L'aquila, la volpe e il drago",
+          "url": "img/ia/purgatorio-32-scena-3.jpg",
+          "miniatura": "img/ia/purgatorio-32-scena-3.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [142, 160],
+      "titolo_scena": "Il mostro, la puttana e il gigante",
+      "sintesi": "Il santo edificio, trasformato, mette fuori sette teste: tre sul timone e una per ogni angolo; le prime tre cornute come buoi, le altre quattro con un corno solo. Sopra siede, sicura come una rocca, una puttana sciolta dagli occhi inquieti; accanto a lei un gigante, come per tenerla, con cui si bacia. Ma perché ella volge l'occhio cupido su Dante, il gigante la flagella dalla testa ai piedi; poi, pieno di sospetto, scioglie il mostro e lo trascina per la selva, fino a nascondere la puttana e la belva.",
+      "luogo_id": "paradiso-terrestre",
+      "personaggi": ["dante", "beatrice"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "La puttana e il gigante sul carro",
+          "url": "img/dore/purgatorio-32-carro-960.jpg",
+          "miniatura": "img/dore/purgatorio-32-carro-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148975659).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Tant’eran li occhi miei fissi e attenti\na disbramarsi la decenne sete,\nche li altri sensi m’eran tutti spenti.",
+      "parafrasi": "Tanto erano fissi e attenti i miei occhi a spegnere la sete di dieci anni, che gli altri sensi mi erano tutti spenti."
+    },
+    {
+      "versi": [4, 6],
+      "testo": "Ed essi quinci e quindi avien parete\ndi non caler - così lo santo riso\na sé traéli con l’antica rete! -;",
+      "parafrasi": "Ed essi di qua e di là avevano parete di non curanza, tanto il santo riso li traeva a sé con l'antica rete!"
+    },
+    {
+      "versi": [7, 9],
+      "testo": "quando per forza mi fu vòlto il viso\nver’ la sinistra mia da quelle dee,\nperch’io udi’ da loro un \"Troppo fiso!\";",
+      "parafrasi": "quando per forza mi fu volto il viso verso la mia sinistra da quelle dee, perché io udii da loro un «Troppo fisso!»;"
+    },
+    {
+      "versi": [10, 12],
+      "testo": "e la disposizion ch’a veder èe\nne li occhi pur testé dal sol percossi,\nsanza la vista alquanto esser mi fée.",
+      "parafrasi": "e la disposizione che ha chi vede negli occhi appena percossi dal sole, mi fece senza vista per un poco."
+    },
+    {
+      "versi": [13, 15],
+      "testo": "Ma poi ch’al poco il viso riformossi\n(e dico ’al poco’ per rispetto al molto\nsensibile onde a forza mi rimossi),",
+      "parafrasi": "Ma dopo che la vista si riformò al poco (e dico «al poco» rispetto al molto sensibile da cui a forza mi ero rimosso),"
+    },
+    {
+      "versi": [16, 18],
+      "testo": "vidi ’n sul braccio destro esser rivolto\nlo glorïoso essercito, e tornarsi\ncol sole e con le sette fiamme al volto.",
+      "parafrasi": "vidi che sul braccio destro si era rivolto il glorioso esercito, e tornava col sole e con le sette fiamme in volto."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "Come sotto li scudi per salvarsi\nvolgesi schiera, e sé gira col segno,\nprima che possa tutta in sé mutarsi;",
+      "parafrasi": "Come sotto gli scudi per salvarsi si volge una schiera, e si gira con l'insegna, prima che possa tutta mutarsi;"
+    },
+    {
+      "versi": [22, 24],
+      "testo": "quella milizia del celeste regno\nche procedeva, tutta trapassonne\npria che piegasse il carro il primo legno.",
+      "parafrasi": "quella milizia del regno celeste che procedeva, tutta passò prima che il carro piegasse il primo legno."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Indi a le rote si tornar le donne,\ne ’l grifon mosse il benedetto carco\nsì, che però nulla penna crollonne.",
+      "parafrasi": "Poi alle ruote tornarono le donne, e il grifone mosse il benedetto carico così che non per questo una penna ne tremò."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "La bella donna che mi trasse al varco\ne Stazio e io seguitavam la rota\nche fé l’orbita sua con minore arco.",
+      "parafrasi": "La bella donna che mi trasse al varco e Stazio e io seguivamo la ruota che fece la sua orbita con minore arco."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "Sì passeggiando l’alta selva vòta,\ncolpa di quella ch’al serpente crese,\ntemprava i passi un’angelica nota.",
+      "parafrasi": "Così passeggiando l'alta selva vuota, colpa di quella che al serpente credette, regolava i passi una nota angelica."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Forse in tre voli tanto spazio prese\ndisfrenata saetta, quanto eramo\nrimossi, quando Bëatrice scese.",
+      "parafrasi": "Forse in tre voli tanto spazio prese una saetta scagliata, quanto eravamo discosti, quando Beatrice scese."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Io senti’ mormorare a tutti \"Adamo\";\npoi cerchiaro una pianta dispogliata\ndi foglie e d’altra fronda in ciascun ramo.",
+      "parafrasi": "Io sentii mormorare a tutti «Adamo»; poi circondarono una pianta spogliata di foglie e di altra fronda in ciascun ramo."
+    },
+    {
+      "versi": [40, 42],
+      "testo": "La coma sua, che tanto si dilata\npiù quanto più è sù, fora da l’Indi\nne’ boschi lor per altezza ammirata.",
+      "parafrasi": "La sua chioma, che tanto si dilata più quanto più è in alto, sarebbe dagli Indiani nei loro boschi ammirata per altezza."
+    },
+    {
+      "versi": [43, 45],
+      "testo": "\"Beato se’, grifon, che non discindi\ncol becco d’esto legno dolce al gusto,\nposcia che mal si torce il ventre quindi\".",
+      "parafrasi": "«Beato sei, grifone, che non strappi col becco di questo legno dolce al gusto, poiché male si torce il ventre di qui»."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Così dintorno a l’albero robusto\ngridaron li altri; e l’animal binato:\n\"Sì si conserva il seme d’ogne giusto\".",
+      "parafrasi": "Così intorno all'albero robusto gridarono gli altri; e l'animale di duplice natura: «Così si conserva il seme di ogni giusto»."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "E vòlto al temo ch’elli avea tirato,\ntrasselo al piè de la vedova frasca,\ne quel di lei a lei lasciò legato.",
+      "parafrasi": "E volto al timone che aveva tirato, lo trasse al piede della vedova fronda, e quello di lei a lei lasciò legato."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "Come le nostre piante, quando casca\ngiù la gran luce mischiata con quella\nche raggia dietro a la celeste lasca,",
+      "parafrasi": "Come le nostre piante, quando cade giù la gran luce mischiata con quella che raggia dietro la celeste lasca,"
+    },
+    {
+      "versi": [55, 57],
+      "testo": "turgide fansi, e poi si rinovella\ndi suo color ciascuna, pria che ’l sole\ngiunga li suoi corsier sotto altra stella;",
+      "parafrasi": "si fanno turgide, e poi si rinnova ciascuna del suo colore, prima che il sole aggiunga i suoi corsieri sotto un'altra stella;"
+    },
+    {
+      "versi": [58, 60],
+      "testo": "men che di rose e più che di vïole\ncolore aprendo, s’innovò la pianta,\nche prima avea le ramora sì sole.",
+      "parafrasi": "meno che di rose e più che di viole colore aprendo, si rinnovò la pianta, che prima aveva i rami così soli."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Io non lo ’ntesi, né qui non si canta\nl’inno che quella gente allor cantaro,\nné la nota soffersi tutta quanta.",
+      "parafrasi": "Io non lo intesi, né qui si canta l'inno che quella gente allora cantò, né sopportai la nota tutta quanta."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "S’io potessi ritrar come assonnaro\nli occhi spietati udendo di Siringa,\nli occhi a cui pur vegghiar costò sì caro;",
+      "parafrasi": "Se io potessi ritrarre come si addormentarono gli occhi spietati udendo di Siringa, gli occhi a cui il vegliare costò così caro;"
+    },
+    {
+      "versi": [67, 69],
+      "testo": "come pintor che con essempro pinga,\ndisegnerei com’io m’addormentai;\nma qual vuol sia che l’assonnar ben finga.",
+      "parafrasi": "come pittore che dipinga con esempio, disegnerei come mi addormentai; ma chi voglia ben finga l'assopirsi."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "Però trascorro a quando mi svegliai,\ne dico ch’un splendor mi squarciò ’l velo\ndel sonno, e un chiamar: \"Surgi: che fai?\".",
+      "parafrasi": "Perciò trascorro a quando mi svegliai, e dico che uno splendore mi squarciò il velo del sonno, e un chiamare: «Sorgi: che fai?»."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Quali a veder de’ fioretti del melo\nche del suo pome li angeli fa ghiotti\ne perpetüe nozze fa nel cielo,",
+      "parafrasi": "Come per vedere dei fiorellini del melo, che dei suoi frutti fa golosi gli angeli e fa nozze perpetue nel cielo,"
+    },
+    {
+      "versi": [76, 78],
+      "testo": "Pietro e Giovanni e Iacopo condotti\ne vinti, ritornaro a la parola\nda la qual furon maggior sonni rotti,",
+      "parafrasi": "Pietro e Giovanni e Giacomo condotti e vinti, ritornarono alla parola dalla quale furono rotti maggiori sonni,"
+    },
+    {
+      "versi": [79, 81],
+      "testo": "e videro scemata loro scuola\ncosì di Moïsè come d’Elia,\ne al maestro suo cangiata stola;",
+      "parafrasi": "e videro scemata la loro scuola così di Mosè come di Elia, e al maestro loro mutata la veste;"
+    },
+    {
+      "versi": [82, 84],
+      "testo": "tal torna’ io, e vidi quella pia\nsovra me starsi che conducitrice\nfu de’ miei passi lungo ’l fiume pria.",
+      "parafrasi": "tale tornai io, e vidi quella pia stare sopra di me che fu conduttrice dei miei passi lungo il fiume prima."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "E tutto in dubbio dissi: \"Ov’è Beatrice?\".\nOnd’ella: \"Vedi lei sotto la fronda\nnova sedere in su la sua radice.",
+      "parafrasi": "E tutto in dubbio dissi: «Dov'è Beatrice?». Perciò ella: «La vedi sotto la fronda nuova sedere sulla sua radice."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Vedi la compagnia che la circonda:\nli altri dopo ’l grifon sen vanno suso\ncon più dolce canzone e più profonda\".",
+      "parafrasi": "Vedi la compagnia che la circonda: gli altri dopo il grifone se ne vanno in alto con più dolce canzone e più profonda»."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "E se più fu lo suo parlar diffuso,\nnon so, però che già ne li occhi m’era\nquella ch’ad altro intender m’avea chiuso.",
+      "parafrasi": "E se il suo parlare fu più diffuso, non so, perché già negli occhi mi era quella che ad altro intendere mi aveva chiuso."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Sola sedeasi in su la terra vera,\ncome guardia lasciata lì del plaustro\nche legar vidi a la biforme fera.",
+      "parafrasi": "Sola sedeva sulla terra vera, come guardia lasciata lì del carro che vidi legare alla fiera biforme."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "In cerchio le facevan di sé claustro\nle sette ninfe, con quei lumi in mano\nche son sicuri d’Aquilone e d’Austro.",
+      "parafrasi": "In cerchio le facevano di sé chiostro le sette ninfe, con quei lumi in mano che sono sicuri da Aquilone e da Austro."
+    },
+    {
+      "versi": [100, 102],
+      "testo": "\"Qui sarai tu poco tempo silvano;\ne sarai meco sanza fine cive\ndi quella Roma onde Cristo è romano.",
+      "parafrasi": "«Qui sarai tu poco tempo silvano; e sarai con me senza fine cittadino di quella Roma di cui Cristo è romano."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Però, in pro del mondo che mal vive,\nal carro tieni or li occhi, e quel che vedi,\nritornato di là, fa che tu scrive\".",
+      "parafrasi": "Perciò, in pro del mondo che male vive, al carro tieni ora gli occhi, e quel che vedi, tornato di là, fa' che tu scriva»."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Così Beatrice; e io, che tutto ai piedi\nd’i suoi comandamenti era divoto,\nla mente e li occhi ov’ella volle diedi.",
+      "parafrasi": "Così Beatrice; e io, che tutto ai piedi dei suoi comandamenti ero devoto, la mente e gli occhi dove ella volle diedi."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "Non scese mai con sì veloce moto\nfoco di spessa nube, quando piove\nda quel confine che più va remoto,",
+      "parafrasi": "Non scese mai con così veloce moto fuoco di fitta nube, quando piove da quel confine che più è remoto,"
+    },
+    {
+      "versi": [112, 114],
+      "testo": "com’io vidi calar l’uccel di Giove\nper l’alber giù, rompendo de la scorza,\nnon che d’i fiori e de le foglie nove;",
+      "parafrasi": "come vidi calare l'uccello di Giove per l'albero in giù, rompendo la scorza, non che i fiori e le foglie nuove;"
+    },
+    {
+      "versi": [115, 117],
+      "testo": "e ferì ’l carro di tutta sua forza;\nond’el piegò come nave in fortuna,\nvinta da l’onda, or da poggia, or da orza.",
+      "parafrasi": "e colpì il carro con tutta la sua forza; per cui esso piegò come nave in tempesta, vinta dall'onda, ora da poggia, ora da orza."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Poscia vidi avventarsi ne la cuna\ndel trïunfal veiculo una volpe\nche d’ogne pasto buon parea digiuna;",
+      "parafrasi": "Poi vidi avventarsi nella culla del veicolo trionfale una volpe che sembrava digiuna di ogni buon pasto;"
+    },
+    {
+      "versi": [121, 123],
+      "testo": "ma, riprendendo lei di laide colpe,\nla donna mia la volse in tanta futa\nquanto sofferser l’ossa sanza polpe.",
+      "parafrasi": "ma, rimproverandola di laide colpe, la mia donna la volse in fuga tanto veloce quanto sopportarono le ossa senza polpe."
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Poscia per indi ond’era pria venuta,\nl’aguglia vidi scender giù ne l’arca\ndel carro e lasciar lei di sé pennuta;",
+      "parafrasi": "Poi per dove era prima venuta, vidi l'aquila scendere giù nell'arca del carro e lasciarlo di sé pennuto;"
+    },
+    {
+      "versi": [127, 129],
+      "testo": "e qual esce di cuor che si rammarca,\ntal voce uscì del cielo e cotal disse:\n\"O navicella mia, com’ mal se’ carca!\".",
+      "parafrasi": "e quale esce da un cuore che si rammarica, tale una voce uscì dal cielo e così disse: «O navicella mia, come sei mal carica!»."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Poi parve a me che la terra s’aprisse\ntr’ambo le ruote, e vidi uscirne un drago\nche per lo carro sù la coda fisse;",
+      "parafrasi": "Poi parve a me che la terra si aprisse tra le due ruote, e vidi uscirne un drago che per il carro su ficcò la coda;"
+    },
+    {
+      "versi": [133, 135],
+      "testo": "e come vespa che ritragge l’ago,\na sé traendo la coda maligna,\ntrasse del fondo, e gissen vago vago.",
+      "parafrasi": "e come vespa che ritrae il pungiglione, a sé traendo la coda maligna, trasse parte del fondo, e se ne andò vago vago."
+    },
+    {
+      "versi": [136, 138],
+      "testo": "Quel che rimase, come da gramigna\nvivace terra, da la piuma, offerta\nforse con intenzion sana e benigna,",
+      "parafrasi": "Quello che rimase, come da gramigna terra viva, dalla piuma, offerta forse con intenzione sana e benigna,"
+    },
+    {
+      "versi": [139, 141],
+      "testo": "si ricoperse, e funne ricoperta\ne l’una e l’altra rota e ’l temo, in tanto\nche più tiene un sospir la bocca aperta.",
+      "parafrasi": "si ricoprì, e ne fu ricoperta e l'una e l'altra ruota e il timone, in tanto che più tiene un sospiro la bocca aperta."
+    },
+    {
+      "versi": [142, 144],
+      "testo": "Trasformato così ’l dificio santo\nmise fuor teste per le parti sue,\ntre sovra ’l temo e una in ciascun canto.",
+      "parafrasi": "Trasformato così l'edificio santo mise fuori teste per le sue parti, tre sopra il timone e una a ciascun angolo."
+    },
+    {
+      "versi": [145, 147],
+      "testo": "Le prime eran cornute come bue,\nma le quattro un sol corno avean per fronte:\nsimile mostro visto ancor non fue.",
+      "parafrasi": "Le prime erano cornute come bue, ma le quattro avevano un solo corno per fronte: simile mostro non si vide mai."
+    },
+    {
+      "versi": [148, 150],
+      "testo": "Sicura, quasi rocca in alto monte,\nseder sovresso una puttana sciolta\nm’apparve con le ciglia intorno pronte;",
+      "parafrasi": "Sicura, quasi rocca in alto monte, sedere sopra di esso una puttana sciolta mi apparve con le ciglia intorno pronte;"
+    },
+    {
+      "versi": [151, 153],
+      "testo": "e come perché non li fosse tolta,\nvidi di costa a lei dritto un gigante;\ne basciavansi insieme alcuna volta.",
+      "parafrasi": "e come perché non le fosse tolta, vidi al fianco di lei un gigante in piedi; e si baciavano insieme talvolta."
+    },
+    {
+      "versi": [154, 156],
+      "testo": "Ma perché l’occhio cupido e vagante\na me rivolse, quel feroce drudo\nla flagellò dal capo infin le piante;",
+      "parafrasi": "Ma perché l'occhio cupido e vagante rivolse a me, quel feroce amante la flagellò dalla testa fino ai piedi;"
+    },
+    {
+      "versi": [157, 159],
+      "testo": "poi, di sospetto pieno e d’ira crudo,\ndisciolse il mostro, e trassel per la selva,\ntanto che sol di lei mi fece scudo",
+      "parafrasi": "poi, pieno di sospetto e crudele di ira, sciolse il mostro, e lo trascinò per la selva, tanto che solo di lei mi fece scudo"
+    },
+    {
+      "versi": [160, 160],
+      "testo": "a la puttana e a la nova belva.",
+      "parafrasi": "alla puttana e alla nuova belva."
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "cantica": "purgatorio",
+  "canto": 12,
+  "titolo": "Il pavimento scolpito e l'angelo dell'umiltà",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_XII",
+  "numero_versi": 136,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 24],
+      "titolo_scena": "Il pavimento scolpito",
+      "sintesi": "Dante procede curvo accanto a Oderisi, come buoi sotto il giogo, finché Virgilio lo invita a lasciarlo e a proseguire. Dante si raddrizza ma i pensieri restano chini. Virgilio gli suggerisce di guardare in basso: il pavimento della cornice è scolpito, come le lastre tombali portano l'immagine dei morti, con esempi di superbia punita.",
+      "luogo_id": "cornice-1",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Il pavimento scolpito",
+          "url": "img/ia/purgatorio-12-scena-1.jpg",
+          "miniatura": "img/ia/purgatorio-12-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [25, 42],
+      "titolo_scena": "Lucifero, Briareo, Nembrot, Niobe, Saul",
+      "sintesi": "Il pavimento mostra esempi di superbia punita: Lucifero, creato più nobile di ogni creatura, che precipita come fulmine dal cielo; Briareo trafitto dalla folgore; i giganti sconfitti con Giove, Apollo, Pallade e Marte; Nembrot smarrito ai piedi della torre di Babele; Niobe tra i quattordici figli uccisi; Saul morto sulla propria spada a Gelboe.",
+      "luogo_id": "cornice-1",
+      "personaggi": ["dante", "virgilio", "lucifero", "briareo", "nembrot"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Gli esempi di superbia scolpiti",
+          "url": "img/dore/purgatorio-12-esempi-960.jpg",
+          "miniatura": "img/dore/purgatorio-12-esempi-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148974464).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [43, 72],
+      "titolo_scena": "Aracne, Troia e gli altri esempi",
+      "sintesi": "Altre scene: Aracne già mezza ragno sui resti della sua tela; Roboamo in fuga su un carro; Almeone e il gioiello della madre; i figli di Sennacherib che lo uccidono nel tempio; Tamiri che immerge la testa di Ciro nel sangue; gli Assiri in fuga dopo la morte di Oloferne; Troia in cenere. L'arte è tale che i morti sembrano morti e i vivi vivi. Dante ammonisce i figli di Eva a non abbassare lo sguardo orgoglioso.",
+      "luogo_id": "cornice-1",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Aracne",
+          "url": "img/dore/purgatorio-12-aracne-960.jpg",
+          "miniatura": "img/dore/purgatorio-12-aracne-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148974491).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [73, 96],
+      "titolo_scena": "L'angelo dell'umiltà",
+      "sintesi": "Avanzato il cammino e speso il giorno più di quanto Dante pensasse, Virgilio lo invita ad alzare la testa: viene un angelo, ed è l'ora sesta del giorno. Lo accoglie con riverenza. L'angelo, bianco vestito e luminoso come la stella del mattino, apre le braccia e le ali e li invita a salire: pochi vengono a questo invito.",
+      "luogo_id": "cornice-1",
+      "personaggi": ["dante", "virgilio", "angelo-dell-umilta"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "L'angelo dell'umiltà",
+          "url": "img/ia/purgatorio-12-scena-4.jpg",
+          "miniatura": "img/ia/purgatorio-12-scena-4.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-5",
+      "versi": [97, 136],
+      "titolo_scena": "Il primo P cancellato",
+      "sintesi": "L'angelo li porta dove la roccia è tagliata e batte le ali sulla fronte di Dante, promettendogli sicura la salita. Mentre salgono per le scale, risuona il canto «Beati i poveri in spirito». Dante si sente più leggero e chiede perché: Virgilio spiega che quando i P ancora segnati sulla fronte saranno cancellati, i suoi piedi saranno vinti dal buon volere. Dante, tastando la fronte, scopre che i P sono sei: il primo è stato cancellato.",
+      "luogo_id": "cornice-1",
+      "personaggi": ["dante", "virgilio", "angelo-dell-umilta"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Il primo P cancellato",
+          "url": "img/ia/purgatorio-12-scena-5.jpg",
+          "miniatura": "img/ia/purgatorio-12-scena-5.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Di pari, come buoi che vanno a giogo,\nm’andava io con quell’anima carca,\nfin che ’l sofferse il dolce pedagogo.",
+      "parafrasi": "Appaiato, come buoi che vanno sotto il giogo, andavo con quell'anima carica, finché lo sopportò il dolce maestro."
+    },
+    {
+      "versi": [4, 6],
+      "testo": "Ma quando disse: \"Lascia lui e varca;\nché qui è buono con l’ali e coi remi,\nquantunque può, ciascun pinger sua barca\";",
+      "parafrasi": "Ma quando disse: «Lascialo e passa; perché qui è bene che ciascuno spinga la sua barca con ali e remi, quanto può»;"
+    },
+    {
+      "versi": [7, 9],
+      "testo": "dritto sì come andar vuolsi rife’ mi\ncon la persona, avvegna che i pensieri\nmi rimanessero e chinati e scemi.",
+      "parafrasi": "mi raddrizzai con la persona, come si deve camminare, benché i pensieri mi rimanessero chini e diminuiti."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "Io m’era mosso, e seguia volontieri\ndel mio maestro i passi, e amendue\ngià mostravam com’eravam leggeri;",
+      "parafrasi": "Mi ero mosso e seguivo volentieri i passi del mio maestro, e entrambi ormai mostravamo quanto eravamo leggeri;"
+    },
+    {
+      "versi": [13, 15],
+      "testo": "ed el mi disse: \"Volgi li occhi in giùe:\nbuon ti sarà, per tranquillar la via,\nveder lo letto de le piante tue\".",
+      "parafrasi": "ed egli mi disse: «Volgi gli occhi in giù: ti sarà bene, per rendere tranquilla la via, vedere il letto dei tuoi piedi»."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "Come, perché di lor memoria sia,\nsovra i sepolti le tombe terragne\nportan segnato quel ch’elli eran pria,",
+      "parafrasi": "Come, perché ne resti memoria, sopra i sepolti le tombe terrene portano scolpito ciò che essi erano prima,"
+    },
+    {
+      "versi": [19, 21],
+      "testo": "onde lì molte volte si ripiagne\nper la puntura de la rimembranza,\nche solo a’ pïi dà de le calcagne;",
+      "parafrasi": "per cui lì molte volte si ripiange, per la puntura del ricordo, che solo ai pii dà gli sproni;"
+    },
+    {
+      "versi": [22, 24],
+      "testo": "sì vid’io lì, ma di miglior sembianza\nsecondo l’artificio, figurato\nquanto per via di fuor del monte avanza.",
+      "parafrasi": "così vidi lì, ma di migliore aspetto secondo l'artificio, figurato quanto sporge sulla via dal monte."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Vedea colui che fu nobil creato\npiù ch’altra creatura, giù dal cielo\nfolgoreggiando scender, da l’un lato.",
+      "parafrasi": "Vedevo colui che fu creato più nobile di ogni altra creatura, scendere giù dal cielo folgorando, da un lato."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Vedëa Brïareo fitto dal telo\ncelestïal giacer, da l’altra parte,\ngrave a la terra per lo mortal gelo.",
+      "parafrasi": "Vedevo Briareo trafitto dal dardo celeste giacere, dall'altra parte, pesante sulla terra per il gelo mortale."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "Vedea Timbreo, vedea Pallade e Marte,\narmati ancora, intorno al padre loro,\nmirar le membra d’i Giganti sparte.",
+      "parafrasi": "Vedevo Timbreo, vedevo Pallade e Marte, ancora armati intorno al padre loro, guardare le membra sparse dei Giganti."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Vedea Nembròt a piè del gran lavoro\nquasi smarrito, e riguardar le genti\nche ’n Sennaàr con lui superbi fuoro.",
+      "parafrasi": "Vedevo Nembrot ai piedi della grande opera quasi smarrito, e guardare le genti che a Sennaar furono superbe con lui."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "O Nïobè, con che occhi dolenti\nvedea io te segnata in su la strada,\ntra sette e sette tuoi figliuoli spenti!",
+      "parafrasi": "O Niobe, con che occhi addolorati ti vedevo scolpita sulla strada, tra sette e sette tuoi figli uccisi!"
+    },
+    {
+      "versi": [40, 42],
+      "testo": "O Saùl, come in su la propria spada\nquivi parevi morto in Gelboè,\nche poi non sentì pioggia né rugiada!",
+      "parafrasi": "O Saul, come sulla tua stessa spada lì sembravi morto a Gelboe, che poi non sentì pioggia né rugiada!"
+    },
+    {
+      "versi": [43, 45],
+      "testo": "O folle Aragne, sì vedea io te\ngià mezza ragna, trista in su li stracci\nde l’opera che mal per te si fé.",
+      "parafrasi": "O folle Aracne, così ti vedevo già mezza ragno, triste sui brandelli dell'opera che per tuo male fu fatta."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "O Roboàm, già non par che minacci\nquivi ’l tuo segno; ma pien di spavento\nnel porta un carro, sanza ch’altri il cacci.",
+      "parafrasi": "O Roboamo, non sembra più che minacci quel tuo segno; ma pieno di spavento lo porta via un carro, senza che nessuno lo spinga."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "Mostrava ancor lo duro pavimento\ncome Almeon a sua madre fé caro\nparer lo sventurato addornamento.",
+      "parafrasi": "Mostrava ancora il duro pavimento come Almeone fece sembrare cara a sua madre l'infelice ornamento."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "Mostrava come i figli si gittaro\nsovra Sennacherìb dentro dal tempio,\ne come, morto lui, quivi il lasciaro.",
+      "parafrasi": "Mostrava come i figli si gettarono su Sennacherib dentro il tempio, e come, morto lui, lo lasciarono lì."
+    },
+    {
+      "versi": [55, 57],
+      "testo": "Mostrava la ruina e ’l crudo scempio\nche fé Tamiri, quando disse a Ciro:\n\"Sangue sitisti, e io di sangue t’empio\".",
+      "parafrasi": "Mostrava la rovina e il crudo scempio che fece Tamiri, quando disse a Ciro: «Hai avuto sete di sangue, e io di sangue ti riempio»."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Mostrava come in rotta si fuggiro\nli Assiri, poi che fu morto Oloferne,\ne anche le reliquie del martiro.",
+      "parafrasi": "Mostrava come in rotta fuggirono gli Assiri, dopo che fu morto Oloferne, e anche i resti del martirio."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Vedeva Troia in cenere e in caverne;\no Ilïón, come te basso e vile\nmostrava il segno che lì si discerne!",
+      "parafrasi": "Vedevo Troia in cenere e in caverne; o Ilio, come bassa e vile ti mostrava il segno che lì si distingue!"
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Qual di pennel fu maestro o di stile\nche ritraesse l’ombre e ’ tratti ch’ivi\nmirar farieno uno ingegno sottile?",
+      "parafrasi": "Quale maestro di pennello o di stilo ritrasse le ombre e i tratti che lì farebbero ammirare un ingegno sottile?"
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Morti li morti e i vivi parean vivi:\nnon vide mei di me chi vide il vero,\nquant’io calcai, fin che chinato givi.",
+      "parafrasi": "I morti sembravano morti e i vivi vivi: non vide meglio di me chi vide il vero, quanto calpestai finché andai chino."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "Or superbite, e via col viso altero,\nfigliuoli d’Eva, e non chinate il volto\nsì che veggiate il vostro mal sentero!",
+      "parafrasi": "Ora insuperbite, e via col viso altero, figli di Eva, e non chinate il volto così da vedere il vostro cattivo sentiero!"
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Più era già per noi del monte vòlto\ne del cammin del sole assai più speso\nche non stimava l’animo non sciolto,",
+      "parafrasi": "Eravamo già andati più avanti sul monte e avevamo speso del cammino del sole molto più di quanto non stimasse l'animo non libero,"
+    },
+    {
+      "versi": [76, 78],
+      "testo": "quando colui che sempre innanzi atteso\nandava, cominciò: \"Drizza la testa;\nnon è più tempo di gir sì sospeso.",
+      "parafrasi": "quando colui che sempre andava davanti con attenzione cominciò: «Drizza la testa; non è più tempo di andare così sospesi."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Vedi colà un angel che s’appresta\nper venir verso noi; vedi che torna\ndal servigio del dì l’ancella sesta.",
+      "parafrasi": "Vedi laggiù un angelo che si prepara a venire verso di noi; vedi che torna dal servizio del giorno la sesta ancella."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "Di reverenza il viso e li atti addorna,\nsì che i diletti lo ’nvïarci in suso;\npensa che questo dì mai non raggiorna!\".",
+      "parafrasi": "Adorna di riverenza il viso e gli atti, così che gli piaccia invitarci a salire; pensa che questo giorno non torna mai più!»."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "Io era ben del suo ammonir uso\npur di non perder tempo, sì che ’n quella\nmateria non potea parlarmi chiuso.",
+      "parafrasi": "Ero ben abituato ai suoi ammonimenti a non perdere tempo, così che su quel tema non poteva parlarmi in modo chiuso."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "A noi venìa la creatura bella,\nbiancovestito e ne la faccia quale\npar tremolando mattutina stella.",
+      "parafrasi": "Verso di noi veniva la bella creatura, vestita di bianco e nel volto simile a stella del mattino che tremola."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Le braccia aperse, e indi aperse l’ale;\ndisse: \"Venite: qui son presso i gradi,\ne agevolemente omai si sale.",
+      "parafrasi": "Aprì le braccia, e poi aprì le ali; disse: «Venite: qui sono vicini i gradini, e si sale facilmente ormai."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "A questo invito vegnon molto radi:\no gente umana, per volar sù nata,\nperché a poco vento così cadi?\".",
+      "parafrasi": "A questo invito vengono molto pochi: o gente umana, nata per volare in alto, perché per poco vento cadi così?»."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Menocci ove la roccia era tagliata;\nquivi mi batté l’ali per la fronte;\npoi mi promise sicura l’andata.",
+      "parafrasi": "Ci condusse dove la roccia era tagliata; lì mi batté le ali sulla fronte; poi mi promise sicuro il cammino."
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Come a man destra, per salire al monte\ndove siede la chiesa che soggioga\nla ben guidata sopra Rubaconte,",
+      "parafrasi": "Come a destra, per salire al monte dove siede la chiesa che domina la ben guidata sopra Rubaconte,"
+    },
+    {
+      "versi": [103, 105],
+      "testo": "si rompe del montar l’ardita foga\nper le scalee che si fero ad etade\nch’era sicuro il quaderno e la doga;",
+      "parafrasi": "si spezza l'ardito slancio della salita con le scalinate che furono fatte in un'età in cui erano sicuri il quaderno e la doga;"
+    },
+    {
+      "versi": [106, 108],
+      "testo": "così s’allenta la ripa che cade\nquivi ben ratta da l’altro girone;\nma quinci e quindi l’alta pietra rade.",
+      "parafrasi": "così si allenta la ripa che cade qui molto ripida dall'altro girone; ma di qua e di là l'alta pietra rade."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "Noi volgendo ivi le nostre persone,\n’Beati pauperes spiritu!’ voci\ncantaron sì, che nol diria sermone.",
+      "parafrasi": "Mentre ci volgevamo in quel punto, voci cantarono «Beati pauperes spiritu!» in modo che non lo direbbe un discorso."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Ahi quanto son diverse quelle foci\nda l’infernali! ché quivi per canti\ns’entra, e là giù per lamenti feroci.",
+      "parafrasi": "Ahi quanto sono diverse quelle porte da quelle infernali! perché qui si entra con canti, e laggiù con lamenti feroci."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "Già montavam su per li scaglion santi,\ned esser mi parea troppo più lieve\nche per lo pian non mi parea davanti.",
+      "parafrasi": "Già salivamo per i santi scalini, e mi sembrava di essere molto più leggero che sul piano non mi sembrava prima."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Ond’io: \"Maestro, dì, qual cosa greve\nlevata s’è da me, che nulla quasi\nper me fatica, andando, si riceve?\".",
+      "parafrasi": "Perciò io: «Maestro, dimmi, quale cosa pesante mi è stata tolta, che quasi non sento fatica nell'andare?»."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "Rispuose: \"Quando i P che son rimasi\nancor nel volto tuo presso che stinti,\nsaranno, com’è l’un, del tutto rasi,",
+      "parafrasi": "Rispose: «Quando i P che sono rimasti ancora nel tuo volto, quasi cancellati, saranno, come lo è uno, del tutto tolti,"
+    },
+    {
+      "versi": [124, 126],
+      "testo": "fier li tuoi piè dal buon voler sì vinti,\nche non pur non fatica sentiranno,\nma fia diletto loro esser sù pinti\".",
+      "parafrasi": "i tuoi piedi saranno così vinti dal buon volere che non solo non sentiranno fatica, ma sarà un diletto per loro essere spinti in su»."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Allor fec’io come color che vanno\ncon cosa in capo non da lor saputa,\nse non che ’ cenni altrui sospecciar fanno;",
+      "parafrasi": "Allora feci come quelli che vanno con qualcosa sul capo che non sanno, se non che i cenni altrui li fanno sospettare;"
+    },
+    {
+      "versi": [130, 132],
+      "testo": "per che la mano ad accertar s’aiuta,\ne cerca e truova e quello officio adempie\nche non si può fornir per la veduta;",
+      "parafrasi": "per cui la mano si aiuta ad accertare, e cerca e trova e fa quell'ufficio che non si può compiere con la vista;"
+    },
+    {
+      "versi": [133, 135],
+      "testo": "e con le dita de la destra scempie\ntrovai pur sei le lettere che ’ncise\nquel da le chiavi a me sovra le tempie:",
+      "parafrasi": "e con le dita della destra aperte trovai solo sei le lettere che incise quello delle chiavi sopra le mie tempie:"
+    },
+    {
+      "versi": [136, 136],
+      "testo": "a che guardando, il mio duca sorrise.",
+      "parafrasi": "a vedere ciò, la mia guida sorrise."
+    }
+  ]
+}

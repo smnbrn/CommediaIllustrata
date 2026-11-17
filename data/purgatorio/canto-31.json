@@ -1,0 +1,332 @@
+{
+  "cantica": "purgatorio",
+  "canto": 31,
+  "titolo": "La confessione di Dante e il bagno nel Lete",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_XXXI",
+  "numero_versi": 145,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 36],
+      "titolo_scena": "La confessione",
+      "sintesi": "Beatrice, rivolgendosi direttamente a Dante, che prima aveva ferito di taglio, gli chiede di confermare l'accusa con la confessione. Dante, confuso, riesce solo a dire un «sì» tanto debole che si capisce con gli occhi. Come la balestra si spezza se scocca troppo tesa, così Dante scoppia in lacrime e sospiri. Beatrice gli domanda quali fossati o catene gli abbiano fatto perdere la speranza di avanzare, e quali agevolezze mostrassero le cose terrene.",
+      "luogo_id": "paradiso-terrestre",
+      "personaggi": ["dante", "beatrice"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La confessione",
+          "url": "img/ia/purgatorio-31-scena-1.jpg",
+          "miniatura": "img/ia/purgatorio-31-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [37, 90],
+      "titolo_scena": "Il rimprovero di Beatrice e lo svenimento",
+      "sintesi": "Beatrice replica che la colpa è nota anche se Dante tacesse; ma quando l'accusa scoppia dalla bocca del colpevole, nella corte celeste la ruota si volge contro il taglio. Perché sia più forte la prossima volta che udirà le sirene, lo invita a posare il seme del piangere e ad ascoltare: nessuna bellezza terrena poteva eguagliare le sue membra ora sparse in terra, e dopo la sua morte doveva levarsi dietro di lei, non gravare le penne per altre cose brevi. Dante, vergognoso come un fanciullo, ascolta; Beatrice gli ordina di alzare la barba e guardare. Alzato il volto, Dante la vede volta verso il grifone, più bella di prima; punto dal rimorso, cade svenuto.",
+      "luogo_id": "paradiso-terrestre",
+      "personaggi": ["dante", "beatrice"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Il rimprovero di Beatrice e lo svenimento",
+          "url": "img/ia/purgatorio-31-scena-2.jpg",
+          "miniatura": "img/ia/purgatorio-31-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [91, 105],
+      "titolo_scena": "Dante immerso nel Lete",
+      "sintesi": "Rinvenuto, Dante vede sopra di sé la donna trovata sola che gli dice «Reggimi, reggimi». Lo ha tratto nel fiume fino alla gola e lo porta dietro di sé, leggera sull'acqua come spola. Vicino alla riva beata si ode «Asperges me» così dolce che Dante non sa ricordarlo; la donna lo abbraccia, gli immerge la testa fino a fargli inghiottire l'acqua del Lete, poi lo tira fuori.",
+      "luogo_id": "paradiso-terrestre",
+      "personaggi": ["dante", "matelda"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Dante immerso nel Lete",
+          "url": "img/dore/purgatorio-31-lete-960.jpg",
+          "miniatura": "img/dore/purgatorio-31-lete-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148975643).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [106, 145],
+      "titolo_scena": "Gli occhi di Beatrice",
+      "sintesi": "Le quattro ninfe, che sono stelle nel cielo e furono ancelle di Beatrice prima che scendesse al mondo, conducono Dante agli occhi di lei; le tre virtù teologali, che guardano più in profondità, aguzzeranno i suoi nel lume interno. Lo menano al petto del grifone, dove Beatrice sta rivolta a lui: gli occhi di lei, smeraldi da cui Amore trasse le armi, riflettono il grifone, ora con una natura, ora con l'altra. Dante si meraviglia mentre le tre virtù avanzano danzando e pregano Beatrice di svelare la seconda bellezza, il suo sorriso.",
+      "luogo_id": "paradiso-terrestre",
+      "personaggi": ["dante", "beatrice", "grifone", "matelda"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Gli occhi di Beatrice",
+          "url": "img/ia/purgatorio-31-scena-4.jpg",
+          "miniatura": "img/ia/purgatorio-31-scena-4.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "\"O tu che se’ di là dal fiume sacro\",\nvolgendo suo parlare a me per punta,\nche pur per taglio m’era paruto acro,",
+      "parafrasi": "«O tu che sei di là dal fiume sacro», volgendo il suo parlare a me per punta, che già per taglio mi era parso aspro,"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "ricominciò, seguendo sanza cunta,\n\"dì, dì se questo è vero; a tanta accusa\ntua confession conviene esser congiunta\".",
+      "parafrasi": "ricominciò, seguendo senza indugio, «dì, dì se questo è vero; a tanta accusa conviene che sia unita la tua confessione»."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "Era la mia virtù tanto confusa,\nche la voce si mosse, e pria si spense\nche da li organi suoi fosse dischiusa.",
+      "parafrasi": "La mia forza era tanto confusa, che la voce si mosse, e prima si spense che dai suoi organi fosse dischiusa."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "Poco sofferse; poi disse: \"Che pense?\nRispondi a me; ché le memorie triste\nin te non sono ancor da l’acqua offense\".",
+      "parafrasi": "Sopportò poco; poi disse: «Che pensi? Rispondimi; perché le tristi memorie in te non sono ancora offese dall'acqua»."
+    },
+    {
+      "versi": [13, 15],
+      "testo": "Confusione e paura insieme miste\nmi pinsero un tal \"sì\" fuor de la bocca,\nal quale intender fuor mestier le viste.",
+      "parafrasi": "Confusione e paura insieme miste mi spinsero fuori dalla bocca un tale «sì», che per intenderlo fu necessario vedere."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "Come balestro frange, quando scocca\nda troppa tesa, la sua corda e l’arco,\ne con men foga l’asta il segno tocca,",
+      "parafrasi": "Come la balestra si spezza, quando scocca per troppa tensione, la sua corda e l'arco, e con meno forza l'asta tocca il bersaglio,"
+    },
+    {
+      "versi": [19, 21],
+      "testo": "sì scoppia’ io sottesso grave carco,\nfuori sgorgando lagrime e sospiri,\ne la voce allentò per lo suo varco.",
+      "parafrasi": "così scoppiai io sotto il grave carico, sgorgando lacrime e sospiri, e la voce si allentò nel suo varco."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Ond’ella a me: \"Per entro i mie’ disiri,\nche ti menavano ad amar lo bene\ndi là dal qual non è a che s’aspiri,",
+      "parafrasi": "Perciò ella a me: «Dentro i miei desideri, che ti conducevano ad amare il bene oltre il quale non c'è a che aspirare,"
+    },
+    {
+      "versi": [25, 27],
+      "testo": "quai fossi attraversati o quai catene\ntrovasti, per che del passare innanzi\ndovessiti così spogliar la spene?",
+      "parafrasi": "quali fossati attraversati o quali catene trovasti, perché del passare avanti dovessi così spogliarti la speranza?"
+    },
+    {
+      "versi": [28, 30],
+      "testo": "E quali agevolezze o quali avanzi\nne la fronte de li altri si mostraro,\nper che dovessi lor passeggiare anzi?\".",
+      "parafrasi": "E quali agevolezze o quali vantaggi sulla fronte degli altri si mostrarono, perché dovessi passeggiare loro davanti?»."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "Dopo la tratta d’un sospiro amaro,\na pena ebbi la voce che rispuose,\ne le labbra a fatica la formaro.",
+      "parafrasi": "Dopo il tratto di un sospiro amaro, a stento ebbi la voce che rispose, e le labbra a fatica la formarono."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Piangendo dissi: \"Le presenti cose\ncol falso lor piacer volser miei passi,\ntosto che ’l vostro viso si nascose\".",
+      "parafrasi": "Piangendo dissi: «Le cose presenti con il loro falso piacere volsero i miei passi, appena il vostro viso si nascose»."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Ed ella: \"Se tacessi o se negassi\nciò che confessi, non fora men nota\nla colpa tua: da tal giudice sassi!",
+      "parafrasi": "Ed ella: «Se tacessi o se negassi ciò che confessi, non sarebbe meno nota la tua colpa: da tale giudice si sa!"
+    },
+    {
+      "versi": [40, 42],
+      "testo": "Ma quando scoppia de la propria gota\nl’accusa del peccato, in nostra corte\nrivolge sé contra ’l taglio la rota.",
+      "parafrasi": "Ma quando scoppia dalla propria gota l'accusa del peccato, nella nostra corte la ruota si volge contro il taglio."
+    },
+    {
+      "versi": [43, 45],
+      "testo": "Tuttavia, perché mo vergogna porte\ndel tuo errore, e perché altra volta,\nudendo le serene, sie più forte,",
+      "parafrasi": "Tuttavia, perché ora porti vergogna del tuo errore, e perché un'altra volta, udendo le sirene, tu sia più forte,"
+    },
+    {
+      "versi": [46, 48],
+      "testo": "pon giù il seme del piangere e ascolta:\nsì udirai come in contraria parte\nmover dovieti mia carne sepolta.",
+      "parafrasi": "deponi il seme del piangere e ascolta: così udirai come in contraria parte dovesse muoverti la mia carne sepolta."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "Mai non t’appresentò natura o arte\npiacer, quanto le belle membra in ch’io\nrinchiusa fui, e che so’ ’n terra sparte;",
+      "parafrasi": "Mai non ti presentò natura o arte piacere quanto le belle membra in cui io fui rinchiusa, e che sono sparse in terra;"
+    },
+    {
+      "versi": [52, 54],
+      "testo": "e se ’l sommo piacer sì ti fallio\nper la mia morte, qual cosa mortale\ndovea poi trarre te nel suo disio?",
+      "parafrasi": "e se il sommo piacere così ti mancò per la mia morte, quale cosa mortale dovette poi trarti nel suo desiderio?"
+    },
+    {
+      "versi": [55, 57],
+      "testo": "Ben ti dovevi, per lo primo strale\nde le cose fallaci, levar suso\ndi retro a me che non era più tale.",
+      "parafrasi": "Ben ti dovevi, per la prima freccia delle cose fallaci, levare in alto dietro a me che non ero più tale."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Non ti dovea gravar le penne in giuso,\nad aspettar più colpo, o pargoletta\no altra novità con sì breve uso.",
+      "parafrasi": "Non ti doveva gravare le penne in giù, ad aspettare più colpo, o ragazzetta o altra novità di così breve uso."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Novo augelletto due o tre aspetta;\nma dinanzi da li occhi d’i pennuti\nrete si spiega indarno o si saetta\".",
+      "parafrasi": "Un nuovo uccelletto ne aspetta due o tre; ma davanti agli occhi dei pennuti la rete si spiega invano o si saetta»."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Quali fanciulli, vergognando, muti\ncon li occhi a terra stannosi, ascoltando\ne sé riconoscendo e ripentuti,",
+      "parafrasi": "Quali fanciulli, vergognosi, muti con gli occhi a terra stanno, ascoltando e riconoscendosi e pentiti,"
+    },
+    {
+      "versi": [67, 69],
+      "testo": "tal mi stav’io; ed ella disse: \"Quando\nper udir se’ dolente, alza la barba,\ne prenderai più doglia riguardando\".",
+      "parafrasi": "tale stavo io; ed ella disse: «Quando per udire sei dolente, alza la barba, e prenderai più dolore guardando»."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "Con men di resistenza si dibarba\nrobusto cerro, o vero al nostral vento\no vero a quel de la terra di Iarba,",
+      "parafrasi": "Con minore resistenza si sradica un robusto cerro, o al vento nostrano o a quello della terra di Iarba,"
+    },
+    {
+      "versi": [73, 75],
+      "testo": "ch’io non levai al suo comando il mento;\ne quando per la barba il viso chiese,\nben conobbi il velen de l’argomento.",
+      "parafrasi": "di quanto io non alzai al suo comando il mento; e quando per la barba chiese il viso, ben conobbi il veleno dell'argomento."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "E come la mia faccia si distese,\nposarsi quelle prime creature\nda loro aspersïon l’occhio comprese;",
+      "parafrasi": "E quando la mia faccia si distese, comprese l'occhio che quelle prime creature cessavano la loro aspersione;"
+    },
+    {
+      "versi": [79, 81],
+      "testo": "e le mie luci, ancor poco sicure,\nvider Beatrice volta in su la fiera\nch’è sola una persona in due nature.",
+      "parafrasi": "e i miei occhi, ancora poco sicuri, videro Beatrice volta in su la fiera che è sola una persona in due nature."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "Sotto ’l suo velo e oltre la rivera\nvincer pariemi più sé stessa antica,\nvincer che l’altre qui, quand’ella c’era.",
+      "parafrasi": "Sotto il suo velo e oltre il fiume mi pareva vincere più se stessa antica, che le altre qui quando c'era."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "Di penter sì mi punse ivi l’ortica,\nche di tutte altre cose qual mi torse\npiù nel suo amor, più mi si fé nemica.",
+      "parafrasi": "Di pentirmi mi punse così l'ortica, che di tutte le altre cose quella che mi torse più nel suo amore, più mi diventò nemica."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Tanta riconoscenza il cor mi morse,\nch’io caddi vinto; e quale allora femmi,\nsalsi colei che la cagion mi porse.",
+      "parafrasi": "Tanta riconoscenza mi morse il cuore, che caddi vinto; e quale allora fui, lo sa colei che me ne porse la causa."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Poi, quando il cor virtù di fuor rendemmi,\nla donna ch’io avea trovata sola\nsopra me vidi, e dicea: \"Tiemmi, tiemmi!\".",
+      "parafrasi": "Poi, quando il cuore mi rese forza di fuori, la donna che avevo trovato sola vidi sopra di me, e diceva: «Tienimi, tienimi!»."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Tratto m’avea nel fiume infin la gola,\ne tirandosi me dietro sen giva\nsovresso l’acqua lieve come scola.",
+      "parafrasi": "Mi aveva tratto nel fiume fino alla gola, e tirandosi dietro di sé se ne andava sopra l'acqua leggera come una spola."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Quando fui presso a la beata riva,\n’Asperges me’ sì dolcemente udissi,\nche nol so rimembrar, non ch’io lo scriva.",
+      "parafrasi": "Quando fui vicino alla beata riva, «Asperges me» sì dolcemente udii, che non lo so ricordare, non che scrivere."
+    },
+    {
+      "versi": [100, 102],
+      "testo": "La bella donna ne le braccia aprissi;\nabbracciommi la testa e mi sommerse\nove convenne ch’io l’acqua inghiottissi.",
+      "parafrasi": "La bella donna aprì le braccia; mi abbracciò la testa e mi sommerse dove convenne che io inghiottissi l'acqua."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Indi mi tolse, e bagnato m’offerse\ndentro a la danza de le quattro belle;\ne ciascuna del braccio mi coperse.",
+      "parafrasi": "Poi mi tolse e, bagnato, mi offrì dentro alla danza delle quattro belle; e ciascuna mi coprì col braccio."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "\"Noi siam qui ninfe e nel ciel siamo stelle;\npria che Beatrice discendesse al mondo,\nfummo ordinate a lei per sue ancelle.",
+      "parafrasi": "«Noi qui siamo ninfe e in cielo siamo stelle; prima che Beatrice scendesse al mondo, fummo destinate a lei come sue ancelle."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "Merrenti a li occhi suoi; ma nel giocondo\nlume ch’è dentro aguzzeranno i tuoi\nle tre di là, che miran più profondo\".",
+      "parafrasi": "Ti condurremo ai suoi occhi; ma nel giocondo lume che è dentro aguzzeranno i tuoi le tre di là, che guardano più in profondità»."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Così cantando cominciaro; e poi\nal petto del grifon seco menarmi,\nove Beatrice stava volta a noi.",
+      "parafrasi": "Così cantando cominciarono; e poi al petto del grifone mi condussero con loro, dove Beatrice stava volta verso di noi."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "Disser: \"Fa che le viste non risparmi;\nposto t’avem dinanzi a li smeraldi\nond’Amor già ti trasse le sue armi\".",
+      "parafrasi": "Dissero: «Fa' che non risparmi la vista: ti abbiamo posto davanti agli smeraldi da cui Amore già trasse le sue armi contro di te»."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Mille disiri più che fiamma caldi\nstrinsermi li occhi a li occhi rilucenti,\nche pur sopra ’l grifone stavan saldi.",
+      "parafrasi": "Mille desideri più caldi della fiamma strinsero i miei occhi agli occhi rilucenti, che solo sopra il grifone stavano fermi."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "Come in lo specchio il sol, non altrimenti\nla doppia fiera dentro vi raggiava,\nor con altri, or con altri reggimenti.",
+      "parafrasi": "Come nello specchio il sole, non diversamente la doppia fiera dentro vi raggiava, ora con un modo, ora con un altro."
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Pensa, lettor, s’io mi maravigliava,\nquando vedea la cosa in sé star queta,\ne ne l’idolo suo si trasmutava.",
+      "parafrasi": "Pensa, lettore, se io mi meravigliavo, quando vedevo la cosa in sé star quieta, e nella sua immagine trasmutarsi."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Mentre che piena di stupore e lieta\nl’anima mia gustava di quel cibo\nche, saziando di sé, di sé asseta,",
+      "parafrasi": "Mentre piena di stupore e lieta l'anima mia gustava di quel cibo che, saziando di sé, di sé fa venire sete,"
+    },
+    {
+      "versi": [130, 132],
+      "testo": "sé dimostrando di più alto tribo\nne li atti, l’altre tre si fero avanti,\ndanzando al loro angelico caribo.",
+      "parafrasi": "dimostrandosi di più alta stirpe negli atti, le altre tre si fecero avanti, danzando al loro angelico ballo."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "\"Volgi, Beatrice, volgi li occhi santi\",\nera la sua canzone, \"al tuo fedele\nche, per vederti, ha mossi passi tanti!",
+      "parafrasi": "«Volgi, Beatrice, volgi gli occhi santi», era la loro canzone, «al tuo fedele che per vederti ha mossi passi tanti!"
+    },
+    {
+      "versi": [136, 138],
+      "testo": "Per grazia fa noi grazia che disvele\na lui la bocca tua, sì che discerna\nla seconda bellezza che tu cele\".",
+      "parafrasi": "Per grazia fa' a noi grazia che ti svele a lui la bocca, così che discerna la seconda bellezza che nascondi»."
+    },
+    {
+      "versi": [139, 141],
+      "testo": "O isplendor di viva luce etterna,\nchi palido si fece sotto l’ombra\nsì di Parnaso, o bevve in sua cisterna,",
+      "parafrasi": "O splendore di viva luce eterna, chi diventò pallido sotto l'ombra del Parnaso, o bevve alla sua cisterna,"
+    },
+    {
+      "versi": [142, 144],
+      "testo": "che non paresse aver la mente ingombra,\ntentando a render te qual tu paresti\nlà dove armonizzando il ciel t’adombra,",
+      "parafrasi": "così da non sembrare avere la mente ingombra, tentando di rendere te quale apparisti là dove armonizzando il cielo ti adombra,"
+    },
+    {
+      "versi": [145, 145],
+      "testo": "quando ne l’aere aperto ti solvesti?",
+      "parafrasi": "quando nell'aria aperta ti svelasti?"
+    }
+  ]
+}

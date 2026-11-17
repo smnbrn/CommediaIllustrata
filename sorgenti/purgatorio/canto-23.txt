@@ -1,0 +1,289 @@
+# Purgatorio, canto XXIII
+titolo: I golosi e Forese Donati
+
+## scena-1 | cornice-6 | Il canto «Labia mea, Domine»
+personaggi: dante, virgilio, stazio
+tavola: dore | I poeti presso l'albero | img/dore/purgatorio-22-albero-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148975153).jpg
+sintesi: Dante guarda ostinatamente tra le fronde verdi come chi spreca la vita a caccia di uccellini, finché Virgilio lo chiama a ripartire. Subito si ode un canto misto di pianto: «Labia mea, Domine», che dà insieme diletto e dolore. Sono anime che avanzano silenziose e devote, e superando i poeti si volgono a guardarli, come pellegrini pensosi che incontrano sconosciuti.
+
+1
+Mentre che li occhi per la fronda verde
+ficcava ïo sì come far suole
+chi dietro a li uccellin sua vita perde,
+> Mentre fissavo gli occhi sulla fronda verde, come suole fare chi perde la vita dietro agli uccellini,
+
+4
+lo più che padre mi dicea: "Figliuole,
+vienne oramai, ché ’l tempo che n’è imposto
+più utilmente compartir si vuole".
+> colui che era più che padre mi diceva: «Figliolo, vieni ormai, perché il tempo che ci è concesso si vuole ripartire più utilmente».
+
+7
+Io volsi ’l viso, e ’l passo non men tosto,
+appresso i savi, che parlavan sìe,
+che l’andar mi facean di nullo costo.
+> Volsi il viso, e il passo non meno in fretta, dietro ai savi, che parlavano così che il camminare non mi costava nulla.
+
+10
+Ed ecco piangere e cantar s’udìe
+’Labïa mëa, Domine’ per modo
+tal, che diletto e doglia parturìe.
+> Ed ecco si udì piangere e cantare «Labia mea, Domine» in modo tale che generava diletto e dolore.
+
+13
+"O dolce padre, che è quel ch’i’ odo?",
+comincia’ io; ed elli: "Ombre che vanno
+forse di lor dover solvendo il nodo".
+> «O dolce padre, che cos'è ciò che sento?», cominciai io; ed egli: «Ombre che vanno forse sciogliendo il nodo del loro dovere».
+
+16
+Sì come i peregrin pensosi fanno,
+giugnendo per cammin gente non nota,
+che si volgono ad essa e non restanno,
+> Come fanno i pellegrini pensosi, quando incontrano per via gente non nota, che si volgono ad essa e non si fermano,
+
+19
+così di retro a noi, più tosto mota,
+venendo e trapassando ci ammirava
+d’anime turba tacita e devota.
+> così dietro di noi, più velocemente mossa, venendo e passando, ci guardava con ammirazione una turba di anime silenziosa e devota.
+
+22
+Ne li occhi era ciascuna oscura e cava,
+palida ne la faccia, e tanto scema
+che da l’ossa la pelle s’informava.
+> Negli occhi ciascuna era scura e cava, pallida in faccia, e tanto smagrita che dalle ossa la pelle prendeva forma.
+
+## scena-2 | cornice-6 | Le anime scheletriche e Forese
+personaggi: dante, virgilio, stazio, forese-donati
+tavola: dore | Forese e i golosi | img/dore/purgatorio-23-forese-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148975200).jpg
+sintesi: Le anime sono magrissime: gli occhi come anelli senza gemme, la pelle tirata sulle ossa, peggio di Erisittone. Dante si domanda come l'odore di una mela e di un'acqua possa causare una tale fame. Un'ombra lo guarda e grida «Quale grazia è questa?»: dalla voce Dante riconosce l'amico Forese Donati. Questi gli spiega che per forza divina l'acqua e l'albero li consumano, e che la sete e la fame che li tormentano sono la stessa voglia che portò Cristo a gridare «Elì».
+
+25
+Non credo che così a buccia strema
+Erisittone fosse fatto secco,
+per digiunar, quando più n’ebbe tema.
+> Non credo che Erisittone fosse ridotto così a pelle e ossa per il digiuno, quando più ne ebbe paura.
+
+28
+Io dicea fra me stesso pensando: ’Ecco
+la gente che perdé Ierusalemme,
+quando Maria nel figlio diè di becco!’.
+> Dicevo tra me stesso pensando: «Ecco la gente che perse Gerusalemme, quando Maria diede del becco nel figlio!».
+
+31
+Parean l’occhiaie anella sanza gemme:
+chi nel viso de li uomini legge ’omo’
+ben avria quivi conosciuta l’emme.
+> Le occhiaie sembravano anelli senza gemme: chi nel viso degli uomini legge «omo» avrebbe qui ben riconosciuto la «m».
+
+34
+Chi crederebbe che l’odor d’un pomo
+sì governasse, generando brama,
+e quel d’un’acqua, non sappiendo como?
+> Chi crederebbe che l'odore di un frutto avesse tale potere, generando brama, e quello di un'acqua, non sapendo come?
+
+37
+Già era in ammirar che sì li affama,
+per la cagione ancor non manifesta
+di lor magrezza e di lor trista squama,
+> Ero già in ammirazione per ciò che così li affama, per la causa non ancora manifesta della loro magrezza e della loro triste squama,
+
+40
+ed ecco del profondo de la testa
+volse a me li occhi un’ombra e guardò fiso;
+poi gridò forte: "Qual grazia m’è questa?".
+> ed ecco dal profondo della testa un'ombra volse a me gli occhi e guardò fisso; poi gridò forte: «Quale grazia mi è questa?».
+
+43
+Mai non l’avrei riconosciuto al viso;
+ma ne la voce sua mi fu palese
+ciò che l’aspetto in sé avea conquiso.
+> Non l'avrei mai riconosciuto al viso; ma nella sua voce mi fu palese ciò che l'aspetto aveva in sé consumato.
+
+46
+Questa favilla tutta mi raccese
+mia conoscenza a la cangiata labbia,
+e ravvisai la faccia di Forese.
+> Questa scintilla riaccese del tutto la mia conoscenza alla mutata fisionomia, e ravvisai la faccia di Forese.
+
+49
+"Deh, non contendere a l’asciutta scabbia
+che mi scolora", pregava, "la pelle,
+né a difetto di carne ch’io abbia;
+> «Deh, non badare alla scabbia secca che mi scolora», pregava, «la pelle, né alla mancanza di carne che ho;
+
+52
+ma dimmi il ver di te, dì chi son quelle
+due anime che là ti fanno scorta;
+non rimaner che tu non mi favelle!".
+> ma dimmi il vero di te, di' chi sono quelle due anime che là ti fanno da scorta; non restare senza parlarmi!».
+
+55
+"La faccia tua, ch’io lagrimai già morta,
+mi dà di pianger mo non minor doglia",
+rispuos’io lui, "veggendola sì torta.
+> «La tua faccia, che piansi già morta, mi dà ora non minore dolore», risposi, «vedendola così storta.
+
+58
+Però mi dì, per Dio, che sì vi sfoglia;
+non mi far dir mentr’io mi maraviglio,
+ché mal può dir chi è pien d’altra voglia".
+> Perciò dimmi, per Dio, che cosa vi sfoglia così; non mi far parlare mentre mi meraviglio, perché male può dire chi è pieno di altra voglia».
+
+61
+Ed elli a me: "De l’etterno consiglio
+cade vertù ne l’acqua e ne la pianta
+rimasa dietro, ond’io sì m’assottiglio.
+> Ed egli a me: «Dall'eterno consiglio cade virtù nell'acqua e nella pianta rimasta dietro, per cui così mi assottiglio.
+
+64
+Tutta esta gente che piangendo canta
+per seguitar la gola oltra misura,
+in fame e ’n sete qui si rifà santa.
+> Tutta questa gente che piangendo canta per aver seguito la gola oltre misura, in fame e sete qui si rifà santa.
+
+67
+Di bere e di mangiar n’accende cura
+l’odor ch’esce del pomo e de lo sprazzo
+che si distende su per sua verdura.
+> Di bere e di mangiare ci accende desiderio l'odore che esce dal frutto e dallo spruzzo che si distende su per la sua verdura.
+
+70
+E non pur una volta, questo spazzo
+girando, si rinfresca nostra pena:
+io dico pena, e dovria dir sollazzo,
+> E non solo una volta, girando questo spazio, si rinfresca la nostra pena: dico pena, e dovrei dire sollazzo,
+
+73
+ché quella voglia a li alberi ci mena
+che menò Cristo lieto a dire ’Elì’,
+quando ne liberò con la sua vena".
+> perché quella voglia ci conduce agli alberi che condusse Cristo lieto a dire «Elì», quando ci liberò con il suo sangue».
+
+## scena-3 | cornice-6 | Forese, Nella e le donne fiorentine
+personaggi: dante, virgilio, stazio, forese-donati
+tavola: ia | Forese, Nella e le donne fiorentine | img/ia/purgatorio-23-scena-3.jpg
+sintesi: Dante si stupisce di trovare Forese già in Purgatorio, a cinque anni dalla morte; Forese spiega che la vedova Nella con le sue preghiere lo ha tratto dalla costa dell'attesa. Predice poi che presto le sfacciate donne fiorentine saranno interdette dal predicare dal pulpito per l'indecenza dei loro abiti, e che prima che cresca la barba al bambino di oggi sarebbero tristi. Chiede a Dante chi sia; Dante gli presenta Virgilio e Stazio e lo informa del suo viaggio verso Beatrice.
+
+76
+E io a lui: "Forese, da quel dì
+nel qual mutasti mondo a miglior vita,
+cinqu’ anni non son vòlti infino a qui.
+> E io a lui: «Forese, da quel giorno in cui cambiasti mondo per una vita migliore, non sono passati cinque anni fino a qui.
+
+79
+Se prima fu la possa in te finita
+di peccar più, che sovvenisse l’ora
+del buon dolor ch’a Dio ne rimarita,
+> Se prima fu in te finita la possibilità di peccare ancora, che arrivasse l'ora del buon dolore che ci riunisce a Dio,
+
+82
+come se’ tu qua sù venuto ancora?
+Io ti credea trovar là giù di sotto,
+dove tempo per tempo si ristora".
+> come sei venuto quassù? Io ti credevo trovare laggiù di sotto, dove il tempo si ripaga con il tempo».
+
+85
+Ond’elli a me: "Sì tosto m’ ha condotto
+a ber lo dolce assenzo d’i martìri
+la Nella mia con suo pianger dirotto.
+> Ed egli a me: «Così presto mi ha condotto a bere il dolce assenzio dei martiri la mia Nella con il suo pianto dirotto.
+
+88
+Con suoi prieghi devoti e con sospiri
+tratto m’ ha de la costa ove s’aspetta,
+e liberato m’ ha de li altri giri.
+> Con le sue preghiere devote e con sospiri mi ha tratto dalla costa dove si aspetta, e mi ha liberato dagli altri giri.
+
+91
+Tanto è a Dio più cara e più diletta
+la vedovella mia, che molto amai,
+quanto in bene operare è più soletta;
+> Tanto è più cara a Dio e più diletta la mia vedovella, che molto amai, quanto più è sola nel ben operare;
+
+94
+ché la Barbagia di Sardigna assai
+ne le femmine sue più è pudica
+che la Barbagia dov’io la lasciai.
+> perché la Barbagia di Sardegna è molto più pudica nelle sue donne che la Barbagia dove io la lasciai.
+
+97
+O dolce frate, che vuo’ tu ch’io dica?
+Tempo futuro m’è già nel cospetto,
+cui non sarà quest’ora molto antica,
+> O dolce fratello, che vuoi che io dica? Il tempo futuro mi è già davanti agli occhi, e questa ora non gli sarà molto antica,
+
+100
+nel qual sarà in pergamo interdetto
+a le sfacciate donne fiorentine
+l’andar mostrando con le poppe il petto.
+> in cui sarà vietato dal pulpito alle sfacciate donne fiorentine di andare mostrando il petto con le poppe.
+
+103
+Quai barbare fuor mai, quai saracine,
+cui bisognasse, per farle ir coperte,
+o spiritali o altre discipline?
+> Quali barbare furono mai, quali saracene, a cui occorresse, per farle andare coperte, o spirituali o altre discipline?
+
+106
+Ma se le svergognate fosser certe
+di quel che ’l ciel veloce loro ammanna,
+già per urlare avrian le bocche aperte;
+> Ma se le svergognate fossero certe di ciò che il cielo veloce prepara loro, già per urlare avrebbero le bocche aperte;
+
+109
+ché, se l’antiveder qui non m’inganna,
+prima fien triste che le guance impeli
+colui che mo si consola con nanna.
+> perché, se la preveggenza qui non mi inganna, saranno tristi prima che le guance abbiano peli colui che ora si consola con la ninna nanna.
+
+112
+Deh, frate, or fa che più non mi ti celi!
+vedi che non pur io, ma questa gente
+tutta rimira là dove ’l sol veli".
+> Deh, fratello, fa' che ormai tu non ti nasconda più a me! Vedi che non solo io, ma questa gente tutta guarda là dove tu velî il sole».
+
+115
+Per ch’io a lui: "Se tu riduci a mente
+qual fosti meco, e qual io teco fui,
+ancor fia grave il memorar presente.
+> Perciò io a lui: «Se tu richiami alla mente quale fosti con me, e quale io con te fui, ancora sarà grave il ricordo presente.
+
+118
+Di quella vita mi volse costui
+che mi va innanzi, l’altr’ier, quando tonda
+vi si mostrò la suora di colui",
+> Da quella vita mi volse costui che mi va innanzi, l'altro ieri, quando tonda si mostrò a voi la sorella di colui»,
+
+121
+e ’l sol mostrai; "costui per la profonda
+notte menato m’ ha d’i veri morti
+con questa vera carne che ’l seconda.
+> e mostrai il sole; «costui mi ha condotto per la profonda notte dei veri morti con questa vera carne che lo segue.
+
+124
+Indi m’ han tratto sù li suoi conforti,
+salendo e rigirando la montagna
+che drizza voi che ’l mondo fece torti.
+> Di là mi hanno tratto su i suoi conforti, salendo e rigirando la montagna che raddrizza voi che il mondo fece storti.
+
+127
+Tanto dice di farmi sua compagna
+che io sarò là dove fia Beatrice;
+quivi convien che sanza lui rimagna.
+> Tanto dice di farmi sua compagna che io sarò dove sarà Beatrice; qui conviene che senza di lui io rimanga.
+
+130
+Virgilio è questi che così mi dice",
+e addita’ lo; "e quest’altro è quell’ombra
+per cuï scosse dianzi ogne pendice
+> Virgilio è questi che così mi dice», e lo indicai; «e quest'altro è quell'ombra per cui poco fa scosse ogni pendice
+
+133
+lo vostro regno, che da sé lo sgombra".
+> il vostro regno, che da sé la sgombra».
+
+## personaggio | forese-donati | Forese Donati
+dibattuto: no
+chi_era: Fiorentino, fratello di Corso e di Piccarda Donati, amico di Dante e suo compagno di una tenzone poetica in sonetti (nota per le scherzose accuse di gola). Morì nel 1296; qui è nella cornice dei golosi.

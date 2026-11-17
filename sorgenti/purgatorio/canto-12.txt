@@ -1,0 +1,305 @@
+# Purgatorio, canto XII
+titolo: Il pavimento scolpito e l'angelo dell'umiltà
+
+## scena-1 | cornice-1 | Il pavimento scolpito
+personaggi: dante, virgilio
+tavola: ia | Il pavimento scolpito | img/ia/purgatorio-12-scena-1.jpg
+sintesi: Dante procede curvo accanto a Oderisi, come buoi sotto il giogo, finché Virgilio lo invita a lasciarlo e a proseguire. Dante si raddrizza ma i pensieri restano chini. Virgilio gli suggerisce di guardare in basso: il pavimento della cornice è scolpito, come le lastre tombali portano l'immagine dei morti, con esempi di superbia punita.
+
+1
+Di pari, come buoi che vanno a giogo,
+m’andava io con quell’anima carca,
+fin che ’l sofferse il dolce pedagogo.
+> Appaiato, come buoi che vanno sotto il giogo, andavo con quell'anima carica, finché lo sopportò il dolce maestro.
+
+4
+Ma quando disse: "Lascia lui e varca;
+ché qui è buono con l’ali e coi remi,
+quantunque può, ciascun pinger sua barca";
+> Ma quando disse: «Lascialo e passa; perché qui è bene che ciascuno spinga la sua barca con ali e remi, quanto può»;
+
+7
+dritto sì come andar vuolsi rife’ mi
+con la persona, avvegna che i pensieri
+mi rimanessero e chinati e scemi.
+> mi raddrizzai con la persona, come si deve camminare, benché i pensieri mi rimanessero chini e diminuiti.
+
+10
+Io m’era mosso, e seguia volontieri
+del mio maestro i passi, e amendue
+già mostravam com’eravam leggeri;
+> Mi ero mosso e seguivo volentieri i passi del mio maestro, e entrambi ormai mostravamo quanto eravamo leggeri;
+
+13
+ed el mi disse: "Volgi li occhi in giùe:
+buon ti sarà, per tranquillar la via,
+veder lo letto de le piante tue".
+> ed egli mi disse: «Volgi gli occhi in giù: ti sarà bene, per rendere tranquilla la via, vedere il letto dei tuoi piedi».
+
+16
+Come, perché di lor memoria sia,
+sovra i sepolti le tombe terragne
+portan segnato quel ch’elli eran pria,
+> Come, perché ne resti memoria, sopra i sepolti le tombe terrene portano scolpito ciò che essi erano prima,
+
+19
+onde lì molte volte si ripiagne
+per la puntura de la rimembranza,
+che solo a’ pïi dà de le calcagne;
+> per cui lì molte volte si ripiange, per la puntura del ricordo, che solo ai pii dà gli sproni;
+
+22
+sì vid’io lì, ma di miglior sembianza
+secondo l’artificio, figurato
+quanto per via di fuor del monte avanza.
+> così vidi lì, ma di migliore aspetto secondo l'artificio, figurato quanto sporge sulla via dal monte.
+
+## scena-2 | cornice-1 | Lucifero, Briareo, Nembrot, Niobe, Saul
+personaggi: dante, virgilio, lucifero, briareo, nembrot
+tavola: dore | Gli esempi di superbia scolpiti | img/dore/purgatorio-12-esempi-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148974464).jpg
+sintesi: Il pavimento mostra esempi di superbia punita: Lucifero, creato più nobile di ogni creatura, che precipita come fulmine dal cielo; Briareo trafitto dalla folgore; i giganti sconfitti con Giove, Apollo, Pallade e Marte; Nembrot smarrito ai piedi della torre di Babele; Niobe tra i quattordici figli uccisi; Saul morto sulla propria spada a Gelboe.
+
+25
+Vedea colui che fu nobil creato
+più ch’altra creatura, giù dal cielo
+folgoreggiando scender, da l’un lato.
+> Vedevo colui che fu creato più nobile di ogni altra creatura, scendere giù dal cielo folgorando, da un lato.
+
+28
+Vedëa Brïareo fitto dal telo
+celestïal giacer, da l’altra parte,
+grave a la terra per lo mortal gelo.
+> Vedevo Briareo trafitto dal dardo celeste giacere, dall'altra parte, pesante sulla terra per il gelo mortale.
+
+31
+Vedea Timbreo, vedea Pallade e Marte,
+armati ancora, intorno al padre loro,
+mirar le membra d’i Giganti sparte.
+> Vedevo Timbreo, vedevo Pallade e Marte, ancora armati intorno al padre loro, guardare le membra sparse dei Giganti.
+
+34
+Vedea Nembròt a piè del gran lavoro
+quasi smarrito, e riguardar le genti
+che ’n Sennaàr con lui superbi fuoro.
+> Vedevo Nembrot ai piedi della grande opera quasi smarrito, e guardare le genti che a Sennaar furono superbe con lui.
+
+37
+O Nïobè, con che occhi dolenti
+vedea io te segnata in su la strada,
+tra sette e sette tuoi figliuoli spenti!
+> O Niobe, con che occhi addolorati ti vedevo scolpita sulla strada, tra sette e sette tuoi figli uccisi!
+
+40
+O Saùl, come in su la propria spada
+quivi parevi morto in Gelboè,
+che poi non sentì pioggia né rugiada!
+> O Saul, come sulla tua stessa spada lì sembravi morto a Gelboe, che poi non sentì pioggia né rugiada!
+
+## scena-3 | cornice-1 | Aracne, Troia e gli altri esempi
+personaggi: dante, virgilio
+tavola: dore | Aracne | img/dore/purgatorio-12-aracne-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148974491).jpg
+sintesi: Altre scene: Aracne già mezza ragno sui resti della sua tela; Roboamo in fuga su un carro; Almeone e il gioiello della madre; i figli di Sennacherib che lo uccidono nel tempio; Tamiri che immerge la testa di Ciro nel sangue; gli Assiri in fuga dopo la morte di Oloferne; Troia in cenere. L'arte è tale che i morti sembrano morti e i vivi vivi. Dante ammonisce i figli di Eva a non abbassare lo sguardo orgoglioso.
+
+43
+O folle Aragne, sì vedea io te
+già mezza ragna, trista in su li stracci
+de l’opera che mal per te si fé.
+> O folle Aracne, così ti vedevo già mezza ragno, triste sui brandelli dell'opera che per tuo male fu fatta.
+
+46
+O Roboàm, già non par che minacci
+quivi ’l tuo segno; ma pien di spavento
+nel porta un carro, sanza ch’altri il cacci.
+> O Roboamo, non sembra più che minacci quel tuo segno; ma pieno di spavento lo porta via un carro, senza che nessuno lo spinga.
+
+49
+Mostrava ancor lo duro pavimento
+come Almeon a sua madre fé caro
+parer lo sventurato addornamento.
+> Mostrava ancora il duro pavimento come Almeone fece sembrare cara a sua madre l'infelice ornamento.
+
+52
+Mostrava come i figli si gittaro
+sovra Sennacherìb dentro dal tempio,
+e come, morto lui, quivi il lasciaro.
+> Mostrava come i figli si gettarono su Sennacherib dentro il tempio, e come, morto lui, lo lasciarono lì.
+
+55
+Mostrava la ruina e ’l crudo scempio
+che fé Tamiri, quando disse a Ciro:
+"Sangue sitisti, e io di sangue t’empio".
+> Mostrava la rovina e il crudo scempio che fece Tamiri, quando disse a Ciro: «Hai avuto sete di sangue, e io di sangue ti riempio».
+
+58
+Mostrava come in rotta si fuggiro
+li Assiri, poi che fu morto Oloferne,
+e anche le reliquie del martiro.
+> Mostrava come in rotta fuggirono gli Assiri, dopo che fu morto Oloferne, e anche i resti del martirio.
+
+61
+Vedeva Troia in cenere e in caverne;
+o Ilïón, come te basso e vile
+mostrava il segno che lì si discerne!
+> Vedevo Troia in cenere e in caverne; o Ilio, come bassa e vile ti mostrava il segno che lì si distingue!
+
+64
+Qual di pennel fu maestro o di stile
+che ritraesse l’ombre e ’ tratti ch’ivi
+mirar farieno uno ingegno sottile?
+> Quale maestro di pennello o di stilo ritrasse le ombre e i tratti che lì farebbero ammirare un ingegno sottile?
+
+67
+Morti li morti e i vivi parean vivi:
+non vide mei di me chi vide il vero,
+quant’io calcai, fin che chinato givi.
+> I morti sembravano morti e i vivi vivi: non vide meglio di me chi vide il vero, quanto calpestai finché andai chino.
+
+70
+Or superbite, e via col viso altero,
+figliuoli d’Eva, e non chinate il volto
+sì che veggiate il vostro mal sentero!
+> Ora insuperbite, e via col viso altero, figli di Eva, e non chinate il volto così da vedere il vostro cattivo sentiero!
+
+## scena-4 | cornice-1 | L'angelo dell'umiltà
+personaggi: dante, virgilio, angelo-dell-umilta
+tavola: ia | L'angelo dell'umiltà | img/ia/purgatorio-12-scena-4.jpg
+sintesi: Avanzato il cammino e speso il giorno più di quanto Dante pensasse, Virgilio lo invita ad alzare la testa: viene un angelo, ed è l'ora sesta del giorno. Lo accoglie con riverenza. L'angelo, bianco vestito e luminoso come la stella del mattino, apre le braccia e le ali e li invita a salire: pochi vengono a questo invito.
+
+73
+Più era già per noi del monte vòlto
+e del cammin del sole assai più speso
+che non stimava l’animo non sciolto,
+> Eravamo già andati più avanti sul monte e avevamo speso del cammino del sole molto più di quanto non stimasse l'animo non libero,
+
+76
+quando colui che sempre innanzi atteso
+andava, cominciò: "Drizza la testa;
+non è più tempo di gir sì sospeso.
+> quando colui che sempre andava davanti con attenzione cominciò: «Drizza la testa; non è più tempo di andare così sospesi.
+
+79
+Vedi colà un angel che s’appresta
+per venir verso noi; vedi che torna
+dal servigio del dì l’ancella sesta.
+> Vedi laggiù un angelo che si prepara a venire verso di noi; vedi che torna dal servizio del giorno la sesta ancella.
+
+82
+Di reverenza il viso e li atti addorna,
+sì che i diletti lo ’nvïarci in suso;
+pensa che questo dì mai non raggiorna!".
+> Adorna di riverenza il viso e gli atti, così che gli piaccia invitarci a salire; pensa che questo giorno non torna mai più!».
+
+85
+Io era ben del suo ammonir uso
+pur di non perder tempo, sì che ’n quella
+materia non potea parlarmi chiuso.
+> Ero ben abituato ai suoi ammonimenti a non perdere tempo, così che su quel tema non poteva parlarmi in modo chiuso.
+
+88
+A noi venìa la creatura bella,
+biancovestito e ne la faccia quale
+par tremolando mattutina stella.
+> Verso di noi veniva la bella creatura, vestita di bianco e nel volto simile a stella del mattino che tremola.
+
+91
+Le braccia aperse, e indi aperse l’ale;
+disse: "Venite: qui son presso i gradi,
+e agevolemente omai si sale.
+> Aprì le braccia, e poi aprì le ali; disse: «Venite: qui sono vicini i gradini, e si sale facilmente ormai.
+
+94
+A questo invito vegnon molto radi:
+o gente umana, per volar sù nata,
+perché a poco vento così cadi?".
+> A questo invito vengono molto pochi: o gente umana, nata per volare in alto, perché per poco vento cadi così?».
+
+## scena-5 | cornice-1 | Il primo P cancellato
+personaggi: dante, virgilio, angelo-dell-umilta
+tavola: ia | Il primo P cancellato | img/ia/purgatorio-12-scena-5.jpg
+sintesi: L'angelo li porta dove la roccia è tagliata e batte le ali sulla fronte di Dante, promettendogli sicura la salita. Mentre salgono per le scale, risuona il canto «Beati i poveri in spirito». Dante si sente più leggero e chiede perché: Virgilio spiega che quando i P ancora segnati sulla fronte saranno cancellati, i suoi piedi saranno vinti dal buon volere. Dante, tastando la fronte, scopre che i P sono sei: il primo è stato cancellato.
+
+97
+Menocci ove la roccia era tagliata;
+quivi mi batté l’ali per la fronte;
+poi mi promise sicura l’andata.
+> Ci condusse dove la roccia era tagliata; lì mi batté le ali sulla fronte; poi mi promise sicuro il cammino.
+
+100
+Come a man destra, per salire al monte
+dove siede la chiesa che soggioga
+la ben guidata sopra Rubaconte,
+> Come a destra, per salire al monte dove siede la chiesa che domina la ben guidata sopra Rubaconte,
+
+103
+si rompe del montar l’ardita foga
+per le scalee che si fero ad etade
+ch’era sicuro il quaderno e la doga;
+> si spezza l'ardito slancio della salita con le scalinate che furono fatte in un'età in cui erano sicuri il quaderno e la doga;
+
+106
+così s’allenta la ripa che cade
+quivi ben ratta da l’altro girone;
+ma quinci e quindi l’alta pietra rade.
+> così si allenta la ripa che cade qui molto ripida dall'altro girone; ma di qua e di là l'alta pietra rade.
+
+109
+Noi volgendo ivi le nostre persone,
+’Beati pauperes spiritu!’ voci
+cantaron sì, che nol diria sermone.
+> Mentre ci volgevamo in quel punto, voci cantarono «Beati pauperes spiritu!» in modo che non lo direbbe un discorso.
+
+112
+Ahi quanto son diverse quelle foci
+da l’infernali! ché quivi per canti
+s’entra, e là giù per lamenti feroci.
+> Ahi quanto sono diverse quelle porte da quelle infernali! perché qui si entra con canti, e laggiù con lamenti feroci.
+
+115
+Già montavam su per li scaglion santi,
+ed esser mi parea troppo più lieve
+che per lo pian non mi parea davanti.
+> Già salivamo per i santi scalini, e mi sembrava di essere molto più leggero che sul piano non mi sembrava prima.
+
+118
+Ond’io: "Maestro, dì, qual cosa greve
+levata s’è da me, che nulla quasi
+per me fatica, andando, si riceve?".
+> Perciò io: «Maestro, dimmi, quale cosa pesante mi è stata tolta, che quasi non sento fatica nell'andare?».
+
+121
+Rispuose: "Quando i P che son rimasi
+ancor nel volto tuo presso che stinti,
+saranno, com’è l’un, del tutto rasi,
+> Rispose: «Quando i P che sono rimasti ancora nel tuo volto, quasi cancellati, saranno, come lo è uno, del tutto tolti,
+
+124
+fier li tuoi piè dal buon voler sì vinti,
+che non pur non fatica sentiranno,
+ma fia diletto loro esser sù pinti".
+> i tuoi piedi saranno così vinti dal buon volere che non solo non sentiranno fatica, ma sarà un diletto per loro essere spinti in su».
+
+127
+Allor fec’io come color che vanno
+con cosa in capo non da lor saputa,
+se non che ’ cenni altrui sospecciar fanno;
+> Allora feci come quelli che vanno con qualcosa sul capo che non sanno, se non che i cenni altrui li fanno sospettare;
+
+130
+per che la mano ad accertar s’aiuta,
+e cerca e truova e quello officio adempie
+che non si può fornir per la veduta;
+> per cui la mano si aiuta ad accertare, e cerca e trova e fa quell'ufficio che non si può compiere con la vista;
+
+133
+e con le dita de la destra scempie
+trovai pur sei le lettere che ’ncise
+quel da le chiavi a me sovra le tempie:
+> e con le dita della destra aperte trovai solo sei le lettere che incise quello delle chiavi sopra le mie tempie:
+
+136
+a che guardando, il mio duca sorrise.
+> a vedere ciò, la mia guida sorrise.
+
+## personaggio | angelo-dell-umilta | L'angelo dell'umiltà
+dibattuto: no
+chi_era: L'angelo custode della prima cornice. Cancella dalla fronte di Dante il primo dei sette P col battito delle ali e intona «Beati pauperes spiritu», la prima beatitudine; la stessa scena si ripeterà a ogni cornice con un angelo diverso.

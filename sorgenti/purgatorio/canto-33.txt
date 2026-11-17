@@ -1,0 +1,314 @@
+# Purgatorio, canto XXXIII
+titolo: La profezia del DXV, Eunoè e la salita alle stelle
+
+## scena-1 | paradiso-terrestre | Il lamento delle donne
+personaggi: dante, beatrice, matelda, stazio
+tavola: ia | Il lamento delle donne | img/ia/purgatorio-33-scena-1.jpg
+sintesi: Le sette donne, alternandosi a tre e a quattro, cantano piangendo «Deus, venerunt gentes»; Beatrice, sospirosa e pia, le ascolta quasi come Maria ai piedi della croce. Quando le altre le danno la parola, si leva in piedi, rossa come fuoco, e dice: «Ancora un poco e non mi vedrete; e ancora un poco e mi vedrete». Fa avanzare le sette ninfe e con un cenno muove Dante, Matelda e Stazio. Dopo dieci passi lo guarda negli occhi e lo invita ad accostarsi per parlargli; Dante, troppo riverente, balbetta.
+
+1
+’Deus, venerunt gentes’, alternando
+or tre or quattro dolce salmodia,
+le donne incominciaro, e lagrimando;
+> «Deus, venerunt gentes», alternando or tre or quattro dolce salmodia, le donne cominciarono, e piangendo;
+
+4
+e Bëatrice, sospirosa e pia,
+quelle ascoltava sì fatta, che poco
+più a la croce si cambiò Maria.
+> e Beatrice, sospirosa e pia, quelle ascoltava così fatta, che poco più alla croce si cambiò Maria.
+
+7
+Ma poi che l’altre vergini dier loco
+a lei di dir, levata dritta in pè,
+rispuose, colorata come foco:
+> Ma dopo che le altre vergini le diedero luogo di parlare, levata dritta in piedi, rispose, colorata come fuoco:
+
+10
+’Modicum, et non videbitis me;
+et iterum, sorelle mie dilette,
+modicum, et vos videbitis me’.
+> «Modicum, et non videbitis me; et iterum, sorelle mie dilette, modicum, et vos videbitis me».
+
+13
+Poi le si mise innanzi tutte e sette,
+e dopo sé, solo accennando, mosse
+me e la donna e ’l savio che ristette.
+> Poi si mise davanti a sé tutte e sette, e dopo di sé, solo accennando, mosse me e la donna e il savio che restò.
+
+16
+Così sen giva; e non credo che fosse
+lo decimo suo passo in terra posto,
+quando con li occhi li occhi mi percosse;
+> Così se ne andava; e non credo che fosse il suo decimo passo posto in terra, quando con gli occhi mi percosse gli occhi;
+
+19
+e con tranquillo aspetto "Vien più tosto",
+mi disse, "tanto che, s’io parlo teco,
+ad ascoltarmi tu sie ben disposto".
+> e con tranquillo aspetto «Vieni più presto», mi disse, «tanto che, se io parlo con te, tu sia ben disposto ad ascoltarmi».
+
+22
+Sì com’io fui, com’io dovëa, seco,
+dissemi: "Frate, perché non t’attenti
+a domandarmi omai venendo meco?".
+> Appena fui, come dovevo, con lei, mi disse: «Fratello, perché non osi domandarmi ormai venendo con me?».
+
+25
+Come a color che troppo reverenti
+dinanzi a suo maggior parlando sono,
+che non traggon la voce viva ai denti,
+> Come a coloro che troppo riverenti davanti al loro maggiore parlando sono, e non traggono la voce viva ai denti,
+
+28
+avvenne a me, che sanza intero suono
+incominciai: "Madonna, mia bisogna
+voi conoscete, e ciò ch’ad essa è buono".
+> avvenne a me, che senza suono intero cominciai: «Madonna, il mio bisogno voi conoscete, e ciò che ad esso è buono».
+
+31
+Ed ella a me: "Da tema e da vergogna
+voglio che tu omai ti disviluppe,
+sì che non parli più com’om che sogna.
+> Ed ella a me: «Da timore e da vergogna voglio che tu ormai ti sviluppi, così che non parli più come uomo che sogna.
+
+## scena-2 | paradiso-terrestre | La profezia del DXV
+personaggi: dante, beatrice
+tavola: ia | La profezia del DXV | img/ia/purgatorio-33-scena-2.jpg
+sintesi: Beatrice gli rivela che il carro rotto dal serpente «fu e non è», e chi ne ha colpa non deve temere vendetta di Dio. L'aquila che lasciò le penne al carro non sarà sempre senza erede: un «cinquecento diece e cinque», messo di Dio, ucciderà la ladra con il gigante. Come Temi e la Sfinge, le sue parole sono oscure, ma presto i fatti scioglieranno l'enigma. Gli comanda di riferirle ai vivi, di ricordarle e di non nascondere l'albero due volte derubato: chi lo ruba offende Dio. Se la sua mente non fosse pietrificata da vani pensieri, riconoscerebbe nell'albero la giustizia divina; ma poiché è fatta di pietra, vuole che le porti dentro di sé almeno dipinte, come si riporta il bordone cinto di palma.
+
+34
+Sappi che ’l vaso che ’l serpente ruppe,
+fu e non è; ma chi n’ ha colpa, creda
+che vendetta di Dio non teme suppe.
+> Sappi che il vaso che il serpente ruppe, fu e non è; ma chi ne ha colpa, creda che vendetta di Dio non teme zuppa.
+
+37
+Non sarà tutto tempo sanza reda
+l’aguglia che lasciò le penne al carro,
+per che divenne mostro e poscia preda;
+> Non sarà sempre senza erede l'aquila che lasciò le penne al carro, per cui divenne mostro e poi preda;
+
+40
+ch’io veggio certamente, e però il narro,
+a darne tempo già stelle propinque,
+secure d’ogn’intoppo e d’ogne sbarro,
+> perché io vedo certamente, e perciò lo narro, già propinque stelle a darne tempo, sicure da ogni intoppo e da ogni sbarra,
+
+43
+nel quale un cinquecento diece e cinque,
+messo di Dio, anciderà la fuia
+con quel gigante che con lei delinque.
+> nel quale un cinquecento dieci e cinque, messo di Dio, ucciderà la ladra con quel gigante che con lei delinque.
+
+46
+E forse che la mia narrazion buia,
+qual Temi e Sfinge, men ti persuade,
+perch’a lor modo lo ’ntelletto attuia;
+> E forse la mia narrazione oscura, come Temi e la Sfinge, ti persuade meno, perché a loro modo l'intelletto ottunde;
+
+49
+ma tosto fier li fatti le Naiade,
+che solveranno questo enigma forte
+sanza danno di pecore o di biade.
+> ma presto i fatti saranno le Naiadi, che scioglieranno questo enigma forte senza danno di pecore o di biade.
+
+52
+Tu nota; e sì come da me son porte,
+così queste parole segna a’ vivi
+del viver ch’è un correre a la morte.
+> Tu nota; e così come da me sono porte, così queste parole segna ai vivi del vivere che è un correre alla morte.
+
+55
+E aggi a mente, quando tu le scrivi,
+di non celar qual hai vista la pianta
+ch’è or due volte dirubata quivi.
+> E abbi a mente, quando le scrivi, di non nascondere come hai visto la pianta che è ora due volte derubata qui.
+
+58
+Qualunque ruba quella o quella schianta,
+con bestemmia di fatto offende a Dio,
+che solo a l’uso suo la creò santa.
+> Chiunque ruba quella o quella schianta, con bestemmia di fatto offende Dio, che solo per il suo uso la creò santa.
+
+61
+Per morder quella, in pena e in disio
+cinquemilia anni e più l’anima prima
+bramò colui che ’l morso in sé punio.
+> Per mordere quella, in pena e in desiderio cinquemila anni e più l'anima prima bramò colui che il morso in sé punì.
+
+64
+Dorme lo ’ngegno tuo, se non estima
+per singular cagione essere eccelsa
+lei tanto e sì travolta ne la cima.
+> Dorme il tuo ingegno, se non stima che per singolare causa sia eccelsa lei tanto e così travolta nella cima.
+
+67
+E se stati non fossero acqua d’Elsa
+li pensier vani intorno a la tua mente,
+e ’l piacer loro un Piramo a la gelsa,
+> E se stati non fossero acqua d'Elsa i vani pensieri intorno alla tua mente, e il loro piacere un Piramo al gelso,
+
+70
+per tante circostanze solamente
+la giustizia di Dio, ne l’interdetto,
+conosceresti a l’arbor moralmente.
+> per tante circostanze soltanto la giustizia di Dio, nell'interdetto, conosceresti moralmente nell'albero.
+
+73
+Ma perch’io veggio te ne lo ’ntelletto
+fatto di pietra e, impetrato, tinto,
+sì che t’abbaglia il lume del mio detto,
+> Ma perché io vedo te nell'intelletto fatto di pietra e, impietrito, tinto, così che ti abbaglia il lume del mio detto,
+
+76
+voglio anco, e se non scritto, almen dipinto,
+che ’l te ne porti dentro a te per quello
+che si reca il bordon di palma cinto".
+> voglio ancora, e se non scritto, almeno dipinto, che tu lo porti dentro di te per quello per cui si porta il bordone cinto di palma».
+
+79
+E io: "Sì come cera da suggello,
+che la figura impressa non trasmuta,
+segnato è or da voi lo mio cervello.
+> E io: «Come cera da suggello, che la figura impressa non trasmuta, segnato è ora da voi il mio cervello.
+
+82
+Ma perché tanto sovra mia veduta
+vostra parola disïata vola,
+che più la perde quanto più s’aiuta?".
+> Ma perché tanto sopra la mia vista vola la vostra parola desiderata, che più la perde quanto più si sforza?».
+
+85
+"Perché conoschi", disse, "quella scuola
+c’ hai seguitata, e veggi sua dottrina
+come può seguitar la mia parola;
+> «Perché conosca», disse, «quella scuola che hai seguito, e veda la sua dottrina come può seguire la mia parola;
+
+88
+e veggi vostra via da la divina
+distar cotanto, quanto si discorda
+da terra il ciel che più alto festina".
+> e veda la vostra via dalla divina distare tanto, quanto si discorda da terra il cielo che più alto si affretta».
+
+91
+Ond’io rispuosi lei: "Non mi ricorda
+ch’i’ stranïasse me già mai da voi,
+né honne coscïenza che rimorda".
+> Perciò io le risposi: «Non mi ricordo di essermi mai estraniato da voi, né ne ho coscienza che rimorda».
+
+94
+"E se tu ricordar non te ne puoi",
+sorridendo rispuose, "or ti rammenta
+come bevesti di Letè ancoi;
+> «E se tu non te ne puoi ricordare», sorridendo rispose, «ora ricordati come bevesti di Lete oggi;
+
+97
+e se dal fummo foco s’argomenta,
+cotesta oblivïon chiaro conchiude
+colpa ne la tua voglia altrove attenta.
+> e se dal fumo il fuoco si argomenta, questa dimenticanza chiaro conclude colpa nella tua voglia altrove attenta.
+
+100
+Veramente oramai saranno nude
+le mie parole, quanto converrassi
+quelle scovrire a la tua vista rude".
+> Veramente ormai saranno nude le mie parole, quanto converrà scoprirle alla tua vista rozza».
+
+## scena-3 | paradiso-terrestre | Eufrate e Tigri, Matelda ed Eunoè
+personaggi: dante, beatrice, matelda, stazio
+tavola: dore | Dante beve l'Eunoè | img/dore/purgatorio-33-eunoe-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148975676).jpg
+sintesi: Il sole è al meriggio quando le sette donne si fermano al limite di un'ombra smorta, come quella che l'alpe porta sopra i suoi freddi ruscelli. Davanti a loro Dante vede uscire dalla stessa fonte l'Eufrate e il Tigri, che si separano pigramente come amici. Chiede a Beatrice che acqua sia; ella lo rimanda a Matelda. Matelda risponde che gliel'ha già spiegato e che Lete non gliel'ha tolto; Beatrice dice che forse maggior cura ha oscurato la sua mente. Gli indica l'Eunoè e Matelda lo conduce, ravvivandone la virtù tramortita, insieme a Stazio.
+
+103
+E più corusco e con più lenti passi
+teneva il sole il cerchio di merigge,
+che qua e là, come li aspetti, fassi,
+> E più corrusco e con passi più lenti teneva il sole il cerchio del meriggio, che qua e là, come gli aspetti, si fa,
+
+106
+quando s’affisser, sì come s’affigge
+chi va dinanzi a gente per iscorta
+se trova novitate o sue vestigge,
+> quando si fermarono, come si ferma chi va davanti a una gente per scorta se trova novità o sue vestigia,
+
+109
+le sette donne al fin d’un’ombra smorta,
+qual sotto foglie verdi e rami nigri
+sovra suoi freddi rivi l’alpe porta.
+> le sette donne al limite di un'ombra smorta, quale sotto foglie verdi e rami neri sopra i suoi freddi rivi l'alpe porta.
+
+112
+Dinanzi ad esse Ëufratès e Tigri
+veder mi parve uscir d’una fontana,
+e, quasi amici, dipartirsi pigri.
+> Davanti a loro Eufrate e Tigri mi parve vedere uscire da una fonte, e, quasi amici, dividersi pigri.
+
+115
+"O luce, o gloria de la gente umana,
+che acqua è questa che qui si dispiega
+da un principio e sé da sé lontana?".
+> «O luce, o gloria della gente umana, che acqua è questa che qui si dispiega da un principio e se stessa da sé allontana?».
+
+118
+Per cotal priego detto mi fu: "Priega
+Matelda che ’l ti dica". E qui rispuose,
+come fa chi da colpa si dislega,
+> Per tale preghiera mi fu detto: «Prega Matelda che te lo dica». E qui rispose, come fa chi si libera da colpa,
+
+121
+la bella donna: "Questo e altre cose
+dette li son per me; e son sicura
+che l’acqua di Letè non gliel nascose".
+> la bella donna: «Questo e altre cose gli sono state dette da me; e sono sicura che l'acqua di Lete non gliel'ha nascosto».
+
+124
+E Bëatrice: "Forse maggior cura,
+che spesse volte la memoria priva,
+fatt’ ha la mente sua ne li occhi oscura.
+> E Beatrice: «Forse una maggiore cura, che spesse volte priva la memoria, ha reso oscura la sua mente negli occhi.
+
+127
+Ma vedi Eünoè che là diriva:
+menalo ad esso, e come tu se’ usa,
+la tramortita sua virtù ravviva".
+> Ma vedi Eunoè che là deriva: menalo ad esso, e come sei solita, ravviva la sua virtù tramortita».
+
+130
+Come anima gentil, che non fa scusa,
+ma fa sua voglia de la voglia altrui
+tosto che è per segno fuor dischiusa;
+> Come anima gentile, che non fa scuse, ma fa sua volontà della volontà altrui appena è fuori dischiusa per segno;
+
+133
+così, poi che da essa preso fui,
+la bella donna mossesi, e a Stazio
+donnescamente disse: "Vien con lui".
+> così, dopo che da lei fui preso, la bella donna si mosse, e a Stazio donnescamente disse: «Vieni con lui».
+
+## scena-4 | paradiso-terrestre | Puro e disposto a salire alle stelle
+personaggi: dante, matelda, stazio
+tavola: dore | Dante beve l'Eunoè | img/dore/purgatorio-33-eunoe-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148975676).jpg
+sintesi: Dante dice al lettore che, se avesse più spazio, canterebbe in parte il dolce bere che non l'avrebbe mai saziato; ma tutte le pagine ordite per questa seconda cantica sono piene, e il freno dell'arte non lo lascia più andare. Torna dalla santissima onda rinnovato come piante nuove rinnovate di nuova fronda: puro e disposto a salire alle stelle.
+
+136
+S’io avessi, lettor, più lungo spazio
+da scrivere, i’ pur cantere’ in parte
+lo dolce ber che mai non m’avria sazio;
+> Se avessi, lettore, più lungo spazio per scrivere, canterei almeno in parte il dolce bere che non mi avrebbe mai saziato;
+
+139
+ma perché piene son tutte le carte
+ordite a questa cantica seconda,
+non mi lascia più ir lo fren de l’arte.
+> ma perché sono piene tutte le carte ordite a questa seconda cantica, non mi lascia più andare il freno dell'arte.
+
+142
+Io ritornai da la santissima onda
+rifatto sì come piante novelle
+rinovellate di novella fronda,
+> Io ritornai dalla santissima onda rifatto come piante novelle rinnovate di nuova fronda,
+
+145
+puro e disposto a salire a le stelle.
+> puro e disposto a salire alle stelle.

@@ -1,0 +1,322 @@
+{
+  "cantica": "purgatorio",
+  "canto": 8,
+  "titolo": "La sera nella valletta, Nino Visconti, il serpente e Corrado Malaspina",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_VIII",
+  "numero_versi": 139,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 39],
+      "titolo_scena": "L'ora della sera e il «Te lucis ante»",
+      "sintesi": "È l'ora in cui i naviganti si struggono per gli amici lasciati e il pellegrino sente lontano la campana del giorno che muore. Dante smette di ascoltare quando un'anima si alza e canta, con le mani alzate verso oriente, l'inno «Te lucis ante», seguita da tutte le altre. Poi dall'alto scendono due angeli con spade di fuoco senza punta, con vesti verdi come foglioline appena nate: Sordello spiega che vengono a guardia della valle contro il serpente.",
+      "luogo_id": "valletta-principi",
+      "personaggi": ["dante", "virgilio", "sordello", "angeli-della-valle"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Dante e Virgilio alla sera",
+          "url": "img/dore/purgatorio-08-sera-960.jpg",
+          "miniatura": "img/dore/purgatorio-08-sera-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148974325).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [40, 84],
+      "titolo_scena": "Nino Visconti",
+      "sintesi": "Dante, impaurito, si stringe alle spalle di Virgilio; scesi fra le grandi ombre incontra il giudice Nino Visconti, che si rallegra di vederlo non fra i dannati. Saputo che Dante è ancora vivo, Nino chiama Corrado e prega Dante di far pregare la figlia Giovanna; ricorda con amarezza che la madre di lei si è risposata, e quanto poco duri in una donna l'amore se gli occhi o il tatto non lo riaccendono.",
+      "luogo_id": "valletta-principi",
+      "personaggi": ["dante", "virgilio", "sordello", "nino-visconti"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Nino Visconti",
+          "url": "img/ia/purgatorio-08-scena-2.jpg",
+          "miniatura": "img/ia/purgatorio-08-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [85, 108],
+      "titolo_scena": "Il serpente e gli angeli",
+      "sintesi": "Dante guarda le stelle del cielo meridionale; Virgilio gli spiega che le quattro stelle del mattino sono ormai tramontate. Sordello gli indica il serpente che striscia fra l'erba e i fiori, forse lo stesso che diede il frutto amaro a Eva. Dante non vede come si muovono gli angeli, ma li vede muoversi: al fruscio delle ali verdi il serpente fugge e gli angeli tornano ai loro posti.",
+      "luogo_id": "valletta-principi",
+      "personaggi": ["dante", "virgilio", "sordello", "nino-visconti", "angeli-della-valle", "serpente-della-valle"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Gli angeli e il serpente nella valletta",
+          "url": "img/dore/purgatorio-08-serpente-960.jpg",
+          "miniatura": "img/dore/purgatorio-08-serpente-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148974300).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [109, 139],
+      "titolo_scena": "Corrado Malaspina",
+      "sintesi": "L'anima che aveva chiamato Nino si rivela per Corrado Malaspina, discendente dell'antico, e chiede notizie della Val di Magra. Dante, che non c'è mai stato, ne loda la fama e la generosità della casata, che non si lascia traviare dal mondo. Corrado gli profetizza che prima di sette anni sperimenterà di persona l'ospitalità dei Malaspina, durante il suo esilio.",
+      "luogo_id": "valletta-principi",
+      "personaggi": ["dante", "virgilio", "sordello", "nino-visconti", "corrado-malaspina"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Corrado Malaspina",
+          "url": "img/ia/purgatorio-08-scena-4.jpg",
+          "miniatura": "img/ia/purgatorio-08-scena-4.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Era già l’ora che volge il disio\nai navicanti e ’ntenerisce il core\nlo dì c’ han detto ai dolci amici addio;",
+      "parafrasi": "Era già l'ora che rivolge il desiderio ai naviganti e intenerisce il cuore il giorno in cui hanno detto addio ai dolci amici;"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "e che lo novo peregrin d’amore\npunge, se ode squilla di lontano\nche paia il giorno pianger che si more;",
+      "parafrasi": "e che punge il pellegrino appena partito, se ode una campana lontana che sembra piangere il giorno che muore;"
+    },
+    {
+      "versi": [7, 9],
+      "testo": "quand’io incominciai a render vano\nl’udire e a mirare una de l’alme\nsurta, che l’ascoltar chiedea con mano.",
+      "parafrasi": "quando io cominciai a rendere vano l'ascoltare e a guardare una delle anime, alzatasi, che con la mano chiedeva di essere ascoltata."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "Ella giunse e levò ambo le palme,\nficcando li occhi verso l’orïente,\ncome dicesse a Dio: ’D’altro non calme’.",
+      "parafrasi": "Ella giunse e alzò entrambe le palme, fissando gli occhi verso oriente, come se dicesse a Dio: «Di altro non mi importa»."
+    },
+    {
+      "versi": [13, 15],
+      "testo": "’Te lucis ante’ sì devotamente\nle uscìo di bocca e con sì dolci note,\nche fece me a me uscir di mente;",
+      "parafrasi": "«Te lucis ante» le uscì di bocca così devotamente e con note così dolci che mi fece uscire da me stesso;"
+    },
+    {
+      "versi": [16, 18],
+      "testo": "e l’altre poi dolcemente e devote\nseguitar lei per tutto l’inno intero,\navendo li occhi a le superne rote.",
+      "parafrasi": "e le altre poi la seguirono dolcemente e devote per tutto l'inno intero, tenendo gli occhi alle ruote superiori del cielo."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "Aguzza qui, lettor, ben li occhi al vero,\nché ’l velo è ora ben tanto sottile,\ncerto che ’l trapassar dentro è leggero.",
+      "parafrasi": "Aguzza qui, lettore, bene gli occhi al vero, perché il velo è ora così sottile che certo passare dentro è facile."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Io vidi quello essercito gentile\ntacito poscia riguardare in sùe,\nquasi aspettando, palido e umìle;",
+      "parafrasi": "Vidi quell'esercito gentile guardare poi in alto in silenzio, quasi in attesa, pallido e umile;"
+    },
+    {
+      "versi": [25, 27],
+      "testo": "e vidi uscir de l’alto e scender giùe\ndue angeli con due spade affocate,\ntronche e private de le punte sue.",
+      "parafrasi": "e vidi uscire dall'alto e scendere giù due angeli con due spade di fuoco, tronche e prive della punta."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Verdi come fogliette pur mo nate\nerano in veste, che da verdi penne\npercosse traean dietro e ventilate.",
+      "parafrasi": "Verdi come foglioline appena nate erano le loro vesti, che trascinavano dietro, battute e mosse da verdi penne."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "L’un poco sovra noi a star si venne,\ne l’altro scese in l’opposita sponda,\nsì che la gente in mezzo si contenne.",
+      "parafrasi": "Uno venne a fermarsi poco sopra di noi, e l'altro scese sulla riva opposta, così che la gente stava nel mezzo."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Ben discernëa in lor la testa bionda;\nma ne la faccia l’occhio si smarria,\ncome virtù ch’a troppo si confonda.",
+      "parafrasi": "Ben distinguevo in loro la testa bionda; ma nel volto l'occhio si smarriva, come una facoltà che si confonde con troppo."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "\"Ambo vegnon del grembo di Maria\",\ndisse Sordello, \"a guardia de la valle,\nper lo serpente che verrà vie via\".",
+      "parafrasi": "«Entrambi vengono dal grembo di Maria», disse Sordello, «a guardia della valle, per il serpente che verrà fra poco»."
+    },
+    {
+      "versi": [40, 42],
+      "testo": "Ond’io, che non sapeva per qual calle,\nmi volsi intorno, e stretto m’accostai,\ntutto gelato, a le fidate spalle.",
+      "parafrasi": "Perciò io, che non sapevo per quale via, mi volsi intorno e mi strinsi, tutto gelato, alle fidate spalle."
+    },
+    {
+      "versi": [43, 45],
+      "testo": "E Sordello anco: \"Or avvalliamo omai\ntra le grandi ombre, e parleremo ad esse;\ngrazïoso fia lor vedervi assai\".",
+      "parafrasi": "E Sordello ancora: «Ora scendiamo tra le grandi ombre, e parleremo con loro; sarà loro molto gradito vedervi»."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Solo tre passi credo ch’i’ scendesse,\ne fui di sotto, e vidi un che mirava\npur me, come conoscer mi volesse.",
+      "parafrasi": "Credo di essere sceso solo tre passi, ed ero giù, e vidi uno che guardava solo me, come se volesse riconoscermi."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "Temp’era già che l’aere s’annerava,\nma non sì che tra li occhi suoi e ’ miei\nnon dichiarisse ciò che pria serrava.",
+      "parafrasi": "Era già il tempo in cui l'aria si faceva scura, ma non tanto che fra i suoi occhi e i miei non si chiarisse ciò che prima era nascosto."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "Ver’ me si fece, e io ver’ lui mi fei:\ngiudice Nin gentil, quanto mi piacque\nquando ti vidi non esser tra ’ rei!",
+      "parafrasi": "Si fece verso di me, e io verso di lui: giudice Nino gentile, quanto mi piacque quando ti vidi non essere fra i dannati!"
+    },
+    {
+      "versi": [55, 57],
+      "testo": "Nullo bel salutar tra noi si tacque;\npoi dimandò: \"Quant’è che tu venisti\na piè del monte per le lontane acque?\".",
+      "parafrasi": "Nessun bel saluto fu taciuto fra noi; poi chiese: «Da quanto tempo sei venuto ai piedi del monte per le acque lontane?»."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "\"Oh!\", diss’io lui, \"per entro i luoghi tristi\nvenni stamane, e sono in prima vita,\nancor che l’altra, sì andando, acquisti\".",
+      "parafrasi": "«Oh!», gli dissi, «sono venuto stamattina attraverso i luoghi tristi, e sono nella prima vita, anche se camminando così acquisto l'altra»."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "E come fu la mia risposta udita,\nSordello ed elli in dietro si raccolse\ncome gente di sùbito smarrita.",
+      "parafrasi": "E come fu udita la mia risposta, Sordello e lui si ritirarono indietro come gente smarrita di colpo."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "L’uno a Virgilio e l’altro a un si volse\nche sedea lì, gridando: \"Sù, Currado!\nvieni a veder che Dio per grazia volse\".",
+      "parafrasi": "L'uno si volse a Virgilio e l'altro a uno che sedeva lì, gridando: «Su, Corrado! Vieni a vedere ciò che Dio ha voluto per grazia»."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Poi, vòlto a me: \"Per quel singular grado\nche tu dei a colui che sì nasconde\nlo suo primo perché, che non lì è guado,",
+      "parafrasi": "Poi, rivolto a me: «Per quella singolare gratitudine che devi a colui che nasconde così il suo primo perché, che non vi è guado,"
+    },
+    {
+      "versi": [70, 72],
+      "testo": "quando sarai di là da le larghe onde,\ndì a Giovanna mia che per me chiami\nlà dove a li ’nnocenti si risponde.",
+      "parafrasi": "quando sarai di là dalle larghe onde, di' alla mia Giovanna che preghi per me là dove si risponde agli innocenti."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Non credo che la sua madre più m’ami,\nposcia che trasmutò le bianche bende,\nle quai convien che, misera!, ancor brami.",
+      "parafrasi": "Non credo che sua madre mi ami ancora, da quando cambiò le bianche bende, che purtroppo, infelice!, deve ancora desiderare."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "Per lei assai di lieve si comprende\nquanto in femmina foco d’amor dura,\nse l’occhio o ’l tatto spesso non l’accende.",
+      "parafrasi": "Da lei si capisce facilmente quanto duri in una donna il fuoco d'amore, se l'occhio o il tatto non lo riaccendono spesso."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Non le farà sì bella sepultura\nla vipera che Melanesi accampa,\ncom’avria fatto il gallo di Gallura\".",
+      "parafrasi": "Non le farà una sepoltura così bella la vipera che accampa i Milanesi, come le avrebbe fatto il gallo di Gallura»."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "Così dicea, segnato de la stampa,\nnel suo aspetto, di quel dritto zelo\nche misuratamente in core avvampa.",
+      "parafrasi": "Così diceva, segnato nell'aspetto da quel giusto zelo che arde nel cuore in modo misurato."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "Li occhi miei ghiotti andavan pur al cielo,\npur là dove le stelle son più tarde,\nsì come rota più presso a lo stelo.",
+      "parafrasi": "I miei occhi golosi andavano sempre al cielo, là dove le stelle sono più lente, come la ruota più vicina al mozzo."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "E ’l duca mio: \"Figliuol, che là sù guarde?\".\nE io a lui: \"A quelle tre facelle\ndi che ’l polo di qua tutto quanto arde\".",
+      "parafrasi": "E la mia guida: «Figlio, che guardi lassù?». E io a lui: «A quelle tre faci di cui tutto il polo di qui arde»."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Ond’elli a me: \"Le quattro chiare stelle\nche vedevi staman, son di là basse,\ne queste son salite ov’eran quelle\".",
+      "parafrasi": "Ed egli a me: «Le quattro stelle chiare che vedevi stamattina sono tramontate laggiù, e queste sono salite dove stavano quelle»."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Com’ei parlava, e Sordello a sé il trasse\ndicendo: \"Vedi là ’l nostro avversaro\";\ne drizzò il dito perché ’n là guardasse.",
+      "parafrasi": "Mentre parlava, Sordello lo tirò a sé dicendo: «Vedi laggiù il nostro avversario»; e puntò il dito perché guardassimo in quella direzione."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Da quella parte onde non ha riparo\nla picciola vallea, era una biscia,\nforse qual diede ad Eva il cibo amaro.",
+      "parafrasi": "Da quella parte dove la piccola valle non ha riparo, c'era una biscia, forse come quella che diede a Eva il cibo amaro."
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Tra l’erba e ’ fior venìa la mala striscia,\nvolgendo ad ora ad or la testa, e ’l dosso\nleccando come bestia che si liscia.",
+      "parafrasi": "Tra l'erba e i fiori veniva la cattiva striscia, volgendo di tanto in tanto la testa e leccandosi il dorso come una bestia che si lisci."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Io non vidi, e però dicer non posso,\ncome mosser li astor celestïali;\nma vidi bene e l’uno e l’altro mosso.",
+      "parafrasi": "Io non vidi, e perciò non posso dire, come si mossero gli astori celesti; ma vidi bene l'uno e l'altro già in moto."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Sentendo fender l’aere a le verdi ali,\nfuggì ’l serpente, e li angeli dier volta,\nsuso a le poste rivolando iguali.",
+      "parafrasi": "Sentendo fendere l'aria dalle verdi ali, il serpente fuggì, e gli angeli fecero giro, volando in alto ai loro posti, in pari."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "L’ombra che s’era al giudice raccolta\nquando chiamò, per tutto quello assalto\npunto non fu da me guardare sciolta.",
+      "parafrasi": "L'ombra che si era stretta al giudice quando chiamò, per tutto quell'assalto non si staccò dal guardarmi neppure un istante."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "\"Se la lucerna che ti mena in alto\ntruovi nel tuo arbitrio tanta cera\nquant’è mestiere infino al sommo smalto\",",
+      "parafrasi": "«Se la lucerna che ti guida in alto trova nel tuo arbitrio tanta cera quanta ne serve fino al sommo smalto»,"
+    },
+    {
+      "versi": [115, 117],
+      "testo": "cominciò ella, \"se novella vera\ndi Val di Magra o di parte vicina\nsai, dillo a me, che già grande là era.",
+      "parafrasi": "cominciò lei, «se hai notizie vere della Val di Magra o di parte vicina, dimmele, perché io là ero potente."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Fui chiamato Currado Malaspina;\nnon son l’antico, ma di lui discesi;\na’ miei portai l’amor che qui raffina\".",
+      "parafrasi": "Fui chiamato Corrado Malaspina; non sono il vecchio, ma discendo da lui; ai miei portai l'amore che qui si purifica»."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "\"Oh!\", diss’io lui, \"per li vostri paesi\ngià mai non fui; ma dove si dimora\nper tutta Europa ch’ei non sien palesi?",
+      "parafrasi": "«Oh!», gli dissi, «non fui mai nei vostri paesi; ma dove si abita in tutta Europa che non siano noti?"
+    },
+    {
+      "versi": [124, 126],
+      "testo": "La fama che la vostra casa onora,\ngrida i segnori e grida la contrada,\nsì che ne sa chi non vi fu ancora;",
+      "parafrasi": "La fama che onora la vostra casa grida i signori e grida la contrada, tanto che ne sa anche chi non c'è ancora stato;"
+    },
+    {
+      "versi": [127, 129],
+      "testo": "e io vi giuro, s’io di sopra vada,\nche vostra gente onrata non si sfregia\ndel pregio de la borsa e de la spada.",
+      "parafrasi": "e vi giuro, se io salgo lassù, che la vostra onorata gente non si sminuisce del pregio della borsa e della spada."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Uso e natura sì la privilegia,\nche, perché il capo reo il mondo torca,\nsola va dritta e ’l mal cammin dispregia\".",
+      "parafrasi": "Uso e natura la privilegiano tanto che, anche se il capo malvagio torce il mondo, essa sola va dritta e disprezza il cattivo cammino»."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "Ed elli: \"Or va; che ’l sol non si ricorca\nsette volte nel letto che ’l Montone\ncon tutti e quattro i piè cuopre e inforca,",
+      "parafrasi": "Ed egli: «Ora va'; perché il sole non si corica sette volte nel letto che l'Ariete copre e cavalca con tutti e quattro i piedi,"
+    },
+    {
+      "versi": [136, 138],
+      "testo": "che cotesta cortese oppinïone\nti fia chiavata in mezzo de la testa\ncon maggior chiovi che d’altrui sermone,",
+      "parafrasi": "che questa cortese opinione ti sarà conficcata in mezzo alla testa con chiodi più grandi che le parole altrui,"
+    },
+    {
+      "versi": [139, 139],
+      "testo": "se corso di giudicio non s’arresta\".",
+      "parafrasi": "se il corso del giudizio non si arresta»."
+    }
+  ]
+}

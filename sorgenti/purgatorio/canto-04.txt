@@ -1,0 +1,306 @@
+# Purgatorio, canto IV
+titolo: La salita nella roccia, il sole a sinistra e Belacqua
+
+## scena-1 | antipurgatorio-scomunicati | L'anima assorta nell'ascolto
+personaggi: dante, virgilio
+tavola: ia | L'anima assorta nell'ascolto | img/ia/purgatorio-04-scena-1.jpg
+sintesi: Dante riflette su come un piacere o un dolore intensi assorbano l'anima in un'unica facoltà, facendo trascorrere il tempo senza che ce ne accorgiamo: ascoltando Manfredi, il sole era salito di cinquanta gradi senza che se ne avvedesse, quando le anime gridano loro dove trovare la via.
+
+1
+Quando per dilettanze o ver per doglie,
+che alcuna virtù nostra comprenda,
+l’anima bene ad essa si raccoglie,
+> Quando, per piaceri o per dolori che una qualche nostra facoltà percepisca, l'anima si concentra bene su di essi,
+
+4
+par ch’a nulla potenza più intenda;
+e questo è contra quello error che crede
+ch’un’anima sovr’altra in noi s’accenda.
+> sembra che non badi a nessun'altra facoltà; e questo è contro l'errore che crede che un'anima si accenda in noi sopra un'altra.
+
+7
+E però, quando s’ode cosa o vede
+che tegna forte a sé l’anima volta,
+vassene ’l tempo e l’uom non se n’avvede;
+> E perciò, quando si ode o si vede qualcosa che tiene fortemente rivolta a sé l'anima, il tempo passa e l'uomo non se ne accorge;
+
+10
+ch’altra potenza è quella che l’ascolta,
+e altra è quella c’ ha l’anima intera:
+questa è quasi legata e quella è sciolta.
+> perché altra è la facoltà che ascolta, e altra quella che ha l'anima intera: questa è quasi legata e quella è libera.
+
+13
+Di ciò ebb’io esperïenza vera,
+udendo quello spirto e ammirando;
+ché ben cinquanta gradi salito era
+> Ne ebbi vera esperienza, ascoltando quello spirito e ammirandolo; perché il sole era salito di ben cinquanta gradi
+
+16
+lo sole, e io non m’era accorto, quando
+venimmo ove quell’anime ad una
+gridaro a noi: "Qui è vostro dimando".
+> e io non me n'ero accorto, quando arrivammo dove quelle anime gridarono insieme a noi: «Qui è ciò che chiedete».
+
+## scena-2 | antipurgatorio-scomunicati | La salita nel passaggio stretto
+personaggi: dante, virgilio
+tavola: dore | La salita sulla roccia | img/dore/purgatorio-04-salita-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148974180).jpg
+sintesi: Il varco per cui salgono è più stretto di un'apertura che un contadino chiude con un forcone di spine; si sale dentro la roccia spaccata, aiutandosi con mani e piedi. In cima, Dante, stanco, supplica Virgilio di aspettarlo e questi gli indica una balza poco più in alto.
+
+19
+Maggiore aperta molte volte impruna
+con una forcatella di sue spine
+l’uom de la villa quando l’uva imbruna,
+> Un contadino, quando l'uva scurisce, chiude con una forcata di spine un'apertura più larga
+
+22
+che non era la calla onde salìne
+lo duca mio, e io appresso, soli,
+come da noi la schiera si partìne.
+> di quel passaggio per cui salì la mia guida e io dietro, soli, appena la schiera si allontanò da noi.
+
+25
+Vassi in Sanleo e discendesi in Noli,
+montasi su in Bismantova e ’n Cacume
+con esso i piè; ma qui convien ch’om voli;
+> Si va a Sanleo e si scende a Noli, si sale a Bismantova e al Cacume con i soli piedi; ma qui bisogna volare;
+
+28
+dico con l’ale snelle e con le piume
+del gran disio, di retro a quel condotto
+che speranza mi dava e facea lume.
+> dico con le ali rapide e le penne del gran desiderio, dietro a quella guida che mi dava speranza e faceva luce.
+
+31
+Noi salavam per entro ’l sasso rotto,
+e d’ogne lato ne stringea lo stremo,
+e piedi e man volea il suol di sotto.
+> Salivamo dentro la roccia spaccata, e da ogni lato il bordo ci stringeva, e il suolo di sotto voleva piedi e mani.
+
+34
+Poi che noi fummo in su l’orlo suppremo
+de l’alta ripa, a la scoperta piaggia,
+"Maestro mio", diss’io, "che via faremo?".
+> Quando fummo sull'orlo più alto della rupe, in un luogo scoperto, dissi: «Maestro mio, che strada faremo?».
+
+37
+Ed elli a me: "Nessun tuo passo caggia;
+pur su al monte dietro a me acquista,
+fin che n’appaia alcuna scorta saggia".
+> Ed egli a me: «Non cada nessun tuo passo; continua a salire il monte dietro di me, finché non ci appaia una guida esperta».
+
+40
+Lo sommo er’alto che vincea la vista,
+e la costa superba più assai
+che da mezzo quadrante a centro lista.
+> La cima era così alta che superava la vista, e il pendio molto più ripido della linea che va dal punto di mezzo del quadrante al centro.
+
+43
+Io era lasso, quando cominciai:
+"O dolce padre, volgiti, e rimira
+com’io rimango sol, se non restai".
+> Io ero stanco quando cominciai: «O dolce padre, voltati, e guarda come resto solo, se non ti fermi».
+
+46
+"Figliuol mio", disse, "infin quivi ti tira",
+additandomi un balzo poco in sùe
+che da quel lato il poggio tutto gira.
+> «Figlio mio», disse, «trascinati fin lì», indicandomi una balza poco più in alto, che gira tutto intorno al monte da quel lato.
+
+## scena-3 | antipurgatorio-pigri | La balza e il corso del sole
+personaggi: dante, virgilio
+tavola: ia | La balza e il corso del sole | img/ia/purgatorio-04-scena-3.jpg
+sintesi: Spronato dalle parole di Virgilio, Dante si arrampica fino alla balza. Seduti rivolti a oriente, vedono con stupore il sole colpirli da sinistra; Virgilio spiega, con l'immagine di Sion e del monte opposti sulla Terra, perché il sole qui sta a nord. Poi consola Dante: questa montagna è faticosa all'inizio e diventa lieve salendo.
+
+49
+Sì mi spronaron le parole sue,
+ch’i’ mi sforzai carpando appresso lui,
+tanto che ’l cinghio sotto i piè mi fue.
+> Le sue parole mi spronarono tanto che mi sforzai di arrampicarmi dietro di lui, finché la cornice fu sotto i miei piedi.
+
+52
+A seder ci ponemmo ivi ambedui
+vòlti a levante ond’eravam saliti,
+che suole a riguardar giovare altrui.
+> Ci sedemmo lì entrambi, rivolti a oriente da dove eravamo saliti, cosa che di solito giova a chi guarda.
+
+55
+Li occhi prima drizzai ai bassi liti;
+poscia li alzai al sole, e ammirava
+che da sinistra n’eravam feriti.
+> Prima volsi gli occhi alle rive in basso, poi li alzai al sole, e mi stupivo che ci colpisse da sinistra.
+
+58
+Ben s’avvide il poeta ch’ïo stava
+stupido tutto al carro de la luce,
+ove tra noi e Aquilone intrava.
+> Il poeta si accorse bene che stavo stupito davanti al carro della luce, là dove passava tra noi e l'Aquilone.
+
+61
+Ond’elli a me: "Se Castore e Poluce
+fossero in compagnia di quello specchio
+che sù e giù del suo lume conduce,
+> Perciò mi disse: «Se Castore e Polluce fossero in compagnia di quello specchio che porta la luce in alto e in basso,
+
+64
+tu vedresti il Zodïaco rubecchio
+ancora a l’Orse più stretto rotare,
+se non uscisse fuor del cammin vecchio.
+> vedresti lo Zodiaco rossastro girare ancora più vicino alle Orse, se non uscisse dal suo vecchio cammino.
+
+67
+Come ciò sia, se ’l vuoi poter pensare,
+dentro raccolto, imagina Sïòn
+con questo monte in su la terra stare
+> Se vuoi poter capire come ciò sia, raccogliti in te e immagina Sion e questo monte stare sulla terra
+
+70
+sì, ch’amendue hanno un solo orizzòn
+e diversi emisperi; onde la strada
+che mal non seppe carreggiar Fetòn,
+> in modo che abbiano un solo orizzonte ma emisferi diversi; allora, per la strada che Fetonte non seppe percorrere,
+
+73
+vedrai come a costui convien che vada
+da l’un, quando a colui da l’altro fianco,
+se lo ’ntelletto tuo ben chiaro bada".
+> vedrai come debba andare da una parte per l'uno, quando va dall'altra per l'altro, se la tua mente guarda bene chiaro».
+
+76
+"Certo, maestro mio", diss’io, "unquanco
+non vid’io chiaro sì com’io discerno
+là dove mio ingegno parea manco,
+> «Certo, maestro mio», dissi, «non ho mai visto così chiaro come ora capisco là dove il mio ingegno sembrava mancare,
+
+79
+che ’l mezzo cerchio del moto superno,
+che si chiama Equatore in alcun’arte,
+e che sempre riman tra ’l sole e ’l verno,
+> che il cerchio mediano del moto superiore, che in qualche arte si chiama Equatore, e che resta sempre tra il sole e l'inverno,
+
+82
+per la ragion che di’, quinci si parte
+verso settentrïon, quanto li Ebrei
+vedevan lui verso la calda parte.
+> per la ragione che dici, si allontana da qui verso nord, quanto gli Ebrei lo vedevano verso la parte calda.
+
+85
+Ma se a te piace, volontier saprei
+quanto avemo ad andar; ché ’l poggio sale
+più che salir non posson li occhi miei".
+> Ma se ti piace, vorrei volentieri sapere quanto dobbiamo ancora andare; perché il pendio sale più di quanto possano salire i miei occhi».
+
+88
+Ed elli a me: "Questa montagna è tale,
+che sempre al cominciar di sotto è grave;
+e quant’om più va sù, e men fa male.
+> Ed egli a me: «Questa montagna è tale che all'inizio, dal basso, è sempre faticosa; e quanto più si sale, tanto meno fa male.
+
+91
+Però, quand’ella ti parrà soave
+tanto, che sù andar ti fia leggero
+com’a seconda giù andar per nave,
+> Perciò, quando ti sembrerà tanto dolce che salire ti sarà facile come andare giù per nave col fiume a favore,
+
+94
+allor sarai al fin d’esto sentiero;
+quivi di riposar l’affanno aspetta.
+Più non rispondo, e questo so per vero".
+> allora sarai alla fine di questo sentiero; lì aspetta di riposare dalla fatica. Non rispondo di più, e questo so per certo».
+
+## scena-4 | antipurgatorio-pigri | Belacqua e i pigri
+personaggi: dante, virgilio, belacqua
+tavola: dore | Gli spiriti pigri | img/dore/purgatorio-04-pigri-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148974184).jpg
+sintesi: Una voce ironica li invita a sedersi prima di salire: dietro un grande masso stanno all'ombra i pigri, tra cui uno seduto con la testa tra le ginocchia, che Dante riconosce come il fiorentino Belacqua. Questi spiega che, finché non lo aiuteranno le preghiere dei vivi, dovrà aspettare fuori dalla porta tanto quanto ha ritardato il pentimento.
+
+97
+E com’elli ebbe sua parola detta,
+una voce di presso sonò: "Forse
+che di sedere in pria avrai distretta!".
+> E appena ebbe detto queste parole, una voce vicina risuonò: «Forse prima di allora avrai bisogno di sederti!».
+
+100
+Al suon di lei ciascun di noi si torse,
+e vedemmo a mancina un gran petrone,
+del qual né io né ei prima s’accorse.
+> Al suono di essa ciascuno di noi si voltò, e vedemmo a sinistra un grande masso, di cui né io né lui ci eravamo accorti prima.
+
+103
+Là ci traemmo; e ivi eran persone
+che si stavano a l’ombra dietro al sasso
+come l’uom per negghienza a star si pone.
+> Ci andammo e lì c'erano persone che stavano all'ombra dietro il sasso, come l'uomo si mette a stare per pigrizia.
+
+106
+E un di lor, che mi sembiava lasso,
+sedeva e abbracciava le ginocchia,
+tenendo ’l viso giù tra esse basso.
+> E uno di loro, che mi sembrava stanco, sedeva abbracciando le ginocchia e tenendo il viso basso fra esse.
+
+109
+"O dolce segnor mio", diss’io, "adocchia
+colui che mostra sé più negligente
+che se pigrizia fosse sua serocchia".
+> «O dolce mio signore», dissi, «guarda colui che si mostra più pigro che se la pigrizia fosse sua sorella».
+
+112
+Allor si volse a noi e puose mente,
+movendo ’l viso pur su per la coscia,
+e disse: "Or va tu sù, che se’ valente!".
+> Allora si volse verso di noi e fece attenzione, muovendo il viso solo su lungo la coscia, e disse: «Va' su tu, che sei bravo!».
+
+115
+Conobbi allor chi era, e quella angoscia
+che m’avacciava un poco ancor la lena,
+non m’impedì l’andare a lui; e poscia
+> Allora capii chi era, e l'affanno che mi accorciava ancora un poco il respiro non mi impedì di andare da lui; e dopo
+
+118
+ch’a lui fu’ giunto, alzò la testa a pena,
+dicendo: "Hai ben veduto come ’l sole
+da l’omero sinistro il carro mena?".
+> che gli fui giunto, alzò appena la testa, dicendo: «Hai ben visto come il sole conduce il carro dalla spalla sinistra?».
+
+121
+Li atti suoi pigri e le corte parole
+mosser le labbra mie un poco a riso;
+poi cominciai: "Belacqua, a me non dole
+> I suoi gesti pigri e le parole brevi mossero un po' le mie labbra al riso; poi cominciai: «Belacqua, di te
+
+124
+di te omai; ma dimmi: perché assiso
+quiritto se’ ? attendi tu iscorta,
+o pur lo modo usato t’ ha’ ripriso?".
+> non mi dispiace più; ma dimmi: perché sei seduto proprio qui? Aspetti una guida, o hai ripreso il tuo solito modo?».
+
+127
+Ed elli: "O frate, andar in sù che porta?
+ché non mi lascerebbe ire a’ martìri
+l’angel di Dio che siede in su la porta.
+> Ed egli: «O fratello, andare su a che serve? Non mi lascerebbe entrare ai tormenti l'angelo di Dio che siede sulla porta.
+
+130
+Prima convien che tanto il ciel m’aggiri
+di fuor da essa, quanto fece in vita,
+perch’io ’ndugiai al fine i buon sospiri,
+> Prima bisogna che il cielo giri attorno a me, fuori da essa, tanto quanto fece in vita, perché ritardai fino alla fine i buoni sospiri,
+
+133
+se orazïone in prima non m’aita
+che surga sù di cuor che in grazia viva;
+l’altra che val, che ’n ciel non è udita?".
+> se prima non mi aiuta la preghiera che sorga da un cuore che viva in grazia; l'altra a che vale, se in cielo non è ascoltata?».
+
+136
+E già il poeta innanzi mi saliva,
+e dicea: "Vienne omai; vedi ch’è tocco
+meridïan dal sole, e a la riva
+> E già il poeta mi saliva davanti e diceva: «Vieni ormai; vedi che il sole ha toccato il meridiano, e sulla riva
+
+139
+cuopre la notte già col piè Morrocco".
+> la notte già copre col piede il Marocco».
+
+## personaggio | belacqua | Belacqua
+dibattuto: no
+chi_era: Secondo i commentatori antichi un liutaio fiorentino, amico di Dante, famoso per la sua pigrizia. Dante non ne dà altro che il nome e il carattere; lo ritrova tra i pigri dell'Antipurgatorio, che si pentirono solo alla fine della vita.

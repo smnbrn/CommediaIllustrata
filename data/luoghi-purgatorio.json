@@ -1,0 +1,263 @@
+{
+  "_nota": "Luoghi del Purgatorio. Coordinate astratte, non topografiche: altezza 0 = spiaggia, 1 = cima della montagna (Paradiso terrestre); raggio = ampiezza relativa della montagna a quell'altezza (1 = base); angolo: gradi, il viaggio procede verso destra, quindi l'angolo decresce lungo la salita. Il sito 3D dell'Inferno non legge questo file.",
+  "luoghi": [
+    {
+      "id": "spiaggia",
+      "nome": "Spiaggia dell'isola",
+      "tipo": "regione",
+      "cerchio": null,
+      "zona_di": null,
+      "ordine": 101,
+      "coordinate": {
+        "altezza": 0.0,
+        "raggio": 0.9,
+        "angolo": 0
+      },
+      "descrizione": "La spiaggia deserta ai piedi della montagna, dove approda la barca dell'angelo; Catone vi accoglie i due poeti.",
+      "canti": [
+        "purgatorio/1",
+        "purgatorio/2"
+      ]
+    },
+    {
+      "id": "antipurgatorio-scomunicati",
+      "nome": "Antipurgatorio: gli scomunicati",
+      "tipo": "regione",
+      "cerchio": null,
+      "zona_di": null,
+      "ordine": 102,
+      "coordinate": {
+        "altezza": 0.05,
+        "raggio": 0.85,
+        "angolo": 340
+      },
+      "descrizione": "Primo balzo: i morti scomunicati dalla Chiesa, che attendono ai piedi della montagna.",
+      "canti": [
+        "purgatorio/3"
+      ]
+    },
+    {
+      "id": "antipurgatorio-pigri",
+      "nome": "Antipurgatorio: i pigri",
+      "tipo": "regione",
+      "cerchio": null,
+      "zona_di": null,
+      "ordine": 103,
+      "coordinate": {
+        "altezza": 0.12,
+        "raggio": 0.78,
+        "angolo": 320
+      },
+      "descrizione": "Secondo balzo: i pigri che si pentirono solo in fin di vita.",
+      "canti": [
+        "purgatorio/4"
+      ]
+    },
+    {
+      "id": "antipurgatorio-morti-violenti",
+      "nome": "Antipurgatorio: i morti di morte violenta",
+      "tipo": "regione",
+      "cerchio": null,
+      "zona_di": null,
+      "ordine": 104,
+      "coordinate": {
+        "altezza": 0.2,
+        "raggio": 0.72,
+        "angolo": 300
+      },
+      "descrizione": "Gli spiriti morti di morte violenta, pentiti all'ultimo istante.",
+      "canti": [
+        "purgatorio/5",
+        "purgatorio/6"
+      ]
+    },
+    {
+      "id": "valletta-principi",
+      "nome": "La valletta dei principi",
+      "tipo": "regione",
+      "cerchio": null,
+      "zona_di": null,
+      "ordine": 105,
+      "coordinate": {
+        "altezza": 0.3,
+        "raggio": 0.65,
+        "angolo": 280
+      },
+      "descrizione": "La valletta fiorita dove i principi negligenti attendono; la sera scendono due angeli contro il serpente.",
+      "canti": [
+        "purgatorio/7",
+        "purgatorio/8"
+      ]
+    },
+    {
+      "id": "porta-purgatorio",
+      "nome": "La porta del Purgatorio",
+      "tipo": "soglia",
+      "cerchio": null,
+      "zona_di": null,
+      "ordine": 106,
+      "coordinate": {
+        "altezza": 0.42,
+        "raggio": 0.58,
+        "angolo": 260
+      },
+      "descrizione": "La porta custodita dall'angelo con la spada, a cui si sale per tre gradini.",
+      "canti": [
+        "purgatorio/9"
+      ]
+    },
+    {
+      "id": "cornice-1",
+      "nome": "Prima cornice: i superbi",
+      "tipo": "cornice",
+      "cerchio": 1,
+      "zona_di": null,
+      "ordine": 107,
+      "coordinate": {
+        "altezza": 0.46,
+        "raggio": 0.55,
+        "angolo": 240
+      },
+      "descrizione": "I superbi camminano curvi sotto pesanti massi, tra esempi scolpiti di umiltà.",
+      "canti": [
+        "purgatorio/10",
+        "purgatorio/11",
+        "purgatorio/12"
+      ]
+    },
+    {
+      "id": "cornice-2",
+      "nome": "Seconda cornice: gli invidiosi",
+      "tipo": "cornice",
+      "cerchio": 2,
+      "zona_di": null,
+      "ordine": 108,
+      "coordinate": {
+        "altezza": 0.55,
+        "raggio": 0.5,
+        "angolo": 220
+      },
+      "descrizione": "Gli invidiosi, con gli occhi cuciti col fil di ferro, vestiti di un panno livido.",
+      "canti": [
+        "purgatorio/13",
+        "purgatorio/14"
+      ]
+    },
+    {
+      "id": "cornice-3",
+      "nome": "Terza cornice: gli iracondi",
+      "tipo": "cornice",
+      "cerchio": 3,
+      "zona_di": null,
+      "ordine": 109,
+      "coordinate": {
+        "altezza": 0.63,
+        "raggio": 0.46,
+        "angolo": 200
+      },
+      "descrizione": "Gli iracondi nel fumo denso e accecante.",
+      "canti": [
+        "purgatorio/15",
+        "purgatorio/16"
+      ]
+    },
+    {
+      "id": "cornice-4",
+      "nome": "Quarta cornice: gli accidiosi",
+      "tipo": "cornice",
+      "cerchio": 4,
+      "zona_di": null,
+      "ordine": 110,
+      "coordinate": {
+        "altezza": 0.7,
+        "raggio": 0.42,
+        "angolo": 180
+      },
+      "descrizione": "Gli accidiosi corrono senza sosta gridando esempi di sollecitudine.",
+      "canti": [
+        "purgatorio/17",
+        "purgatorio/18"
+      ]
+    },
+    {
+      "id": "cornice-5",
+      "nome": "Quinta cornice: gli avari e i prodighi",
+      "tipo": "cornice",
+      "cerchio": 5,
+      "zona_di": null,
+      "ordine": 111,
+      "coordinate": {
+        "altezza": 0.77,
+        "raggio": 0.38,
+        "angolo": 160
+      },
+      "descrizione": "Avari e prodighi distesi bocconi a terra, con i volti nella polvere.",
+      "canti": [
+        "purgatorio/19",
+        "purgatorio/20",
+        "purgatorio/21"
+      ]
+    },
+    {
+      "id": "cornice-6",
+      "nome": "Sesta cornice: i golosi",
+      "tipo": "cornice",
+      "cerchio": 6,
+      "zona_di": null,
+      "ordine": 112,
+      "coordinate": {
+        "altezza": 0.84,
+        "raggio": 0.34,
+        "angolo": 140
+      },
+      "descrizione": "I golosi, estenuati dalla fame e dalla sete davanti ad alberi carichi di frutti.",
+      "canti": [
+        "purgatorio/22",
+        "purgatorio/23",
+        "purgatorio/24"
+      ]
+    },
+    {
+      "id": "cornice-7",
+      "nome": "Settima cornice: i lussuriosi",
+      "tipo": "cornice",
+      "cerchio": 7,
+      "zona_di": null,
+      "ordine": 113,
+      "coordinate": {
+        "altezza": 0.91,
+        "raggio": 0.3,
+        "angolo": 120
+      },
+      "descrizione": "I lussuriosi camminano nel fuoco, cantando inni e gridando esempi di castità.",
+      "canti": [
+        "purgatorio/25",
+        "purgatorio/26",
+        "purgatorio/27"
+      ]
+    },
+    {
+      "id": "paradiso-terrestre",
+      "nome": "Il Paradiso terrestre",
+      "tipo": "regione",
+      "cerchio": null,
+      "zona_di": null,
+      "ordine": 114,
+      "coordinate": {
+        "altezza": 1.0,
+        "raggio": 0.28,
+        "angolo": 100
+      },
+      "descrizione": "La divina foresta in cima alla montagna, tra i fiumi Letè ed Eunoè; qui appare Beatrice.",
+      "canti": [
+        "purgatorio/27",
+        "purgatorio/28",
+        "purgatorio/29",
+        "purgatorio/30",
+        "purgatorio/31",
+        "purgatorio/32",
+        "purgatorio/33"
+      ]
+    }
+  ]
+}

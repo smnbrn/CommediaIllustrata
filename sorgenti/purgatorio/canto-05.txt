@@ -1,0 +1,313 @@
+# Purgatorio, canto V
+titolo: I morti per forza: Iacopo, Bonconte e la Pia
+
+## scena-1 | antipurgatorio-morti-violenti | L'ombra di Dante e le voci dei pigri
+personaggi: dante, virgilio
+tavola: ia | L'ombra di Dante e le voci dei pigri | img/ia/purgatorio-05-scena-1.jpg
+sintesi: Dante si allontana dai pigri; una voce dietro di lui nota che la luce non passa attraverso il suo corpo. Dante si volta stupito, e Virgilio lo rimprovera: perché rallentare per le chiacchiere altrui? Resta fermo come una torre e vai avanti.
+
+1
+Io era già da quell’ombre partito,
+e seguitava l’orme del mio duca,
+quando di retro a me, drizzando ’l dito,
+> Mi ero già allontanato da quelle ombre e seguivo le orme della mia guida, quando dietro di me, puntando il dito,
+
+4
+una gridò: "Ve’ che non par che luca
+lo raggio da sinistra a quel di sotto,
+e come vivo par che si conduca!".
+> una gridò: «Guarda, non sembra che il raggio splenda a sinistra di quello di sotto, e si comporta come un vivo!».
+
+7
+Li occhi rivolsi al suon di questo motto,
+e vidile guardar per maraviglia
+pur me, pur me, e ’l lume ch’era rotto.
+> Volsi gli occhi al suono di queste parole, e le vidi guardare con meraviglia solo me, solo me e la luce che era interrotta.
+
+10
+"Perché l’animo tuo tanto s’impiglia",
+disse ’l maestro, "che l’andare allenti?
+che ti fa ciò che quivi si pispiglia?
+> «Perché il tuo animo si impiglia tanto», disse il maestro, «da rallentare l'andare? Che t'importa ciò che qui si sussurra?
+
+13
+Vien dietro a me, e lascia dir le genti:
+sta come torre ferma, che non crolla
+già mai la cima per soffiar di venti;
+> Vieni dietro di me e lascia dire la gente: sta' fermo come una torre, che mai la cima crolla per il soffiare dei venti;
+
+16
+ché sempre l’omo in cui pensier rampolla
+sovra pensier, da sé dilunga il segno,
+perché la foga l’un de l’altro insolla".
+> perché sempre l'uomo in cui un pensiero nasce sopra un altro allontana da sé il bersaglio, perché uno indebolisce la forza dell'altro».
+
+19
+Che potea io ridir, se non "Io vegno"?
+Dissilo, alquanto del color consperso
+che fa l’uom di perdon talvolta degno.
+> Che potevo rispondere, se non «Vengo»? Lo dissi, un po' cosparso di quel colore che rende talvolta l'uomo degno di perdono.
+
+## scena-2 | antipurgatorio-morti-violenti | Il Miserere dei morti per forza
+personaggi: dante, virgilio
+tavola: dore | Le anime che cantano il Miserere | img/dore/purgatorio-05-miserere-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148974193).jpg
+sintesi: Una schiera di anime attraversa la costa cantando il Miserere verso dopo verso; vedendo che Dante è vivo, il canto si muta in un «oh!» lungo e roco. Due di loro corrono a chiedere chi siano; Virgilio risponde che il corpo di Dante è vero e che possono tornare a riferirlo. Le anime accorrono in massa.
+
+22
+E ’ntanto per la costa di traverso
+venivan genti innanzi a noi un poco,
+cantando ’Miserere’ a verso a verso.
+> Intanto per la costa, di traverso, venivano davanti a noi, un poco più in là, persone che cantavano il «Miserere» verso dopo verso.
+
+25
+Quando s’accorser ch’i’ non dava loco
+per lo mio corpo al trapassar d’i raggi,
+mutar lor canto in un "oh!" lungo e roco;
+> Quando si accorsero che il mio corpo non lasciava passare i raggi, mutarono il canto in un «oh!» lungo e roco;
+
+28
+e due di loro, in forma di messaggi,
+corsero incontr’a noi e dimandarne:
+"Di vostra condizion fatene saggi".
+> e due di loro, in forma di messaggeri, corsero incontro a noi e domandarono: «Informateci della vostra condizione».
+
+31
+E ’l mio maestro: "Voi potete andarne
+e ritrarre a color che vi mandaro
+che ’l corpo di costui è vera carne.
+> E il mio maestro: «Potete andare e riferire a coloro che vi hanno mandato che il corpo di costui è vera carne.
+
+34
+Se per veder la sua ombra restaro,
+com’io avviso, assai è lor risposto:
+fàccianli onore, ed esser può lor caro".
+> Se si sono fermati per vedere la sua ombra, come credo, hanno già una risposta sufficiente: gli rendano onore, e potrà far loro comodo».
+
+37
+Vapori accesi non vid’io sì tosto
+di prima notte mai fender sereno,
+né, sol calando, nuvole d’agosto,
+> Non vidi mai vapori accesi fendere così in fretta il cielo sereno a notte appena fatta, né nuvole d'agosto al tramonto,
+
+40
+che color non tornasser suso in meno;
+e, giunti là, con li altri a noi dier volta,
+come schiera che scorre sanza freno.
+> che quelle anime non tornassero su in meno tempo; e, arrivate là, con le altre si voltarono verso di noi, come una schiera che corre senza freno.
+
+43
+"Questa gente che preme a noi è molta,
+e vegnonti a pregar", disse ’l poeta:
+"però pur va, e in andando ascolta".
+> «Questa gente che si stringe a noi è molta e vengono a pregarti», disse il poeta: «perciò va' avanti e, camminando, ascolta».
+
+## scena-3 | antipurgatorio-morti-violenti | Iacopo del Cassero
+personaggi: dante, virgilio, iacopo-del-cassero
+tavola: ia | Iacopo del Cassero | img/ia/purgatorio-05-scena-3.jpg
+sintesi: Le anime pregano Dante di fermarsi e di portare notizie ai vivi: sono morte di morte violenta, peccatori fino all'ultimo, ma pentiti e perdonati prima di morire. Uno di loro, di Fano, chiede preghiere alla sua città e racconta di essere stato ucciso a tradimento, per ordine del marchese d'Este, fra le paludi presso Oriago.
+
+46
+"O anima che vai per esser lieta
+con quelle membra con le quai nascesti",
+venian gridando, "un poco il passo queta.
+> «O anima che vai per essere lieta con quelle membra con cui nascesti», venivano gridando, «ferma un poco il passo.
+
+49
+Guarda s’alcun di noi unqua vedesti,
+sì che di lui di là novella porti:
+deh, perché vai? deh, perché non t’arresti?
+> Guarda se hai mai visto qualcuno di noi, così da portarne di là notizia: deh, perché vai? Deh, perché non ti fermi?
+
+52
+Noi fummo tutti già per forza morti,
+e peccatori infino a l’ultima ora;
+quivi lume del ciel ne fece accorti,
+> Noi fummo tutti uccisi con violenza e peccatori fino all'ultima ora; lì la luce del cielo ci rese accorti,
+
+55
+sì che, pentendo e perdonando, fora
+di vita uscimmo a Dio pacificati,
+che del disio di sé veder n’accora".
+> così che, pentiti e perdonando, uscimmo dalla vita in pace con Dio, che ci strazia con il desiderio di vederlo».
+
+58
+E io: "Perché ne’ vostri visi guati,
+non riconosco alcun; ma s’a voi piace
+cosa ch’io possa, spiriti ben nati,
+> E io: «Per quanto io guardi nei vostri visi, non riconosco nessuno; ma se vi piace qualcosa che io possa fare, spiriti ben nati,
+
+61
+voi dite, e io farò per quella pace
+che, dietro a’ piedi di sì fatta guida,
+di mondo in mondo cercar mi si face".
+> ditelo, e io lo farò, per quella pace che, dietro ai passi di una simile guida, mi tocca cercare di mondo in mondo».
+
+64
+E uno incominciò: "Ciascun si fida
+del beneficio tuo sanza giurarlo,
+pur che ’l voler nonpossa non ricida.
+> E uno cominciò: «Ciascuno si fida del tuo beneficio senza giuramento, purché l'impossibilità non tolga la volontà.
+
+67
+Ond’io, che solo innanzi a li altri parlo,
+ti priego, se mai vedi quel paese
+che siede tra Romagna e quel di Carlo,
+> Perciò io, che parlo da solo prima degli altri, ti prego, se mai vedi quel paese che sta tra la Romagna e quello di Carlo,
+
+70
+che tu mi sie di tuoi prieghi cortese
+in Fano, sì che ben per me s’adori
+pur ch’i’ possa purgar le gravi offese.
+> di essermi cortese con le tue preghiere a Fano, perché si preghi bene per me, così che io possa purificarmi dalle gravi colpe.
+
+73
+Quindi fu’ io; ma li profondi fóri
+ond’uscì ’l sangue in sul quale io sedea,
+fatti mi fuoro in grembo a li Antenori,
+> Fui di là; ma le ferite profonde da cui uscì il sangue in cui avevo la vita mi furono fatte in grembo agli Antenori,
+
+76
+là dov’io più sicuro esser credea:
+quel da Esti il fé far, che m’avea in ira
+assai più là che dritto non volea.
+> là dove credevo di essere più sicuro: lo fece fare quello d'Este, che mi odiava molto più di quanto fosse giusto.
+
+79
+Ma s’io fosse fuggito inver’ la Mira,
+quando fu’ sovragiunto ad Orïaco,
+ancor sarei di là dove si spira.
+> Ma se fossi fuggito verso la Mira, quando fui raggiunto a Oriago, sarei ancora di là, dove si respira.
+
+82
+Corsi al palude, e le cannucce e ’l braco
+m’impigliar sì ch’i’ caddi; e lì vid’io
+de le mie vene farsi in terra laco".
+> Corsi verso la palude, e le canne e il fango mi impigliarono tanto che caddi; e lì vidi delle mie vene farsi un lago in terra».
+
+## scena-4 | antipurgatorio-morti-violenti | Bonconte da Montefeltro
+personaggi: dante, virgilio, bonconte
+tavola: dore | Bonconte da Montefeltro | img/dore/purgatorio-05-bonconte-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148974251).jpg
+sintesi: Bonconte da Montefeltro chiede preghiere a una moglie che non pensa più a lui e racconta come morì a Campaldino, ferito alla gola: invocato il nome di Maria, un angelo prese la sua anima e un demonio, deluso, si vendicò scatenando una tempesta; il corpo fu trascinato dall'Archiano nell'Arno e mai più trovato.
+
+85
+Poi disse un altro: "Deh, se quel disio
+si compia che ti tragge a l’alto monte,
+con buona pïetate aiuta il mio!
+> Poi disse un altro: «Deh, se si compia quel desiderio che ti tira all'alto monte, aiuta il mio con buona pietà!
+
+88
+Io fui di Montefeltro, io son Bonconte;
+Giovanna o altri non ha di me cura;
+per ch’io vo tra costor con bassa fronte".
+> Io fui di Montefeltro, io sono Bonconte; Giovanna e gli altri non hanno cura di me; per questo vado fra costoro a fronte bassa».
+
+91
+E io a lui: "Qual forza o qual ventura
+ti travïò sì fuor di Campaldino,
+che non si seppe mai tua sepultura?".
+> E io a lui: «Quale forza o quale caso ti portò così lontano da Campaldino, che non si seppe mai dove sia la tua sepoltura?».
+
+94
+"Oh!", rispuos’elli, "a piè del Casentino
+traversa un’acqua c’ ha nome l’Archiano,
+che sovra l’Ermo nasce in Apennino.
+> «Oh!», rispose, «ai piedi del Casentino scorre un fiume chiamato Archiano, che nasce sopra l'Eremo, nell'Appennino.
+
+97
+Là ’ve ’l vocabol suo diventa vano,
+arriva’ io forato ne la gola,
+fuggendo a piede e sanguinando il piano.
+> Là dove il suo nome si perde, arrivai io, forato nella gola, fuggendo a piedi e sanguinando sul piano.
+
+100
+Quivi perdei la vista e la parola;
+nel nome di Maria fini’, e quivi
+caddi, e rimase la mia carne sola.
+> Lì persi la vista e la parola; finii nel nome di Maria, e lì caddi, e restò soltanto la mia carne.
+
+103
+Io dirò vero, e tu ’l ridì tra ’ vivi:
+l’angel di Dio mi prese, e quel d’inferno
+gridava: "O tu del ciel, perché mi privi?
+> Dirò il vero, e tu ridillo ai vivi: l'angelo di Dio mi prese, e quello d'Inferno gridava: «O tu del cielo, perché mi privi?
+
+106
+Tu te ne porti di costui l’etterno
+per una lagrimetta che ’l mi toglie;
+ma io farò de l’altro altro governo!".
+> Tu ti porti via di costui l'eterno per una lacrimetta che me lo toglie; ma io farò dell'altra parte un altro governo!».
+
+109
+Ben sai come ne l’aere si raccoglie
+quell’umido vapor che in acqua riede,
+tosto che sale dove ’l freddo il coglie.
+> Sai bene come nell'aria si raccoglie quel vapore umido che torna in acqua appena sale dove il freddo lo prende.
+
+112
+Giunse quel mal voler che pur mal chiede
+con lo ’ntelletto, e mosse il fummo e ’l vento
+per la virtù che sua natura diede.
+> Si unì quella cattiva volontà, che sempre non chiede che il male, all'intelligenza, e mosse il fumo e il vento con la virtù che la sua natura gli diede.
+
+115
+Indi la valle, come ’l dì fu spento,
+da Pratomagno al gran giogo coperse
+di nebbia; e ’l ciel di sopra fece intento,
+> Poi la valle, quando il giorno fu spento, da Pratomagno al gran giogo coperse di nebbia; e il cielo di sopra rese carico,
+
+118
+sì che ’l pregno aere in acqua si converse;
+la pioggia cadde, e a’ fossati venne
+di lei ciò che la terra non sofferse;
+> così che l'aria gravida si convertì in acqua; la pioggia cadde, e ai fossati venne ciò che la terra non assorbì;
+
+121
+e come ai rivi grandi si convenne,
+ver’ lo fiume real tanto veloce
+si ruinò, che nulla la ritenne.
+> e come si riunì ai rivi grandi, verso il fiume reale così veloce si precipitò, che nulla lo trattenne.
+
+124
+Lo corpo mio gelato in su la foce
+trovò l’Archian rubesto; e quel sospinse
+ne l’Arno, e sciolse al mio petto la croce
+> Il mio corpo gelato sulla foce lo trovò l'Archiano furioso; e lo spinse nell'Arno, e sciolse sul mio petto la croce
+
+127
+ch’i’ fe’ di me quando ’l dolor mi vinse;
+voltòmmi per le ripe e per lo fondo,
+poi di sua preda mi coperse e cinse".
+> che avevo fatto con le braccia di me quando il dolore mi vinse; mi voltò per le rive e sul fondo, poi mi coprì e mi cinse della sua preda».
+
+## scena-5 | antipurgatorio-morti-violenti | La Pia
+personaggi: dante, virgilio, pia
+tavola: dore | La Pia | img/dore/purgatorio-05-pia-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148974278).jpg
+sintesi: Un terzo spirito, la Pia, chiede a Dante di ricordarsi di lei una volta tornato al mondo: Siena la fece, la Maremma la disfece, come sa chi prima l'aveva sposata con l'anello.
+
+130
+"Deh, quando tu sarai tornato al mondo
+e riposato de la lunga via",
+seguitò ’l terzo spirito al secondo,
+> «Deh, quando sarai tornato al mondo e riposato della lunga via», continuò il terzo spirito dopo il secondo,
+
+133
+"ricorditi di me, che son la Pia;
+Siena mi fé, disfecemi Maremma:
+salsi colui che ’nnanellata pria
+> «ricordati di me, che sono la Pia; Siena mi fece, la Maremma mi disfece: lo sa colui che prima mi aveva
+
+136
+disposando m’avea con la sua gemma".
+> sposata dandomi il suo anello con la gemma».
+
+## personaggio | iacopo-del-cassero | Iacopo del Cassero
+dibattuto: no
+chi_era: Nobile di Fano, podestà di Bologna e capitano guelfo. Dante non lo nomina, ma i commentatori antichi lo identificano con lui: nel 1298 fu fatto uccidere da sicari del marchese Azzo VIII d'Este, mentre andava a Milano come podestà, presso Oriago.
+
+## personaggio | bonconte | Bonconte da Montefeltro
+dibattuto: no
+chi_era: Figlio di Guido da Montefeltro (che Dante ha incontrato nell'Inferno), capo ghibellino aretino, morto nella battaglia di Campaldino (1289), dove combatteva contro i fiorentini, forse con Dante stesso. Il suo corpo non fu mai trovato.
+
+## personaggio | pia | La Pia
+dibattuto: sì
+chi_era: Dante dice solo che Siena la fece e la Maremma la disfece, e che il marito la sposò con un anello. La tradizione la identifica con Pia dei Tolomei, senese, uccisa dal marito Nello d'Inghiramo dei Pannocchieschi, ma non ci sono notizie certe e altre ipotesi sono state avanzate.

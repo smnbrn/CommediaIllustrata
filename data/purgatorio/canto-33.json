@@ -1,0 +1,332 @@
+{
+  "cantica": "purgatorio",
+  "canto": 33,
+  "titolo": "La profezia del DXV, Eunoè e la salita alle stelle",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_XXXIII",
+  "numero_versi": 145,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 33],
+      "titolo_scena": "Il lamento delle donne",
+      "sintesi": "Le sette donne, alternandosi a tre e a quattro, cantano piangendo «Deus, venerunt gentes»; Beatrice, sospirosa e pia, le ascolta quasi come Maria ai piedi della croce. Quando le altre le danno la parola, si leva in piedi, rossa come fuoco, e dice: «Ancora un poco e non mi vedrete; e ancora un poco e mi vedrete». Fa avanzare le sette ninfe e con un cenno muove Dante, Matelda e Stazio. Dopo dieci passi lo guarda negli occhi e lo invita ad accostarsi per parlargli; Dante, troppo riverente, balbetta.",
+      "luogo_id": "paradiso-terrestre",
+      "personaggi": ["dante", "beatrice", "matelda", "stazio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Il lamento delle donne",
+          "url": "img/ia/purgatorio-33-scena-1.jpg",
+          "miniatura": "img/ia/purgatorio-33-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [34, 102],
+      "titolo_scena": "La profezia del DXV",
+      "sintesi": "Beatrice gli rivela che il carro rotto dal serpente «fu e non è», e chi ne ha colpa non deve temere vendetta di Dio. L'aquila che lasciò le penne al carro non sarà sempre senza erede: un «cinquecento diece e cinque», messo di Dio, ucciderà la ladra con il gigante. Come Temi e la Sfinge, le sue parole sono oscure, ma presto i fatti scioglieranno l'enigma. Gli comanda di riferirle ai vivi, di ricordarle e di non nascondere l'albero due volte derubato: chi lo ruba offende Dio. Se la sua mente non fosse pietrificata da vani pensieri, riconoscerebbe nell'albero la giustizia divina; ma poiché è fatta di pietra, vuole che le porti dentro di sé almeno dipinte, come si riporta il bordone cinto di palma.",
+      "luogo_id": "paradiso-terrestre",
+      "personaggi": ["dante", "beatrice"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La profezia del DXV",
+          "url": "img/ia/purgatorio-33-scena-2.jpg",
+          "miniatura": "img/ia/purgatorio-33-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [103, 135],
+      "titolo_scena": "Eufrate e Tigri, Matelda ed Eunoè",
+      "sintesi": "Il sole è al meriggio quando le sette donne si fermano al limite di un'ombra smorta, come quella che l'alpe porta sopra i suoi freddi ruscelli. Davanti a loro Dante vede uscire dalla stessa fonte l'Eufrate e il Tigri, che si separano pigramente come amici. Chiede a Beatrice che acqua sia; ella lo rimanda a Matelda. Matelda risponde che gliel'ha già spiegato e che Lete non gliel'ha tolto; Beatrice dice che forse maggior cura ha oscurato la sua mente. Gli indica l'Eunoè e Matelda lo conduce, ravvivandone la virtù tramortita, insieme a Stazio.",
+      "luogo_id": "paradiso-terrestre",
+      "personaggi": ["dante", "beatrice", "matelda", "stazio"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Dante beve l'Eunoè",
+          "url": "img/dore/purgatorio-33-eunoe-960.jpg",
+          "miniatura": "img/dore/purgatorio-33-eunoe-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148975676).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [136, 145],
+      "titolo_scena": "Puro e disposto a salire alle stelle",
+      "sintesi": "Dante dice al lettore che, se avesse più spazio, canterebbe in parte il dolce bere che non l'avrebbe mai saziato; ma tutte le pagine ordite per questa seconda cantica sono piene, e il freno dell'arte non lo lascia più andare. Torna dalla santissima onda rinnovato come piante nuove rinnovate di nuova fronda: puro e disposto a salire alle stelle.",
+      "luogo_id": "paradiso-terrestre",
+      "personaggi": ["dante", "matelda", "stazio"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Dante beve l'Eunoè",
+          "url": "img/dore/purgatorio-33-eunoe-960.jpg",
+          "miniatura": "img/dore/purgatorio-33-eunoe-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148975676).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "’Deus, venerunt gentes’, alternando\nor tre or quattro dolce salmodia,\nle donne incominciaro, e lagrimando;",
+      "parafrasi": "«Deus, venerunt gentes», alternando or tre or quattro dolce salmodia, le donne cominciarono, e piangendo;"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "e Bëatrice, sospirosa e pia,\nquelle ascoltava sì fatta, che poco\npiù a la croce si cambiò Maria.",
+      "parafrasi": "e Beatrice, sospirosa e pia, quelle ascoltava così fatta, che poco più alla croce si cambiò Maria."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "Ma poi che l’altre vergini dier loco\na lei di dir, levata dritta in pè,\nrispuose, colorata come foco:",
+      "parafrasi": "Ma dopo che le altre vergini le diedero luogo di parlare, levata dritta in piedi, rispose, colorata come fuoco:"
+    },
+    {
+      "versi": [10, 12],
+      "testo": "’Modicum, et non videbitis me;\net iterum, sorelle mie dilette,\nmodicum, et vos videbitis me’.",
+      "parafrasi": "«Modicum, et non videbitis me; et iterum, sorelle mie dilette, modicum, et vos videbitis me»."
+    },
+    {
+      "versi": [13, 15],
+      "testo": "Poi le si mise innanzi tutte e sette,\ne dopo sé, solo accennando, mosse\nme e la donna e ’l savio che ristette.",
+      "parafrasi": "Poi si mise davanti a sé tutte e sette, e dopo di sé, solo accennando, mosse me e la donna e il savio che restò."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "Così sen giva; e non credo che fosse\nlo decimo suo passo in terra posto,\nquando con li occhi li occhi mi percosse;",
+      "parafrasi": "Così se ne andava; e non credo che fosse il suo decimo passo posto in terra, quando con gli occhi mi percosse gli occhi;"
+    },
+    {
+      "versi": [19, 21],
+      "testo": "e con tranquillo aspetto \"Vien più tosto\",\nmi disse, \"tanto che, s’io parlo teco,\nad ascoltarmi tu sie ben disposto\".",
+      "parafrasi": "e con tranquillo aspetto «Vieni più presto», mi disse, «tanto che, se io parlo con te, tu sia ben disposto ad ascoltarmi»."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Sì com’io fui, com’io dovëa, seco,\ndissemi: \"Frate, perché non t’attenti\na domandarmi omai venendo meco?\".",
+      "parafrasi": "Appena fui, come dovevo, con lei, mi disse: «Fratello, perché non osi domandarmi ormai venendo con me?»."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Come a color che troppo reverenti\ndinanzi a suo maggior parlando sono,\nche non traggon la voce viva ai denti,",
+      "parafrasi": "Come a coloro che troppo riverenti davanti al loro maggiore parlando sono, e non traggono la voce viva ai denti,"
+    },
+    {
+      "versi": [28, 30],
+      "testo": "avvenne a me, che sanza intero suono\nincominciai: \"Madonna, mia bisogna\nvoi conoscete, e ciò ch’ad essa è buono\".",
+      "parafrasi": "avvenne a me, che senza suono intero cominciai: «Madonna, il mio bisogno voi conoscete, e ciò che ad esso è buono»."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "Ed ella a me: \"Da tema e da vergogna\nvoglio che tu omai ti disviluppe,\nsì che non parli più com’om che sogna.",
+      "parafrasi": "Ed ella a me: «Da timore e da vergogna voglio che tu ormai ti sviluppi, così che non parli più come uomo che sogna."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Sappi che ’l vaso che ’l serpente ruppe,\nfu e non è; ma chi n’ ha colpa, creda\nche vendetta di Dio non teme suppe.",
+      "parafrasi": "Sappi che il vaso che il serpente ruppe, fu e non è; ma chi ne ha colpa, creda che vendetta di Dio non teme zuppa."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Non sarà tutto tempo sanza reda\nl’aguglia che lasciò le penne al carro,\nper che divenne mostro e poscia preda;",
+      "parafrasi": "Non sarà sempre senza erede l'aquila che lasciò le penne al carro, per cui divenne mostro e poi preda;"
+    },
+    {
+      "versi": [40, 42],
+      "testo": "ch’io veggio certamente, e però il narro,\na darne tempo già stelle propinque,\nsecure d’ogn’intoppo e d’ogne sbarro,",
+      "parafrasi": "perché io vedo certamente, e perciò lo narro, già propinque stelle a darne tempo, sicure da ogni intoppo e da ogni sbarra,"
+    },
+    {
+      "versi": [43, 45],
+      "testo": "nel quale un cinquecento diece e cinque,\nmesso di Dio, anciderà la fuia\ncon quel gigante che con lei delinque.",
+      "parafrasi": "nel quale un cinquecento dieci e cinque, messo di Dio, ucciderà la ladra con quel gigante che con lei delinque."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "E forse che la mia narrazion buia,\nqual Temi e Sfinge, men ti persuade,\nperch’a lor modo lo ’ntelletto attuia;",
+      "parafrasi": "E forse la mia narrazione oscura, come Temi e la Sfinge, ti persuade meno, perché a loro modo l'intelletto ottunde;"
+    },
+    {
+      "versi": [49, 51],
+      "testo": "ma tosto fier li fatti le Naiade,\nche solveranno questo enigma forte\nsanza danno di pecore o di biade.",
+      "parafrasi": "ma presto i fatti saranno le Naiadi, che scioglieranno questo enigma forte senza danno di pecore o di biade."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "Tu nota; e sì come da me son porte,\ncosì queste parole segna a’ vivi\ndel viver ch’è un correre a la morte.",
+      "parafrasi": "Tu nota; e così come da me sono porte, così queste parole segna ai vivi del vivere che è un correre alla morte."
+    },
+    {
+      "versi": [55, 57],
+      "testo": "E aggi a mente, quando tu le scrivi,\ndi non celar qual hai vista la pianta\nch’è or due volte dirubata quivi.",
+      "parafrasi": "E abbi a mente, quando le scrivi, di non nascondere come hai visto la pianta che è ora due volte derubata qui."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Qualunque ruba quella o quella schianta,\ncon bestemmia di fatto offende a Dio,\nche solo a l’uso suo la creò santa.",
+      "parafrasi": "Chiunque ruba quella o quella schianta, con bestemmia di fatto offende Dio, che solo per il suo uso la creò santa."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Per morder quella, in pena e in disio\ncinquemilia anni e più l’anima prima\nbramò colui che ’l morso in sé punio.",
+      "parafrasi": "Per mordere quella, in pena e in desiderio cinquemila anni e più l'anima prima bramò colui che il morso in sé punì."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Dorme lo ’ngegno tuo, se non estima\nper singular cagione essere eccelsa\nlei tanto e sì travolta ne la cima.",
+      "parafrasi": "Dorme il tuo ingegno, se non stima che per singolare causa sia eccelsa lei tanto e così travolta nella cima."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "E se stati non fossero acqua d’Elsa\nli pensier vani intorno a la tua mente,\ne ’l piacer loro un Piramo a la gelsa,",
+      "parafrasi": "E se stati non fossero acqua d'Elsa i vani pensieri intorno alla tua mente, e il loro piacere un Piramo al gelso,"
+    },
+    {
+      "versi": [70, 72],
+      "testo": "per tante circostanze solamente\nla giustizia di Dio, ne l’interdetto,\nconosceresti a l’arbor moralmente.",
+      "parafrasi": "per tante circostanze soltanto la giustizia di Dio, nell'interdetto, conosceresti moralmente nell'albero."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Ma perch’io veggio te ne lo ’ntelletto\nfatto di pietra e, impetrato, tinto,\nsì che t’abbaglia il lume del mio detto,",
+      "parafrasi": "Ma perché io vedo te nell'intelletto fatto di pietra e, impietrito, tinto, così che ti abbaglia il lume del mio detto,"
+    },
+    {
+      "versi": [76, 78],
+      "testo": "voglio anco, e se non scritto, almen dipinto,\nche ’l te ne porti dentro a te per quello\nche si reca il bordon di palma cinto\".",
+      "parafrasi": "voglio ancora, e se non scritto, almeno dipinto, che tu lo porti dentro di te per quello per cui si porta il bordone cinto di palma»."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "E io: \"Sì come cera da suggello,\nche la figura impressa non trasmuta,\nsegnato è or da voi lo mio cervello.",
+      "parafrasi": "E io: «Come cera da suggello, che la figura impressa non trasmuta, segnato è ora da voi il mio cervello."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "Ma perché tanto sovra mia veduta\nvostra parola disïata vola,\nche più la perde quanto più s’aiuta?\".",
+      "parafrasi": "Ma perché tanto sopra la mia vista vola la vostra parola desiderata, che più la perde quanto più si sforza?»."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "\"Perché conoschi\", disse, \"quella scuola\nc’ hai seguitata, e veggi sua dottrina\ncome può seguitar la mia parola;",
+      "parafrasi": "«Perché conosca», disse, «quella scuola che hai seguito, e veda la sua dottrina come può seguire la mia parola;"
+    },
+    {
+      "versi": [88, 90],
+      "testo": "e veggi vostra via da la divina\ndistar cotanto, quanto si discorda\nda terra il ciel che più alto festina\".",
+      "parafrasi": "e veda la vostra via dalla divina distare tanto, quanto si discorda da terra il cielo che più alto si affretta»."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Ond’io rispuosi lei: \"Non mi ricorda\nch’i’ stranïasse me già mai da voi,\nné honne coscïenza che rimorda\".",
+      "parafrasi": "Perciò io le risposi: «Non mi ricordo di essermi mai estraniato da voi, né ne ho coscienza che rimorda»."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "\"E se tu ricordar non te ne puoi\",\nsorridendo rispuose, \"or ti rammenta\ncome bevesti di Letè ancoi;",
+      "parafrasi": "«E se tu non te ne puoi ricordare», sorridendo rispose, «ora ricordati come bevesti di Lete oggi;"
+    },
+    {
+      "versi": [97, 99],
+      "testo": "e se dal fummo foco s’argomenta,\ncotesta oblivïon chiaro conchiude\ncolpa ne la tua voglia altrove attenta.",
+      "parafrasi": "e se dal fumo il fuoco si argomenta, questa dimenticanza chiaro conclude colpa nella tua voglia altrove attenta."
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Veramente oramai saranno nude\nle mie parole, quanto converrassi\nquelle scovrire a la tua vista rude\".",
+      "parafrasi": "Veramente ormai saranno nude le mie parole, quanto converrà scoprirle alla tua vista rozza»."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "E più corusco e con più lenti passi\nteneva il sole il cerchio di merigge,\nche qua e là, come li aspetti, fassi,",
+      "parafrasi": "E più corrusco e con passi più lenti teneva il sole il cerchio del meriggio, che qua e là, come gli aspetti, si fa,"
+    },
+    {
+      "versi": [106, 108],
+      "testo": "quando s’affisser, sì come s’affigge\nchi va dinanzi a gente per iscorta\nse trova novitate o sue vestigge,",
+      "parafrasi": "quando si fermarono, come si ferma chi va davanti a una gente per scorta se trova novità o sue vestigia,"
+    },
+    {
+      "versi": [109, 111],
+      "testo": "le sette donne al fin d’un’ombra smorta,\nqual sotto foglie verdi e rami nigri\nsovra suoi freddi rivi l’alpe porta.",
+      "parafrasi": "le sette donne al limite di un'ombra smorta, quale sotto foglie verdi e rami neri sopra i suoi freddi rivi l'alpe porta."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Dinanzi ad esse Ëufratès e Tigri\nveder mi parve uscir d’una fontana,\ne, quasi amici, dipartirsi pigri.",
+      "parafrasi": "Davanti a loro Eufrate e Tigri mi parve vedere uscire da una fonte, e, quasi amici, dividersi pigri."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "\"O luce, o gloria de la gente umana,\nche acqua è questa che qui si dispiega\nda un principio e sé da sé lontana?\".",
+      "parafrasi": "«O luce, o gloria della gente umana, che acqua è questa che qui si dispiega da un principio e se stessa da sé allontana?»."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Per cotal priego detto mi fu: \"Priega\nMatelda che ’l ti dica\". E qui rispuose,\ncome fa chi da colpa si dislega,",
+      "parafrasi": "Per tale preghiera mi fu detto: «Prega Matelda che te lo dica». E qui rispose, come fa chi si libera da colpa,"
+    },
+    {
+      "versi": [121, 123],
+      "testo": "la bella donna: \"Questo e altre cose\ndette li son per me; e son sicura\nche l’acqua di Letè non gliel nascose\".",
+      "parafrasi": "la bella donna: «Questo e altre cose gli sono state dette da me; e sono sicura che l'acqua di Lete non gliel'ha nascosto»."
+    },
+    {
+      "versi": [124, 126],
+      "testo": "E Bëatrice: \"Forse maggior cura,\nche spesse volte la memoria priva,\nfatt’ ha la mente sua ne li occhi oscura.",
+      "parafrasi": "E Beatrice: «Forse una maggiore cura, che spesse volte priva la memoria, ha reso oscura la sua mente negli occhi."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Ma vedi Eünoè che là diriva:\nmenalo ad esso, e come tu se’ usa,\nla tramortita sua virtù ravviva\".",
+      "parafrasi": "Ma vedi Eunoè che là deriva: menalo ad esso, e come sei solita, ravviva la sua virtù tramortita»."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Come anima gentil, che non fa scusa,\nma fa sua voglia de la voglia altrui\ntosto che è per segno fuor dischiusa;",
+      "parafrasi": "Come anima gentile, che non fa scuse, ma fa sua volontà della volontà altrui appena è fuori dischiusa per segno;"
+    },
+    {
+      "versi": [133, 135],
+      "testo": "così, poi che da essa preso fui,\nla bella donna mossesi, e a Stazio\ndonnescamente disse: \"Vien con lui\".",
+      "parafrasi": "così, dopo che da lei fui preso, la bella donna si mosse, e a Stazio donnescamente disse: «Vieni con lui»."
+    },
+    {
+      "versi": [136, 138],
+      "testo": "S’io avessi, lettor, più lungo spazio\nda scrivere, i’ pur cantere’ in parte\nlo dolce ber che mai non m’avria sazio;",
+      "parafrasi": "Se avessi, lettore, più lungo spazio per scrivere, canterei almeno in parte il dolce bere che non mi avrebbe mai saziato;"
+    },
+    {
+      "versi": [139, 141],
+      "testo": "ma perché piene son tutte le carte\nordite a questa cantica seconda,\nnon mi lascia più ir lo fren de l’arte.",
+      "parafrasi": "ma perché sono piene tutte le carte ordite a questa seconda cantica, non mi lascia più andare il freno dell'arte."
+    },
+    {
+      "versi": [142, 144],
+      "testo": "Io ritornai da la santissima onda\nrifatto sì come piante novelle\nrinovellate di novella fronda,",
+      "parafrasi": "Io ritornai dalla santissima onda rifatto come piante novelle rinnovate di nuova fronda,"
+    },
+    {
+      "versi": [145, 145],
+      "testo": "puro e disposto a salire a le stelle.",
+      "parafrasi": "puro e disposto a salire alle stelle."
+    }
+  ]
+}

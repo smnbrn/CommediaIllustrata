@@ -1,0 +1,314 @@
+# Purgatorio, canto XXXI
+titolo: La confessione di Dante e il bagno nel Lete
+
+## scena-1 | paradiso-terrestre | La confessione
+personaggi: dante, beatrice
+tavola: ia | La confessione | img/ia/purgatorio-31-scena-1.jpg
+sintesi: Beatrice, rivolgendosi direttamente a Dante, che prima aveva ferito di taglio, gli chiede di confermare l'accusa con la confessione. Dante, confuso, riesce solo a dire un «sì» tanto debole che si capisce con gli occhi. Come la balestra si spezza se scocca troppo tesa, così Dante scoppia in lacrime e sospiri. Beatrice gli domanda quali fossati o catene gli abbiano fatto perdere la speranza di avanzare, e quali agevolezze mostrassero le cose terrene.
+
+1
+"O tu che se’ di là dal fiume sacro",
+volgendo suo parlare a me per punta,
+che pur per taglio m’era paruto acro,
+> «O tu che sei di là dal fiume sacro», volgendo il suo parlare a me per punta, che già per taglio mi era parso aspro,
+
+4
+ricominciò, seguendo sanza cunta,
+"dì, dì se questo è vero; a tanta accusa
+tua confession conviene esser congiunta".
+> ricominciò, seguendo senza indugio, «dì, dì se questo è vero; a tanta accusa conviene che sia unita la tua confessione».
+
+7
+Era la mia virtù tanto confusa,
+che la voce si mosse, e pria si spense
+che da li organi suoi fosse dischiusa.
+> La mia forza era tanto confusa, che la voce si mosse, e prima si spense che dai suoi organi fosse dischiusa.
+
+10
+Poco sofferse; poi disse: "Che pense?
+Rispondi a me; ché le memorie triste
+in te non sono ancor da l’acqua offense".
+> Sopportò poco; poi disse: «Che pensi? Rispondimi; perché le tristi memorie in te non sono ancora offese dall'acqua».
+
+13
+Confusione e paura insieme miste
+mi pinsero un tal "sì" fuor de la bocca,
+al quale intender fuor mestier le viste.
+> Confusione e paura insieme miste mi spinsero fuori dalla bocca un tale «sì», che per intenderlo fu necessario vedere.
+
+16
+Come balestro frange, quando scocca
+da troppa tesa, la sua corda e l’arco,
+e con men foga l’asta il segno tocca,
+> Come la balestra si spezza, quando scocca per troppa tensione, la sua corda e l'arco, e con meno forza l'asta tocca il bersaglio,
+
+19
+sì scoppia’ io sottesso grave carco,
+fuori sgorgando lagrime e sospiri,
+e la voce allentò per lo suo varco.
+> così scoppiai io sotto il grave carico, sgorgando lacrime e sospiri, e la voce si allentò nel suo varco.
+
+22
+Ond’ella a me: "Per entro i mie’ disiri,
+che ti menavano ad amar lo bene
+di là dal qual non è a che s’aspiri,
+> Perciò ella a me: «Dentro i miei desideri, che ti conducevano ad amare il bene oltre il quale non c'è a che aspirare,
+
+25
+quai fossi attraversati o quai catene
+trovasti, per che del passare innanzi
+dovessiti così spogliar la spene?
+> quali fossati attraversati o quali catene trovasti, perché del passare avanti dovessi così spogliarti la speranza?
+
+28
+E quali agevolezze o quali avanzi
+ne la fronte de li altri si mostraro,
+per che dovessi lor passeggiare anzi?".
+> E quali agevolezze o quali vantaggi sulla fronte degli altri si mostrarono, perché dovessi passeggiare loro davanti?».
+
+31
+Dopo la tratta d’un sospiro amaro,
+a pena ebbi la voce che rispuose,
+e le labbra a fatica la formaro.
+> Dopo il tratto di un sospiro amaro, a stento ebbi la voce che rispose, e le labbra a fatica la formarono.
+
+34
+Piangendo dissi: "Le presenti cose
+col falso lor piacer volser miei passi,
+tosto che ’l vostro viso si nascose".
+> Piangendo dissi: «Le cose presenti con il loro falso piacere volsero i miei passi, appena il vostro viso si nascose».
+
+## scena-2 | paradiso-terrestre | Il rimprovero di Beatrice e lo svenimento
+personaggi: dante, beatrice
+tavola: ia | Il rimprovero di Beatrice e lo svenimento | img/ia/purgatorio-31-scena-2.jpg
+sintesi: Beatrice replica che la colpa è nota anche se Dante tacesse; ma quando l'accusa scoppia dalla bocca del colpevole, nella corte celeste la ruota si volge contro il taglio. Perché sia più forte la prossima volta che udirà le sirene, lo invita a posare il seme del piangere e ad ascoltare: nessuna bellezza terrena poteva eguagliare le sue membra ora sparse in terra, e dopo la sua morte doveva levarsi dietro di lei, non gravare le penne per altre cose brevi. Dante, vergognoso come un fanciullo, ascolta; Beatrice gli ordina di alzare la barba e guardare. Alzato il volto, Dante la vede volta verso il grifone, più bella di prima; punto dal rimorso, cade svenuto.
+
+37
+Ed ella: "Se tacessi o se negassi
+ciò che confessi, non fora men nota
+la colpa tua: da tal giudice sassi!
+> Ed ella: «Se tacessi o se negassi ciò che confessi, non sarebbe meno nota la tua colpa: da tale giudice si sa!
+
+40
+Ma quando scoppia de la propria gota
+l’accusa del peccato, in nostra corte
+rivolge sé contra ’l taglio la rota.
+> Ma quando scoppia dalla propria gota l'accusa del peccato, nella nostra corte la ruota si volge contro il taglio.
+
+43
+Tuttavia, perché mo vergogna porte
+del tuo errore, e perché altra volta,
+udendo le serene, sie più forte,
+> Tuttavia, perché ora porti vergogna del tuo errore, e perché un'altra volta, udendo le sirene, tu sia più forte,
+
+46
+pon giù il seme del piangere e ascolta:
+sì udirai come in contraria parte
+mover dovieti mia carne sepolta.
+> deponi il seme del piangere e ascolta: così udirai come in contraria parte dovesse muoverti la mia carne sepolta.
+
+49
+Mai non t’appresentò natura o arte
+piacer, quanto le belle membra in ch’io
+rinchiusa fui, e che so’ ’n terra sparte;
+> Mai non ti presentò natura o arte piacere quanto le belle membra in cui io fui rinchiusa, e che sono sparse in terra;
+
+52
+e se ’l sommo piacer sì ti fallio
+per la mia morte, qual cosa mortale
+dovea poi trarre te nel suo disio?
+> e se il sommo piacere così ti mancò per la mia morte, quale cosa mortale dovette poi trarti nel suo desiderio?
+
+55
+Ben ti dovevi, per lo primo strale
+de le cose fallaci, levar suso
+di retro a me che non era più tale.
+> Ben ti dovevi, per la prima freccia delle cose fallaci, levare in alto dietro a me che non ero più tale.
+
+58
+Non ti dovea gravar le penne in giuso,
+ad aspettar più colpo, o pargoletta
+o altra novità con sì breve uso.
+> Non ti doveva gravare le penne in giù, ad aspettare più colpo, o ragazzetta o altra novità di così breve uso.
+
+61
+Novo augelletto due o tre aspetta;
+ma dinanzi da li occhi d’i pennuti
+rete si spiega indarno o si saetta".
+> Un nuovo uccelletto ne aspetta due o tre; ma davanti agli occhi dei pennuti la rete si spiega invano o si saetta».
+
+64
+Quali fanciulli, vergognando, muti
+con li occhi a terra stannosi, ascoltando
+e sé riconoscendo e ripentuti,
+> Quali fanciulli, vergognosi, muti con gli occhi a terra stanno, ascoltando e riconoscendosi e pentiti,
+
+67
+tal mi stav’io; ed ella disse: "Quando
+per udir se’ dolente, alza la barba,
+e prenderai più doglia riguardando".
+> tale stavo io; ed ella disse: «Quando per udire sei dolente, alza la barba, e prenderai più dolore guardando».
+
+70
+Con men di resistenza si dibarba
+robusto cerro, o vero al nostral vento
+o vero a quel de la terra di Iarba,
+> Con minore resistenza si sradica un robusto cerro, o al vento nostrano o a quello della terra di Iarba,
+
+73
+ch’io non levai al suo comando il mento;
+e quando per la barba il viso chiese,
+ben conobbi il velen de l’argomento.
+> di quanto io non alzai al suo comando il mento; e quando per la barba chiese il viso, ben conobbi il veleno dell'argomento.
+
+76
+E come la mia faccia si distese,
+posarsi quelle prime creature
+da loro aspersïon l’occhio comprese;
+> E quando la mia faccia si distese, comprese l'occhio che quelle prime creature cessavano la loro aspersione;
+
+79
+e le mie luci, ancor poco sicure,
+vider Beatrice volta in su la fiera
+ch’è sola una persona in due nature.
+> e i miei occhi, ancora poco sicuri, videro Beatrice volta in su la fiera che è sola una persona in due nature.
+
+82
+Sotto ’l suo velo e oltre la rivera
+vincer pariemi più sé stessa antica,
+vincer che l’altre qui, quand’ella c’era.
+> Sotto il suo velo e oltre il fiume mi pareva vincere più se stessa antica, che le altre qui quando c'era.
+
+85
+Di penter sì mi punse ivi l’ortica,
+che di tutte altre cose qual mi torse
+più nel suo amor, più mi si fé nemica.
+> Di pentirmi mi punse così l'ortica, che di tutte le altre cose quella che mi torse più nel suo amore, più mi diventò nemica.
+
+88
+Tanta riconoscenza il cor mi morse,
+ch’io caddi vinto; e quale allora femmi,
+salsi colei che la cagion mi porse.
+> Tanta riconoscenza mi morse il cuore, che caddi vinto; e quale allora fui, lo sa colei che me ne porse la causa.
+
+## scena-3 | paradiso-terrestre | Dante immerso nel Lete
+personaggi: dante, matelda
+tavola: dore | Dante immerso nel Lete | img/dore/purgatorio-31-lete-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148975643).jpg
+sintesi: Rinvenuto, Dante vede sopra di sé la donna trovata sola che gli dice «Reggimi, reggimi». Lo ha tratto nel fiume fino alla gola e lo porta dietro di sé, leggera sull'acqua come spola. Vicino alla riva beata si ode «Asperges me» così dolce che Dante non sa ricordarlo; la donna lo abbraccia, gli immerge la testa fino a fargli inghiottire l'acqua del Lete, poi lo tira fuori.
+
+91
+Poi, quando il cor virtù di fuor rendemmi,
+la donna ch’io avea trovata sola
+sopra me vidi, e dicea: "Tiemmi, tiemmi!".
+> Poi, quando il cuore mi rese forza di fuori, la donna che avevo trovato sola vidi sopra di me, e diceva: «Tienimi, tienimi!».
+
+94
+Tratto m’avea nel fiume infin la gola,
+e tirandosi me dietro sen giva
+sovresso l’acqua lieve come scola.
+> Mi aveva tratto nel fiume fino alla gola, e tirandosi dietro di sé se ne andava sopra l'acqua leggera come una spola.
+
+97
+Quando fui presso a la beata riva,
+’Asperges me’ sì dolcemente udissi,
+che nol so rimembrar, non ch’io lo scriva.
+> Quando fui vicino alla beata riva, «Asperges me» sì dolcemente udii, che non lo so ricordare, non che scrivere.
+
+100
+La bella donna ne le braccia aprissi;
+abbracciommi la testa e mi sommerse
+ove convenne ch’io l’acqua inghiottissi.
+> La bella donna aprì le braccia; mi abbracciò la testa e mi sommerse dove convenne che io inghiottissi l'acqua.
+
+103
+Indi mi tolse, e bagnato m’offerse
+dentro a la danza de le quattro belle;
+e ciascuna del braccio mi coperse.
+> Poi mi tolse e, bagnato, mi offrì dentro alla danza delle quattro belle; e ciascuna mi coprì col braccio.
+
+## scena-4 | paradiso-terrestre | Gli occhi di Beatrice
+personaggi: dante, beatrice, grifone, matelda
+tavola: ia | Gli occhi di Beatrice | img/ia/purgatorio-31-scena-4.jpg
+sintesi: Le quattro ninfe, che sono stelle nel cielo e furono ancelle di Beatrice prima che scendesse al mondo, conducono Dante agli occhi di lei; le tre virtù teologali, che guardano più in profondità, aguzzeranno i suoi nel lume interno. Lo menano al petto del grifone, dove Beatrice sta rivolta a lui: gli occhi di lei, smeraldi da cui Amore trasse le armi, riflettono il grifone, ora con una natura, ora con l'altra. Dante si meraviglia mentre le tre virtù avanzano danzando e pregano Beatrice di svelare la seconda bellezza, il suo sorriso.
+
+106
+"Noi siam qui ninfe e nel ciel siamo stelle;
+pria che Beatrice discendesse al mondo,
+fummo ordinate a lei per sue ancelle.
+> «Noi qui siamo ninfe e in cielo siamo stelle; prima che Beatrice scendesse al mondo, fummo destinate a lei come sue ancelle.
+
+109
+Merrenti a li occhi suoi; ma nel giocondo
+lume ch’è dentro aguzzeranno i tuoi
+le tre di là, che miran più profondo".
+> Ti condurremo ai suoi occhi; ma nel giocondo lume che è dentro aguzzeranno i tuoi le tre di là, che guardano più in profondità».
+
+112
+Così cantando cominciaro; e poi
+al petto del grifon seco menarmi,
+ove Beatrice stava volta a noi.
+> Così cantando cominciarono; e poi al petto del grifone mi condussero con loro, dove Beatrice stava volta verso di noi.
+
+115
+Disser: "Fa che le viste non risparmi;
+posto t’avem dinanzi a li smeraldi
+ond’Amor già ti trasse le sue armi".
+> Dissero: «Fa' che non risparmi la vista: ti abbiamo posto davanti agli smeraldi da cui Amore già trasse le sue armi contro di te».
+
+118
+Mille disiri più che fiamma caldi
+strinsermi li occhi a li occhi rilucenti,
+che pur sopra ’l grifone stavan saldi.
+> Mille desideri più caldi della fiamma strinsero i miei occhi agli occhi rilucenti, che solo sopra il grifone stavano fermi.
+
+121
+Come in lo specchio il sol, non altrimenti
+la doppia fiera dentro vi raggiava,
+or con altri, or con altri reggimenti.
+> Come nello specchio il sole, non diversamente la doppia fiera dentro vi raggiava, ora con un modo, ora con un altro.
+
+124
+Pensa, lettor, s’io mi maravigliava,
+quando vedea la cosa in sé star queta,
+e ne l’idolo suo si trasmutava.
+> Pensa, lettore, se io mi meravigliavo, quando vedevo la cosa in sé star quieta, e nella sua immagine trasmutarsi.
+
+127
+Mentre che piena di stupore e lieta
+l’anima mia gustava di quel cibo
+che, saziando di sé, di sé asseta,
+> Mentre piena di stupore e lieta l'anima mia gustava di quel cibo che, saziando di sé, di sé fa venire sete,
+
+130
+sé dimostrando di più alto tribo
+ne li atti, l’altre tre si fero avanti,
+danzando al loro angelico caribo.
+> dimostrandosi di più alta stirpe negli atti, le altre tre si fecero avanti, danzando al loro angelico ballo.
+
+133
+"Volgi, Beatrice, volgi li occhi santi",
+era la sua canzone, "al tuo fedele
+che, per vederti, ha mossi passi tanti!
+> «Volgi, Beatrice, volgi gli occhi santi», era la loro canzone, «al tuo fedele che per vederti ha mossi passi tanti!
+
+136
+Per grazia fa noi grazia che disvele
+a lui la bocca tua, sì che discerna
+la seconda bellezza che tu cele".
+> Per grazia fa' a noi grazia che ti svele a lui la bocca, così che discerna la seconda bellezza che nascondi».
+
+139
+O isplendor di viva luce etterna,
+chi palido si fece sotto l’ombra
+sì di Parnaso, o bevve in sua cisterna,
+> O splendore di viva luce eterna, chi diventò pallido sotto l'ombra del Parnaso, o bevve alla sua cisterna,
+
+142
+che non paresse aver la mente ingombra,
+tentando a render te qual tu paresti
+là dove armonizzando il ciel t’adombra,
+> così da non sembrare avere la mente ingombra, tentando di rendere te quale apparisti là dove armonizzando il cielo ti adombra,
+
+145
+quando ne l’aere aperto ti solvesti?
+> quando nell'aria aperta ti svelasti?

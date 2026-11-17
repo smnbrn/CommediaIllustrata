@@ -1,0 +1,328 @@
+# Purgatorio, canto XXVI
+titolo: I lussuriosi, Guido Guinizzelli e Arnaut Daniel
+
+## scena-1 | cornice-7 | I due cori dei lussuriosi
+personaggi: dante, virgilio, stazio
+tavola: ia | I due cori dei lussuriosi | img/ia/purgatorio-26-scena-1.jpg
+sintesi: Mentre i poeti camminano in fila sull'orlo della cornice, il sole alla spalla destra fa sembrare più rovente la fiamma con l'ombra di Dante; le anime se ne accorgono e commentano che non sembra un corpo fittizio. Una di loro, che arde di sete e di fuoco, gli chiede come sia possibile. Ma Dante è distratto da una schiera che viene in senso opposto: le due folle si baciano brevemente come formiche e gridano esempi di lussuria («Sodoma e Gomorra», Pasifae).
+
+1
+Mentre che sì per l’orlo, uno innanzi altro,
+ce n’andavamo, e spesso il buon maestro
+diceami: "Guarda: giovi ch’io ti scaltro";
+> Mentre così, per l'orlo, uno davanti all'altro, andavamo, e spesso il buon maestro mi diceva: «Guarda: giovi che io ti avverta»;
+
+4
+feriami il sole in su l’omero destro,
+che già, raggiando, tutto l’occidente
+mutava in bianco aspetto di cilestro;
+> il sole mi feriva sulla spalla destra, che già, raggiando, tutto l'occidente mutava in aspetto bianco di cilestro;
+
+7
+e io facea con l’ombra più rovente
+parer la fiamma; e pur a tanto indizio
+vidi molt’ombre, andando, poner mente.
+> e io facevo con l'ombra più rovente apparire la fiamma; e già a tale indizio vidi molte ombre, andando, far attenzione.
+
+10
+Questa fu la cagion che diede inizio
+loro a parlar di me; e cominciarsi
+a dir: "Colui non par corpo fittizio";
+> Questa fu la causa che diede a loro inizio a parlare di me; e cominciarono a dire: «Costui non sembra corpo fittizio»;
+
+13
+poi verso me, quanto potëan farsi,
+certi si fero, sempre con riguardo
+di non uscir dove non fosser arsi.
+> poi verso di me, quanto potevano avvicinarsi, alcuni si fecero, sempre con attenzione di non uscire dove non fossero bruciati.
+
+16
+"O tu che vai, non per esser più tardo,
+ma forse reverente, a li altri dopo,
+rispondi a me che ’n sete e ’n foco ardo.
+> «O tu che vai, non per essere più lento, ma forse per rispetto, dietro agli altri, rispondi a me che sono in sete e in fuoco.
+
+19
+Né solo a me la tua risposta è uopo;
+ché tutti questi n’ hanno maggior sete
+che d’acqua fredda Indo o Etïopo.
+> Né solo a me serve la tua risposta; perché tutti questi ne hanno più sete che d'acqua fredda l'Indiano o l'Etiope.
+
+22
+Dinne com’è che fai di te parete
+al sol, pur come tu non fossi ancora
+di morte intrato dentro da la rete".
+> Dicci come fai di te parete al sole, proprio come se non fossi ancora entrato nella rete della morte».
+
+25
+Sì mi parlava un d’essi; e io mi fora
+già manifesto, s’io non fossi atteso
+ad altra novità ch’apparve allora;
+> Così mi parlava uno di essi; e io mi sarei già manifestato, se non fossi stato attento ad altra novità che apparve allora;
+
+28
+ché per lo mezzo del cammino acceso
+venne gente col viso incontro a questa,
+la qual mi fece a rimirar sospeso.
+> perché per mezzo del cammino acceso venne gente con il viso contro a questa, che mi fece guardare sospeso.
+
+31
+Lì veggio d’ogne parte farsi presta
+ciascun’ombra e basciarsi una con una
+sanza restar, contente a brieve festa;
+> Lì vedo da ogni parte farsi presta ciascuna ombra e baciarsi una con l'altra, senza fermarsi, contente di breve festa;
+
+34
+così per entro loro schiera bruna
+s’ammusa l’una con l’altra formica,
+forse a spïar lor via e lor fortuna.
+> così dentro la loro schiera bruna si ammusa una formica con l'altra, forse a spiare la loro via e la loro fortuna.
+
+37
+Tosto che parton l’accoglienza amica,
+prima che ’l primo passo lì trascorra,
+sopragridar ciascuna s’affatica:
+> Appena partono l'accoglienza amica, prima che il primo passo lì trascorra, ciascuna si affatica a gridare più forte:
+
+40
+la nova gente: "Soddoma e Gomorra";
+e l’altra: "Ne la vacca entra Pasife,
+perché ’l torello a sua lussuria corra".
+> la gente nuova: «Sodoma e Gomorra»; e l'altra: «Nella vacca entra Pasifae, perché il torello corra alla sua lussuria».
+
+43
+Poi, come grue ch’a le montagne Rife
+volasser parte, e parte inver’ l’arene,
+queste del gel, quelle del sole schife,
+> Poi, come gru che alle montagne Rife volassero in parte, e in parte verso le sabbie, queste del gelo, quelle del sole schive,
+
+46
+l’una gente sen va, l’altra sen vene;
+e tornan, lagrimando, a’ primi canti
+e al gridar che più lor si convene;
+> l'una gente se ne va, l'altra se ne viene; e tornano, piangendo, ai primi canti e al gridare che più loro si conviene;
+
+49
+e raccostansi a me, come davanti,
+essi medesmi che m’avean pregato,
+attenti ad ascoltar ne’ lor sembianti.
+> e si raccostano a me, come prima, quelli stessi che mi avevano pregato, attenti ad ascoltare nei loro sembianti.
+
+## scena-2 | cornice-7 | Le due specie di lussuria
+personaggi: dante, virgilio, stazio
+tavola: ia | Le due specie di lussuria | img/ia/purgatorio-26-scena-2.jpg
+sintesi: Dante si presenta: è vivo, sale per non essere più cieco, guidato da una donna celeste. Chiede chi siano e chi sia l'altra schiera. Le ombre si stupiscono come montanari in città; poi la prima risponde: gli altri peccarono di ciò che Cesare fu accusato quando lo chiamarono «regina», e per questo gridano «Sodoma»; i primi si abbandonarono come bestie, e per vergogna gridano di Pasifae.
+
+52
+Io, che due volte avea visto lor grato,
+incominciai: "O anime sicure
+d’aver, quando che sia, di pace stato,
+> Io, che due volte avevo visto il loro desiderio, cominciai: «O anime sicure di avere, quando che sia, stato di pace,
+
+55
+non son rimase acerbe né mature
+le membra mie di là, ma son qui meco
+col sangue suo e con le sue giunture.
+> le mie membra di là non sono rimaste acerbe né mature, ma sono qui con me col loro sangue e con le loro giunture.
+
+58
+Quinci sù vo per non esser più cieco;
+donna è di sopra che m’acquista grazia,
+per che ’l mortal per vostro mondo reco.
+> Di qui salgo per non essere più cieco; c'è sopra una donna che mi acquista grazia, per cui porto il mortale per il vostro mondo.
+
+61
+Ma se la vostra maggior voglia sazia
+tosto divegna, sì che ’l ciel v’alberghi
+ch’è pien d’amore e più ampio si spazia,
+> Ma, se la vostra maggior voglia sia presto saziata, così che vi albergi il cielo che è pieno d'amore e più ampio si spazia,
+
+64
+ditemi, acciò ch’ancor carte ne verghi,
+chi siete voi, e chi è quella turba
+che se ne va di retro a’ vostri terghi".
+> ditemi, perché io ne scriva ancora, chi siete voi, e chi è quella turba che se ne va dietro alle vostre spalle».
+
+67
+Non altrimenti stupido si turba
+lo montanaro, e rimirando ammuta,
+quando rozzo e salvatico s’inurba,
+> Non diversamente stupito si turba il montanaro, e guardando ammutolisce, quando rozzo e selvatico entra in città,
+
+70
+che ciascun’ombra fece in sua paruta;
+ma poi che furon di stupore scarche,
+lo qual ne li alti cuor tosto s’attuta,
+> di quanto fece ciascuna ombra nel suo aspetto; ma dopo che furono liberate dallo stupore, che nei cuori alti presto si acquieta,
+
+73
+"Beato te, che de le nostre marche",
+ricominciò colei che pria m’inchiese,
+"per morir meglio, esperïenza imbarche!
+> «Beato te, che dei nostri confini», ricominciò colei che prima mi aveva interrogato, «per morire meglio, esperienza imbarchi!
+
+76
+La gente che non vien con noi, offese
+di ciò per che già Cesar, trïunfando,
+"Regina" contra sé chiamar s’intese:
+> La gente che non viene con noi, offese ciò per cui già Cesare, trionfando, sentì chiamare «Regina» contro di sé:
+
+79
+però si parton "Soddoma" gridando,
+rimproverando a sé com’ hai udito,
+e aiutan l’arsura vergognando.
+> perciò si partono gridando «Sodoma», rimproverando se stessi come hai udito, e aiutano l'arsura vergognandosi.
+
+82
+Nostro peccato fu ermafrodito;
+ma perché non servammo umana legge,
+seguendo come bestie l’appetito,
+> Il nostro peccato fu ermafrodito; ma poiché non servimmo la legge umana, seguendo come bestie l'appetito,
+
+85
+in obbrobrio di noi, per noi si legge,
+quando partinci, il nome di colei
+che s’imbestiò ne le ’mbestiate schegge.
+> in nostro obbrobrio, da noi si legge, quando ci partiamo, il nome di colei che si imbestiò nelle assi imbestiate.
+
+88
+Or sai nostri atti e di che fummo rei:
+se forse a nome vuo’ saper chi semo,
+tempo non è di dire, e non saprei.
+> Ora sai i nostri atti e di che fummo rei: se forse vuoi sapere per nome chi siamo, non c'è tempo di dirlo, e non saprei.
+
+## scena-3 | cornice-7 | Guido Guinizzelli
+personaggi: dante, virgilio, stazio, guido-guinizzelli
+tavola: ia | Guido Guinizzelli | img/ia/purgatorio-26-scena-3.jpg
+sintesi: Un'anima dice di essere Guido Guinizzelli, già pentito prima di morire. Dante, come i figli di Isifile che ritrovarono la madre, vorrebbe abbracciarlo, ma il fuoco lo trattiene: lo riconosce come padre suo e dei migliori poeti d'amore. Guinizzelli gli indica un altro poeta, miglior fabbro del parlar materno, superiore a Giraut de Bornelh e a Guittone; poi chiede un paternostro, e scompare nel fuoco come un pesce nell'acqua.
+
+91
+Farotti ben di me volere scemo:
+son Guido Guinizzelli, e già mi purgo
+per ben dolermi prima ch’a lo stremo".
+> Ti farò ben diminuito il desiderio di me: sono Guido Guinizzelli, e già mi purgo per essermi ben doluto prima dell'ultimo».
+
+94
+Quali ne la tristizia di Ligurgo
+si fer due figli a riveder la madre,
+tal mi fec’io, ma non a tanto insurgo,
+> Quali nella tristezza di Licurgo si fecero due figli a rivedere la madre, tale mi feci io, ma non mi spingo a tanto,
+
+97
+quand’io odo nomar sé stesso il padre
+mio e de li altri miei miglior che mai
+rime d’amor usar dolci e leggiadre;
+> quando sento nominare se stesso il padre mio e degli altri miei migliori che mai usarono rime d'amore dolci e leggiadre;
+
+100
+e sanza udire e dir pensoso andai
+lunga fïata rimirando lui,
+né, per lo foco, in là più m’appressai.
+> e senza udire e dire andai pensoso a lungo guardandolo, né, per il fuoco, mi avvicinai più oltre.
+
+103
+Poi che di riguardar pasciuto fui,
+tutto m’offersi pronto al suo servigio
+con l’affermar che fa credere altrui.
+> Dopo che fui sazio di guardare, mi offrii tutto pronto al suo servizio con l'affermare che fa credere gli altri.
+
+106
+Ed elli a me: "Tu lasci tal vestigio,
+per quel ch’i’ odo, in me, e tanto chiaro,
+che Letè nol può tòrre né far bigio.
+> Ed egli a me: «Tu lasci tale traccia, per quello che sento, in me, e tanto chiara, che Lete non la può togliere né rendere grigia.
+
+109
+Ma se le tue parole or ver giuraro,
+dimmi che è cagion per che dimostri
+nel dire e nel guardar d’avermi caro".
+> Ma se le tue parole ora giurarono il vero, dimmi qual è la causa per cui mostri nel dire e nel guardare di avermi caro».
+
+112
+E io a lui: "Li dolci detti vostri,
+che, quanto durerà l’uso moderno,
+faranno cari ancora i loro incostri".
+> E io a lui: «I vostri dolci detti, che, finché durerà l'uso moderno, renderanno ancora cari i loro inchiostri».
+
+115
+"O frate", disse, "questi ch’io ti cerno
+col dito", e additò un spirto innanzi,
+"fu miglior fabbro del parlar materno.
+> «O fratello», disse, «questi che ti indico col dito», e indicò uno spirito davanti, «fu miglior fabbro del parlar materno.
+
+118
+Versi d’amore e prose di romanzi
+soverchiò tutti; e lascia dir li stolti
+che quel di Lemosì credon ch’avanzi.
+> Versi d'amore e prose di romanzi superò tutti; e lascia dire gli stolti che credono che quello di Limoges lo superi.
+
+121
+A voce più ch’al ver drizzan li volti,
+e così ferman sua oppinïone
+prima ch’arte o ragion per lor s’ascolti.
+> A voce più che al vero volgono i volti, e così fermano la loro opinione prima che arte o ragione per loro sia ascoltata.
+
+124
+Così fer molti antichi di Guittone,
+di grido in grido pur lui dando pregio,
+fin che l’ ha vinto il ver con più persone.
+> Così fecero molti antichi di Guittone, di grido in grido dandogli solo pregio, finché l'ha vinto il vero con più persone.
+
+127
+Or se tu hai sì ampio privilegio,
+che licito ti sia l’andare al chiostro
+nel quale è Cristo abate del collegio,
+> Ora se tu hai così ampio privilegio, che ti sia lecito andare al chiostro nel quale Cristo è abate del collegio,
+
+130
+falli per me un dir d’un paternostro,
+quanto bisogna a noi di questo mondo,
+dove poter peccar non è più nostro".
+> fagli per me una recita di un paternostro, quanto occorre a noi di questo mondo, dove il poter peccare non è più nostro».
+
+## scena-4 | cornice-7 | Arnaut Daniel
+personaggi: dante, virgilio, stazio, arnaut-daniel
+tavola: ia | Arnaut Daniel | img/ia/purgatorio-26-scena-4.jpg
+sintesi: Guinizzelli sparisce nel fuoco come il pesce nell'acqua; Dante si avvicina al poeta indicato e gli dice che il suo nome avrà un posto gradito nel suo desiderio. Questi risponde in provenzale: è Arnaut, che piange e va cantando; vede con dolore la passata follia e con gioia la gioia che spera. Prega Dante di ricordarsi a tempo del suo dolore, e si nasconde nel fuoco che lo affina.
+
+133
+Poi, forse per dar luogo altrui secondo
+che presso avea, disparve per lo foco,
+come per l’acqua il pesce andando al fondo.
+> Poi, forse per dare luogo ad altri secondo, che aveva vicino, scomparve per il fuoco, come per l'acqua il pesce andando a fondo.
+
+136
+Io mi fei al mostrato innanzi un poco,
+e dissi ch’al suo nome il mio disire
+apparecchiava grazïoso loco.
+> Io mi feci un poco avanti verso quello indicato, e dissi che al suo nome il mio desiderio preparava un luogo gradito.
+
+139
+El cominciò liberamente a dire:
+"Tan m’abellis vostre cortes deman,
+qu’ ieu no me puesc ni voill a vos cobrire.
+> Egli cominciò liberamente a dire: «Tanto mi è gradita la vostra cortese domanda, che io non mi posso né voglio nascondere a voi.
+
+142
+Ieu sui Arnaut, que plor e vau cantan;
+consiros vei la passada folor,
+e vei jausen lo joi qu’ esper, denan.
+> Io sono Arnaut, che piango e vado cantando; pensoso vedo la passata follia, e vedo gioioso la gioia che spero davanti.
+
+145
+Ara vos prec, per aquella valor
+que vos guida al som de l’escalina,
+sovenha vos a temps de ma dolor!".
+> Ora vi prego, per quel valore che vi guida alla cima della scala, vi sovvenga a tempo del mio dolore!».
+
+148
+Poi s’ascose nel foco che li affina.
+> Poi si nascose nel fuoco che li affina.
+
+## personaggio | guido-guinizzelli | Guido Guinizzelli
+dibattuto: no
+chi_era: Poeta bolognese (1230 circa-1276), considerato il fondatore del dolce stil novo con la canzone «Al cor gentil rempaira sempre amore». Dante lo chiama «padre mio e de li altri miei miglior».
+
+## personaggio | arnaut-daniel | Arnaut Daniel
+dibattuto: no
+chi_era: Trovatore provenzale (fine del XII secolo), maestro di rima e di trobar clus; Guinizzelli lo chiama «miglior fabbro del parlar materno». Dante gli fa parlare in provenzale.

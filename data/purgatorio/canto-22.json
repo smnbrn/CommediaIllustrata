@@ -1,0 +1,328 @@
+{
+  "cantica": "purgatorio",
+  "canto": 22,
+  "titolo": "Stazio e l'avarizia, il Limbo dei poeti e l'albero",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_XXII",
+  "numero_versi": 154,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 54],
+      "titolo_scena": "Stazio e la prodigalità",
+      "sintesi": "L'angelo della quinta cornice ha cancellato un altro P dalla fronte di Dante. Più leggero, Dante segue i due poeti; Virgilio dichiara a Stazio la sua benevolenza, nata da quando Giovenale gli rivelò l'affetto di lui, e gli chiede come l'avarizia avesse potuto entrare nel suo petto. Stazio risponde sorridendo che non fu avarizia, ma prodigalità, e che si pentì leggendo Virgilio: «Perché non reggi tu, sacra fame dell'oro, l'appetito dei mortali?»",
+      "luogo_id": "cornice-6",
+      "personaggi": ["dante", "virgilio", "stazio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Stazio e la prodigalità",
+          "url": "img/ia/purgatorio-22-scena-1.jpg",
+          "miniatura": "img/ia/purgatorio-22-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [55, 114],
+      "titolo_scena": "Stazio cristiano e il Limbo dei poeti",
+      "sintesi": "Virgilio chiede a Stazio come si convertì al cristianesimo, se nella Tebaide non appariva ancora fedele. Stazio risponde: da Virgilio venne la poesia e la fede, con i versi della quarta egloga sul «secol si rinova»; si battezzò prima di finire il poema ma per paura restò cristiano nascosto per quattrocento anni. Poi chiede dove stiano gli antichi poeti latini: Virgilio risponde che sono nel Limbo con Omero e i molti poeti greci e personaggi delle sue opere.",
+      "luogo_id": "cornice-6",
+      "personaggi": ["dante", "virgilio", "stazio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Stazio cristiano e il Limbo dei poeti",
+          "url": "img/ia/purgatorio-22-scena-2.jpg",
+          "miniatura": "img/ia/purgatorio-22-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [115, 154],
+      "titolo_scena": "L'albero con i pomi",
+      "sintesi": "I poeti, ormai liberi dalla salita, giungono al lato del monte: Virgilio propone di girare a destra. Camminano, Dante dietro agli altri ad ascoltare i loro discorsi poetici, quando trovano in mezzo alla strada un albero con frutti odorosi, più largo in alto che in basso come un abete rovesciato, irrigato da un liquore chiaro che cade dalla roccia. Una voce tra le fronde annuncia che avranno cibo caro e cita esempi di temperanza: Maria, le antiche romane, Daniele, il secol primo, il Battista.",
+      "luogo_id": "cornice-6",
+      "personaggi": ["dante", "virgilio", "stazio"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "I tre poeti e l'albero",
+          "url": "img/dore/purgatorio-22-albero-960.jpg",
+          "miniatura": "img/dore/purgatorio-22-albero-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148975153).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Già era l’angel dietro a noi rimaso,\nl’angel che n’avea vòlti al sesto giro,\navendomi dal viso un colpo raso;",
+      "parafrasi": "Già l'angelo era rimasto dietro di noi, l'angelo che ci aveva volti al sesto giro, avendomi tolto un colpo dal viso;"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "e quei c’ hanno a giustizia lor disiro\ndetto n’avea beati, e le sue voci\ncon ’sitiunt’, sanz’altro, ciò forniro.",
+      "parafrasi": "e quelli che hanno desiderio di giustizia li aveva detti beati, e le sue voci con «sitiunt», senza altro, avevano concluso."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "E io più lieve che per l’altre foci\nm’andava, sì che sanz’alcun labore\nseguiva in sù li spiriti veloci;",
+      "parafrasi": "E io, più leggero che per gli altri passi, andavo, così che senza alcuna fatica seguivo in su gli spiriti veloci;"
+    },
+    {
+      "versi": [10, 12],
+      "testo": "quando Virgilio incominciò: \"Amore,\nacceso di virtù, sempre altro accese,\npur che la fiamma sua paresse fore;",
+      "parafrasi": "quando Virgilio cominciò: «L'amore, acceso di virtù, ne accese sempre un altro, purché la sua fiamma apparisse all'esterno;"
+    },
+    {
+      "versi": [13, 15],
+      "testo": "onde da l’ora che tra noi discese\nnel limbo de lo ’nferno Giovenale,\nche la tua affezion mi fé palese,",
+      "parafrasi": "perciò dall'ora in cui scese tra noi nel limbo dell'inferno Giovenale, che mi rese palese il tuo affetto,"
+    },
+    {
+      "versi": [16, 18],
+      "testo": "mia benvoglienza inverso te fu quale\npiù strinse mai di non vista persona,\nsì ch’or mi parran corte queste scale.",
+      "parafrasi": "la mia benevolenza verso di te fu quale più strinse mai una persona non vista, così che ora mi sembreranno corte queste scale."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "Ma dimmi, e come amico mi perdona\nse troppa sicurtà m’allarga il freno,\ne come amico omai meco ragiona:",
+      "parafrasi": "Ma dimmi, e come amico perdonami se troppa sicurezza mi allarga il freno, e come amico ormai ragiona con me:"
+    },
+    {
+      "versi": [22, 24],
+      "testo": "come poté trovar dentro al tuo seno\nloco avarizia, tra cotanto senno\ndi quanto per tua cura fosti pieno?\".",
+      "parafrasi": "come poté trovare luogo dentro al tuo petto l'avarizia, tra tanta sapienza di cui fosti pieno per la tua cura?»."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Queste parole Stazio mover fenno\nun poco a riso pria; poscia rispuose:\n\"Ogne tuo dir d’amor m’è caro cenno.",
+      "parafrasi": "Queste parole fecero muovere Stazio un poco a riso prima; poi rispose: «Ogni tuo dire d'amore mi è caro cenno."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Veramente più volte appaion cose\nche danno a dubitar falsa matera\nper le vere ragion che son nascose.",
+      "parafrasi": "Veramente più volte appaiono cose che danno a dubitare materia falsa per le vere ragioni che sono nascoste."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "La tua dimanda tuo creder m’avvera\nesser ch’i’ fossi avaro in l’altra vita,\nforse per quella cerchia dov’io era.",
+      "parafrasi": "La tua domanda mi conferma il tuo credere che io fossi avaro nell'altra vita, forse per quella cerchia dove ero."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Or sappi ch’avarizia fu partita\ntroppo da me, e questa dismisura\nmigliaia di lunari hanno punita.",
+      "parafrasi": "Ora sappi che l'avarizia fu troppo lontana da me, e questa dismisura migliaia di lunari hanno punito."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "E se non fosse ch’io drizzai mia cura,\nquand’io intesi là dove tu chiame,\ncrucciato quasi a l’umana natura:",
+      "parafrasi": "E se non fosse che io drizzai la mia cura, quando intesi là dove tu gridi, quasi sdegnato verso la natura umana:"
+    },
+    {
+      "versi": [40, 42],
+      "testo": "’Per che non reggi tu, o sacra fame\nde l’oro, l’appetito de’ mortali?’,\nvoltando sentirei le giostre grame.",
+      "parafrasi": "«Perché non reggi tu, o sacra fame dell'oro, l'appetito dei mortali?», voltando sentirei le gare dolorose."
+    },
+    {
+      "versi": [43, 45],
+      "testo": "Allor m’accorsi che troppo aprir l’ali\npotean le mani a spendere, e pente’ mi\ncosì di quel come de li altri mali.",
+      "parafrasi": "Allora mi accorsi che troppo aprire le ali potevano le mani a spendere, e mi pentii così di quello come degli altri mali."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Quanti risurgeran coi crini scemi\nper ignoranza, che di questa pecca\ntoglie ’l penter vivendo e ne li stremi!",
+      "parafrasi": "Quanti risorgeranno con i capelli tagliati per ignoranza, che di questa colpa toglie il pentimento in vita e negli ultimi istanti!"
+    },
+    {
+      "versi": [49, 51],
+      "testo": "E sappie che la colpa che rimbecca\nper dritta opposizione alcun peccato,\ncon esso insieme qui suo verde secca;",
+      "parafrasi": "E sappi che la colpa che rimbecca per diretta opposizione un peccato, insieme ad esso qui secca il suo verde;"
+    },
+    {
+      "versi": [52, 54],
+      "testo": "però, s’io son tra quella gente stato\nche piange l’avarizia, per purgarmi,\nper lo contrario suo m’è incontrato\".",
+      "parafrasi": "perciò, se io sono stato tra quella gente che piange l'avarizia per purgarmi, per il suo contrario mi è capitato»."
+    },
+    {
+      "versi": [55, 57],
+      "testo": "\"Or quando tu cantasti le crude armi\nde la doppia trestizia di Giocasta\",\ndisse ’l cantor de’ buccolici carmi,",
+      "parafrasi": "«Ora quando tu cantasti le crude armi della doppia tristezza di Giocasta», disse il cantore dei carmi bucolici,"
+    },
+    {
+      "versi": [58, 60],
+      "testo": "\"per quello che Clïò teco lì tasta,\nnon par che ti facesse ancor fedele\nla fede, sanza qual ben far non basta.",
+      "parafrasi": "«per quello che Clio ti suggerisce lì, non pare che ti rendesse ancora fedele la fede, senza la quale non basta il ben fare."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Se così è, qual sole o quai candele\nti stenebraron sì, che tu drizzasti\nposcia di retro al pescator le vele?\".",
+      "parafrasi": "Se è così, quale sole o quali candele ti tolsero le tenebre, tanto che drizzasti poi le vele dietro al pescatore?»."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Ed elli a lui: \"Tu prima m’invïasti\nverso Parnaso a ber ne le sue grotte,\ne prima appresso Dio m’alluminasti.",
+      "parafrasi": "Ed egli a lui: «Tu per primo mi inviasti verso il Parnaso a bere nelle sue grotte, e per primo dopo Dio mi illuminasti."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Facesti come quei che va di notte,\nche porta il lume dietro e sé non giova,\nma dopo sé fa le persone dotte,",
+      "parafrasi": "Facesti come chi va di notte, che porta il lume dietro e non giova a sé, ma dopo di sé rende dotte le persone,"
+    },
+    {
+      "versi": [70, 72],
+      "testo": "quando dicesti: ’Secol si rinova;\ntorna giustizia e primo tempo umano,\ne progenïe scende da ciel nova’.",
+      "parafrasi": "quando dicesti: «Il secolo si rinnova; torna giustizia e il primo tempo umano, e nuova progenie discende dal cielo»."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Per te poeta fui, per te cristiano:\nma perché veggi mei ciò ch’io disegno,\na colorare stenderò la mano.",
+      "parafrasi": "Per te fui poeta, per te cristiano: ma perché tu veda meglio ciò che disegno, stenderò la mano a colorare."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "Già era ’l mondo tutto quanto pregno\nde la vera credenza, seminata\nper li messaggi de l’etterno regno;",
+      "parafrasi": "Già il mondo era tutto pregno della vera credenza, seminata dai messaggeri dell'eterno regno;"
+    },
+    {
+      "versi": [79, 81],
+      "testo": "e la parola tua sopra toccata\nsi consonava a’ nuovi predicanti;\nond’io a visitarli presi usata.",
+      "parafrasi": "e la tua parola sopra toccata si accordava con i nuovi predicatori; perciò io presi a visitarli di consueto."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "Vennermi poi parendo tanto santi,\nche, quando Domizian li perseguette,\nsanza mio lagrimar non fur lor pianti;",
+      "parafrasi": "Mi apparvero poi tanto santi che, quando Domiziano li perseguitò, i loro pianti non furono senza mie lacrime;"
+    },
+    {
+      "versi": [85, 87],
+      "testo": "e mentre che di là per me si stette,\nio li sovvenni, e i lor dritti costumi\nfer dispregiare a me tutte altre sette.",
+      "parafrasi": "e finché rimasi di là, io li soccorsi, e i loro dritti costumi mi fecero disprezzare tutte le altre sette."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "E pria ch’io conducessi i Greci a’ fiumi\ndi Tebe poetando, ebb’io battesmo;\nma per paura chiuso cristian fu’ mi,",
+      "parafrasi": "E prima che io conducessi i Greci ai fiumi di Tebe, poetando, ebbi battesimo; ma per paura fui cristiano nascosto,"
+    },
+    {
+      "versi": [91, 93],
+      "testo": "lungamente mostrando paganesmo;\ne questa tepidezza il quarto cerchio\ncerchiar mi fé più che ’l quarto centesmo.",
+      "parafrasi": "mostrando a lungo paganesimo; e questa tiepidezza mi fece girare il quarto cerchio più di quattrocento anni."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Tu dunque, che levato hai il coperchio\nche m’ascondeva quanto bene io dico,\nmentre che del salire avem soverchio,",
+      "parafrasi": "Tu dunque, che hai levato il coperchio che mi nascondeva quanto bene io dico, mentre abbiamo salita da superare,"
+    },
+    {
+      "versi": [97, 99],
+      "testo": "dimmi dov’è Terrenzio nostro antico,\nCecilio e Plauto e Varro, se lo sai:\ndimmi se son dannati, e in qual vico\".",
+      "parafrasi": "dimmi dov'è Terenzio nostro antico, Cecilio e Plauto e Varrone, se lo sai: dimmi se sono dannati, e in quale luogo»."
+    },
+    {
+      "versi": [100, 102],
+      "testo": "\"Costoro e Persio e io e altri assai\",\nrispuose il duca mio, \"siam con quel Greco\nche le Muse lattar più ch’altri mai,",
+      "parafrasi": "«Costoro e Persio e io e altri assai», rispose la mia guida, «siamo con quel Greco che le Muse lattarono più di ogni altro,"
+    },
+    {
+      "versi": [103, 105],
+      "testo": "nel primo cinghio del carcere cieco;\nspesse fïate ragioniam del monte\nche sempre ha le nutrice nostre seco.",
+      "parafrasi": "nel primo cerchio del carcere cieco; spesse volte parliamo del monte che sempre ha con sé le nostre nutrici."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Euripide v’è nosco e Antifonte,\nSimonide, Agatone e altri piùe\nGreci che già di lauro ornar la fronte.",
+      "parafrasi": "Euripide è con noi e Antifonte, Simonide, Agatone e altri più Greci che già ornarono di alloro la fronte."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "Quivi si veggion de le genti tue\nAntigone, Deïfile e Argia,\ne Ismene sì trista come fue.",
+      "parafrasi": "Là si vedono dei tuoi personaggi Antigone, Deifile e Argia, e Ismene triste com'era."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Védeisi quella che mostrò Langia;\nèvvi la figlia di Tiresia, e Teti,\ne con le suore sue Deïdamia\".",
+      "parafrasi": "Si vede quella che mostrò Langia; c'è la figlia di Tiresia, e Teti, e con le sue sorelle Deidamia»."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "Tacevansi ambedue già li poeti,\ndi novo attenti a riguardar dintorno,\nliberi da saliri e da pareti;",
+      "parafrasi": "Tacevano ormai entrambi i poeti, di nuovo attenti a guardare intorno, liberi dalle scale e dalle pareti;"
+    },
+    {
+      "versi": [118, 120],
+      "testo": "e già le quattro ancelle eran del giorno\nrimase a dietro, e la quinta era al temo,\ndrizzando pur in sù l’ardente corno,",
+      "parafrasi": "e già le quattro ancelle del giorno erano rimaste dietro, e la quinta era al timone, drizzando ancora in su l'ardente corno,"
+    },
+    {
+      "versi": [121, 123],
+      "testo": "quando il mio duca: \"Io credo ch’a lo stremo\nle destre spalle volger ne convegna,\ngirando il monte come far solemo\".",
+      "parafrasi": "quando la mia guida: «Credo che all'estremo ci convenga volgere le spalle destre, girando il monte come siamo soliti»."
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Così l’usanza fu lì nostra insegna,\ne prendemmo la via con men sospetto\nper l’assentir di quell’anima degna.",
+      "parafrasi": "Così l'usanza fu lì nostra insegna, e prendemmo la via con meno sospetto per il consenso di quell'anima degna."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Elli givan dinanzi, e io soletto\ndi retro, e ascoltava i lor sermoni,\nch’a poetar mi davano intelletto.",
+      "parafrasi": "Essi andavano davanti, e io solo dietro, e ascoltavo i loro discorsi, che mi davano intelletto per poetare."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Ma tosto ruppe le dolci ragioni\nun alber che trovammo in mezza strada,\ncon pomi a odorar soavi e buoni;",
+      "parafrasi": "Ma presto interruppe i dolci ragionamenti un albero che trovammo in mezzo alla strada, con pomi di odore soave e buono;"
+    },
+    {
+      "versi": [133, 135],
+      "testo": "e come abete in alto si digrada\ndi ramo in ramo, così quello in giuso,\ncred’io, perché persona sù non vada.",
+      "parafrasi": "e come l'abete in alto si ramifica di ramo in ramo, così quello al contrario, credo perché nessuno vi salga."
+    },
+    {
+      "versi": [136, 138],
+      "testo": "Dal lato onde ’l cammin nostro era chiuso,\ncadea de l’alta roccia un liquor chiaro\ne si spandeva per le foglie suso.",
+      "parafrasi": "Dal lato dove il nostro cammino era chiuso, cadeva dall'alta roccia un liquore chiaro e si spandeva sulle foglie in alto."
+    },
+    {
+      "versi": [139, 141],
+      "testo": "Li due poeti a l’alber s’appressaro;\ne una voce per entro le fronde\ngridò: \"Di questo cibo avrete caro\".",
+      "parafrasi": "I due poeti si avvicinarono all'albero; e una voce da dentro le fronde gridò: «Di questo cibo avrete scarsità»."
+    },
+    {
+      "versi": [142, 144],
+      "testo": "Poi disse: \"Più pensava Maria onde\nfosser le nozze orrevoli e intere,\nch’a la sua bocca, ch’or per voi risponde.",
+      "parafrasi": "Poi disse: «Maria pensava più a che le nozze fossero onorevoli e intere, che alla sua bocca, che ora risponde per voi."
+    },
+    {
+      "versi": [145, 147],
+      "testo": "E le Romane antiche, per lor bere,\ncontente furon d’acqua; e Danïello\ndispregiò cibo e acquistò savere.",
+      "parafrasi": "E le antiche Romane, per loro bere, furono contente d'acqua; e Daniele disprezzò il cibo e acquistò sapere."
+    },
+    {
+      "versi": [148, 150],
+      "testo": "Lo secol primo, quant’oro fu bello,\nfé savorose con fame le ghiande,\ne nettare con sete ogne ruscello.",
+      "parafrasi": "Il primo secolo, quanto fu bello l'oro, fece saporose per la fame le ghiande, e nettare per la sete ogni ruscello."
+    },
+    {
+      "versi": [151, 153],
+      "testo": "Mele e locuste furon le vivande\nche nodriro il Batista nel diserto;\nper ch’elli è glorïoso e tanto grande",
+      "parafrasi": "Miele e locuste furono le vivande che nutrirono il Battista nel deserto; perciò egli è glorioso e tanto grande"
+    },
+    {
+      "versi": [154, 154],
+      "testo": "quanto per lo Vangelio v’è aperto\".",
+      "parafrasi": "quanto per il Vangelo vi è aperto»."
+    }
+  ]
+}

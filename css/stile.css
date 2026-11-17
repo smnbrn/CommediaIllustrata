@@ -12,6 +12,11 @@
   --cornice: #1d1813;
   --ombra: 0 1px 0 rgb(0 0 0 / 0.04), 0 8px 24px rgb(60 40 10 / 0.10);
   --dante: #c4361b;
+  /* testi chiari sul fondo scuro delle tavole e della lente */
+  --sulla-tavola: #b9ab92;
+  --sulla-tavola-titolo: #e7dcc6;
+  --sulla-tavola-chiaro: #f1e7d3;
+  --sulla-tavola-chiaro-2: #e9dfcc;
 
   --carattere: "EB Garamond", "Garamond", "Iowan Old Style", "Palatino Linotype", Georgia, serif;
   --misura: 36rem;
@@ -48,6 +53,53 @@
   --ombra: 0 8px 28px rgb(0 0 0 / 0.45);
   --dante: #ff7a4d;
   color-scheme: dark;
+}
+
+/* ---------- Purgatorio: viola chiaro al posto dei toni caldi dell'Inferno ---------- */
+:root[data-cantica="purgatorio"] {
+  --carta: #f2eef9;
+  --carta-2: #e8e1f3;
+  --carta-3: #dcd2ec;
+  --inchiostro: #272037;
+  --tenue: #63587b;
+  --linea: #cfc4e2;
+  --rubrica: #6b3fa3;
+  --rubrica-velo: rgb(107 63 163 / 0.08);
+  --cornice: #17121f;
+  --ombra: 0 1px 0 rgb(0 0 0 / 0.04), 0 8px 24px rgb(50 30 100 / 0.12);
+  --dante: #8a4fd6;
+  --sulla-tavola: #b6aed0;
+  --sulla-tavola-titolo: #e6dff3;
+  --sulla-tavola-chiaro: #efeafa;
+  --sulla-tavola-chiaro-2: #e8e2f4;
+}
+@media (prefers-color-scheme: dark) {
+  :root[data-cantica="purgatorio"]:not([data-theme="light"]) {
+    --carta: #15111e;
+    --carta-2: #1e1a2a;
+    --carta-3: #292339;
+    --inchiostro: #e8e1f5;
+    --tenue: #a89dc2;
+    --linea: #382f4e;
+    --rubrica: #b99cf0;
+    --rubrica-velo: rgb(185 156 240 / 0.12);
+    --cornice: #0b0911;
+    --ombra: 0 8px 28px rgb(0 0 0 / 0.45);
+    --dante: #c7a8ff;
+  }
+}
+:root[data-cantica="purgatorio"][data-theme="dark"] {
+  --carta: #15111e;
+  --carta-2: #1e1a2a;
+  --carta-3: #292339;
+  --inchiostro: #e8e1f5;
+  --tenue: #a89dc2;
+  --linea: #382f4e;
+  --rubrica: #b99cf0;
+  --rubrica-velo: rgb(185 156 240 / 0.12);
+  --cornice: #0b0911;
+  --ombra: 0 8px 28px rgb(0 0 0 / 0.45);
+  --dante: #c7a8ff;
 }
 
 *, *::before, *::after { box-sizing: border-box; }
@@ -145,26 +197,26 @@ button, select { font: inherit; color: inherit; }
   position: absolute; inset: 0;
   display: flex; flex-direction: column; justify-content: center; align-items: center;
   padding: 2rem; text-align: center;
-  color: #b9ab92; font-style: italic; font-size: 1rem;
+  color: var(--sulla-tavola); font-style: italic; font-size: 1rem;
   background:
     radial-gradient(ellipse at center, rgb(255 255 255 / 0.04), transparent 70%),
     var(--cornice);
 }
-.tavola-vuota-titolo { font-style: normal; font-size: 1.35rem; font-variant: small-caps; color: #e7dcc6; margin: 0 0 0.25rem; }
+.tavola-vuota-titolo { font-style: normal; font-size: 1.35rem; font-variant: small-caps; color: var(--sulla-tavola-titolo); margin: 0 0 0.25rem; }
 .tavola-vuota p { margin: 0.25rem 0; max-width: 22rem; }
 /* etichetta sulle immagini generate con IA: visibile anche quando la didascalia è tagliata (telefono) */
 .tavola[data-ia="1"] .tavola-cornice::after {
   content: "Immagine IA";
   position: absolute; left: 0.6rem; top: 0.6rem; z-index: 2;
   padding: 0.2rem 0.6rem; border-radius: 999px;
-  background: rgb(0 0 0 / 0.65); color: #f1e7d3;
+  background: rgb(0 0 0 / 0.65); color: var(--sulla-tavola-chiaro);
   font-size: 0.8rem; letter-spacing: 0.04em; pointer-events: none;
 }
 .tavola-pagina {
   position: absolute; right: 0.6rem; top: 0.6rem;
   min-width: 2.75rem; min-height: 2.75rem; padding: 0 0.75rem;
   border: 0; border-radius: 999px;
-  background: rgb(0 0 0 / 0.55); color: #f1e7d3;
+  background: rgb(0 0 0 / 0.55); color: var(--sulla-tavola-chiaro);
   font-size: 0.95rem; cursor: pointer;
 }
 .didascalia {
@@ -368,7 +420,7 @@ button, select { font: inherit; color: inherit; }
   .illustratori { flex-wrap: nowrap; overflow-x: auto; max-width: 100%; scrollbar-width: none; }
   .illustratori::-webkit-scrollbar { display: none; }
   .illustratore { min-height: 2.75rem; padding: 0 0.65rem; font-size: 0.95rem; white-space: nowrap; }
-  .avviso { position: absolute; left: 1.1rem; top: 0.95rem; right: 4rem; margin: 0; min-height: 0; font-size: 0.78rem; color: #e9dfcc; text-shadow: 0 1px 3px #000; pointer-events: none; }
+  .avviso { position: absolute; left: 1.1rem; top: 0.95rem; right: 4rem; margin: 0; min-height: 0; font-size: 0.78rem; color: var(--sulla-tavola-chiaro-2); text-shadow: 0 1px 3px #000; pointer-events: none; }
   .mappa { width: 2.95rem; height: 2.95rem; padding: 2px; align-self: center; overflow: hidden; }
   .mappa .mappa-luogo { display: none; }
   .mappa svg { height: 100%; }
@@ -412,7 +464,7 @@ html.lente-aperta { overflow: hidden; }
 .lente-chiudi {
   position: absolute; top: calc(0.6rem + env(safe-area-inset-top)); right: 0.6rem; z-index: 2;
   width: 2.75rem; height: 2.75rem; border: 0; border-radius: 50%;
-  background: rgb(0 0 0 / 0.65); color: #f1e7d3; cursor: pointer;
+  background: rgb(0 0 0 / 0.65); color: var(--sulla-tavola-chiaro); cursor: pointer;
   display: grid; place-items: center;
 }
 .lente-chiudi svg { width: 1.3rem; height: 1.3rem; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; }
@@ -421,12 +473,14 @@ html.lente-aperta { overflow: hidden; }
   content: "Immagine IA";
   position: fixed; left: 0.8rem; top: calc(0.8rem + env(safe-area-inset-top)); z-index: 2;
   padding: 0.2rem 0.6rem; border-radius: 999px;
-  background: rgb(0 0 0 / 0.65); color: #f1e7d3;
+  background: rgb(0 0 0 / 0.65); color: var(--sulla-tavola-chiaro);
   font-size: 0.8rem; letter-spacing: 0.04em; pointer-events: none;
 }
 .lente-didascalia {
   margin: 0; padding: 0.6rem 1rem calc(0.7rem + env(safe-area-inset-bottom));
-  text-align: center; font-size: 0.95rem; line-height: 1.35; color: #b9ab92;
+  text-align: center; font-size: 0.95rem; line-height: 1.35; color: var(--sulla-tavola);
 }
-.lente-didascalia b { color: #e7dcc6; font-weight: 500; }
+.lente-didascalia b { color: var(--sulla-tavola-titolo); font-weight: 500; }
 .lente-didascalia a { color: inherit; text-underline-offset: 2px; }
+
+.mappa[hidden] { display: none; }

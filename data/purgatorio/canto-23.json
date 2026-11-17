@@ -1,0 +1,293 @@
+{
+  "cantica": "purgatorio",
+  "canto": 23,
+  "titolo": "I golosi e Forese Donati",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_XXIII",
+  "numero_versi": 133,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 24],
+      "titolo_scena": "Il canto «Labia mea, Domine»",
+      "sintesi": "Dante guarda ostinatamente tra le fronde verdi come chi spreca la vita a caccia di uccellini, finché Virgilio lo chiama a ripartire. Subito si ode un canto misto di pianto: «Labia mea, Domine», che dà insieme diletto e dolore. Sono anime che avanzano silenziose e devote, e superando i poeti si volgono a guardarli, come pellegrini pensosi che incontrano sconosciuti.",
+      "luogo_id": "cornice-6",
+      "personaggi": ["dante", "virgilio", "stazio"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "I poeti presso l'albero",
+          "url": "img/dore/purgatorio-22-albero-960.jpg",
+          "miniatura": "img/dore/purgatorio-22-albero-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148975153).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [25, 75],
+      "titolo_scena": "Le anime scheletriche e Forese",
+      "sintesi": "Le anime sono magrissime: gli occhi come anelli senza gemme, la pelle tirata sulle ossa, peggio di Erisittone. Dante si domanda come l'odore di una mela e di un'acqua possa causare una tale fame. Un'ombra lo guarda e grida «Quale grazia è questa?»: dalla voce Dante riconosce l'amico Forese Donati. Questi gli spiega che per forza divina l'acqua e l'albero li consumano, e che la sete e la fame che li tormentano sono la stessa voglia che portò Cristo a gridare «Elì».",
+      "luogo_id": "cornice-6",
+      "personaggi": ["dante", "virgilio", "stazio", "forese-donati"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Forese e i golosi",
+          "url": "img/dore/purgatorio-23-forese-960.jpg",
+          "miniatura": "img/dore/purgatorio-23-forese-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148975200).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [76, 133],
+      "titolo_scena": "Forese, Nella e le donne fiorentine",
+      "sintesi": "Dante si stupisce di trovare Forese già in Purgatorio, a cinque anni dalla morte; Forese spiega che la vedova Nella con le sue preghiere lo ha tratto dalla costa dell'attesa. Predice poi che presto le sfacciate donne fiorentine saranno interdette dal predicare dal pulpito per l'indecenza dei loro abiti, e che prima che cresca la barba al bambino di oggi sarebbero tristi. Chiede a Dante chi sia; Dante gli presenta Virgilio e Stazio e lo informa del suo viaggio verso Beatrice.",
+      "luogo_id": "cornice-6",
+      "personaggi": ["dante", "virgilio", "stazio", "forese-donati"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Forese, Nella e le donne fiorentine",
+          "url": "img/ia/purgatorio-23-scena-3.jpg",
+          "miniatura": "img/ia/purgatorio-23-scena-3.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Mentre che li occhi per la fronda verde\nficcava ïo sì come far suole\nchi dietro a li uccellin sua vita perde,",
+      "parafrasi": "Mentre fissavo gli occhi sulla fronda verde, come suole fare chi perde la vita dietro agli uccellini,"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "lo più che padre mi dicea: \"Figliuole,\nvienne oramai, ché ’l tempo che n’è imposto\npiù utilmente compartir si vuole\".",
+      "parafrasi": "colui che era più che padre mi diceva: «Figliolo, vieni ormai, perché il tempo che ci è concesso si vuole ripartire più utilmente»."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "Io volsi ’l viso, e ’l passo non men tosto,\nappresso i savi, che parlavan sìe,\nche l’andar mi facean di nullo costo.",
+      "parafrasi": "Volsi il viso, e il passo non meno in fretta, dietro ai savi, che parlavano così che il camminare non mi costava nulla."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "Ed ecco piangere e cantar s’udìe\n’Labïa mëa, Domine’ per modo\ntal, che diletto e doglia parturìe.",
+      "parafrasi": "Ed ecco si udì piangere e cantare «Labia mea, Domine» in modo tale che generava diletto e dolore."
+    },
+    {
+      "versi": [13, 15],
+      "testo": "\"O dolce padre, che è quel ch’i’ odo?\",\ncomincia’ io; ed elli: \"Ombre che vanno\nforse di lor dover solvendo il nodo\".",
+      "parafrasi": "«O dolce padre, che cos'è ciò che sento?», cominciai io; ed egli: «Ombre che vanno forse sciogliendo il nodo del loro dovere»."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "Sì come i peregrin pensosi fanno,\ngiugnendo per cammin gente non nota,\nche si volgono ad essa e non restanno,",
+      "parafrasi": "Come fanno i pellegrini pensosi, quando incontrano per via gente non nota, che si volgono ad essa e non si fermano,"
+    },
+    {
+      "versi": [19, 21],
+      "testo": "così di retro a noi, più tosto mota,\nvenendo e trapassando ci ammirava\nd’anime turba tacita e devota.",
+      "parafrasi": "così dietro di noi, più velocemente mossa, venendo e passando, ci guardava con ammirazione una turba di anime silenziosa e devota."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Ne li occhi era ciascuna oscura e cava,\npalida ne la faccia, e tanto scema\nche da l’ossa la pelle s’informava.",
+      "parafrasi": "Negli occhi ciascuna era scura e cava, pallida in faccia, e tanto smagrita che dalle ossa la pelle prendeva forma."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Non credo che così a buccia strema\nErisittone fosse fatto secco,\nper digiunar, quando più n’ebbe tema.",
+      "parafrasi": "Non credo che Erisittone fosse ridotto così a pelle e ossa per il digiuno, quando più ne ebbe paura."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Io dicea fra me stesso pensando: ’Ecco\nla gente che perdé Ierusalemme,\nquando Maria nel figlio diè di becco!’.",
+      "parafrasi": "Dicevo tra me stesso pensando: «Ecco la gente che perse Gerusalemme, quando Maria diede del becco nel figlio!»."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "Parean l’occhiaie anella sanza gemme:\nchi nel viso de li uomini legge ’omo’\nben avria quivi conosciuta l’emme.",
+      "parafrasi": "Le occhiaie sembravano anelli senza gemme: chi nel viso degli uomini legge «omo» avrebbe qui ben riconosciuto la «m»."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Chi crederebbe che l’odor d’un pomo\nsì governasse, generando brama,\ne quel d’un’acqua, non sappiendo como?",
+      "parafrasi": "Chi crederebbe che l'odore di un frutto avesse tale potere, generando brama, e quello di un'acqua, non sapendo come?"
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Già era in ammirar che sì li affama,\nper la cagione ancor non manifesta\ndi lor magrezza e di lor trista squama,",
+      "parafrasi": "Ero già in ammirazione per ciò che così li affama, per la causa non ancora manifesta della loro magrezza e della loro triste squama,"
+    },
+    {
+      "versi": [40, 42],
+      "testo": "ed ecco del profondo de la testa\nvolse a me li occhi un’ombra e guardò fiso;\npoi gridò forte: \"Qual grazia m’è questa?\".",
+      "parafrasi": "ed ecco dal profondo della testa un'ombra volse a me gli occhi e guardò fisso; poi gridò forte: «Quale grazia mi è questa?»."
+    },
+    {
+      "versi": [43, 45],
+      "testo": "Mai non l’avrei riconosciuto al viso;\nma ne la voce sua mi fu palese\nciò che l’aspetto in sé avea conquiso.",
+      "parafrasi": "Non l'avrei mai riconosciuto al viso; ma nella sua voce mi fu palese ciò che l'aspetto aveva in sé consumato."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Questa favilla tutta mi raccese\nmia conoscenza a la cangiata labbia,\ne ravvisai la faccia di Forese.",
+      "parafrasi": "Questa scintilla riaccese del tutto la mia conoscenza alla mutata fisionomia, e ravvisai la faccia di Forese."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "\"Deh, non contendere a l’asciutta scabbia\nche mi scolora\", pregava, \"la pelle,\nné a difetto di carne ch’io abbia;",
+      "parafrasi": "«Deh, non badare alla scabbia secca che mi scolora», pregava, «la pelle, né alla mancanza di carne che ho;"
+    },
+    {
+      "versi": [52, 54],
+      "testo": "ma dimmi il ver di te, dì chi son quelle\ndue anime che là ti fanno scorta;\nnon rimaner che tu non mi favelle!\".",
+      "parafrasi": "ma dimmi il vero di te, di' chi sono quelle due anime che là ti fanno da scorta; non restare senza parlarmi!»."
+    },
+    {
+      "versi": [55, 57],
+      "testo": "\"La faccia tua, ch’io lagrimai già morta,\nmi dà di pianger mo non minor doglia\",\nrispuos’io lui, \"veggendola sì torta.",
+      "parafrasi": "«La tua faccia, che piansi già morta, mi dà ora non minore dolore», risposi, «vedendola così storta."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Però mi dì, per Dio, che sì vi sfoglia;\nnon mi far dir mentr’io mi maraviglio,\nché mal può dir chi è pien d’altra voglia\".",
+      "parafrasi": "Perciò dimmi, per Dio, che cosa vi sfoglia così; non mi far parlare mentre mi meraviglio, perché male può dire chi è pieno di altra voglia»."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Ed elli a me: \"De l’etterno consiglio\ncade vertù ne l’acqua e ne la pianta\nrimasa dietro, ond’io sì m’assottiglio.",
+      "parafrasi": "Ed egli a me: «Dall'eterno consiglio cade virtù nell'acqua e nella pianta rimasta dietro, per cui così mi assottiglio."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Tutta esta gente che piangendo canta\nper seguitar la gola oltra misura,\nin fame e ’n sete qui si rifà santa.",
+      "parafrasi": "Tutta questa gente che piangendo canta per aver seguito la gola oltre misura, in fame e sete qui si rifà santa."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Di bere e di mangiar n’accende cura\nl’odor ch’esce del pomo e de lo sprazzo\nche si distende su per sua verdura.",
+      "parafrasi": "Di bere e di mangiare ci accende desiderio l'odore che esce dal frutto e dallo spruzzo che si distende su per la sua verdura."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "E non pur una volta, questo spazzo\ngirando, si rinfresca nostra pena:\nio dico pena, e dovria dir sollazzo,",
+      "parafrasi": "E non solo una volta, girando questo spazio, si rinfresca la nostra pena: dico pena, e dovrei dire sollazzo,"
+    },
+    {
+      "versi": [73, 75],
+      "testo": "ché quella voglia a li alberi ci mena\nche menò Cristo lieto a dire ’Elì’,\nquando ne liberò con la sua vena\".",
+      "parafrasi": "perché quella voglia ci conduce agli alberi che condusse Cristo lieto a dire «Elì», quando ci liberò con il suo sangue»."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "E io a lui: \"Forese, da quel dì\nnel qual mutasti mondo a miglior vita,\ncinqu’ anni non son vòlti infino a qui.",
+      "parafrasi": "E io a lui: «Forese, da quel giorno in cui cambiasti mondo per una vita migliore, non sono passati cinque anni fino a qui."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Se prima fu la possa in te finita\ndi peccar più, che sovvenisse l’ora\ndel buon dolor ch’a Dio ne rimarita,",
+      "parafrasi": "Se prima fu in te finita la possibilità di peccare ancora, che arrivasse l'ora del buon dolore che ci riunisce a Dio,"
+    },
+    {
+      "versi": [82, 84],
+      "testo": "come se’ tu qua sù venuto ancora?\nIo ti credea trovar là giù di sotto,\ndove tempo per tempo si ristora\".",
+      "parafrasi": "come sei venuto quassù? Io ti credevo trovare laggiù di sotto, dove il tempo si ripaga con il tempo»."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "Ond’elli a me: \"Sì tosto m’ ha condotto\na ber lo dolce assenzo d’i martìri\nla Nella mia con suo pianger dirotto.",
+      "parafrasi": "Ed egli a me: «Così presto mi ha condotto a bere il dolce assenzio dei martiri la mia Nella con il suo pianto dirotto."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Con suoi prieghi devoti e con sospiri\ntratto m’ ha de la costa ove s’aspetta,\ne liberato m’ ha de li altri giri.",
+      "parafrasi": "Con le sue preghiere devote e con sospiri mi ha tratto dalla costa dove si aspetta, e mi ha liberato dagli altri giri."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Tanto è a Dio più cara e più diletta\nla vedovella mia, che molto amai,\nquanto in bene operare è più soletta;",
+      "parafrasi": "Tanto è più cara a Dio e più diletta la mia vedovella, che molto amai, quanto più è sola nel ben operare;"
+    },
+    {
+      "versi": [94, 96],
+      "testo": "ché la Barbagia di Sardigna assai\nne le femmine sue più è pudica\nche la Barbagia dov’io la lasciai.",
+      "parafrasi": "perché la Barbagia di Sardegna è molto più pudica nelle sue donne che la Barbagia dove io la lasciai."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "O dolce frate, che vuo’ tu ch’io dica?\nTempo futuro m’è già nel cospetto,\ncui non sarà quest’ora molto antica,",
+      "parafrasi": "O dolce fratello, che vuoi che io dica? Il tempo futuro mi è già davanti agli occhi, e questa ora non gli sarà molto antica,"
+    },
+    {
+      "versi": [100, 102],
+      "testo": "nel qual sarà in pergamo interdetto\na le sfacciate donne fiorentine\nl’andar mostrando con le poppe il petto.",
+      "parafrasi": "in cui sarà vietato dal pulpito alle sfacciate donne fiorentine di andare mostrando il petto con le poppe."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Quai barbare fuor mai, quai saracine,\ncui bisognasse, per farle ir coperte,\no spiritali o altre discipline?",
+      "parafrasi": "Quali barbare furono mai, quali saracene, a cui occorresse, per farle andare coperte, o spirituali o altre discipline?"
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Ma se le svergognate fosser certe\ndi quel che ’l ciel veloce loro ammanna,\ngià per urlare avrian le bocche aperte;",
+      "parafrasi": "Ma se le svergognate fossero certe di ciò che il cielo veloce prepara loro, già per urlare avrebbero le bocche aperte;"
+    },
+    {
+      "versi": [109, 111],
+      "testo": "ché, se l’antiveder qui non m’inganna,\nprima fien triste che le guance impeli\ncolui che mo si consola con nanna.",
+      "parafrasi": "perché, se la preveggenza qui non mi inganna, saranno tristi prima che le guance abbiano peli colui che ora si consola con la ninna nanna."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Deh, frate, or fa che più non mi ti celi!\nvedi che non pur io, ma questa gente\ntutta rimira là dove ’l sol veli\".",
+      "parafrasi": "Deh, fratello, fa' che ormai tu non ti nasconda più a me! Vedi che non solo io, ma questa gente tutta guarda là dove tu velî il sole»."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "Per ch’io a lui: \"Se tu riduci a mente\nqual fosti meco, e qual io teco fui,\nancor fia grave il memorar presente.",
+      "parafrasi": "Perciò io a lui: «Se tu richiami alla mente quale fosti con me, e quale io con te fui, ancora sarà grave il ricordo presente."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Di quella vita mi volse costui\nche mi va innanzi, l’altr’ier, quando tonda\nvi si mostrò la suora di colui\",",
+      "parafrasi": "Da quella vita mi volse costui che mi va innanzi, l'altro ieri, quando tonda si mostrò a voi la sorella di colui»,"
+    },
+    {
+      "versi": [121, 123],
+      "testo": "e ’l sol mostrai; \"costui per la profonda\nnotte menato m’ ha d’i veri morti\ncon questa vera carne che ’l seconda.",
+      "parafrasi": "e mostrai il sole; «costui mi ha condotto per la profonda notte dei veri morti con questa vera carne che lo segue."
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Indi m’ han tratto sù li suoi conforti,\nsalendo e rigirando la montagna\nche drizza voi che ’l mondo fece torti.",
+      "parafrasi": "Di là mi hanno tratto su i suoi conforti, salendo e rigirando la montagna che raddrizza voi che il mondo fece storti."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Tanto dice di farmi sua compagna\nche io sarò là dove fia Beatrice;\nquivi convien che sanza lui rimagna.",
+      "parafrasi": "Tanto dice di farmi sua compagna che io sarò dove sarà Beatrice; qui conviene che senza di lui io rimanga."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Virgilio è questi che così mi dice\",\ne addita’ lo; \"e quest’altro è quell’ombra\nper cuï scosse dianzi ogne pendice",
+      "parafrasi": "Virgilio è questi che così mi dice», e lo indicai; «e quest'altro è quell'ombra per cui poco fa scosse ogni pendice"
+    },
+    {
+      "versi": [133, 133],
+      "testo": "lo vostro regno, che da sé lo sgombra\".",
+      "parafrasi": "il vostro regno, che da sé la sgombra»."
+    }
+  ]
+}

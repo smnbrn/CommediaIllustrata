@@ -1,0 +1,332 @@
+{
+  "cantica": "purgatorio",
+  "canto": 30,
+  "titolo": "L'arrivo di Beatrice",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_XXX",
+  "numero_versi": 145,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 33],
+      "titolo_scena": "Il canto «Veni, sponsa, de Libano» e la nuvola di fiori",
+      "sintesi": "Quando il Settentrione del primo cielo, i sette candelabri, si ferma, gli anziani si volgono al carro come alla loro pace; uno di loro grida tre volte «Veni, sponsa, de Libano», e tutti ripetono. Come i beati alla fine dei tempi, cento angeli si levano sul carro, cantando «Benedictus qui venis» e gettando fiori. Dentro una nuvola di fiori appare una donna, con il velo bianco, la corona d'ulivo, il manto verde e una veste del colore di fiamma viva.",
+      "luogo_id": "paradiso-terrestre",
+      "personaggi": ["dante", "beatrice"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Beatrice appare tra gli angeli",
+          "url": "img/dore/purgatorio-30-beatrice-960.jpg",
+          "miniatura": "img/dore/purgatorio-30-beatrice-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148975620).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [34, 75],
+      "titolo_scena": "Beatrice rimprovera Dante; Virgilio scompare",
+      "sintesi": "Dante, che da tanto tempo non era più affranto dallo stupore della sua presenza, sente la potenza dell'antico amore e si volge a sinistra come un bambino alla mamma per dire a Virgilio: «Conosco i segni dell'antica fiamma». Ma Virgilio non c'è più. Dante piange; Beatrice lo chiama per nome: non piangere ancora, ché dovrai piangere per un'altra spada. Poi lo guarda dal carro, regale e severa: «Guardaci ben! Ben son, ben son Beatrice».",
+      "luogo_id": "paradiso-terrestre",
+      "personaggi": ["dante", "beatrice", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Beatrice rimprovera Dante; Virgilio scompare",
+          "url": "img/ia/purgatorio-30-scena-2.jpg",
+          "miniatura": "img/ia/purgatorio-30-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [76, 99],
+      "titolo_scena": "La vergogna di Dante e il canto degli angeli",
+      "sintesi": "Dante abbassa gli occhi nel chiaro fonte, ma vedendo se stesso li porta all'erba, tanta vergogna gli grava la fronte. Beatrice gli appare superba come una madre al figlio. Gli angeli cantano «In te, Domine, speravi», ma si fermano a «pedes meos». Il gelo che stringe il cuore di Dante, come la neve sull'Appennino, si scioglie al canto in spirito e acqua, e gli esce in lacrime e sospiri dalla bocca e dagli occhi.",
+      "luogo_id": "paradiso-terrestre",
+      "personaggi": ["dante", "beatrice"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La vergogna di Dante e il canto degli angeli",
+          "url": "img/ia/purgatorio-30-scena-3.jpg",
+          "miniatura": "img/ia/purgatorio-30-scena-3.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [100, 145],
+      "titolo_scena": "Beatrice accusa Dante davanti agli angeli",
+      "sintesi": "Beatrice, ferma sul fianco del carro, si rivolge agli angeli, che vigilano nell'eterno giorno: spiega che la sua risposta serve perché colui che piange di là capisca, perché colpa e dolore siano della stessa misura. Dante, nella sua giovinezza, aveva grandi doti; ma più la terra è ricca, più il seme cattivo e non coltivato la fa selvaggia. La sostenne col suo volto, poi quando cambiò vita, si volse ad altri: ella non riuscì a richiamarlo, e solo mostrandogli le anime perdute poteva salvarlo. Per questo visitò Virgilio nel Limbo.",
+      "luogo_id": "paradiso-terrestre",
+      "personaggi": ["dante", "beatrice"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Beatrice accusa Dante davanti agli angeli",
+          "url": "img/ia/purgatorio-30-scena-4.jpg",
+          "miniatura": "img/ia/purgatorio-30-scena-4.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Quando il settentrïon del primo cielo,\nche né occaso mai seppe né orto\nné d’altra nebbia che di colpa velo,",
+      "parafrasi": "Quando il settentrione del primo cielo, che né tramonto mai seppe né alba né altro velo di nebbia che di colpa,"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "e che faceva lì ciascuno accorto\ndi suo dover, come ’l più basso face\nqual temon gira per venire a porto,",
+      "parafrasi": "e che faceva lì ciascuno accorto del suo dovere, come il più basso fa a chi gira il timone per venire a porto,"
+    },
+    {
+      "versi": [7, 9],
+      "testo": "fermo s’affisse: la gente verace,\nvenuta prima tra ’l grifone ed esso,\nal carro volse sé come a sua pace;",
+      "parafrasi": "si fermò fisso, la gente veritiera, venuta prima tra il grifone e lui, si volse al carro come alla sua pace;"
+    },
+    {
+      "versi": [10, 12],
+      "testo": "e un di loro, quasi da ciel messo,\n’Veni, sponsa, de Libano’ cantando\ngridò tre volte, e tutti li altri appresso.",
+      "parafrasi": "e uno di loro, quasi un messo dal cielo, cantando «Veni, sponsa, de Libano» gridò tre volte, e tutti gli altri dietro."
+    },
+    {
+      "versi": [13, 15],
+      "testo": "Quali i beati al novissimo bando\nsurgeran presti ognun di sua caverna,\nla revestita voce alleluiando,",
+      "parafrasi": "Quali i beati all'ultimo bando sorgeranno pronti ciascuno dalla sua tomba, con la voce rivestita alleluiando,"
+    },
+    {
+      "versi": [16, 18],
+      "testo": "cotali in su la divina basterna\nsi levar cento, ad vocem tanti senis,\nministri e messagger di vita etterna.",
+      "parafrasi": "tali sulla divina lettiga si levarono cento, ad vocem tanti senis, ministri e messaggeri di vita eterna."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "Tutti dicean: ’Benedictus qui venis!’,\ne fior gittando e di sopra e dintorno,\n’Manibus, oh, date lilïa plenis!’.",
+      "parafrasi": "Tutti dicevano: «Benedictus qui venis!», e gettando fiori e sopra e intorno, «Manibus, o date lilia plenis!»."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Io vidi già nel cominciar del giorno\nla parte orïental tutta rosata,\ne l’altro ciel di bel sereno addorno;",
+      "parafrasi": "Io vidi già al cominciare del giorno la parte orientale tutta rosata, e l'altro cielo adorno di bel sereno;"
+    },
+    {
+      "versi": [25, 27],
+      "testo": "e la faccia del sol nascere ombrata,\nsì che per temperanza di vapori\nl’occhio la sostenea lunga fïata:",
+      "parafrasi": "e la faccia del sole nascere ombrata, così che per la temperanza dei vapori l'occhio la sosteneva a lungo:"
+    },
+    {
+      "versi": [28, 30],
+      "testo": "così dentro una nuvola di fiori\nche da le mani angeliche saliva\ne ricadeva in giù dentro e di fori,",
+      "parafrasi": "così dentro una nuvola di fiori che dalle mani angeliche saliva e ricadeva in giù dentro e fuori,"
+    },
+    {
+      "versi": [31, 33],
+      "testo": "sovra candido vel cinta d’uliva\ndonna m’apparve, sotto verde manto\nvestita di color di fiamma viva.",
+      "parafrasi": "sopra candido velo cinta d'ulivo donna mi apparve, sotto verde manto vestita di colore di fiamma viva."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "E lo spirito mio, che già cotanto\ntempo era stato ch’a la sua presenza\nnon era di stupor, tremando, affranto,",
+      "parafrasi": "E il mio spirito, che già da tanto tempo non era stato affranto, tremando, dallo stupore alla sua presenza,"
+    },
+    {
+      "versi": [37, 39],
+      "testo": "sanza de li occhi aver più conoscenza,\nper occulta virtù che da lei mosse,\nd’antico amor sentì la gran potenza.",
+      "parafrasi": "senza avere più conoscenza con gli occhi, per occulta virtù che da lei mosse, sentì la gran potenza dell'antico amore."
+    },
+    {
+      "versi": [40, 42],
+      "testo": "Tosto che ne la vista mi percosse\nl’alta virtù che già m’avea trafitto\nprima ch’io fuor di püerizia fosse,",
+      "parafrasi": "Appena mi percosse nella vista l'alta virtù che già mi aveva trafitto prima che io fossi fuori dalla fanciullezza,"
+    },
+    {
+      "versi": [43, 45],
+      "testo": "volsimi a la sinistra col respitto\ncol quale il fantolin corre a la mamma\nquando ha paura o quand’elli è afflitto,",
+      "parafrasi": "mi volsi a sinistra con la fiducia con cui il bambino corre alla mamma quando ha paura o quando è afflitto,"
+    },
+    {
+      "versi": [46, 48],
+      "testo": "per dicere a Virgilio: ’Men che dramma\ndi sangue m’è rimaso che non tremi:\nconosco i segni de l’antica fiamma’.",
+      "parafrasi": "per dire a Virgilio: «Meno di una dramma di sangue mi è rimasto che non tremi: conosco i segni dell'antica fiamma»."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "Ma Virgilio n’avea lasciati scemi\ndi sé, Virgilio dolcissimo patre,\nVirgilio a cui per mia salute die’ mi;",
+      "parafrasi": "Ma Virgilio ci aveva lasciati privi di sé, Virgilio dolcissimo padre, Virgilio a cui per mia salvezza mi diedi;"
+    },
+    {
+      "versi": [52, 54],
+      "testo": "né quantunque perdeo l’antica matre,\nvalse a le guance nette di rugiada\nche, lagrimando, non tornasser atre.",
+      "parafrasi": "né quanto perdette l'antica madre, valse alle guance pulite dalla rugiada a non tornare scure, piangendo."
+    },
+    {
+      "versi": [55, 57],
+      "testo": "\"Dante, perché Virgilio se ne vada,\nnon pianger anco, non piangere ancora;\nché pianger ti conven per altra spada\".",
+      "parafrasi": "«Dante, perché Virgilio se ne vada, non piangere ancora, non piangere ancora; perché ti conviene piangere per un'altra spada»."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Quasi ammiraglio che in poppa e in prora\nviene a veder la gente che ministra\nper li altri legni, e a ben far l’incora;",
+      "parafrasi": "Come un ammiraglio che a poppa e a prua viene a vedere la gente che serve sulle altre navi, e la incoraggia a ben fare;"
+    },
+    {
+      "versi": [61, 63],
+      "testo": "in su la sponda del carro sinistra,\nquando mi volsi al suon del nome mio,\nche di necessità qui si registra,",
+      "parafrasi": "sulla sponda sinistra del carro, quando mi volsi al suono del mio nome, che di necessità qui si registra,"
+    },
+    {
+      "versi": [64, 66],
+      "testo": "vidi la donna che pria m’appario\nvelata sotto l’angelica festa,\ndrizzar li occhi ver’ me di qua dal rio.",
+      "parafrasi": "vidi la donna che prima mi apparve velata sotto la festa angelica, drizzare gli occhi verso di me di qua dal fiume."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Tutto che ’l vel che le scendea di testa,\ncerchiato de le fronde di Minerva,\nnon la lasciasse parer manifesta,",
+      "parafrasi": "Benché il velo che le scendeva dalla testa, cinto delle fronde di Minerva, non la lasciasse apparire manifesta,"
+    },
+    {
+      "versi": [70, 72],
+      "testo": "regalmente ne l’atto ancor proterva\ncontinüò come colui che dice\ne ’l più caldo parlar dietro reserva:",
+      "parafrasi": "regalmente nell'atto ancora altera continuò come colui che dice e il parlare più caldo tiene in riserbo:"
+    },
+    {
+      "versi": [73, 75],
+      "testo": "\"Guardaci ben! Ben son, ben son Beatrice.\nCome degnasti d’accedere al monte?\nnon sapei tu che qui è l’uom felice?\".",
+      "parafrasi": "«Guardaci bene! Sono, sono proprio Beatrice. Come ti sei degnato di accedere al monte? non sapevi che qui è l'uomo felice?»."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "Li occhi mi cadder giù nel chiaro fonte;\nma veggendomi in esso, i trassi a l’erba,\ntanta vergogna mi gravò la fronte.",
+      "parafrasi": "Gli occhi mi caddero nel chiaro fonte; ma vedendomi in esso, li trassi all'erba, tanta vergogna mi gravò la fronte."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Così la madre al figlio par superba,\ncom’ella parve a me; perché d’amaro\nsente il sapor de la pietade acerba.",
+      "parafrasi": "Così la madre al figlio sembra superba, come ella sembrò a me; perché di amaro sente il sapore della pietà acerba."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "Ella si tacque; e li angeli cantaro\ndi sùbito ’In te, Domine, speravi’;\nma oltre ’pedes meos’ non passaro.",
+      "parafrasi": "Ella si tacque; e gli angeli cantarono subito «In te, Domine, speravi»; ma oltre «pedes meos» non passarono."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "Sì come neve tra le vive travi\nper lo dosso d’Italia si congela,\nsoffiata e stretta da li venti schiavi,",
+      "parafrasi": "Come neve tra le vive travi sul dorso d'Italia si congela, soffiata e stretta dai venti schiavoni,"
+    },
+    {
+      "versi": [88, 90],
+      "testo": "poi, liquefatta, in sé stessa trapela,\npur che la terra che perde ombra spiri,\nsì che par foco fonder la candela;",
+      "parafrasi": "poi, liquefatta, in sé stessa trapela, purché la terra che perde ombra spiri, così che sembra il fuoco sciogliere la candela;"
+    },
+    {
+      "versi": [91, 93],
+      "testo": "così fui sanza lagrime e sospiri\nanzi ’l cantar di quei che notan sempre\ndietro a le note de li etterni giri;",
+      "parafrasi": "così fui senza lacrime e sospiri prima del canto di quelli che annotano sempre dietro alle note dei giri eterni;"
+    },
+    {
+      "versi": [94, 96],
+      "testo": "ma poi che ’ntesi ne le dolci tempre\nlor compartire a me, par che se detto\navesser: ’Donna, perché sì lo stempre?’,",
+      "parafrasi": "ma dopo che intesi nelle dolci tempre il loro compatire verso di me, come se avessero detto: «Donna, perché così lo stempri?»,"
+    },
+    {
+      "versi": [97, 99],
+      "testo": "lo gel che m’era intorno al cor ristretto,\nspirito e acqua fessi, e con angoscia\nde la bocca e de li occhi uscì del petto.",
+      "parafrasi": "il gelo che era ristretto intorno al mio cuore si fece spirito e acqua, e con angoscia dalla bocca e dagli occhi uscì dal petto."
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Ella, pur ferma in su la detta coscia\ndel carro stando, a le sustanze pie\nvolse le sue parole così poscia:",
+      "parafrasi": "Ella, ancora ferma sul fianco detto del carro stando, alle sostanze pie rivolse le sue parole così poi:"
+    },
+    {
+      "versi": [103, 105],
+      "testo": "\"Voi vigilate ne l’etterno die,\nsì che notte né sonno a voi non fura\npasso che faccia il secol per sue vie;",
+      "parafrasi": "«Voi vegliate nell'eterno giorno, così che né notte né sonno vi rubano passo che faccia il secolo per le sue vie;"
+    },
+    {
+      "versi": [106, 108],
+      "testo": "onde la mia risposta è con più cura\nche m’intenda colui che di là piagne,\nperché sia colpa e duol d’una misura.",
+      "parafrasi": "perciò la mia risposta è con più cura, perché mi intenda colui che di là piange, perché sia colpa e dolore di una misura."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "Non pur per ovra de le rote magne,\nche drizzan ciascun seme ad alcun fine\nsecondo che le stelle son compagne,",
+      "parafrasi": "Non solo per opera delle ruote grandi, che indirizzano ogni seme a qualche fine secondo che le stelle sono compagne,"
+    },
+    {
+      "versi": [112, 114],
+      "testo": "ma per larghezza di grazie divine,\nche sì alti vapori hanno a lor piova,\nche nostre viste là non van vicine,",
+      "parafrasi": "ma per larghezza di grazie divine, che hanno per loro pioggia così alti vapori, che le nostre viste non vi arrivano vicino,"
+    },
+    {
+      "versi": [115, 117],
+      "testo": "questi fu tal ne la sua vita nova\nvirtüalmente, ch’ogne abito destro\nfatto averebbe in lui mirabil prova.",
+      "parafrasi": "costui fu tale nella sua vita nova virtualmente, che ogni abito retto avrebbe fatto in lui mirabile prova."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Ma tanto più maligno e più silvestro\nsi fa ’l terren col mal seme e non cólto,\nquant’elli ha più di buon vigor terrestro.",
+      "parafrasi": "Ma tanto più maligno e più selvatico si fa il terreno col cattivo seme e non coltivato, quanto ha più di buon vigore terrestre."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "Alcun tempo il sostenni col mio volto:\nmostrando li occhi giovanetti a lui,\nmeco il menava in dritta parte vòlto.",
+      "parafrasi": "Per un certo tempo lo sostenni col mio volto: mostrandogli gli occhi giovanili, lo conducevo con me volto in diritta parte."
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Sì tosto come in su la soglia fui\ndi mia seconda etade e mutai vita,\nquesti si tolse a me, e diessi altrui.",
+      "parafrasi": "Appena fui sulla soglia della mia seconda età e mutai vita, costui si tolse a me, e si diede ad altri."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Quando di carne a spirto era salita,\ne bellezza e virtù cresciuta m’era,\nfu’ io a lui men cara e men gradita;",
+      "parafrasi": "Quando da carne a spirito ero salita, e bellezza e virtù mi era cresciuta, fui a lui meno cara e meno gradita;"
+    },
+    {
+      "versi": [130, 132],
+      "testo": "e volse i passi suoi per via non vera,\nimagini di ben seguendo false,\nche nulla promession rendono intera.",
+      "parafrasi": "e volse i suoi passi per via non vera, seguendo immagini di bene false, che nessuna promessa rendono intera."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "Né l’impetrare ispirazion mi valse,\ncon le quali e in sogno e altrimenti\nlo rivocai: sì poco a lui ne calse!",
+      "parafrasi": "Né mi valse impetrare ispirazioni, con le quali e in sogno e altrimenti lo richiamai: tanto poco gli importò!"
+    },
+    {
+      "versi": [136, 138],
+      "testo": "Tanto giù cadde, che tutti argomenti\na la salute sua eran già corti,\nfuor che mostrarli le perdute genti.",
+      "parafrasi": "Cadde tanto in giù, che tutti gli argomenti per la sua salvezza erano già corti, fuorché mostrargli le genti perdute."
+    },
+    {
+      "versi": [139, 141],
+      "testo": "Per questo visitai l’uscio d’i morti,\ne a colui che l’ ha qua sù condotto,\nli preghi miei, piangendo, furon porti.",
+      "parafrasi": "Per questo visitai la porta dei morti, e a colui che l'ha condotto quassù, le mie preghiere piangendo furono porte."
+    },
+    {
+      "versi": [142, 144],
+      "testo": "Alto fato di Dio sarebbe rotto,\nse Letè si passasse e tal vivanda\nfosse gustata sanza alcuno scotto",
+      "parafrasi": "L'alto decreto di Dio sarebbe infranto, se si passasse Lete e tale vivanda fosse gustata senza alcun pagamento"
+    },
+    {
+      "versi": [145, 145],
+      "testo": "di pentimento che lagrime spanda\".",
+      "parafrasi": "di pentimento che versi lacrime»."
+    }
+  ]
+}

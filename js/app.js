@@ -83,6 +83,7 @@
     }
     CI.dati.canto(d.cantica, d.n).then(function (canto) {
       stato.cantica = d.cantica; stato.n = d.n; stato.canto = canto; stato.scena = null;
+      coloriCantica(d.cantica);
       $('scelta-canto').value = d.cantica + '/' + d.n;
       document.title = cantica(d.cantica).nome + ' ' + CI.romano(d.n) + ' · Commedia Illustrata';
       disegnaCanto(canto);
@@ -225,6 +226,18 @@
       if (s.getBoundingClientRect().top <= linea) scelta = s.dataset.scena;
     });
     attiva(scelta || stato.canto.scene[0].id, true);
+  }
+
+  /* colori della cantica (CSS: [data-cantica]) e barra del browser; la mini-mappa disegna solo l'imbuto dell'Inferno */
+  var COLORI_BARRA = { inferno: ['#f3ead6', '#14110d'], purgatorio: ['#f2eef9', '#15111e'] };
+  function coloriCantica(id) {
+    var el = document.documentElement;
+    if (id === 'inferno') delete el.dataset.cantica; else el.dataset.cantica = id;
+    var c = COLORI_BARRA[id] || COLORI_BARRA.inferno;
+    document.querySelectorAll('meta[name="theme-color"]').forEach(function (m) {
+      m.setAttribute('content', m.media && m.media.indexOf('dark') >= 0 ? c[1] : c[0]);
+    });
+    $('mappa').hidden = id !== 'inferno';
   }
 
   function scenaDati(id) { return stato.canto.scene.find(function (s) { return s.id === id; }); }

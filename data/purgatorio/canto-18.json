@@ -1,0 +1,332 @@
+{
+  "cantica": "purgatorio",
+  "canto": 18,
+  "titolo": "Amore e libero arbitrio, gli accidiosi e l'abate di San Zeno",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_XVIII",
+  "numero_versi": 145,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 75],
+      "titolo_scena": "Amore e libero arbitrio",
+      "sintesi": "Terminato il discorso, Virgilio guarda Dante per vedere se è soddisfatto; Dante, che ha ancora sete, tace, ma Virgilio lo incoraggia. Dante gli chiede di spiegare l'amore, da cui derivano ogni buona azione e il suo contrario. Virgilio spiega come l'animo, creato per amare, si muove verso ciò che gli piace come il fuoco verso l'alto; ma non ogni amore è buono. Poiché in noi è innata la facoltà di consigliare e di dare o negare l'assenso, esiste libero arbitrio e merito.",
+      "luogo_id": "cornice-4",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Amore e libero arbitrio",
+          "url": "img/ia/purgatorio-18-scena-1.jpg",
+          "miniatura": "img/ia/purgatorio-18-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [76, 105],
+      "titolo_scena": "Gli accidiosi in corsa",
+      "sintesi": "Nel cuore della notte la luna, rossa come un secchio di brace, fa apparire rade le stelle. Dante, appagato nei suoi dubbi, sta per assopirsi, quando una grande folla corre dietro di loro con fervore, come i tebani invocando Bacco. Due in testa gridano esempi di sollecitudine: Maria che corse alla montagna, Cesare che andò in Spagna; gli altri incitano a non perdere tempo per poco amore.",
+      "luogo_id": "cornice-4",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "La turba degli accidiosi",
+          "url": "img/dore/purgatorio-18-accidiosi-960.jpg",
+          "miniatura": "img/dore/purgatorio-18-accidiosi-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148974835).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [106, 129],
+      "titolo_scena": "L'abate di San Zeno",
+      "sintesi": "Virgilio, a nome di Dante, domanda a quelli che corrono dove sia il varco; uno risponde di seguirli e di perdonare se la loro fretta sembra villania. Si presenta come l'abate di San Zeno a Verona al tempo del Barbarossa, e predice la rovina di un signore della Scala, che ha già un piede nella fossa e piangerà quel monastero, per aver messo come abate un figlio storpio e peggiore nell'animo.",
+      "luogo_id": "cornice-4",
+      "personaggi": ["dante", "virgilio", "abate-di-san-zeno"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "L'abate di San Zeno",
+          "url": "img/ia/purgatorio-18-scena-3.jpg",
+          "miniatura": "img/ia/purgatorio-18-scena-3.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [130, 145],
+      "titolo_scena": "Gli esempi di accidia e il sonno",
+      "sintesi": "Virgilio invita Dante a voltarsi: ne vengono due che mordono l'accidia, gridando che gli Ebrei morirono prima di vedere il Giordano e che i compagni di Enea rinunciarono alla gloria. Poi le ombre si allontanano; nella mente di Dante nascono pensieri su pensieri, finché, per vaghezza, chiude gli occhi e il pensiero si muta in sogno.",
+      "luogo_id": "cornice-4",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Gli esempi di accidia e il sonno",
+          "url": "img/ia/purgatorio-18-scena-4.jpg",
+          "miniatura": "img/ia/purgatorio-18-scena-4.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Posto avea fine al suo ragionamento\nl’alto dottore, e attento guardava\nne la mia vista s’io parea contento;",
+      "parafrasi": "Il sommo dottore aveva posto fine al suo ragionamento, e guardava attento nel mio viso se sembravo contento;"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "e io, cui nova sete ancor frugava,\ndi fuor tacea, e dentro dicea: ’Forse\nlo troppo dimandar ch’io fo li grava’.",
+      "parafrasi": "e io, che ancora una nuova sete tormentava, fuori tacevo, e dentro dicevo: «Forse il troppo domandare che faccio gli pesa»."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "Ma quel padre verace, che s’accorse\ndel timido voler che non s’apriva,\nparlando, di parlare ardir mi porse.",
+      "parafrasi": "Ma quel padre vero, che si accorse del timido desiderio che non si apriva, parlando, mi diede ardire di parlare."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "Ond’io: \"Maestro, il mio veder s’avviva\nsì nel tuo lume, ch’io discerno chiaro\nquanto la tua ragion parta o descriva.",
+      "parafrasi": "Perciò io: «Maestro, la mia vista si ravviva tanto nel tuo lume che discerno chiaro ciò che la tua ragione spiega o descrive."
+    },
+    {
+      "versi": [13, 15],
+      "testo": "Però ti prego, dolce padre caro,\nche mi dimostri amore, a cui reduci\nogne buono operare e ’l suo contraro\".",
+      "parafrasi": "Perciò ti prego, dolce caro padre, che mi mostri l'amore, a cui riconduci ogni buona azione e il suo contrario»."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "\"Drizza\", disse, \"ver’ me l’agute luci\nde lo ’ntelletto, e fieti manifesto\nl’error de’ ciechi che si fanno duci.",
+      "parafrasi": "«Drizza», disse, «verso di me gli occhi acuti dell'intelletto, e ti sarà manifesto l'errore dei ciechi che si fanno guide."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "L’animo, ch’è creato ad amar presto,\nad ogne cosa è mobile che piace,\ntosto che dal piacere in atto è desto.",
+      "parafrasi": "L'animo, che è creato pronto ad amare, è mobile verso ogni cosa che piace, appena è destato dal piacere in atto."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Vostra apprensiva da esser verace\ntragge intenzione, e dentro a voi la spiega,\nsì che l’animo ad essa volger face;",
+      "parafrasi": "La vostra facoltà percettiva trae un'immagine da una cosa reale e la dispiega dentro di voi, così da far volgere l'animo ad essa;"
+    },
+    {
+      "versi": [25, 27],
+      "testo": "e se, rivolto, inver’ di lei si piega,\nquel piegare è amor, quell’è natura\nche per piacer di novo in voi si lega.",
+      "parafrasi": "e se, volto, si piega verso di essa, quel piegarsi è amore, quella è natura che per piacere si lega di nuovo in voi."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Poi, come ’l foco movesi in altura\nper la sua forma ch’è nata a salire\nlà dove più in sua matera dura,",
+      "parafrasi": "Poi, come il fuoco si muove verso l'alto per la sua forma, nata per salire dove più dura nella sua materia,"
+    },
+    {
+      "versi": [31, 33],
+      "testo": "così l’animo preso entra in disire,\nch’è moto spiritale, e mai non posa\nfin che la cosa amata il fa gioire.",
+      "parafrasi": "così l'animo preso entra nel desiderio, che è moto spirituale, e non si ferma finché la cosa amata non lo fa gioire."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Or ti puote apparer quant’è nascosa\nla veritate a la gente ch’avvera\nciascun amore in sé laudabil cosa;",
+      "parafrasi": "Ora ti può apparire quanto sia nascosta la verità a quelli che sostengono che ogni amore sia in sé cosa lodevole;"
+    },
+    {
+      "versi": [37, 39],
+      "testo": "però che forse appar la sua matera\nsempre esser buona, ma non ciascun segno\nè buono, ancor che buona sia la cera\".",
+      "parafrasi": "perché forse la sua materia appare sempre buona, ma non ogni impronta è buona, anche se buona sia la cera»."
+    },
+    {
+      "versi": [40, 42],
+      "testo": "\"Le tue parole e ’l mio seguace ingegno\",\nrispuos’io lui, \"m’ hanno amor discoverto,\nma ciò m’ ha fatto di dubbiar più pregno;",
+      "parafrasi": "«Le tue parole e il mio ingegno che le segue», risposi, «mi hanno scoperto l'amore, ma ciò mi ha reso più gravido di dubbio;"
+    },
+    {
+      "versi": [43, 45],
+      "testo": "ché, s’amore è di fuori a noi offerto\ne l’anima non va con altro piede,\nse dritta o torta va, non è suo merto\".",
+      "parafrasi": "perché, se l'amore ci è offerto dall'esterno e l'anima non va con altro piede, se va dritta o storta non è suo merito»."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Ed elli a me: \"Quanto ragion qui vede,\ndir ti poss’io; da indi in là t’aspetta\npur a Beatrice, ch’è opra di fede.",
+      "parafrasi": "Ed egli a me: «Quanto la ragione qui vede, posso dirtelo; di là in poi aspetta solo Beatrice, che è opera di fede."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "Ogne forma sustanzïal, che setta\nè da matera ed è con lei unita,\nspecifica vertute ha in sé colletta,",
+      "parafrasi": "Ogni forma sostanziale, che è separata dalla materia e unita con essa, ha in sé raccolta una virtù specifica,"
+    },
+    {
+      "versi": [52, 54],
+      "testo": "la qual sanza operar non è sentita,\nné si dimostra mai che per effetto,\ncome per verdi fronde in pianta vita.",
+      "parafrasi": "la quale non si avverte senza operare, né si mostra mai se non per l'effetto, come per le verdi fronde la vita di una pianta."
+    },
+    {
+      "versi": [55, 57],
+      "testo": "Però, là onde vegna lo ’ntelletto\nde le prime notizie, omo non sape,\ne de’ primi appetibili l’affetto,",
+      "parafrasi": "Perciò, da dove venga l'intelletto delle prime conoscenze, l'uomo non sa, e dei primi desideri l'affetto,"
+    },
+    {
+      "versi": [58, 60],
+      "testo": "che sono in voi sì come studio in ape\ndi far lo mele; e questa prima voglia\nmerto di lode o di biasmo non cape.",
+      "parafrasi": "che sono in voi come l'impulso nell'ape a fare il miele; e questa prima voglia non può avere merito di lode o di biasimo."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Or perché a questa ogn’altra si raccoglia,\ninnata v’è la virtù che consiglia,\ne de l’assenso de’ tener la soglia.",
+      "parafrasi": "Ora, perché a questa si raccolga ogni altra, è innata in voi la virtù che consiglia, e che deve tenere la soglia dell'assenso."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Quest’è ’l principio là onde si piglia\nragion di meritare in voi, secondo\nche buoni e rei amori accoglie e viglia.",
+      "parafrasi": "Questo è il principio da cui si trae la ragione di merito in voi, secondo che accoglie e vaglia amori buoni e cattivi."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Color che ragionando andaro al fondo,\ns’accorser d’esta innata libertate;\nperò moralità lasciaro al mondo.",
+      "parafrasi": "Quelli che ragionando andarono a fondo si accorsero di questa libertà innata; perciò lasciarono la morale al mondo."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "Onde, poniam che di necessitate\nsurga ogne amor che dentro a voi s’accende,\ndi ritenerlo è in voi la podestate.",
+      "parafrasi": "Dunque, poniamo che per necessità sorga ogni amore che in voi si accende, di trattenerlo è in voi il potere."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "La nobile virtù Beatrice intende\nper lo libero arbitrio, e però guarda\nche l’abbi a mente, s’a parlar ten prende\".",
+      "parafrasi": "La nobile virtù Beatrice intende per libero arbitrio, e perciò bada di averlo a mente, se ti tocca parlarne con lei»."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "La luna, quasi a mezza notte tarda,\nfacea le stelle a noi parer più rade,\nfatta com’un secchion che tuttor arda;",
+      "parafrasi": "La luna, a mezzanotte quasi tarda, faceva apparire a noi le stelle più rade, fatta come un secchio che ancora arda;"
+    },
+    {
+      "versi": [79, 81],
+      "testo": "e correa contra ’l ciel per quelle strade\nche ’l sole infiamma allor che quel da Roma\ntra ’ Sardi e ’ Corsi il vede quando cade.",
+      "parafrasi": "e correva contro il cielo per quelle strade che il sole infiamma quando quello di Roma lo vede cadere tra i Sardi e i Corsi."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "E quell’ombra gentil per cui si noma\nPietola più che villa mantoana,\ndel mio carcar diposta avea la soma;",
+      "parafrasi": "E quell'ombra gentile per cui Pietola si nomina più che villaggio mantovano, aveva deposto il peso del mio carico;"
+    },
+    {
+      "versi": [85, 87],
+      "testo": "per ch’io, che la ragione aperta e piana\nsovra le mie quistioni avea ricolta,\nstava com’om che sonnolento vana.",
+      "parafrasi": "così io, che avevo raccolto la ragione aperta e piana sulle mie questioni, stavo come un uomo che vaneggia assonnato."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Ma questa sonnolenza mi fu tolta\nsubitamente da gente che dopo\nle nostre spalle a noi era già volta.",
+      "parafrasi": "Ma questo assopimento mi fu tolto subito da gente che dopo le nostre spalle era già giunta a noi."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "E quale Ismeno già vide e Asopo\nlungo di sé di notte furia e calca,\npur che i Teban di Bacco avesser uopo,",
+      "parafrasi": "E quale Ismeno e Asopo videro già lungo di sé di notte furia e calca, quando i Tebani avevano bisogno di Bacco,"
+    },
+    {
+      "versi": [94, 96],
+      "testo": "cotal per quel giron suo passo falca,\nper quel ch’io vidi di color, venendo,\ncui buon volere e giusto amor cavalca.",
+      "parafrasi": "tale per quel giro la sua turba curva il passo, per ciò che io vidi di quelli che venivano, che buon volere e giusto amore cavalca."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Tosto fur sovr’a noi, perché correndo\nsi movea tutta quella turba magna;\ne due dinanzi gridavan piangendo:",
+      "parafrasi": "Presto furono sopra di noi, perché correndo si muoveva tutta quella gran turba; e due davanti gridavano piangendo:"
+    },
+    {
+      "versi": [100, 102],
+      "testo": "\"Maria corse con fretta a la montagna;\ne Cesare, per soggiogare Ilerda,\npunse Marsilia e poi corse in Ispagna\".",
+      "parafrasi": "«Maria corse con fretta alla montagna; e Cesare, per soggiogare Ilerda, punse Marsiglia e poi corse in Spagna»."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "\"Ratto, ratto, che ’l tempo non si perda\nper poco amor\", gridavan li altri appresso,\n\"che studio di ben far grazia rinverda\".",
+      "parafrasi": "«Presto, presto, che il tempo non si perda per poco amore», gridavano gli altri dietro, «perché lo zelo di ben fare rinverdisca la grazia»."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "\"O gente in cui fervore aguto adesso\nricompie forse negligenza e indugio\nda voi per tepidezza in ben far messo,",
+      "parafrasi": "«O gente in cui un fervore acuto ricolma forse la negligenza e l'indugio messo da voi per tiepidezza nel ben fare,"
+    },
+    {
+      "versi": [109, 111],
+      "testo": "questi che vive, e certo i’ non vi bugio,\nvuole andar sù, pur che ’l sol ne riluca;\nperò ne dite ond’è presso il pertugio\".",
+      "parafrasi": "costui che vive, e certo non vi dico bugie, vuole andare su, appena il sole ci illumini; perciò dite dove è vicino il varco»."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Parole furon queste del mio duca;\ne un di quelli spirti disse: \"Vieni\ndi retro a noi, e troverai la buca.",
+      "parafrasi": "Furono queste parole della mia guida; e uno di quegli spiriti disse: «Vieni dietro a noi, e troverai il passaggio."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "Noi siam di voglia a muoverci sì pieni,\nche restar non potem; però perdona,\nse villania nostra giustizia tieni.",
+      "parafrasi": "Siamo così pieni di voglia di muoverci che non possiamo restare; perciò perdona, se ritieni villania la nostra giustizia."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Io fui abate in San Zeno a Verona\nsotto lo ’mperio del buon Barbarossa,\ndi cui dolente ancor Milan ragiona.",
+      "parafrasi": "Io fui abate in San Zeno a Verona sotto l'impero del buon Barbarossa, di cui ancora Milano parla con dolore."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "E tale ha già l’un piè dentro la fossa,\nche tosto piangerà quel monastero,\ne tristo fia d’avere avuta possa;",
+      "parafrasi": "E tale ha già un piede dentro la fossa, che presto piangerà quel monastero, e sarà triste di averne avuto potere;"
+    },
+    {
+      "versi": [124, 126],
+      "testo": "perché suo figlio, mal del corpo intero,\ne de la mente peggio, e che mal nacque,\nha posto in loco di suo pastor vero\".",
+      "parafrasi": "perché suo figlio, malato nel corpo, e peggio nella mente, e nato male, ha messo al posto del suo vero pastore»."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Io non so se più disse o s’ei si tacque,\ntant’era già di là da noi trascorso;\nma questo intesi, e ritener mi piacque.",
+      "parafrasi": "Non so se disse di più o se tacque, tanto era già corso oltre di noi; ma questo capii, e mi piacque ritenerlo."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "E quei che m’era ad ogne uopo soccorso\ndisse: \"Volgiti qua: vedine due\nvenir dando a l’accidïa di morso\".",
+      "parafrasi": "E quello che mi era soccorso a ogni bisogno disse: «Volgiti qua: vedine due venire dando morso all'accidia»."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "Di retro a tutti dicean: \"Prima fue\nmorta la gente a cui il mar s’aperse,\nche vedesse Iordan le rede sue.",
+      "parafrasi": "Dietro a tutti dicevano: «Prima fu morta la gente a cui il mare si aprì, che il Giordano vedesse i suoi eredi."
+    },
+    {
+      "versi": [136, 138],
+      "testo": "E quella che l’affanno non sofferse\nfino a la fine col figlio d’Anchise,\nsé stessa a vita sanza gloria offerse\".",
+      "parafrasi": "E quella che non sopportò la fatica fino alla fine con il figlio di Anchise, si offrì a vita senza gloria»."
+    },
+    {
+      "versi": [139, 141],
+      "testo": "Poi quando fuor da noi tanto divise\nquell’ombre, che veder più non potiersi,\nnovo pensiero dentro a me si mise,",
+      "parafrasi": "Poi, quando quelle ombre furono tanto lontane da noi che non si potevano più vedere, nuovo pensiero si mise dentro di me,"
+    },
+    {
+      "versi": [142, 144],
+      "testo": "del qual più altri nacquero e diversi;\ne tanto d’uno in altro vaneggiai,\nche li occhi per vaghezza ricopersi,",
+      "parafrasi": "dal quale altri nacquero e diversi; e tanto vaneggiai da uno all'altro che per vaghezza richiusi gli occhi,"
+    },
+    {
+      "versi": [145, 145],
+      "testo": "e ’l pensamento in sogno trasmutai.",
+      "parafrasi": "e trasformai il pensiero in sogno."
+    }
+  ]
+}

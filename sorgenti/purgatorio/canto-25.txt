@@ -1,0 +1,298 @@
+# Purgatorio, canto XXV
+titolo: La generazione dell'anima, l'anima aerea e la cornice dei lussuriosi
+
+## scena-1 | cornice-6 | La domanda di Dante
+personaggi: dante, virgilio, stazio
+tavola: dore | Verso la settima cornice | img/dore/purgatorio-25-salita-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148975289).jpg
+sintesi: È mezzogiorno e il tempo urge: i tre poeti salgono la scala stretta uno dietro l'altro. Dante, come un cicognino che vorrebbe volare e non osa lasciare il nido, vuole chiedere ma esita. Virgilio lo incoraggia: «Scocca l'arco del dire». Dante domanda come si possa dimagrire dove non c'è bisogno di nutrirsi. Virgilio risponde con due immagini, Meleagro e lo specchio, e chiama Stazio a sciogliere il dubbio.
+
+1
+Ora era onde ’l salir non volea storpio;
+ché ’l sole avëa il cerchio di merigge
+lasciato al Tauro e la notte a lo Scorpio:
+> Era l'ora in cui il salire non voleva intoppo; perché il sole aveva lasciato il cerchio del meriggio al Toro e la notte allo Scorpione:
+
+4
+per che, come fa l’uom che non s’affigge
+ma vassi a la via sua, che che li appaia,
+se di bisogno stimolo il trafigge,
+> per cui, come fa l'uomo che non si ferma ma va per la sua via, qualunque cosa gli appaia, se uno stimolo di necessità lo punge,
+
+7
+così intrammo noi per la callaia,
+uno innanzi altro prendendo la scala
+che per artezza i salitor dispaia.
+> così entrammo noi nella stretta fenditura, uno dietro l'altro prendendo la scala che per l'angustia separa i salitori.
+
+10
+E quale il cicognin che leva l’ala
+per voglia di volare, e non s’attenta
+d’abbandonar lo nido, e giù la cala;
+> E come il piccolo cicogna che alza l'ala per voglia di volare, e non osa abbandonare il nido, e la abbassa;
+
+13
+tal era io con voglia accesa e spenta
+di dimandar, venendo infino a l’atto
+che fa colui ch’a dicer s’argomenta.
+> tale ero io con voglia accesa e spenta di domandare, arrivando fino all'atto che fa chi si prepara a parlare.
+
+16
+Non lasciò, per l’andar che fosse ratto,
+lo dolce padre mio, ma disse: "Scocca
+l’arco del dir, che ’nfino al ferro hai tratto".
+> Non lasciò, per quanto l'andare fosse rapido, il mio dolce padre, ma disse: «Scocca l'arco del dire, che hai tratto fino al ferro».
+
+19
+Allor sicuramente apri’ la bocca
+e cominciai: "Come si può far magro
+là dove l’uopo di nodrir non tocca?".
+> Allora sicuramente aprii la bocca e cominciai: «Come si può dimagrire là dove il bisogno di nutrirsi non tocca?».
+
+22
+"Se t’ammentassi come Meleagro
+si consumò al consumar d’un stizzo,
+non fora", disse, "a te questo sì agro;
+> «Se ti ricordassi come Meleagro si consumò al consumarsi di un tizzone, non ti sarebbe», disse, «questo così amaro;
+
+25
+e se pensassi come, al vostro guizzo,
+guizza dentro a lo specchio vostra image,
+ciò che par duro ti parrebbe vizzo.
+> e se pensassi come, al vostro guizzo, guizza dentro lo specchio la vostra immagine, ciò che sembra duro ti sembrerebbe tenero.
+
+28
+Ma perché dentro a tuo voler t’adage,
+ecco qui Stazio; e io lui chiamo e prego
+che sia or sanator de le tue piage".
+> Ma perché dentro al tuo volere ti adagi, ecco qui Stazio; e io lo chiamo e lo prego che sia ora sanatore delle tue piaghe».
+
+31
+"Se la veduta etterna li dislego",
+rispuose Stazio, "là dove tu sie,
+discolpi me non potert’io far nego".
+> «Se gli svelo la visione eterna», rispose Stazio, «là dove tu sei, mi scusi il non poterti rifiutare».
+
+## scena-2 | cornice-7 | La generazione dell'anima e l'ombra aerea
+personaggi: dante, virgilio, stazio
+tavola: ia | La generazione dell'anima e l'ombra aerea | img/ia/purgatorio-25-scena-2.jpg
+sintesi: Stazio spiega la generazione umana: il sangue perfetto, che non è bevuto dalle vene, scende nei vasi naturali e si unisce al sangue della donna; il seme comincia a operare e forma prima un'anima vegetativa, poi sensitiva; quando il cervello è compiuto, Dio infonde l'anima intellettiva, che diventa una sola anima. Alla morte l'anima porta con sé il divino e l'umano e cade su una delle due rive; l'aria intorno si modella a sua immagine e diventa un'ombra, che si adatta ai desideri e agli affetti, spiegando la magrezza dei golosi.
+
+34
+Poi cominciò: "Se le parole mie,
+figlio, la mente tua guarda e riceve,
+lume ti fiero al come che tu die.
+> Poi cominciò: «Se le mie parole, figlio, la tua mente guarda e riceve, ti saranno luce al come che chiedi.
+
+37
+Sangue perfetto, che poi non si beve
+da l’assetate vene, e si rimane
+quasi alimento che di mensa leve,
+> Il sangue perfetto, che non si beve poi dalle assetate vene, e rimane quasi alimento che si toglie dalla mensa,
+
+40
+prende nel core a tutte membra umane
+virtute informativa, come quello
+ch’a farsi quelle per le vene vane.
+> prende nel cuore a tutte le membra umane virtù formativa, come quello che per le vene va a farsi quelle.
+
+43
+Ancor digesto, scende ov’è più bello
+tacer che dire; e quindi poscia geme
+sovr’altrui sangue in natural vasello.
+> Ancora digerito, scende dove è più bello tacere che dire; e di lì poi geme sul sangue altrui in vaso naturale.
+
+46
+Ivi s’accoglie l’uno e l’altro insieme,
+l’un disposto a patire, e l’altro a fare
+per lo perfetto loco onde si preme;
+> Là si raccolgono l'uno e l'altro insieme, l'uno predisposto a patire e l'altro a fare, per il perfetto luogo da cui si preme;
+
+49
+e, giunto lui, comincia ad operare
+coagulando prima, e poi avviva
+ciò che per sua matera fé constare.
+> e, congiunto, comincia a operare, coagulando prima, e poi avviva ciò che per sua materia fece consistere.
+
+52
+Anima fatta la virtute attiva
+qual d’una pianta, in tanto differente,
+che questa è in via e quella è già a riva,
+> Fatta anima la virtù attiva come quella di una pianta, in questo differente, che questa è in cammino e quella è già alla riva,
+
+55
+tanto ovra poi, che già si move e sente,
+come spungo marino; e indi imprende
+ad organar le posse ond’è semente.
+> tanto opera poi, che già si muove e sente, come spugna marina; e da lì prende a organizzare le potenze di cui è seme.
+
+58
+Or si spiega, figliuolo, or si distende
+la virtù ch’è dal cor del generante,
+dove natura a tutte membra intende.
+> Ora si spiega, figlio, ora si distende la virtù che è dal cuore del generante, dove natura mira a tutte le membra.
+
+61
+Ma come d’animal divegna fante,
+non vedi tu ancor: quest’è tal punto,
+che più savio di te fé già errante,
+> Ma come da animale diventi essere parlante, non vedi ancora: questo è un punto che fece già errare uno più savio di te,
+
+64
+sì che per sua dottrina fé disgiunto
+da l’anima il possibile intelletto,
+perché da lui non vide organo assunto.
+> tanto che per la sua dottrina separò dall'anima l'intelletto possibile, perché non vide organo da lui assunto.
+
+67
+Apri a la verità che viene il petto;
+e sappi che, sì tosto come al feto
+l’articular del cerebro è perfetto,
+> Apri alla verità che viene il petto; e sappi che, appena al feto l'articolazione del cervello è perfetta,
+
+70
+lo motor primo a lui si volge lieto
+sovra tant’arte di natura, e spira
+spirito novo, di vertù repleto,
+> il primo motore si volge a lui lieto, sopra tanta arte di natura, e spira spirito nuovo, pieno di virtù,
+
+73
+che ciò che trova attivo quivi, tira
+in sua sustanzia, e fassi un’alma sola,
+che vive e sente e sé in sé rigira.
+> che ciò che trova attivo qui, tira nella sua sostanza, e si fa un'anima sola, che vive e sente e si rigira in sé.
+
+76
+E perché meno ammiri la parola,
+guarda il calor del sol che si fa vino,
+giunto a l’omor che de la vite cola.
+> E perché ammiri meno la parola, guarda il calore del sole che si fa vino, unito all'umore che cola dalla vite.
+
+79
+Quando Làchesis non ha più del lino,
+solvesi da la carne, e in virtute
+ne porta seco e l’umano e ’l divino:
+> Quando Lachesi non ha più lino, si scioglie dalla carne, e in virtù porta con sé e l'umano e il divino:
+
+82
+l’altre potenze tutte quante mute;
+memoria, intelligenza e volontade
+in atto molto più che prima agute.
+> le altre potenze tutte quante mute; memoria, intelligenza e volontà in atto molto più acute di prima.
+
+85
+Sanza restarsi, per sé stessa cade
+mirabilmente a l’una de le rive;
+quivi conosce prima le sue strade.
+> Senza fermarsi, per se stessa cade meravigliosamente a una delle rive; qui conosce prima le sue strade.
+
+88
+Tosto che loco lì la circunscrive,
+la virtù formativa raggia intorno
+così e quanto ne le membra vive.
+> Appena il luogo la circoscrive, la virtù formativa raggia intorno così e quanto nelle membra vive.
+
+91
+E come l’aere, quand’è ben pïorno,
+per l’altrui raggio che ’n sé si reflette,
+di diversi color diventa addorno;
+> E come l'aria, quando è ben piovosa, per l'altrui raggio che in sé si riflette, di diversi colori si adorna;
+
+94
+così l’aere vicin quivi si mette
+e in quella forma ch’è in lui suggella
+virtüalmente l’alma che ristette;
+> così l'aria vicina qui si dispone e in quella forma che è in lei suggella virtualmente l'anima che si fermò;
+
+97
+e simigliante poi a la fiammella
+che segue il foco là ’vunque si muta,
+segue lo spirto sua forma novella.
+> e simile poi alla fiammella che segue il fuoco ovunque si sposti, segue lo spirito la sua forma nuova.
+
+100
+Però che quindi ha poscia sua paruta,
+è chiamata ombra; e quindi organa poi
+ciascun sentire infino a la veduta.
+> Poiché di qui ha poi la sua parvenza, è chiamata ombra; e di qui organizza poi ciascun senso fino alla vista.
+
+103
+Quindi parliamo e quindi ridiam noi;
+quindi facciam le lagrime e ’ sospiri
+che per lo monte aver sentiti puoi.
+> Di qui parliamo e di qui ridiamo; di qui facciamo le lacrime e i sospiri che per il monte puoi aver sentito.
+
+106
+Secondo che ci affliggono i disiri
+e li altri affetti, l’ombra si figura;
+e quest’è la cagion di che tu miri".
+> Secondo che ci affliggono i desideri e gli altri affetti, l'ombra si figura; e questa è la causa di ciò che ti meravigli».
+
+## scena-3 | cornice-7 | La settima cornice, il fuoco e l'inno
+personaggi: dante, virgilio, stazio
+tavola: dore | I tre poeti davanti alle fiamme | img/dore/purgatorio-25-fiamme-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148975326).jpg
+tavola: dore | Gli spiriti nella fiamma | img/dore/purgatorio-25-spiriti-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148975345).jpg
+sintesi: Giunti all'ultima tortura, i poeti si volgono a destra e trovano la cornice dei lussuriosi: la roccia getta fuori fiamme, mentre il bordo spira un vento che le respinge, lasciando uno stretto passaggio da percorrere uno alla volta. Dante teme il fuoco da un lato e la caduta dall'altro; Virgilio lo avverte di tenere a freno gli occhi. Dal grande ardore si ode l'inno «Summae Deus clementiae»; Dante vede spiriti camminare nella fiamma, e gridano esempi di castità: Maria, Diana, mogli e mariti casti.
+
+109
+E già venuto a l’ultima tortura
+s’era per noi, e vòlto a la man destra,
+ed eravamo attenti ad altra cura.
+> E già eravamo giunti all'ultima tortura, volti alla destra, e stavamo attenti ad altra cura.
+
+112
+Quivi la ripa fiamma in fuor balestra,
+e la cornice spira fiato in suso
+che la reflette e via da lei sequestra;
+> Qui la ripa lancia fiamma all'esterno, e la cornice spira vento in su che la respinge e la allontana da sé;
+
+115
+ond’ir ne convenia dal lato schiuso
+ad uno ad uno; e io temëa ’l foco
+quinci, e quindi temeva cader giuso.
+> perciò ci conveniva andare dal lato libero, uno alla volta; e io temevo il fuoco da una parte, e dall'altra temevo di cadere giù.
+
+118
+Lo duca mio dicea: "Per questo loco
+si vuol tenere a li occhi stretto il freno,
+però ch’errar potrebbesi per poco".
+> La mia guida diceva: «Per questo luogo si vuole tenere alla vista stretto il freno, perché si potrebbe sbagliare per poco».
+
+121
+’Summae Deus clementïae’ nel seno
+al grande ardore allora udi’ cantando,
+che di volger mi fé caler non meno;
+> «Summae Deus clementiae» udii allora cantare nel seno del grande ardore, che mi fece guardare con non meno cura;
+
+124
+e vidi spirti per la fiamma andando;
+per ch’io guardava a loro e a’ miei passi,
+compartendo la vista a quando a quando.
+> e vidi spiriti andare per la fiamma; per cui guardavo a loro e ai miei passi, dividendo la vista a volta a volta.
+
+127
+Appresso il fine ch’a quell’inno fassi,
+gridavano alto: ’Virum non cognosco’;
+indi ricominciavan l’inno bassi.
+> Dopo la fine che si fa a quell'inno, gridavano forte: «Virum non cognosco»; poi ricominciavano l'inno a voce bassa.
+
+130
+Finitolo, anco gridavano: "Al bosco
+si tenne Diana, ed Elice caccionne
+che di Venere avea sentito il tòsco".
+> Finito, gridavano ancora: «Nel bosco si tenne Diana, e cacciò Elice che aveva sentito il veleno di Venere».
+
+133
+Indi al cantar tornavano; indi donne
+gridavano e mariti che fuor casti
+come virtute e matrimonio imponne.
+> Poi tornavano al canto; poi donne gridavano e mariti che furono casti come virtù e matrimonio impongono.
+
+136
+E questo modo credo che lor basti
+per tutto il tempo che ’l foco li abbruscia:
+con tal cura conviene e con tai pasti
+> E questo modo credo che basti loro per tutto il tempo che il fuoco li brucia: con tale cura conviene e con tali pasti
+
+139
+che la piaga da sezzo si ricuscia.
+> che la piaga alla fine si ricucia.

@@ -1,0 +1,327 @@
+{
+  "cantica": "purgatorio",
+  "canto": 27,
+  "titolo": "Il muro di fuoco, il sogno di Lia e il congedo di Virgilio",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_XXVII",
+  "numero_versi": 142,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 48],
+      "titolo_scena": "L'angelo della castità e il muro di fuoco",
+      "sintesi": "Il sole è al tramonto quando appare l'angelo di Dio, fuori dalla fiamma, che canta «Beati mundo corde» e ordina di entrare nel fuoco: non si sale più se prima non morde. Dante, a quelle parole, resta come uno che sta per essere sepolto vivo, immaginando corpi umani bruciati. Virgilio lo incoraggia: qui può esserci tormento, non morte. Ma Dante resta fermo, finché Virgilio dice: «Tra Beatrice e te è questo muro». Al nome di lei Dante cede.",
+      "luogo_id": "cornice-7",
+      "personaggi": ["dante", "virgilio", "stazio", "angelo-della-castita"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "L'angelo della castità e il muro di fuoco",
+          "url": "img/ia/purgatorio-27-scena-1.jpg",
+          "miniatura": "img/ia/purgatorio-27-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [49, 90],
+      "titolo_scena": "L'attraversamento del fuoco e la sera sulla scala",
+      "sintesi": "Dentro il fuoco Dante si getterebbe in vetro bollente per rinfrescarsi; Virgilio lo conforta parlando di Beatrice. Una voce che canta li guida fuori, dove si sale; dal lume dice «Venite, benedetti del Padre mio», e li invita a salire prima che l'occidente si annerisca. Su una scala dritta nella roccia, appena sparita l'ombra del sole, ciascuno si fa letto di un gradino; Dante guarda le stelle, grandi e chiare, come una capra tra i pastori.",
+      "luogo_id": "cornice-7",
+      "personaggi": ["dante", "virgilio", "stazio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "L'attraversamento del fuoco e la sera sulla scala",
+          "url": "img/ia/purgatorio-27-scena-2.jpg",
+          "miniatura": "img/ia/purgatorio-27-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [91, 111],
+      "titolo_scena": "Il sogno di Lia e Rachele",
+      "sintesi": "Ruminando e guardando le stelle, Dante si addormenta. All'ora in cui Venere raggia dall'oriente, sogna una giovane bella donna che coglie fiori in una landa cantando: è Lia, che si adorna le mani per piacere allo specchio, mentre la sorella Rachele non si stacca mai dal suo miraglio; l'una appaga l'operare, l'altra il vedere.",
+      "luogo_id": "cornice-7",
+      "personaggi": ["dante", "lia"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Il sogno di Lia",
+          "url": "img/dore/purgatorio-27-lia-960.jpg",
+          "miniatura": "img/dore/purgatorio-27-lia-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148975403).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [112, 142],
+      "titolo_scena": "Il congedo di Virgilio",
+      "sintesi": "All'alba le tenebre fuggono e Dante si sveglia, vedendo i maestri già alzati. Virgilio gli promette che oggi il dolce frutto che cercano tutti i mortali placherà la sua fame. Dante cresce di voglia, quasi gli spuntassero le penne. In cima alla scala Virgilio lo guarda e dice che ha visto il fuoco temporale e l'eterno; ora che il suo piacere sia la guida, perché è fuori dalle vie erte. Gli indica il sole, i fiori e gli arbusti, e lo incorona di sé sopra di sé.",
+      "luogo_id": "paradiso-terrestre",
+      "personaggi": ["dante", "virgilio", "stazio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Il congedo di Virgilio",
+          "url": "img/ia/purgatorio-27-scena-4.jpg",
+          "miniatura": "img/ia/purgatorio-27-scena-4.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Sì come quando i primi raggi vibra\nlà dove il suo fattor lo sangue sparse,\ncadendo Ibero sotto l’alta Libra,",
+      "parafrasi": "Come quando vibra i primi raggi là dove il suo creatore sparse il sangue, cadendo l'Ebro sotto l'alta Libra,"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "e l’onde in Gange da nona rïarse,\nsì stava il sole; onde ’l giorno sen giva,\ncome l’angel di Dio lieto ci apparse.",
+      "parafrasi": "e le onde del Gange arse dall'ora nona, così stava il sole; per cui il giorno se ne andava, quando l'angelo di Dio ci apparve lieto."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "Fuor de la fiamma stava in su la riva,\ne cantava ’Beati mundo corde!’\nin voce assai più che la nostra viva.",
+      "parafrasi": "Stava fuori dalla fiamma sulla riva, e cantava «Beati mundo corde!» con una voce molto più viva della nostra."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "Poscia \"Più non si va, se pria non morde,\nanime sante, il foco: intrate in esso,\ne al cantar di là non siate sorde\",",
+      "parafrasi": "Poi: «Non si va più oltre, se prima non morde, anime sante, il fuoco: entrate in esso, e al cantare di là non siate sorde»,"
+    },
+    {
+      "versi": [13, 15],
+      "testo": "ci disse come noi li fummo presso;\nper ch’io divenni tal, quando lo ’ntesi,\nqual è colui che ne la fossa è messo.",
+      "parafrasi": "ci disse quando gli fummo vicini; per cui io divenni tale, quando lo intesi, quale è colui che è messo nella fossa."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "In su le man commesse mi protesi,\nguardando il foco e imaginando forte\numani corpi già veduti accesi.",
+      "parafrasi": "Mi protesi sulle mani giunte, guardando il fuoco e immaginando forte corpi umani già visti bruciati."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "Volsersi verso me le buone scorte;\ne Virgilio mi disse: \"Figliuol mio,\nqui può esser tormento, ma non morte.",
+      "parafrasi": "Le buone scorte si volsero verso di me; e Virgilio mi disse: «Figlio mio, qui può esserci tormento, ma non morte."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Ricorditi, ricorditi! E se io\nsovresso Gerïon ti guidai salvo,\nche farò ora presso più a Dio?",
+      "parafrasi": "Ricordati, ricordati! E se io sopra Gerione ti guidai salvo, che farò ora più vicino a Dio?"
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Credi per certo che se dentro a l’alvo\ndi questa fiamma stessi ben mille anni,\nnon ti potrebbe far d’un capel calvo.",
+      "parafrasi": "Credi per certo che se dentro il ventre di questa fiamma stessi bene mille anni, non ti potrebbe far calvo di un capello."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "E se tu forse credi ch’io t’inganni,\nfatti ver’ lei, e fatti far credenza\ncon le tue mani al lembo d’i tuoi panni.",
+      "parafrasi": "E se forse credi che io t'inganni, avvicinati ad essa, e fatti dare certezza con le tue mani al lembo dei tuoi panni."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "Pon giù omai, pon giù ogne temenza;\nvolgiti in qua e vieni: entra sicuro!\".\nE io pur fermo e contra coscïenza.",
+      "parafrasi": "Deponi ormai, deponi ogni timore; volgiti qua e vieni: entra sicuro!». E io pur fermo e contro coscienza."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Quando mi vide star pur fermo e duro,\nturbato un poco disse: \"Or vedi, figlio:\ntra Bëatrice e te è questo muro\".",
+      "parafrasi": "Quando mi vide stare fermo e duro, turbato un poco disse: «Ora vedi, figlio: tra Beatrice e te c'è questo muro»."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Come al nome di Tisbe aperse il ciglio\nPiramo in su la morte, e riguardolla,\nallor che ’l gelso diventò vermiglio;",
+      "parafrasi": "Come al nome di Tisbe aprì il ciglio Piramo in punto di morte, e la guardò, quando il gelso diventò vermiglio;"
+    },
+    {
+      "versi": [40, 42],
+      "testo": "così, la mia durezza fatta solla,\nmi volsi al savio duca, udendo il nome\nche ne la mente sempre mi rampolla.",
+      "parafrasi": "così, la mia durezza fatta molle, mi volsi al saggio duca, udendo il nome che nella mente sempre mi germoglia."
+    },
+    {
+      "versi": [43, 45],
+      "testo": "Ond’ei crollò la fronte e disse: \"Come!\nvolenci star di qua?\"; indi sorrise\ncome al fanciul si fa ch’è vinto al pome.",
+      "parafrasi": "Perciò egli scosse la fronte e disse: «Come! vogliamo restare di qua?»; poi sorrise come si fa al fanciullo vinto da una mela."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Poi dentro al foco innanzi mi si mise,\npregando Stazio che venisse retro,\nche pria per lunga strada ci divise.",
+      "parafrasi": "Poi dentro il fuoco davanti mi si mise, pregando Stazio che venisse dietro, che prima per lunga strada ci divise."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "Sì com’ fui dentro, in un bogliente vetro\ngittato mi sarei per rinfrescarmi,\ntant’era ivi lo ’ncendio sanza metro.",
+      "parafrasi": "Appena fui dentro, in vetro bollente mi sarei gettato per rinfrescarmi, tanto era lì l'incendio senza misura."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "Lo dolce padre mio, per confortarmi,\npur di Beatrice ragionando andava,\ndicendo: \"Li occhi suoi già veder parmi\".",
+      "parafrasi": "Il mio dolce padre, per confortarmi, andava ragionando solo di Beatrice, dicendo: «Gli occhi suoi già mi sembra di vedere»."
+    },
+    {
+      "versi": [55, 57],
+      "testo": "Guidavaci una voce che cantava\ndi là; e noi, attenti pur a lei,\nvenimmo fuor là ove si montava.",
+      "parafrasi": "Ci guidava una voce che cantava di là; e noi, attenti solo a lei, venimmo fuori dove si saliva."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "’Venite, benedicti Patris mei’,\nsonò dentro a un lume che lì era,\ntal che mi vinse e guardar nol potei.",
+      "parafrasi": "«Venite, benedicti Patris mei», risuonò dentro a un lume che era lì, tale che mi vinse e non lo potei guardare."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "\"Lo sol sen va\", soggiunse, \"e vien la sera;\nnon v’arrestate, ma studiate il passo,\nmentre che l’occidente non si annera\".",
+      "parafrasi": "«Il sole se ne va», aggiunse, «e viene la sera; non vi fermate, ma studiate il passo, finché l'occidente non si annera»."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Dritta salia la via per entro ’l sasso\nverso tal parte ch’io toglieva i raggi\ndinanzi a me del sol ch’era già basso.",
+      "parafrasi": "Dritta saliva la via dentro la roccia verso una parte tale che io toglievo i raggi davanti a me del sole che era già basso."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "E di pochi scaglion levammo i saggi,\nche ’l sol corcar, per l’ombra che si spense,\nsentimmo dietro e io e li miei saggi.",
+      "parafrasi": "E di pochi gradini avevamo fatto prova, quando il sole coricarsi, per l'ombra che si spense, sentimmo alle spalle io e i miei savi."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "E pria che ’n tutte le sue parti immense\nfosse orizzonte fatto d’uno aspetto,\ne notte avesse tutte sue dispense,",
+      "parafrasi": "E prima che in tutte le sue parti immense l'orizzonte fosse fatto di un solo aspetto, e la notte avesse tutte le sue dispense,"
+    },
+    {
+      "versi": [73, 75],
+      "testo": "ciascun di noi d’un grado fece letto;\nché la natura del monte ci affranse\nla possa del salir più e ’l diletto.",
+      "parafrasi": "ciascuno di noi fece di un gradino letto; perché la natura del monte ci spezzò la possibilità di salire più e il diletto."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "Quali si stanno ruminando manse\nle capre, state rapide e proterve\nsovra le cime avante che sien pranse,",
+      "parafrasi": "Come stanno ruminando miti le capre, state rapide e proterve sopra le cime prima di essere pasciute,"
+    },
+    {
+      "versi": [79, 81],
+      "testo": "tacite a l’ombra, mentre che ’l sol ferve,\nguardate dal pastor, che ’n su la verga\npoggiato s’è e lor di posa serve;",
+      "parafrasi": "tacite all'ombra, mentre il sole bolle, guardate dal pastore, che sul bastone si è appoggiato e le sorveglia nel riposo;"
+    },
+    {
+      "versi": [82, 84],
+      "testo": "e quale il mandrïan che fori alberga,\nlungo il pecuglio suo queto pernotta,\nguardando perché fiera non lo sperga;",
+      "parafrasi": "e come il mandriano che alloggia fuori, lungo il suo bestiame tranquillo passa la notte, guardando che fiera non lo disperda;"
+    },
+    {
+      "versi": [85, 87],
+      "testo": "tali eravamo tutti e tre allotta,\nio come capra, ed ei come pastori,\nfasciati quinci e quindi d’alta grotta.",
+      "parafrasi": "tali eravamo tutti e tre allora, io come capra, ed essi come pastori, fasciati di qua e di là da alta grotta."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Poco parer potea lì del di fori;\nma, per quel poco, vedea io le stelle\ndi lor solere e più chiare e maggiori.",
+      "parafrasi": "Poco poteva apparire lì del cielo fuori; ma, per quel poco, vedevo le stelle più chiare e maggiori del solito."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Sì ruminando e sì mirando in quelle,\nmi prese il sonno; il sonno che sovente,\nanzi che ’l fatto sia, sa le novelle.",
+      "parafrasi": "Così ruminando e così guardando in esse, mi prese il sonno; il sonno che spesso, prima che il fatto sia, sa le novelle."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Ne l’ora, credo, che de l’orïente\nprima raggiò nel monte Citerea,\nche di foco d’amor par sempre ardente,",
+      "parafrasi": "Nell'ora, credo, in cui dall'oriente prima raggiò sul monte Citerea, che di fuoco d'amore sembra sempre ardente,"
+    },
+    {
+      "versi": [97, 99],
+      "testo": "giovane e bella in sogno mi parea\ndonna vedere andar per una landa\ncogliendo fiori; e cantando dicea:",
+      "parafrasi": "giovane e bella in sogno mi sembrava vedere una donna andare per una landa cogliendo fiori; e cantando diceva:"
+    },
+    {
+      "versi": [100, 102],
+      "testo": "\"Sappia qualunque il mio nome dimanda\nch’i’ mi son Lia, e vo movendo intorno\nle belle mani a farmi una ghirlanda.",
+      "parafrasi": "«Sappia chiunque domanda il mio nome che io sono Lia, e vado muovendo intorno le belle mani per farmi una ghirlanda."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Per piacermi a lo specchio, qui m’addorno;\nma mia suora Rachel mai non si smaga\ndal suo miraglio, e siede tutto giorno.",
+      "parafrasi": "Per piacermi allo specchio, qui mi adorno; ma mia sorella Rachele mai si stacca dal suo specchio, e siede tutto il giorno."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Ell’è d’i suoi belli occhi veder vaga\ncom’io de l’addornarmi con le mani;\nlei lo vedere, e me l’ovrare appaga\".",
+      "parafrasi": "Ella è vaga di vedere i suoi begli occhi, come io di adornarmi con le mani; lei il vedere, e me l'operare appaga»."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "E già per li splendori antelucani,\nche tanto a’ pellegrin surgon più grati,\nquanto, tornando, albergan men lontani,",
+      "parafrasi": "E già per gli splendori antelucani, che tanto ai pellegrini sorgono più graditi, quanto, tornando, albergano meno lontani,"
+    },
+    {
+      "versi": [112, 114],
+      "testo": "le tenebre fuggian da tutti lati,\ne ’l sonno mio con esse; ond’io leva’ mi,\nveggendo i gran maestri già levati.",
+      "parafrasi": "le tenebre fuggivano da tutti i lati, e il mio sonno con esse; perciò mi levai, vedendo i grandi maestri già alzati."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "\"Quel dolce pome che per tanti rami\ncercando va la cura de’ mortali,\noggi porrà in pace le tue fami\".",
+      "parafrasi": "«Quel dolce frutto che per tanti rami va cercando la cura dei mortali, oggi porrà in pace le tue fami»."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Virgilio inverso me queste cotali\nparole usò; e mai non furo strenne\nche fosser di piacere a queste iguali.",
+      "parafrasi": "Virgilio verso di me queste tali parole usò; e mai non furono strenne che fossero di piacere uguali a queste."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "Tanto voler sopra voler mi venne\nde l’esser sù, ch’ad ogne passo poi\nal volo mi sentia crescer le penne.",
+      "parafrasi": "Tanto desiderio sopra desiderio mi venne di essere su, che a ogni passo poi sentivo crescere le penne al volo."
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Come la scala tutta sotto noi\nfu corsa e fummo in su ’l grado superno,\nin me ficcò Virgilio li occhi suoi,",
+      "parafrasi": "Come la scala tutta sotto di noi fu percorsa e fummo sul grado supremo, Virgilio fissò i suoi occhi su di me,"
+    },
+    {
+      "versi": [127, 129],
+      "testo": "e disse: \"Il temporal foco e l’etterno\nveduto hai, figlio; e se’ venuto in parte\ndov’io per me più oltre non discerno.",
+      "parafrasi": "e disse: «Il fuoco temporale e l'eterno hai visto, figlio; e sei venuto in parte dove io per me più oltre non discerno."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Tratto t’ ho qui con ingegno e con arte;\nlo tuo piacere omai prendi per duce;\nfuor se’ de l’erte vie, fuor se’ de l’arte.",
+      "parafrasi": "Ti ho condotto qui con ingegno e con arte; il tuo piacere prendi ormai per guida; sei fuori dalle vie erte, sei fuori dalle strette."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "Vedi lo sol che ’n fronte ti riluce;\nvedi l’erbette, i fiori e li arbuscelli\nche qui la terra sol da sé produce.",
+      "parafrasi": "Vedi il sole che ti riluce in fronte; vedi l'erbette, i fiori e gli arbusti che qui la terra produce da sola."
+    },
+    {
+      "versi": [136, 138],
+      "testo": "Mentre che vegnan lieti li occhi belli\nche, lagrimando, a te venir mi fenno,\nseder ti puoi e puoi andar tra elli.",
+      "parafrasi": "Finché vengono lieti gli occhi belli che, piangendo, mi fecero venire a te, puoi sederti e puoi andare tra loro."
+    },
+    {
+      "versi": [139, 141],
+      "testo": "Non aspettar mio dir più né mio cenno;\nlibero, dritto e sano è tuo arbitrio,\ne fallo fora non fare a suo senno:",
+      "parafrasi": "Non aspettare più il mio dire né il mio cenno; libero, dritto e sano è il tuo arbitrio, e sarebbe fallo non fare a suo senno:"
+    },
+    {
+      "versi": [142, 142],
+      "testo": "per ch’io te sovra te corono e mitrio\".",
+      "parafrasi": "perciò io te sopra te corono e mitrio»."
+    }
+  ]
+}

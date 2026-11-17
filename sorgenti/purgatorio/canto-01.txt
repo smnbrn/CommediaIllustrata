@@ -1,0 +1,305 @@
+# Purgatorio, canto I
+titolo: Catone, il giunco e la rugiada
+
+## scena-1 | spiaggia | Il proemio e il cielo d'oriente
+personaggi: dante
+tavola: ia | Il proemio e il cielo d'oriente | img/ia/purgatorio-01-scena-1.jpg
+sintesi: Dante apre il Purgatorio invocando le Muse; uscito dall'aria nera dell'Inferno, vede il cielo d'oriente color zaffiro, Venere che fa ridere l'aurora e, nell'altro emisfero, quattro stelle mai viste da nessuno dopo i primi uomini.
+
+1
+Per correr miglior acque alza le vele
+omai la navicella del mio ingegno,
+che lascia dietro a sé mar sì crudele;
+> Per correre acque migliori, la piccola barca del mio ingegno alza ormai le vele, lasciandosi alle spalle un mare così crudele;
+
+4
+e canterò di quel secondo regno
+dove l’umano spirito si purga
+e di salire al ciel diventa degno.
+> e canterò di quel secondo regno dove lo spirito umano si purifica e diventa degno di salire al cielo.
+
+7
+Ma qui la morta poesì resurga,
+o sante Muse, poi che vostro sono;
+e qui Calïopè alquanto surga,
+> Ma qui la poesia, rimasta come morta, torni a vivere, o sante Muse, poiché sono vostro; e qui Calliope si alzi un poco,
+
+10
+seguitando il mio canto con quel suono
+di cui le Piche misere sentiro
+lo colpo tal, che disperar perdono.
+> accompagnando il mio canto con quella musica il cui colpo fece disperare le Piche sventurate di ottenere perdono.
+
+13
+Dolce color d’orïental zaffiro,
+che s’accoglieva nel sereno aspetto
+del mezzo, puro infino al primo giro,
+> Il dolce colore dello zaffiro orientale, che si raccoglieva nella serenità del cielo, limpido fino al primo orizzonte,
+
+16
+a li occhi miei ricominciò diletto,
+tosto ch’io usci’ fuor de l’aura morta
+che m’avea contristati li occhi e ’l petto.
+> tornò a rallegrare i miei occhi appena fui uscito dall'aria morta che mi aveva rattristato gli occhi e il petto.
+
+19
+Lo bel pianeto che d’amar conforta
+faceva tutto rider l’orïente,
+velando i Pesci ch’erano in sua scorta.
+> Il bel pianeta che spinge ad amare faceva ridere tutto l'oriente, coprendo con la sua luce i Pesci che gli stavano accanto.
+
+22
+I’ mi volsi a man destra, e puosi mente
+a l’altro polo, e vidi quattro stelle
+non viste mai fuor ch’a la prima gente.
+> Mi voltai a destra e rivolsi lo sguardo all'altro polo, e vidi quattro stelle che nessuno aveva più visto dopo i primi uomini.
+
+25
+Goder pareva ’l ciel di lor fiammelle:
+oh settentrïonal vedovo sito,
+poi che privato se’ di mirar quelle!
+> Il cielo sembrava godere delle loro fiammelle: oh settentrione, luogo rimasto vedovo, perché ti è tolto di guardarle!
+
+## scena-2 | spiaggia | Catone appare
+personaggi: dante, virgilio, catone
+tavola: dore | Catone | img/dore/purgatorio-01-catone-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148974123).jpg
+sintesi: Distolto lo sguardo dalle stelle, Dante vede accanto a sé un vecchio solo, dall'aspetto venerabile, con la barba lunga e bianca, il viso illuminato dalle quattro luci come dal sole; è Catone, che interroga severo i due viaggiatori.
+
+28
+Com’io da loro sguardo fui partito,
+un poco me volgendo a l’altro polo,
+là onde ’l Carro già era sparito,
+> Quando mi fui distolto dal loro sguardo, voltandomi un poco verso l'altro polo, dove il Carro era già tramontato,
+
+31
+vidi presso di me un veglio solo,
+degno di tanta reverenza in vista,
+che più non dee a padre alcun figliuolo.
+> vidi vicino a me un vecchio solo, tanto degno di rispetto nell'aspetto che nessun figlio ne deve di più al padre.
+
+34
+Lunga la barba e di pel bianco mista
+portava, a’ suoi capelli simigliante,
+de’ quai cadeva al petto doppia lista.
+> Portava la barba lunga e mista di peli bianchi, simile ai capelli, che gli cadevano sul petto in due ciocche.
+
+37
+Li raggi de le quattro luci sante
+fregiavan sì la sua faccia di lume,
+ch’i’ ’l vedea come ’l sol fosse davante.
+> I raggi delle quattro stelle sante gli adornavano talmente il viso di luce che lo vedevo come se avesse il sole davanti.
+
+40
+"Chi siete voi che contro al cieco fiume
+fuggita avete la pregione etterna?",
+diss’el, movendo quelle oneste piume.
+> «Chi siete voi che, risalendo il fiume nascosto, siete fuggiti dalla prigione eterna?», disse, muovendo quella barba onesta.
+
+43
+"Chi v’ ha guidati, o che vi fu lucerna,
+uscendo fuor de la profonda notte
+che sempre nera fa la valle inferna?
+> «Chi vi ha guidati, o chi vi ha fatto da luce, mentre uscivate dalla notte profonda che rende sempre nera la valle infernale?
+
+46
+Son le leggi d’abisso così rotte?
+o è mutato in ciel novo consiglio,
+che, dannati, venite a le mie grotte?".
+> Sono dunque infrante le leggi dell'abisso? O in cielo è stato preso un nuovo consiglio, che voi, dannati, venite alle mie rupi?».
+
+## scena-3 | spiaggia | La risposta di Virgilio
+personaggi: dante, virgilio, catone
+tavola: dore | Catone | img/dore/purgatorio-01-catone-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148974123).jpg
+sintesi: Virgilio fa inginocchiare Dante e risponde a Catone: sono venuti per volere di una donna scesa dal cielo; Dante è ancora vivo e cerca la libertà, come ben sa chi, come Catone, scelse la morte per essa. Virgilio invoca anche l'amore di Marzia, che sta nel Limbo.
+
+49
+Lo duca mio allor mi diè di piglio,
+e con parole e con mani e con cenni
+reverenti mi fé le gambe e ’l ciglio.
+> Allora la mia guida mi prese e, con le parole, con le mani e con i gesti, mi fece inchinare le ginocchia e abbassare lo sguardo con rispetto.
+
+52
+Poscia rispuose lui: "Da me non venni:
+donna scese del ciel, per li cui prieghi
+de la mia compagnia costui sovvenni.
+> Poi rispose a lui: «Non sono venuto da me: una donna scese dal cielo e, per le sue preghiere, ho soccorso costui con la mia compagnia.
+
+55
+Ma da ch’è tuo voler che più si spieghi
+di nostra condizion com’ell’è vera,
+esser non puote il mio che a te si nieghi.
+> Ma poiché è tua volontà che si spieghi di più la nostra condizione, così com'è davvero, non può il mio volere negarsi a te.
+
+58
+Questi non vide mai l’ultima sera;
+ma per la sua follia le fu sì presso,
+che molto poco tempo a volger era.
+> Costui non ha visto la sua ultima sera, ma per la sua follia le fu così vicino che restava pochissimo tempo.
+
+61
+Sì com’io dissi, fui mandato ad esso
+per lui campare; e non lì era altra via
+che questa per la quale i’ mi son messo.
+> Come ti ho detto, fui mandato da lui per salvarlo; e non c'era altra via che questa per la quale mi sono messo.
+
+64
+Mostrata ho lui tutta la gente ria;
+e ora intendo mostrar quelli spirti
+che purgan sé sotto la tua balìa.
+> Gli ho mostrato tutta la gente colpevole; e ora intendo mostrargli quegli spiriti che si purificano sotto il tuo comando.
+
+67
+Com’io l’ ho tratto, saria lungo a dirti;
+de l’alto scende virtù che m’aiuta
+conducerlo a vederti e a udirti.
+> Come l'ho condotto fin qui sarebbe lungo da dire: dall'alto scende una virtù che mi aiuta a guidarlo a vederti e ad ascoltarti.
+
+70
+Or ti piaccia gradir la sua venuta:
+libertà va cercando, ch’è sì cara,
+come sa chi per lei vita rifiuta.
+> Ora ti piaccia di gradire la sua venuta: egli cerca la libertà, che è tanto cara, come sa chi per essa rinuncia alla vita.
+
+73
+Tu ’l sai, ché non ti fu per lei amara
+in Utica la morte, ove lasciasti
+la vesta ch’al gran dì sarà sì chiara.
+> Lo sai tu, per cui non fu amara a Utica la morte, dove lasciasti il corpo che nel gran giorno sarà così splendente.
+
+76
+Non son li editti etterni per noi guasti,
+ché questi vive e Minòs me non lega;
+ma son del cerchio ove son li occhi casti
+> Non abbiamo violato le leggi eterne, perché costui è vivo e Minosse non mi vincola; ma io sono del cerchio dove stanno gli occhi casti
+
+79
+di Marzia tua, che ’n vista ancor ti priega,
+o santo petto, che per tua la tegni:
+per lo suo amore adunque a noi ti piega.
+> di tua moglie Marzia, che con lo sguardo ancora ti prega, o santo cuore, di considerarla tua: per amor suo, dunque, inclinati verso di noi.
+
+82
+Lasciane andar per li tuoi sette regni;
+grazie riporterò di te a lei,
+se d’esser mentovato là giù degni".
+> Lasciaci andare per i tuoi sette regni; riporterò a lei la tua gratitudine, se ti degni di essere ricordato laggiù».
+
+## scena-4 | spiaggia | La risposta di Catone
+personaggi: dante, virgilio, catone
+tavola: ia | La risposta di Catone | img/ia/purgatorio-01-scena-4.jpg
+sintesi: Catone risponde che Marzia gli fu cara, ma ora il fiume infernale lo separa da lei; per lei non occorrono lusinghe, basta l'ordine della donna celeste. Ordina a Virgilio di cingere Dante con un giunco e di lavargli il viso, poi sparisce, indicando la via per salire il monte.
+
+85
+"Marzïa piacque tanto a li occhi miei
+mentre ch’i’ fu’ di là", diss’elli allora,
+"che quante grazie volse da me, fei.
+> «Marzia piacque tanto ai miei occhi», disse allora, «quando fui di là, che le concessi tutte le grazie che volle da me.
+
+88
+Or che di là dal mal fiume dimora,
+più muover non mi può, per quella legge
+che fatta fu quando me n’usci’ fora.
+> Ora che sta di là dal fiume maligno, non può più commuovermi, per quella legge che fu fatta quando ne uscii.
+
+91
+Ma se donna del ciel ti move e regge,
+come tu di’, non c’è mestier lusinghe:
+bastisi ben che per lei mi richegge.
+> Ma se una donna del cielo ti muove e ti guida, come dici, non servono lusinghe: ti basti che ti chieda in suo nome.
+
+94
+Va dunque, e fa che tu costui ricinghe
+d’un giunco schietto e che li lavi ’l viso,
+sì ch’ogne sucidume quindi stinghe;
+> Va' dunque, e fa' che tu lo cinga con un giunco liscio e gli lavi il viso, in modo che ne tolga ogni sporcizia;
+
+97
+ché non si converria, l’occhio sorpriso
+d’alcuna nebbia, andar dinanzi al primo
+ministro, ch’è di quei di paradiso.
+> perché non converrebbe, con l'occhio velato da qualche nebbia, presentarsi davanti al primo ministro, che è uno di quelli del Paradiso.
+
+100
+Questa isoletta intorno ad imo ad imo,
+là giù colà dove la batte l’onda,
+porta di giunchi sovra ’l molle limo:
+> Quest'isoletta, tutt'intorno alla base, laggiù dove l'onda la batte, porta giunchi sul fango molle:
+
+103
+null’altra pianta che facesse fronda
+o indurasse, vi puote aver vita,
+però ch’a le percosse non seconda.
+> nessun'altra pianta che faccia fronda o si indurisca può viverci, perché non cede ai colpi dell'acqua.
+
+106
+Poscia non sia di qua vostra reddita;
+lo sol vi mosterrà, che surge omai,
+prendere il monte a più lieve salita".
+> Poi non tornate da questa parte; il sole, che sta ormai sorgendo, vi mostrerà dove prendere il monte per una salita più facile».
+
+109
+Così sparì; e io sù mi levai
+sanza parlare, e tutto mi ritrassi
+al duca mio, e li occhi a lui drizzai.
+> Così sparì; e io mi alzai in piedi senza parlare e mi strinsi tutto alla mia guida, volgendo gli occhi a lui.
+
+## scena-5 | spiaggia | La rugiada e il giunco
+personaggi: dante, virgilio
+tavola: dore | Dante e Virgilio sul piano solitario | img/dore/purgatorio-01-poeti-piano-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148974097).jpg
+sintesi: All'alba i due poeti attraversano il piano deserto; dove la rugiada resiste al sole Virgilio, con le mani aperte sull'erba, lava il viso a Dante dal nero dell'Inferno. Poi sul lido cinge Dante col giunco, che subito rinasce al posto di quello strappato.
+
+112
+El cominciò: "Figliuol, segui i miei passi:
+volgianci in dietro, ché di qua dichina
+questa pianura a’ suoi termini bassi".
+> Cominciò: «Figlio, segui i miei passi: torniamo indietro, perché da questa parte la pianura scende verso i suoi limiti bassi».
+
+115
+L’alba vinceva l’ora mattutina
+che fuggia innanzi, sì che di lontano
+conobbi il tremolar de la marina.
+> L'alba vinceva l'ora del mattino che fuggiva davanti a lei, tanto che da lontano riconobbi il tremolio del mare.
+
+118
+Noi andavam per lo solingo piano
+com’om che torna a la perduta strada,
+che ’nfino ad essa li pare ire in vano.
+> Camminavamo per la pianura solitaria, come chi torna alla strada perduta e fino a ritrovarla gli pare di andare invano.
+
+121
+Quando noi fummo là ’ve la rugiada
+pugna col sole, per essere in parte
+dove, ad orezza, poco si dirada,
+> Quando arrivammo dove la rugiada lotta col sole, perché, essendo in un luogo ventilato, si asciuga poco,
+
+124
+ambo le mani in su l’erbetta sparte
+soavemente ’l mio maestro pose:
+ond’io, che fui accorto di sua arte,
+> il mio maestro posò dolcemente le due mani aperte sull'erbetta: e io, che capii il suo intento,
+
+127
+porsi ver’ lui le guance lagrimose;
+ivi mi fece tutto discoverto
+quel color che l’inferno mi nascose.
+> gli porsi le guance rigate di lacrime; così mi fece ritornare tutto scoperto quel colore che l'Inferno mi aveva nascosto.
+
+130
+Venimmo poi in sul lito diserto,
+che mai non vide navicar sue acque
+omo, che di tornar sia poscia esperto.
+> Poi arrivammo sul lido deserto, che non vide mai navigare le sue acque nessuno che poi abbia saputo tornare.
+
+133
+Quivi mi cinse sì com’altrui piacque:
+oh maraviglia! ché qual elli scelse
+l’umile pianta, cotal si rinacque
+> Là mi cinse come piacque a un altro: oh meraviglia! Quale egli scelse l'umile pianta, tale subito rinacque
+
+136
+subitamente là onde l’avelse.
+> nello stesso punto da cui l'aveva strappata.
+
+## personaggio | catone | Catone
+dibattuto: no
+chi_era: Marco Porcio Catone l'Uticense (95-46 a.C.), che si uccise a Utica per non cadere nelle mani di Cesare e restare libero. Nonostante sia pagano e suicida, Dante ne fa il guardiano del Purgatorio, simbolo della libertà morale.

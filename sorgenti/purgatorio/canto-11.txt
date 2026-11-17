@@ -1,0 +1,320 @@
+# Purgatorio, canto XI
+titolo: Il Padre nostro dei superbi, Omberto, Oderisi e Provenzano
+
+## scena-1 | cornice-1 | Il «Padre nostro» dei superbi
+personaggi: dante, virgilio
+tavola: ia | Il «Padre nostro» dei superbi | img/ia/purgatorio-11-scena-1.jpg
+sintesi: Le anime della prima cornice, curve sotto il peso dei massi, pregano con una parafrasi del Padre nostro: chiedono la pace del regno di Dio, il pane quotidiano nel deserto, il perdono reciproco, e che sia risparmiata ai vivi la tentazione dell'antico avversario. Procedono sotto il carico come in un sogno, purgando la caligine del mondo.
+
+1
+"O Padre nostro, che ne’ cieli stai,
+non circunscritto, ma per più amore
+ch’ai primi effetti di là sù tu hai,
+> «O Padre nostro, che stai nei cieli, non circoscritto, ma per il maggiore amore che hai per i primi effetti lassù,
+
+4
+laudato sia ’l tuo nome e ’l tuo valore
+da ogne creatura, com’è degno
+di render grazie al tuo dolce vapore.
+> sia lodato il tuo nome e il tuo valore da ogni creatura, com'è degno di rendere grazie al tuo dolce soffio.
+
+7
+Vegna ver’ noi la pace del tuo regno,
+ché noi ad essa non potem da noi,
+s’ella non vien, con tutto nostro ingegno.
+> Venga a noi la pace del tuo regno, perché noi non possiamo arrivarci da noi, con tutto il nostro ingegno, se non viene.
+
+10
+Come del suo voler li angeli tuoi
+fan sacrificio a te, cantando osanna,
+così facciano li uomini de’ suoi.
+> Come i tuoi angeli fanno sacrificio a te della loro volontà, cantando osanna, così facciano gli uomini della loro.
+
+13
+Dà oggi a noi la cotidiana manna,
+sanza la qual per questo aspro diserto
+a retro va chi più di gir s’affanna.
+> Dacci oggi la manna quotidiana, senza la quale per questo aspro deserto torna indietro chi più si sforza di andare avanti.
+
+16
+E come noi lo mal ch’avem sofferto
+perdoniamo a ciascuno, e tu perdona
+benigno, e non guardar lo nostro merto.
+> E come noi perdoniamo a ciascuno il male che abbiamo sofferto, così perdona tu benigno, e non guardare i nostri meriti.
+
+19
+Nostra virtù che di legger s’adona,
+non spermentar con l’antico avversaro,
+ma libera da lui che sì la sprona.
+> La nostra virtù, che si lascia vincere facilmente, non metterla alla prova con l'antico avversario, ma liberala da lui che tanto la sprona.
+
+22
+Quest’ultima preghiera, segnor caro,
+già non si fa per noi, ché non bisogna,
+ma per color che dietro a noi restaro".
+> Quest'ultima preghiera, Signore caro, non la facciamo per noi, perché non occorre, ma per quelli che sono rimasti dietro di noi».
+
+## scena-2 | cornice-1 | Omberto Aldobrandesco
+personaggi: dante, virgilio, omberto-aldobrandesco
+tavola: ia | Omberto Aldobrandesco | img/ia/purgatorio-11-scena-2.jpg
+sintesi: Pregando così per sé e per i vivi, le anime procedono sotto il peso. Virgilio chiede a loro la via per la scala; una voce risponde indicando la destra. Chi parla, che non può alzare il viso, si presenta: è Omberto Aldobrandesco, conte senese, la cui arroganza per l'antico sangue lo portò a disprezzare tutti, e a farsi uccidere, trascinando con sé tutta la famiglia.
+
+25
+Così a sé e noi buona ramogna
+quell’ombre orando, andavan sotto ’l pondo,
+simile a quel che talvolta si sogna,
+> Così pregando bene per sé e per noi, quelle ombre andavano sotto il peso, simile a quello che talvolta si sogna,
+
+28
+disparmente angosciate tutte a tondo
+e lasse su per la prima cornice,
+purgando la caligine del mondo.
+> angosciate in modo diverso tutte intorno e stanche per la prima cornice, purgando la caligine del mondo.
+
+31
+Se di là sempre ben per noi si dice,
+di qua che dire e far per lor si puote
+da quei c’ hanno al voler buona radice?
+> Se di là si dice sempre bene per noi, che cosa si può dire e fare qui per loro da quelli che hanno la buona radice nel volere?
+
+34
+Ben si de’ loro atar lavar le note
+che portar quinci, sì che, mondi e lievi,
+possano uscire a le stellate ruote.
+> Bisogna davvero aiutarli a lavare le macchie che portarono di qui, così che, puri e leggeri, possano uscire alle ruote stellate.
+
+37
+"Deh, se giustizia e pietà vi disgrievi
+tosto, sì che possiate muover l’ala,
+che secondo il disio vostro vi lievi,
+> «Deh, se giustizia e pietà vi alleggeriscano presto, così che possiate muovere l'ala, che secondo il vostro desiderio vi sollevi,
+
+40
+mostrate da qual mano inver’ la scala
+si va più corto; e se c’è più d’un varco,
+quel ne ’nsegnate che men erto cala;
+> mostrate da quale parte verso la scala si va più brevemente; e se c'è più di un passaggio, insegnateci quello meno ripido;
+
+43
+ché questi che vien meco, per lo ’ncarco
+de la carne d’Adamo onde si veste,
+al montar sù, contra sua voglia, è parco".
+> perché costui che viene con me, per il peso della carne di Adamo di cui è vestito, è, contro la sua volontà, lento a salire».
+
+46
+Le lor parole, che rendero a queste
+che dette avea colui cu’ io seguiva,
+non fur da cui venisser manifeste;
+> Le loro parole, che risposero a queste dette da colui che seguivo, non fu chiaro da chi venissero;
+
+49
+ma fu detto: "A man destra per la riva
+con noi venite, e troverete il passo
+possibile a salir persona viva.
+> ma fu detto: «A destra, lungo la riva, venite con noi, e troverete il passo possibile per far salire una persona viva.
+
+52
+E s’io non fossi impedito dal sasso
+che la cervice mia superba doma,
+onde portar convienmi il viso basso,
+> E se non fossi impedito dal sasso che doma la mia cervice superba, per cui devo portare il viso basso,
+
+55
+cotesti, ch’ancor vive e non si noma,
+guardere’ io, per veder s’i’ ’l conosco,
+e per farlo pietoso a questa soma.
+> costui, che ancora vive e non si nomina, io guarderei per vedere se lo conosco e per renderlo pietoso a questo carico.
+
+58
+Io fui latino e nato d’un gran Tosco:
+Guiglielmo Aldobrandesco fu mio padre;
+non so se ’l nome suo già mai fu vosco.
+> Io fui latino e nato da un gran toscano: Guglielmo Aldobrandeschi fu mio padre; non so se il suo nome sia mai stato presso di voi.
+
+61
+L’antico sangue e l’opere leggiadre
+d’i miei maggior mi fer sì arrogante,
+che, non pensando a la comune madre,
+> L'antico sangue e le opere gentili dei miei antenati mi resero così arrogante che, non pensando alla madre comune,
+
+64
+ogn’uomo ebbi in despetto tanto avante,
+ch’io ne mori’, come i Sanesi sanno,
+e sallo in Campagnatico ogne fante.
+> ebbi ogni uomo in tale disprezzo che ne morii, come sanno i senesi, e lo sa ogni bambino a Campagnatico.
+
+67
+Io sono Omberto; e non pur a me danno
+superbia fa, ché tutti miei consorti
+ha ella tratti seco nel malanno.
+> Io sono Omberto; e non solo a me la superbia fa danno, perché ha trascinato nella sventura tutti i miei parenti.
+
+70
+E qui convien ch’io questo peso porti
+per lei, tanto che a Dio si sodisfaccia,
+poi ch’io nol fe’ tra ’ vivi, qui tra ’ morti".
+> E qui conviene che io porti questo peso per lei, finché a Dio sia soddisfatto, poiché non lo feci fra i vivi, qui fra i morti».
+
+## scena-3 | cornice-1 | Oderisi da Gubbio
+personaggi: dante, virgilio, oderisi-da-gubbio
+tavola: ia | Oderisi da Gubbio | img/ia/purgatorio-11-scena-3.jpg
+sintesi: Dante si china ad ascoltare, e un altro spirito lo riconosce: è Oderisi da Gubbio, miniaturista. Oderisi riconosce che ora più ridono le carte di Franco Bolognese: la gloria terrena è come poco verde sulla cima, Cimabue cede a Giotto, un Guido toglie la gloria all'altro, e forse è già nato chi li caccerà entrambi. La fama è fiato di vento, e dura meno di un battito di ciglia rispetto all'eterno.
+
+73
+Ascoltando chinai in giù la faccia;
+e un di lor, non questi che parlava,
+si torse sotto il peso che li ’mpaccia,
+> Ascoltando abbassai la faccia; e uno di loro, non quello che parlava, si torse sotto il peso che lo opprime,
+
+76
+e videmi e conobbemi e chiamava,
+tenendo li occhi con fatica fisi
+a me che tutto chin con loro andava.
+> e mi vide, mi riconobbe e mi chiamava, tenendo con fatica gli occhi fissi su di me, che andavo tutto curvo con loro.
+
+79
+"Oh!", diss’io lui, "non se’ tu Oderisi,
+l’onor d’Agobbio e l’onor di quell’arte
+ch’alluminar chiamata è in Parisi?".
+> «Oh!», gli dissi, «non sei tu Oderisi, l'onore di Gubbio e l'onore di quell'arte che a Parigi si chiama miniatura?».
+
+82
+"Frate", diss’elli, "più ridon le carte
+che pennelleggia Franco Bolognese;
+l’onore è tutto or suo, e mio in parte.
+> «Fratello», disse, «più ridono le carte che pennelleggia Franco Bolognese; l'onore è tutto suo ora, e mio in parte.
+
+85
+Ben non sare’ io stato sì cortese
+mentre ch’io vissi, per lo gran disio
+de l’eccellenza ove mio core intese.
+> Non sarei stato così cortese mentre vissi, per il gran desiderio di eccellere a cui mirava il mio cuore.
+
+88
+Di tal superbia qui si paga il fio;
+e ancor non sarei qui, se non fosse
+che, possendo peccar, mi volsi a Dio.
+> Di tale superbia qui si paga la pena; e non sarei ancora qui, se non fosse che, potendo peccare, mi volsi a Dio.
+
+91
+Oh vana gloria de l’umane posse!
+com’ poco verde in su la cima dura,
+se non è giunta da l’etati grosse!
+> Oh vana gloria delle capacità umane! Come dura poco il verde sulla cima, se non è seguito da epoche rozze!
+
+94
+Credette Cimabue ne la pittura
+tener lo campo, e ora ha Giotto il grido,
+sì che la fama di colui è scura.
+> Cimabue credette di tenere il campo nella pittura, e ora Giotto ha il grido, così che la fama di quello è oscura.
+
+97
+Così ha tolto l’uno a l’altro Guido
+la gloria de la lingua; e forse è nato
+chi l’uno e l’altro caccerà del nido.
+> Così un Guido ha tolto all'altro la gloria della lingua; e forse è nato chi caccerà l'uno e l'altro dal nido.
+
+100
+Non è il mondan romore altro ch’un fiato
+di vento, ch’or vien quinci e or vien quindi,
+e muta nome perché muta lato.
+> Il rumore mondano non è altro che un soffio di vento, che ora viene di qua e ora di là, e cambia nome perché cambia direzione.
+
+103
+Che voce avrai tu più, se vecchia scindi
+da te la carne, che se fossi morto
+anzi che tu lasciassi il ’pappo’ e ’l ’dindi’,
+> Che fama avrai tu di più, se vecchio stacchi da te la carne, che se tu fossi morto prima di lasciare il «pappo» e il «dindi»,
+
+106
+pria che passin mill’anni? ch’è più corto
+spazio a l’etterno, ch’un muover di ciglia
+al cerchio che più tardi in cielo è torto.
+> prima che passino mille anni? che è uno spazio più breve, rispetto all'eterno, di un batter di ciglia rispetto al cerchio che in cielo gira più lento.
+
+109
+Colui che del cammin sì poco piglia
+dinanzi a me, Toscana sonò tutta;
+e ora a pena in Siena sen pispiglia,
+> Colui che prende così poca strada davanti a me, fece risuonare tutta la Toscana; e ora a stento se ne bisbiglia a Siena,
+
+112
+ond’era sire quando fu distrutta
+la rabbia fiorentina, che superba
+fu a quel tempo sì com’ora è putta.
+> dove era signore quando fu distrutta la rabbia fiorentina, che fu superba allora come ora è prostituta.
+
+115
+La vostra nominanza è color d’erba,
+che viene e va, e quei la discolora
+per cui ella esce de la terra acerba".
+> La vostra fama è colore d'erba, che viene e va, e lo scolorisce quello per cui esce dalla terra acerba».
+
+## scena-4 | cornice-1 | Provenzan Salvani
+personaggi: dante, virgilio, oderisi-da-gubbio, provenzan-salvani
+tavola: ia | Provenzan Salvani | img/ia/purgatorio-11-scena-4.jpg
+sintesi: Oderisi indica Provenzan Salvani, signore di Siena e presuntuoso, che deve andare senza riposo sotto il peso. Poiché Provenzano morì senza pentirsi, Dante si stupisce che stia già qui; Oderisi spiega che in piazza del Campo si umiliò chiedendo l'elemosina per riscattare un amico prigioniero di Carlo d'Angiò. Accenna oscuramente all'esilio di Dante.
+
+118
+E io a lui: "Tuo vero dir m’incora
+bona umiltà, e gran tumor m’appiani;
+ma chi è quei di cui tu parlavi ora?".
+> E io a lui: «Il tuo vero dire mi infonde buona umiltà e mi appiana un grande gonfiore; ma chi è quello di cui parlavi poco fa?».
+
+121
+"Quelli è", rispuose, "Provenzan Salvani;
+ed è qui perché fu presuntüoso
+a recar Siena tutta a le sue mani.
+> «Quello è», rispose, «Provenzan Salvani; ed è qui perché fu presuntuoso a portare tutta Siena nelle sue mani.
+
+124
+Ito è così e va, sanza riposo,
+poi che morì; cotal moneta rende
+a sodisfar chi è di là troppo oso".
+> Così è andato e va, senza riposo, da quando morì; tale moneta paga per soddisfare chi di là è troppo audace».
+
+127
+E io: "Se quello spirito ch’attende,
+pria che si penta, l’orlo de la vita,
+qua giù dimora e qua sù non ascende,
+> E io: «Se quello spirito che attende l'orlo della vita prima di pentirsi, sta laggiù e qui non sale,
+
+130
+se buona orazïon lui non aita,
+prima che passi tempo quanto visse,
+come fu la venuta lui largita?".
+> se una buona preghiera non lo aiuta, prima che passi tanto tempo quanto visse, come fu concessa a lui la venuta?».
+
+133
+"Quando vivea più glorïoso", disse,
+"liberamente nel Campo di Siena,
+ogne vergogna diposta, s’affisse;
+> «Quando viveva più glorioso», disse, «liberamente nel Campo di Siena, deposta ogni vergogna, si mise;
+
+136
+e lì, per trar l’amico suo di pena,
+ch’e’ sostenea ne la prigion di Carlo,
+si condusse a tremar per ogne vena.
+> e lì, per trarre dalla pena un suo amico che sopportava nella prigione di Carlo, si indusse a tremare per ogni vena.
+
+139
+Più non dirò, e scuro so che parlo;
+ma poco tempo andrà, che ’ tuoi vicini
+faranno sì che tu potrai chiosarlo.
+> Non dirò di più, e so di parlare in modo oscuro; ma passerà poco tempo che i tuoi vicini faranno sì che tu potrai spiegarlo.
+
+142
+Quest’opera li tolse quei confini".
+> Quest'opera gli tolse quei confini».
+
+## personaggio | omberto-aldobrandesco | Omberto Aldobrandesco
+dibattuto: no
+chi_era: Conte di Santafiora, figlio di Guglielmo Aldobrandeschi, signore di una potente famiglia toscana in guerra con Siena; fu ucciso a Campagnatico nel 1259 dai senesi. Per superbia di sangue aveva disprezzato ogni uomo.
+
+## personaggio | oderisi-da-gubbio | Oderisi da Gubbio
+dibattuto: no
+chi_era: Miniaturista di Gubbio, attivo nel Duecento, forse a Bologna e a Roma; Dante lo ricorda come «l'onor di quell'arte ch'alluminar chiamata è in Parisi». Rinnega la propria superbia artistica.
+
+## personaggio | provenzan-salvani | Provenzan Salvani
+dibattuto: no
+chi_era: Ghibellino senese, capo dei senesi a Montaperti (1260), morto nel 1269 a Colle Val d'Elsa. Dante lo mostra salvato per un gesto di umiltà: mendicò per riscattare un amico prigioniero.

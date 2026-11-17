@@ -4,7 +4,7 @@
       "id": "dore",
       "nome": "Gustave Doré",
       "breve": "Doré",
-      "opera": "Incisioni per l'Inferno, 1861"
+      "opera": "Incisioni per la Commedia, 1861 (Inferno) e 1868 (Purgatorio)"
     },
     {
       "id": "ia",
@@ -221,6 +221,210 @@
           "canto": 34,
           "titolo": "Lucifero, l'uscita a riveder le stelle",
           "file": "data/inferno/canto-34.json",
+          "disponibile": true
+        }
+      ]
+    },
+    {
+      "id": "purgatorio",
+      "nome": "Purgatorio",
+      "canti": [
+        {
+          "canto": 1,
+          "titolo": "Catone, il giunco e la rugiada",
+          "file": "data/purgatorio/canto-01.json",
+          "disponibile": true
+        },
+        {
+          "canto": 2,
+          "titolo": "L'angelo nocchiero e Casella",
+          "file": "data/purgatorio/canto-02.json",
+          "disponibile": true
+        },
+        {
+          "canto": 3,
+          "titolo": "Il limite della ragione e Manfredi",
+          "file": "data/purgatorio/canto-03.json",
+          "disponibile": true
+        },
+        {
+          "canto": 4,
+          "titolo": "La salita nella roccia, il sole a sinistra e Belacqua",
+          "file": "data/purgatorio/canto-04.json",
+          "disponibile": true
+        },
+        {
+          "canto": 5,
+          "titolo": "I morti per forza: Iacopo, Bonconte e la Pia",
+          "file": "data/purgatorio/canto-05.json",
+          "disponibile": true
+        },
+        {
+          "canto": 6,
+          "titolo": "Sordello e l'invettiva contro l'Italia",
+          "file": "data/purgatorio/canto-06.json",
+          "disponibile": true
+        },
+        {
+          "canto": 7,
+          "titolo": "Virgilio e Sordello, la valletta dei principi",
+          "file": "data/purgatorio/canto-07.json",
+          "disponibile": true
+        },
+        {
+          "canto": 8,
+          "titolo": "La sera nella valletta, Nino Visconti, il serpente e Corrado Malaspina",
+          "file": "data/purgatorio/canto-08.json",
+          "disponibile": true
+        },
+        {
+          "canto": 9,
+          "titolo": "Il sogno dell'aquila, Lucia e la porta del Purgatorio",
+          "file": "data/purgatorio/canto-09.json",
+          "disponibile": true
+        },
+        {
+          "canto": 10,
+          "titolo": "La prima cornice: esempi di umiltà e i superbi",
+          "file": "data/purgatorio/canto-10.json",
+          "disponibile": true
+        },
+        {
+          "canto": 11,
+          "titolo": "Il Padre nostro dei superbi, Omberto, Oderisi e Provenzano",
+          "file": "data/purgatorio/canto-11.json",
+          "disponibile": true
+        },
+        {
+          "canto": 12,
+          "titolo": "Il pavimento scolpito e l'angelo dell'umiltà",
+          "file": "data/purgatorio/canto-12.json",
+          "disponibile": true
+        },
+        {
+          "canto": 13,
+          "titolo": "La seconda cornice: gli invidiosi e Sapia",
+          "file": "data/purgatorio/canto-13.json",
+          "disponibile": true
+        },
+        {
+          "canto": 14,
+          "titolo": "Guido del Duca, l'Arno e la Romagna",
+          "file": "data/purgatorio/canto-14.json",
+          "disponibile": true
+        },
+        {
+          "canto": 15,
+          "titolo": "L'angelo della misericordia, le visioni di mitezza e il fumo",
+          "file": "data/purgatorio/canto-15.json",
+          "disponibile": true
+        },
+        {
+          "canto": 16,
+          "titolo": "Il fumo degli iracondi, Marco Lombardo e il libero arbitrio",
+          "file": "data/purgatorio/canto-16.json",
+          "disponibile": true
+        },
+        {
+          "canto": 17,
+          "titolo": "Le visioni dell'ira, l'angelo della pace e il discorso sull'amore",
+          "file": "data/purgatorio/canto-17.json",
+          "disponibile": true
+        },
+        {
+          "canto": 18,
+          "titolo": "Amore e libero arbitrio, gli accidiosi e l'abate di San Zeno",
+          "file": "data/purgatorio/canto-18.json",
+          "disponibile": true
+        },
+        {
+          "canto": 19,
+          "titolo": "La femmina balba, l'angelo e Adriano V",
+          "file": "data/purgatorio/canto-19.json",
+          "disponibile": true
+        },
+        {
+          "canto": 20,
+          "titolo": "Gli esempi di povertà, Ugo Capeto e il terremoto",
+          "file": "data/purgatorio/canto-20.json",
+          "disponibile": true
+        },
+        {
+          "canto": 21,
+          "titolo": "Stazio, il terremoto e l'incontro con Virgilio",
+          "file": "data/purgatorio/canto-21.json",
+          "disponibile": true
+        },
+        {
+          "canto": 22,
+          "titolo": "Stazio e l'avarizia, il Limbo dei poeti e l'albero",
+          "file": "data/purgatorio/canto-22.json",
+          "disponibile": true
+        },
+        {
+          "canto": 23,
+          "titolo": "I golosi e Forese Donati",
+          "file": "data/purgatorio/canto-23.json",
+          "disponibile": true
+        },
+        {
+          "canto": 24,
+          "titolo": "Bonagiunta, il dolce stil novo e l'angelo della sesta cornice",
+          "file": "data/purgatorio/canto-24.json",
+          "disponibile": true
+        },
+        {
+          "canto": 25,
+          "titolo": "La generazione dell'anima, l'anima aerea e la cornice dei lussuriosi",
+          "file": "data/purgatorio/canto-25.json",
+          "disponibile": true
+        },
+        {
+          "canto": 26,
+          "titolo": "I lussuriosi, Guido Guinizzelli e Arnaut Daniel",
+          "file": "data/purgatorio/canto-26.json",
+          "disponibile": true
+        },
+        {
+          "canto": 27,
+          "titolo": "Il muro di fuoco, il sogno di Lia e il congedo di Virgilio",
+          "file": "data/purgatorio/canto-27.json",
+          "disponibile": true
+        },
+        {
+          "canto": 28,
+          "titolo": "La divina foresta, Matelda e la natura del Paradiso terrestre",
+          "file": "data/purgatorio/canto-28.json",
+          "disponibile": true
+        },
+        {
+          "canto": 29,
+          "titolo": "La processione mistica",
+          "file": "data/purgatorio/canto-29.json",
+          "disponibile": true
+        },
+        {
+          "canto": 30,
+          "titolo": "L'arrivo di Beatrice",
+          "file": "data/purgatorio/canto-30.json",
+          "disponibile": true
+        },
+        {
+          "canto": 31,
+          "titolo": "La confessione di Dante e il bagno nel Lete",
+          "file": "data/purgatorio/canto-31.json",
+          "disponibile": true
+        },
+        {
+          "canto": 32,
+          "titolo": "L'albero spoglio, il sonno di Dante e le sventure del carro",
+          "file": "data/purgatorio/canto-32.json",
+          "disponibile": true
+        },
+        {
+          "canto": 33,
+          "titolo": "La profezia del DXV, Eunoè e la salita alle stelle",
+          "file": "data/purgatorio/canto-33.json",
           "disponibile": true
         }
       ]

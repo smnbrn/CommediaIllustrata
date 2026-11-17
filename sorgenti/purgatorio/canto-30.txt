@@ -1,0 +1,314 @@
+# Purgatorio, canto XXX
+titolo: L'arrivo di Beatrice
+
+## scena-1 | paradiso-terrestre | Il canto «Veni, sponsa, de Libano» e la nuvola di fiori
+personaggi: dante, beatrice
+tavola: dore | Beatrice appare tra gli angeli | img/dore/purgatorio-30-beatrice-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148975620).jpg
+sintesi: Quando il Settentrione del primo cielo, i sette candelabri, si ferma, gli anziani si volgono al carro come alla loro pace; uno di loro grida tre volte «Veni, sponsa, de Libano», e tutti ripetono. Come i beati alla fine dei tempi, cento angeli si levano sul carro, cantando «Benedictus qui venis» e gettando fiori. Dentro una nuvola di fiori appare una donna, con il velo bianco, la corona d'ulivo, il manto verde e una veste del colore di fiamma viva.
+
+1
+Quando il settentrïon del primo cielo,
+che né occaso mai seppe né orto
+né d’altra nebbia che di colpa velo,
+> Quando il settentrione del primo cielo, che né tramonto mai seppe né alba né altro velo di nebbia che di colpa,
+
+4
+e che faceva lì ciascuno accorto
+di suo dover, come ’l più basso face
+qual temon gira per venire a porto,
+> e che faceva lì ciascuno accorto del suo dovere, come il più basso fa a chi gira il timone per venire a porto,
+
+7
+fermo s’affisse: la gente verace,
+venuta prima tra ’l grifone ed esso,
+al carro volse sé come a sua pace;
+> si fermò fisso, la gente veritiera, venuta prima tra il grifone e lui, si volse al carro come alla sua pace;
+
+10
+e un di loro, quasi da ciel messo,
+’Veni, sponsa, de Libano’ cantando
+gridò tre volte, e tutti li altri appresso.
+> e uno di loro, quasi un messo dal cielo, cantando «Veni, sponsa, de Libano» gridò tre volte, e tutti gli altri dietro.
+
+13
+Quali i beati al novissimo bando
+surgeran presti ognun di sua caverna,
+la revestita voce alleluiando,
+> Quali i beati all'ultimo bando sorgeranno pronti ciascuno dalla sua tomba, con la voce rivestita alleluiando,
+
+16
+cotali in su la divina basterna
+si levar cento, ad vocem tanti senis,
+ministri e messagger di vita etterna.
+> tali sulla divina lettiga si levarono cento, ad vocem tanti senis, ministri e messaggeri di vita eterna.
+
+19
+Tutti dicean: ’Benedictus qui venis!’,
+e fior gittando e di sopra e dintorno,
+’Manibus, oh, date lilïa plenis!’.
+> Tutti dicevano: «Benedictus qui venis!», e gettando fiori e sopra e intorno, «Manibus, o date lilia plenis!».
+
+22
+Io vidi già nel cominciar del giorno
+la parte orïental tutta rosata,
+e l’altro ciel di bel sereno addorno;
+> Io vidi già al cominciare del giorno la parte orientale tutta rosata, e l'altro cielo adorno di bel sereno;
+
+25
+e la faccia del sol nascere ombrata,
+sì che per temperanza di vapori
+l’occhio la sostenea lunga fïata:
+> e la faccia del sole nascere ombrata, così che per la temperanza dei vapori l'occhio la sosteneva a lungo:
+
+28
+così dentro una nuvola di fiori
+che da le mani angeliche saliva
+e ricadeva in giù dentro e di fori,
+> così dentro una nuvola di fiori che dalle mani angeliche saliva e ricadeva in giù dentro e fuori,
+
+31
+sovra candido vel cinta d’uliva
+donna m’apparve, sotto verde manto
+vestita di color di fiamma viva.
+> sopra candido velo cinta d'ulivo donna mi apparve, sotto verde manto vestita di colore di fiamma viva.
+
+## scena-2 | paradiso-terrestre | Beatrice rimprovera Dante; Virgilio scompare
+personaggi: dante, beatrice, virgilio
+tavola: ia | Beatrice rimprovera Dante; Virgilio scompare | img/ia/purgatorio-30-scena-2.jpg
+sintesi: Dante, che da tanto tempo non era più affranto dallo stupore della sua presenza, sente la potenza dell'antico amore e si volge a sinistra come un bambino alla mamma per dire a Virgilio: «Conosco i segni dell'antica fiamma». Ma Virgilio non c'è più. Dante piange; Beatrice lo chiama per nome: non piangere ancora, ché dovrai piangere per un'altra spada. Poi lo guarda dal carro, regale e severa: «Guardaci ben! Ben son, ben son Beatrice».
+
+34
+E lo spirito mio, che già cotanto
+tempo era stato ch’a la sua presenza
+non era di stupor, tremando, affranto,
+> E il mio spirito, che già da tanto tempo non era stato affranto, tremando, dallo stupore alla sua presenza,
+
+37
+sanza de li occhi aver più conoscenza,
+per occulta virtù che da lei mosse,
+d’antico amor sentì la gran potenza.
+> senza avere più conoscenza con gli occhi, per occulta virtù che da lei mosse, sentì la gran potenza dell'antico amore.
+
+40
+Tosto che ne la vista mi percosse
+l’alta virtù che già m’avea trafitto
+prima ch’io fuor di püerizia fosse,
+> Appena mi percosse nella vista l'alta virtù che già mi aveva trafitto prima che io fossi fuori dalla fanciullezza,
+
+43
+volsimi a la sinistra col respitto
+col quale il fantolin corre a la mamma
+quando ha paura o quand’elli è afflitto,
+> mi volsi a sinistra con la fiducia con cui il bambino corre alla mamma quando ha paura o quando è afflitto,
+
+46
+per dicere a Virgilio: ’Men che dramma
+di sangue m’è rimaso che non tremi:
+conosco i segni de l’antica fiamma’.
+> per dire a Virgilio: «Meno di una dramma di sangue mi è rimasto che non tremi: conosco i segni dell'antica fiamma».
+
+49
+Ma Virgilio n’avea lasciati scemi
+di sé, Virgilio dolcissimo patre,
+Virgilio a cui per mia salute die’ mi;
+> Ma Virgilio ci aveva lasciati privi di sé, Virgilio dolcissimo padre, Virgilio a cui per mia salvezza mi diedi;
+
+52
+né quantunque perdeo l’antica matre,
+valse a le guance nette di rugiada
+che, lagrimando, non tornasser atre.
+> né quanto perdette l'antica madre, valse alle guance pulite dalla rugiada a non tornare scure, piangendo.
+
+55
+"Dante, perché Virgilio se ne vada,
+non pianger anco, non piangere ancora;
+ché pianger ti conven per altra spada".
+> «Dante, perché Virgilio se ne vada, non piangere ancora, non piangere ancora; perché ti conviene piangere per un'altra spada».
+
+58
+Quasi ammiraglio che in poppa e in prora
+viene a veder la gente che ministra
+per li altri legni, e a ben far l’incora;
+> Come un ammiraglio che a poppa e a prua viene a vedere la gente che serve sulle altre navi, e la incoraggia a ben fare;
+
+61
+in su la sponda del carro sinistra,
+quando mi volsi al suon del nome mio,
+che di necessità qui si registra,
+> sulla sponda sinistra del carro, quando mi volsi al suono del mio nome, che di necessità qui si registra,
+
+64
+vidi la donna che pria m’appario
+velata sotto l’angelica festa,
+drizzar li occhi ver’ me di qua dal rio.
+> vidi la donna che prima mi apparve velata sotto la festa angelica, drizzare gli occhi verso di me di qua dal fiume.
+
+67
+Tutto che ’l vel che le scendea di testa,
+cerchiato de le fronde di Minerva,
+non la lasciasse parer manifesta,
+> Benché il velo che le scendeva dalla testa, cinto delle fronde di Minerva, non la lasciasse apparire manifesta,
+
+70
+regalmente ne l’atto ancor proterva
+continüò come colui che dice
+e ’l più caldo parlar dietro reserva:
+> regalmente nell'atto ancora altera continuò come colui che dice e il parlare più caldo tiene in riserbo:
+
+73
+"Guardaci ben! Ben son, ben son Beatrice.
+Come degnasti d’accedere al monte?
+non sapei tu che qui è l’uom felice?".
+> «Guardaci bene! Sono, sono proprio Beatrice. Come ti sei degnato di accedere al monte? non sapevi che qui è l'uomo felice?».
+
+## scena-3 | paradiso-terrestre | La vergogna di Dante e il canto degli angeli
+personaggi: dante, beatrice
+tavola: ia | La vergogna di Dante e il canto degli angeli | img/ia/purgatorio-30-scena-3.jpg
+sintesi: Dante abbassa gli occhi nel chiaro fonte, ma vedendo se stesso li porta all'erba, tanta vergogna gli grava la fronte. Beatrice gli appare superba come una madre al figlio. Gli angeli cantano «In te, Domine, speravi», ma si fermano a «pedes meos». Il gelo che stringe il cuore di Dante, come la neve sull'Appennino, si scioglie al canto in spirito e acqua, e gli esce in lacrime e sospiri dalla bocca e dagli occhi.
+
+76
+Li occhi mi cadder giù nel chiaro fonte;
+ma veggendomi in esso, i trassi a l’erba,
+tanta vergogna mi gravò la fronte.
+> Gli occhi mi caddero nel chiaro fonte; ma vedendomi in esso, li trassi all'erba, tanta vergogna mi gravò la fronte.
+
+79
+Così la madre al figlio par superba,
+com’ella parve a me; perché d’amaro
+sente il sapor de la pietade acerba.
+> Così la madre al figlio sembra superba, come ella sembrò a me; perché di amaro sente il sapore della pietà acerba.
+
+82
+Ella si tacque; e li angeli cantaro
+di sùbito ’In te, Domine, speravi’;
+ma oltre ’pedes meos’ non passaro.
+> Ella si tacque; e gli angeli cantarono subito «In te, Domine, speravi»; ma oltre «pedes meos» non passarono.
+
+85
+Sì come neve tra le vive travi
+per lo dosso d’Italia si congela,
+soffiata e stretta da li venti schiavi,
+> Come neve tra le vive travi sul dorso d'Italia si congela, soffiata e stretta dai venti schiavoni,
+
+88
+poi, liquefatta, in sé stessa trapela,
+pur che la terra che perde ombra spiri,
+sì che par foco fonder la candela;
+> poi, liquefatta, in sé stessa trapela, purché la terra che perde ombra spiri, così che sembra il fuoco sciogliere la candela;
+
+91
+così fui sanza lagrime e sospiri
+anzi ’l cantar di quei che notan sempre
+dietro a le note de li etterni giri;
+> così fui senza lacrime e sospiri prima del canto di quelli che annotano sempre dietro alle note dei giri eterni;
+
+94
+ma poi che ’ntesi ne le dolci tempre
+lor compartire a me, par che se detto
+avesser: ’Donna, perché sì lo stempre?’,
+> ma dopo che intesi nelle dolci tempre il loro compatire verso di me, come se avessero detto: «Donna, perché così lo stempri?»,
+
+97
+lo gel che m’era intorno al cor ristretto,
+spirito e acqua fessi, e con angoscia
+de la bocca e de li occhi uscì del petto.
+> il gelo che era ristretto intorno al mio cuore si fece spirito e acqua, e con angoscia dalla bocca e dagli occhi uscì dal petto.
+
+## scena-4 | paradiso-terrestre | Beatrice accusa Dante davanti agli angeli
+personaggi: dante, beatrice
+tavola: ia | Beatrice accusa Dante davanti agli angeli | img/ia/purgatorio-30-scena-4.jpg
+sintesi: Beatrice, ferma sul fianco del carro, si rivolge agli angeli, che vigilano nell'eterno giorno: spiega che la sua risposta serve perché colui che piange di là capisca, perché colpa e dolore siano della stessa misura. Dante, nella sua giovinezza, aveva grandi doti; ma più la terra è ricca, più il seme cattivo e non coltivato la fa selvaggia. La sostenne col suo volto, poi quando cambiò vita, si volse ad altri: ella non riuscì a richiamarlo, e solo mostrandogli le anime perdute poteva salvarlo. Per questo visitò Virgilio nel Limbo.
+
+100
+Ella, pur ferma in su la detta coscia
+del carro stando, a le sustanze pie
+volse le sue parole così poscia:
+> Ella, ancora ferma sul fianco detto del carro stando, alle sostanze pie rivolse le sue parole così poi:
+
+103
+"Voi vigilate ne l’etterno die,
+sì che notte né sonno a voi non fura
+passo che faccia il secol per sue vie;
+> «Voi vegliate nell'eterno giorno, così che né notte né sonno vi rubano passo che faccia il secolo per le sue vie;
+
+106
+onde la mia risposta è con più cura
+che m’intenda colui che di là piagne,
+perché sia colpa e duol d’una misura.
+> perciò la mia risposta è con più cura, perché mi intenda colui che di là piange, perché sia colpa e dolore di una misura.
+
+109
+Non pur per ovra de le rote magne,
+che drizzan ciascun seme ad alcun fine
+secondo che le stelle son compagne,
+> Non solo per opera delle ruote grandi, che indirizzano ogni seme a qualche fine secondo che le stelle sono compagne,
+
+112
+ma per larghezza di grazie divine,
+che sì alti vapori hanno a lor piova,
+che nostre viste là non van vicine,
+> ma per larghezza di grazie divine, che hanno per loro pioggia così alti vapori, che le nostre viste non vi arrivano vicino,
+
+115
+questi fu tal ne la sua vita nova
+virtüalmente, ch’ogne abito destro
+fatto averebbe in lui mirabil prova.
+> costui fu tale nella sua vita nova virtualmente, che ogni abito retto avrebbe fatto in lui mirabile prova.
+
+118
+Ma tanto più maligno e più silvestro
+si fa ’l terren col mal seme e non cólto,
+quant’elli ha più di buon vigor terrestro.
+> Ma tanto più maligno e più selvatico si fa il terreno col cattivo seme e non coltivato, quanto ha più di buon vigore terrestre.
+
+121
+Alcun tempo il sostenni col mio volto:
+mostrando li occhi giovanetti a lui,
+meco il menava in dritta parte vòlto.
+> Per un certo tempo lo sostenni col mio volto: mostrandogli gli occhi giovanili, lo conducevo con me volto in diritta parte.
+
+124
+Sì tosto come in su la soglia fui
+di mia seconda etade e mutai vita,
+questi si tolse a me, e diessi altrui.
+> Appena fui sulla soglia della mia seconda età e mutai vita, costui si tolse a me, e si diede ad altri.
+
+127
+Quando di carne a spirto era salita,
+e bellezza e virtù cresciuta m’era,
+fu’ io a lui men cara e men gradita;
+> Quando da carne a spirito ero salita, e bellezza e virtù mi era cresciuta, fui a lui meno cara e meno gradita;
+
+130
+e volse i passi suoi per via non vera,
+imagini di ben seguendo false,
+che nulla promession rendono intera.
+> e volse i suoi passi per via non vera, seguendo immagini di bene false, che nessuna promessa rendono intera.
+
+133
+Né l’impetrare ispirazion mi valse,
+con le quali e in sogno e altrimenti
+lo rivocai: sì poco a lui ne calse!
+> Né mi valse impetrare ispirazioni, con le quali e in sogno e altrimenti lo richiamai: tanto poco gli importò!
+
+136
+Tanto giù cadde, che tutti argomenti
+a la salute sua eran già corti,
+fuor che mostrarli le perdute genti.
+> Cadde tanto in giù, che tutti gli argomenti per la sua salvezza erano già corti, fuorché mostrargli le genti perdute.
+
+139
+Per questo visitai l’uscio d’i morti,
+e a colui che l’ ha qua sù condotto,
+li preghi miei, piangendo, furon porti.
+> Per questo visitai la porta dei morti, e a colui che l'ha condotto quassù, le mie preghiere piangendo furono porte.
+
+142
+Alto fato di Dio sarebbe rotto,
+se Letè si passasse e tal vivanda
+fosse gustata sanza alcuno scotto
+> L'alto decreto di Dio sarebbe infranto, se si passasse Lete e tale vivanda fosse gustata senza alcun pagamento
+
+145
+di pentimento che lagrime spanda".
+> di pentimento che versi lacrime».

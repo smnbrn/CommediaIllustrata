@@ -1,0 +1,326 @@
+# Purgatorio, canto XV
+titolo: L'angelo della misericordia, le visioni di mitezza e il fumo
+
+## scena-1 | cornice-2 | La luce dell'angelo
+personaggi: dante, virgilio
+tavola: ia | La luce dell'angelo | img/ia/purgatorio-15-scena-1.jpg
+sintesi: Il sole è a metà del suo cammino verso sera e i raggi colpiscono Dante in pieno viso. Una luce più forte lo abbaglia, riflessa come un raggio che salta dall'acqua o da uno specchio; Dante si fa schermo con la mano. Virgilio spiega che è l'angelo che li invita a salire.
+
+1
+Quanto tra l’ultimar de l’ora terza
+e ’l principio del dì par de la spera
+che sempre a guisa di fanciullo scherza,
+> Quanto tra la fine dell'ora terza e l'inizio del giorno appare dal cielo che sempre come un fanciullo scherza,
+
+4
+tanto pareva già inver’ la sera
+essere al sol del suo corso rimaso;
+vespero là, e qui mezza notte era.
+> tanto sembrava già mancare alla sera il sole del suo corso; qui era il vespro, laggiù mezzanotte.
+
+7
+E i raggi ne ferien per mezzo ’l naso,
+perché per noi girato era sì ’l monte,
+che già dritti andavamo inver’ l’occaso,
+> E i raggi ci colpivano in mezzo al naso, perché avevamo girato così intorno al monte che andavamo già dritti verso occidente,
+
+10
+quand’io senti’ a me gravar la fronte
+a lo splendore assai più che di prima,
+e stupor m’eran le cose non conte;
+> quando sentii gravarmi la fronte per uno splendore molto più forte di prima, e mi erano di stupore le cose non note;
+
+13
+ond’io levai le mani inver’ la cima
+de le mie ciglia, e fecimi ’l solecchio,
+che del soverchio visibile lima.
+> così levai le mani verso la cima delle mie ciglia, e mi feci schermo, che limita l'eccesso del visibile.
+
+16
+Come quando da l’acqua o da lo specchio
+salta lo raggio a l’opposita parte,
+salendo sù per lo modo parecchio
+> Come quando dall'acqua o dallo specchio salta il raggio dalla parte opposta, salendo in modo simile
+
+19
+a quel che scende, e tanto si diparte
+dal cader de la pietra in igual tratta,
+sì come mostra esperïenza e arte;
+> a quello che scende, e si allontana dalla caduta della pietra in uguale tratto, come mostrano esperienza e arte;
+
+22
+così mi parve da luce rifratta
+quivi dinanzi a me esser percosso;
+per che a fuggir la mia vista fu ratta.
+> così mi parve di essere percosso da luce riflessa lì davanti a me; per questo la mia vista fu pronta a fuggire.
+
+25
+"Che è quel, dolce padre, a che non posso
+schermar lo viso tanto che mi vaglia",
+diss’io, "e pare inver’ noi esser mosso?".
+> «Che cos'è quello, dolce padre, da cui non riesco a schermare il viso abbastanza», dissi, «e sembra venire verso di noi?».
+
+28
+"Non ti maravigliar s’ancor t’abbaglia
+la famiglia del cielo", a me rispuose:
+"messo è che viene ad invitar ch’om saglia.
+> «Non ti meravigliare se ti abbaglia ancora la famiglia del cielo», mi rispose: «è un messo che viene a invitare a salire.
+
+31
+Tosto sarà ch’a veder queste cose
+non ti fia grave, ma fieti diletto
+quanto natura a sentir ti dispuose".
+> Presto sarà che il vedere queste cose non ti sarà pesante, ma ti sarà un diletto quanto la natura ti ha disposto a sentire».
+
+## scena-2 | cornice-2 | L'angelo della misericordia e il bene condiviso
+personaggi: dante, virgilio, angelo-della-misericordia
+tavola: ia | L'angelo della misericordia e il bene condiviso | img/ia/purgatorio-15-scena-2.jpg
+sintesi: Giunti all'angelo benedetto, questi invita con voce lieta a entrare per una scala meno ripida. Mentre salgono si canta «Beati i misericordiosi» e «Godi tu che vinci». Dante chiede a Virgilio che cosa volesse dire Guido del Duca con «divieto» e «consorte»; Virgilio spiega che l'invidia nasce dal volere beni che si riducono se divisi, mentre in Cielo il bene condiviso cresce, come la luce che arriva a un corpo lucente: tanto si dà quanto trova ardore.
+
+34
+Poi giunti fummo a l’angel benedetto,
+con lieta voce disse: "Intrate quinci
+ad un scaleo vie men che li altri eretto".
+> Quando fummo giunti all'angelo benedetto, disse con voce lieta: «Entrate di qui in una scala molto meno ripida delle altre».
+
+37
+Noi montavam, già partiti di linci,
+e ’Beati misericordes!’ fue
+cantato retro, e ’Godi tu che vinci!’.
+> Salivamo, già partiti di lì, e dietro di noi fu cantato «Beati misericordes!» e «Godi tu che vinci!».
+
+40
+Lo mio maestro e io soli amendue
+suso andavamo; e io pensai, andando,
+prode acquistar ne le parole sue;
+> Io e il mio maestro andavamo su soli entrambi; e io pensai, andando, di guadagnare qualcosa dalle sue parole;
+
+43
+e dirizza’ mi a lui sì dimandando:
+"Che volse dir lo spirto di Romagna,
+e ’divieto’ e ’consorte’ menzionando?".
+> e mi rivolsi a lui, domandando: «Che cosa volle dire lo spirito di Romagna, menzionando "divieto" e "consorte"?».
+
+46
+Per ch’elli a me: "Di sua maggior magagna
+conosce il danno; e però non s’ammiri
+se ne riprende perché men si piagna.
+> Ed egli a me: «Conosce il danno della sua maggiore colpa; perciò non c'è da stupirsi se la rimprovera perché se ne pianga meno.
+
+49
+Perché s’appuntano i vostri disiri
+dove per compagnia parte si scema,
+invidia move il mantaco a’ sospiri.
+> Poiché i vostri desideri si appuntano dove per compagnia la parte si riduce, l'invidia muove il mantice ai sospiri.
+
+52
+Ma se l’amor de la spera supprema
+torcesse in suso il disiderio vostro,
+non vi sarebbe al petto quella tema;
+> Ma se l'amore della sfera suprema volgesse in alto il vostro desiderio, non vi sarebbe nel petto quella paura;
+
+55
+ché, per quanti si dice più lì ’nostro’,
+tanto possiede più di ben ciascuno,
+e più di caritate arde in quel chiostro".
+> perché, quanto più là si dice «nostro», tanto più ciascuno possiede di bene, e più di carità arde in quel chiostro».
+
+58
+"Io son d’esser contento più digiuno",
+diss’io, "che se mi fosse pria taciuto,
+e più di dubbio ne la mente aduno.
+> «Io sono più digiuno di essere contento», dissi, «che se prima avessi taciuto, e accumulo più dubbio nella mente.
+
+61
+Com’esser puote ch’un ben, distributo
+in più posseditor, faccia più ricchi
+di sé che se da pochi è posseduto?".
+> Come può essere che un bene, distribuito fra più possessori, li faccia più ricchi di sé che se è posseduto da pochi?».
+
+64
+Ed elli a me: "Però che tu rificchi
+la mente pur a le cose terrene,
+di vera luce tenebre dispicchi.
+> Ed egli a me: «Poiché tu fissi la mente solo alle cose terrene, dalla vera luce raccogli tenebre.
+
+67
+Quello infinito e ineffabil bene
+che là sù è, così corre ad amore
+com’a lucido corpo raggio vene.
+> Quel bene infinito e ineffabile che è lassù corre così verso l'amore come il raggio viene a un corpo lucente.
+
+70
+Tanto si dà quanto trova d’ardore;
+sì che, quantunque carità si stende,
+cresce sovr’essa l’etterno valore.
+> Tanto si dà quanto trova ardore; così, per quanto la carità si estende, sopra di essa cresce l'eterno valore.
+
+73
+E quanta gente più là sù s’intende,
+più v’è da bene amare, e più vi s’ama,
+e come specchio l’uno a l’altro rende.
+> E quanta più gente lassù si intende, più c'è da amare bene, e più vi si ama, e come specchio l'uno rende all'altro.
+
+76
+E se la mia ragion non ti disfama,
+vedrai Beatrice, ed ella pienamente
+ti torrà questa e ciascun’altra brama.
+> E se la mia ragione non ti sazia, vedrai Beatrice, ed ella pienamente ti toglierà questo e ogni altro desiderio.
+
+79
+Procaccia pur che tosto sieno spente,
+come son già le due, le cinque piaghe,
+che si richiudon per esser dolente".
+> Procura soltanto che presto siano spente, come lo sono già le due, le cinque piaghe, che si richiudono con il dolore».
+
+## scena-3 | cornice-3 | Le visioni di mitezza
+personaggi: dante, virgilio, maria, pisistrato, santo-stefano
+tavola: dore | La lapidazione di santo Stefano | img/dore/purgatorio-15-stefano-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148974648).jpg
+sintesi: Salito alla terza cornice, Dante è preso da una visione estatica: Maria nel tempio che rimprovera dolcemente il figlio Gesù ritrovato dopo tre giorni; la moglie di Pisistrato che chiede vendetta e il tiranno che risponde con mitezza; infine la folla che lapida a morte un giovinetto, santo Stefano, che con gli occhi al cielo prega Dio di perdonare i suoi persecutori.
+
+82
+Com’io voleva dicer ’Tu m’appaghe’,
+vidimi giunto in su l’altro girone,
+sì che tacer mi fer le luci vaghe.
+> Mentre volevo dire «Mi hai appagato», mi vidi giunto sull'altro girone, così che mi fecero tacere gli occhi desiderosi.
+
+85
+Ivi mi parve in una visïone
+estatica di sùbito esser tratto,
+e vedere in un tempio più persone;
+> Lì mi sembrò di essere tratto improvvisamente in una visione estatica, e di vedere in un tempio più persone;
+
+88
+e una donna, in su l’entrar, con atto
+dolce di madre dicer: "Figliuol mio,
+perché hai tu così verso noi fatto?
+> e una donna, sull'entrata, con atto dolce di madre dire: «Figlio mio, perché ci hai fatto così?
+
+91
+Ecco, dolenti, lo tuo padre e io
+ti cercavamo". E come qui si tacque,
+ciò che pareva prima, dispario.
+> Ecco, addolorati, tuo padre e io ti cercavamo». E appena qui tacque, ciò che sembrava prima scomparve.
+
+94
+Indi m’apparve un’altra con quell’acque
+giù per le gote che ’l dolor distilla
+quando di gran dispetto in altrui nacque,
+> Poi mi apparve un'altra con quelle lacrime che il dolore distilla lungo le guance quando nasce da gran dispetto per un altro,
+
+97
+e dir: "Se tu se’ sire de la villa
+del cui nome ne’ dèi fu tanta lite,
+e onde ogne scïenza disfavilla,
+> e dire: «Se tu sei signore della città per il cui nome tra gli dèi fu tanta lite, e da cui ogni scienza sfavilla,
+
+100
+vendica te di quelle braccia ardite
+ch’abbracciar nostra figlia, o Pisistràto".
+E ’l segnor mi parea, benigno e mite,
+> vendicati di quelle braccia audaci che abbracciarono nostra figlia, o Pisistrato». E il signore mi sembrava, benigno e mite,
+
+103
+risponder lei con viso temperato:
+"Che farem noi a chi mal ne disira,
+se quei che ci ama è per noi condannato?".
+> risponderle con viso pacato: «Che faremo a chi ci vuole male, se colui che ci ama è da noi condannato?».
+
+106
+Poi vidi genti accese in foco d’ira
+con pietre un giovinetto ancider, forte
+gridando a sé pur: "Martira, martira!".
+> Poi vidi genti accese di furore uccidere con pietre un giovinetto, gridando forte a se stesse: «Martira, martira!».
+
+109
+E lui vedea chinarsi, per la morte
+che l’aggravava già, inver’ la terra,
+ma de li occhi facea sempre al ciel porte,
+> E lo vedevo chinarsi, per la morte che già lo opprimeva, verso terra, ma faceva sempre degli occhi porte al cielo,
+
+112
+orando a l’alto Sire, in tanta guerra,
+che perdonasse a’ suoi persecutori,
+con quello aspetto che pietà diserra.
+> pregando l'alto Signore, in tanta guerra, che perdonasse ai suoi persecutori, con quell'aspetto che apre la pietà.
+
+## scena-4 | cornice-3 | Il fumo
+personaggi: dante, virgilio
+tavola: ia | Il fumo | img/ia/purgatorio-15-scena-4.jpg
+sintesi: Tornato in sé, Dante riconosce i suoi non falsi errori; Virgilio, che lo ha visto camminare mezza lega con gli occhi velati e le gambe incerte come un ubriaco, spiega che le visioni servono ad aprire il cuore alle acque della pace. Camminano verso il tramonto, con i raggi in faccia, quando un fumo oscuro come la notte avanza verso di loro, togliendo la vista e l'aria pura.
+
+115
+Quando l’anima mia tornò di fori
+a le cose che son fuor di lei vere,
+io riconobbi i miei non falsi errori.
+> Quando la mia anima tornò fuori alle cose che sono vere fuori di lei, riconobbi i miei non falsi errori.
+
+118
+Lo duca mio, che mi potea vedere
+far sì com’om che dal sonno si slega,
+disse: "Che hai che non ti puoi tenere,
+> La mia guida, che poteva vedermi comportarmi come chi si slega dal sonno, disse: «Che hai che non ti puoi reggere,
+
+121
+ma se’ venuto più che mezza lega
+velando li occhi e con le gambe avvolte,
+a guisa di cui vino o sonno piega?".
+> ma sei venuto più di mezza lega velando gli occhi e con le gambe intrecciate, come chi è piegato dal vino o dal sonno?».
+
+124
+"O dolce padre mio, se tu m’ascolte,
+io ti dirò", diss’io, "ciò che m’apparve
+quando le gambe mi furon sì tolte".
+> «O dolce padre mio, se mi ascolti, ti dirò», dissi, «ciò che mi apparve quando le gambe mi furono tolte».
+
+127
+Ed ei: "Se tu avessi cento larve
+sovra la faccia, non mi sarian chiuse
+le tue cogitazion, quantunque parve.
+> Ed egli: «Se tu avessi cento maschere sul viso, non mi sarebbero chiusi i tuoi pensieri, per quanto piccoli sembrino.
+
+130
+Ciò che vedesti fu perché non scuse
+d’aprir lo core a l’acque de la pace
+che da l’etterno fonte son diffuse.
+> Ciò che vedesti fu perché non ti scusassi dall'aprire il cuore alle acque della pace che sono diffuse dall'eterna fonte.
+
+133
+Non dimandai "Che hai?" per quel che face
+chi guarda pur con l’occhio che non vede,
+quando disanimato il corpo giace;
+> Non domandai «Che hai?» per ciò che fa chi guarda solo con l'occhio che non vede, quando il corpo giace senz'anima;
+
+136
+ma dimandai per darti forza al piede:
+così frugar conviensi i pigri, lenti
+ad usar lor vigilia quando riede".
+> ma domandai per dare forza al piede: così bisogna stimolare i pigri, lenti a usare la loro veglia quando ritorna».
+
+139
+Noi andavam per lo vespero, attenti
+oltre quanto potean li occhi allungarsi
+contra i raggi serotini e lucenti.
+> Andavamo nel vespro, attenti più di quanto potevano allungarsi gli occhi contro i raggi serotini e lucenti.
+
+142
+Ed ecco a poco a poco un fummo farsi
+verso di noi come la notte oscuro;
+né da quello era loco da cansarsi.
+> Ed ecco a poco a poco un fumo farsi verso di noi, oscuro come la notte; né c'era luogo per sfuggirgli.
+
+145
+Questo ne tolse li occhi e l’aere puro.
+> Questo ci tolse gli occhi e l'aria pura.
+
+## personaggio | angelo-della-misericordia | L'angelo della misericordia
+dibattuto: no
+chi_era: L'angelo che custodisce il passaggio dalla seconda alla terza cornice; cancella il secondo P dalla fronte di Dante e intona «Beati i misericordiosi».
+
+## personaggio | pisistrato | Pisistrato
+dibattuto: no
+chi_era: Tiranno di Atene (VI sec. a.C.). Nell'aneddoto riportato da Valerio Massimo, la moglie gli chiede di punire un giovane che aveva abbracciato la loro figlia in pubblico; egli risponde con mitezza.
+
+## personaggio | santo-stefano | Santo Stefano
+dibattuto: no
+chi_era: Il primo martire cristiano, lapidato a Gerusalemme (Atti degli Apostoli); prega Dio di perdonare i suoi persecutori. Terzo esempio di mansuetudine nella terza cornice.

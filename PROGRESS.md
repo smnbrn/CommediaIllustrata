@@ -1,3 +1,9 @@
+# PROGRESS — Purgatorio (17/11/2026)
+
+Tutti i 33 canti: testo da Wikisource, 129 scene, parafrasi di ogni terzina, personaggi, luoghi in `data/luoghi-purgatorio.json` (il 3D dell'Inferno non lo legge). Tavole: 42 incisioni di Doré dall'edizione tedesca del 1871 (ritagli in `img/dore/`, `strumenti/ritaglia.py`) e 85 immagini IA (`img/ia/`, post-produzione con `strumenti/ia_dopo.py`; elenco e descrizioni in `data/scene-senza-tavola-purgatorio.md` e `data/descrizioni-scene-ia-purgatorio.md`). Interfaccia in viola chiaro per la cantica (`[data-cantica="purgatorio"]` in `css/stile.css`).
+
+Da fare: mini-mappa della montagna (oggi nascosta nel Purgatorio), versione 3D, rifare con Gemini le immagini XX/4 e XXVIII/3 (scritte nell'immagine).
+
 # PROGRESS — Inferno
 
 Il prototipo (canti I–V) è servito a fissare la qualità; ora l'Inferno è completo.

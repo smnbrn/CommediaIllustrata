@@ -103,3 +103,13 @@ Uguale per tutte le immagini, cambia solo la descrizione della scena:
 > Scene: [descrizione della scena in inglese: chi c'è, dove, cosa succede, da dove arriva la luce, da che punto la vediamo]
 >
 > COMPOSITION: vertical format (3:4), like a book plate, framed by a thin black border line with a white paper margin around it. No text, no captions, no signature, no initials, no marks in the corners, no modern elements. Highest resolution possible.
+
+## Purgatorio (17/11/2026)
+
+85 immagini per le scene del Purgatorio senza tavola di Doré, in `img/ia/purgatorio-<NN>-scena-<K>.jpg` (elenco in `scene-senza-tavola-purgatorio.md`, descrizioni in `descrizioni-scene-ia-purgatorio.md`). Stesso prompt dell'Inferno.
+
+Post-produzione con `python -I strumenti/ia_dopo.py <cartella>`: immagine in scala di grigi, firma inventata dall'IA coperta (in basso a sinistra o a destra dentro la cornice, copiando la trama del tratteggio accanto), JPEG al massimo di 960 px. Le firme sono state riconosciute a vista immagine per immagine (elenco in `FIRME` dentro lo script).
+
+**Corrette il 17/11/2026** (rigenerate da Gemini con le indicazioni di modifica): `purgatorio/6/scena-4` (Firenze ora è una donna), `purgatorio/17/scena-1` (Aman impiccato, non in croce), `purgatorio/19/scena-4` (Adriano V a faccia in giù).
+
+**Lasciate com'erano** (restano pubblicate, ma con scritte nell'immagine): `purgatorio/20/scena-4` (il cartiglio «Gloria in excelsis Deo») e `purgatorio/28/scena-3` (le scritte «Lethe» ed «Eunoe» sui ruscelli).

@@ -1,0 +1,318 @@
+# Purgatorio, canto IX
+titolo: Il sogno dell'aquila, Lucia e la porta del Purgatorio
+
+## scena-1 | valletta-principi | Il sogno dell'aquila
+personaggi: dante, virgilio
+tavola: dore | Il sogno dell'aquila | img/dore/purgatorio-09-aquila-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148974358).jpg
+sintesi: Alla fine della notte Dante, vinto dal sonno, si addormenta sull'erba. Nell'ora dei sogni veritieri gli sembra di vedere un'aquila dalle penne d'oro che, sospesa nel cielo, scende come folgore, lo afferra e lo porta in alto fino al fuoco, dove entrambi sembrano ardere; il bruciore lo sveglia, smarrito come Achille portato via da Chirone.
+
+1
+La concubina di Titone antico
+già s’imbiancava al balco d’orïente,
+fuor de le braccia del suo dolce amico;
+> L'amante di Titone antico già biancheggiava sul balcone d'oriente, uscita dalle braccia del suo dolce amico;
+
+4
+di gemme la sua fronte era lucente,
+poste in figura del freddo animale
+che con la coda percuote la gente;
+> la sua fronte era lucente di gemme, disposte nella figura dell'animale freddo che percuote la gente con la coda;
+
+7
+e la notte, de’ passi con che sale,
+fatti avea due nel loco ov’eravamo,
+e ’l terzo già chinava in giuso l’ale;
+> e la notte, dei passi con cui sale, ne aveva fatti due nel luogo in cui eravamo, e il terzo già abbassava le ali;
+
+10
+quand’io, che meco avea di quel d’Adamo,
+vinto dal sonno, in su l’erba inchinai
+là ’ve già tutti e cinque sedavamo.
+> quando io, che avevo con me qualcosa di Adamo, vinto dal sonno mi sdraiai sull'erba dove ormai sedevamo tutti e cinque.
+
+13
+Ne l’ora che comincia i tristi lai
+la rondinella presso a la mattina,
+forse a memoria de’ suo’ primi guai,
+> Nell'ora che comincia i tristi lamenti la rondinella presso il mattino, forse in ricordo dei suoi primi guai,
+
+16
+e che la mente nostra, peregrina
+più da la carne e men da’ pensier presa,
+a le sue visïon quasi è divina,
+> e in cui la nostra mente, più pellegrina dalla carne e meno presa dai pensieri, nelle sue visioni è quasi divina,
+
+19
+in sogno mi parea veder sospesa
+un’aguglia nel ciel con penne d’oro,
+con l’ali aperte e a calare intesa;
+> in sogno mi sembrava di vedere sospesa nel cielo un'aquila con penne d'oro, con le ali aperte e intenta a scendere;
+
+22
+ed esser mi parea là dove fuoro
+abbandonati i suoi da Ganimede,
+quando fu ratto al sommo consistoro.
+> e mi sembrava di essere là dove furono abbandonati i suoi da Ganimede, quando fu rapito al sommo concilio.
+
+25
+Fra me pensava: ’Forse questa fiede
+pur qui per uso, e forse d’altro loco
+disdegna di portarne suso in piede’.
+> Fra me pensavo: «Forse questa ferisce qui solo per abitudine, e forse sdegna di portare su con gli artigli da un altro luogo».
+
+28
+Poi mi parea che, poi rotata un poco,
+terribil come folgor discendesse,
+e me rapisse suso infino al foco.
+> Poi mi sembrava che, dopo aver rotato un poco, terribile come un fulmine scendesse, e mi rapisse in alto fino al fuoco.
+
+31
+Ivi parea che ella e io ardesse;
+e sì lo ’ncendio imaginato cosse,
+che convenne che ’l sonno si rompesse.
+> Lì sembrava che ardessimo lei e io; e l'incendio immaginato mi bruciò tanto che il sonno dovette spezzarsi.
+
+34
+Non altrimenti Achille si riscosse,
+li occhi svegliati rivolgendo in giro
+e non sappiendo là dove si fosse,
+> Non diversamente Achille si scosse, volgendo in giro gli occhi svegliati e non sapendo dove fosse,
+
+37
+quando la madre da Chirón a Schiro
+trafuggò lui dormendo in le sue braccia,
+là onde poi li Greci il dipartiro;
+> quando la madre da Chirone a Sciro lo portò via in braccio mentre dormiva, là da dove poi i Greci lo tolsero;
+
+40
+che mi scoss’io, sì come da la faccia
+mi fuggì ’l sonno, e diventa’ ismorto,
+come fa l’uom che, spaventato, agghiaccia.
+> come mi scossi io, appena il sonno mi fuggì dal volto, e diventai smorto, come fa l'uomo che, spaventato, ghiaccia.
+
+## scena-2 | valletta-principi | Lucia ha portato Dante
+personaggi: dante, virgilio, lucia
+tavola: ia | Lucia ha portato Dante | img/ia/purgatorio-09-scena-2.jpg
+sintesi: Svegliato, Dante vede il sole già alto da più di due ore e ha accanto solo Virgilio. Questi lo rassicura: è arrivato al Purgatorio, ecco il balzo che lo chiude e l'entrata. All'alba, mentre Dante dormiva sui fiori, venne Lucia, lo prese in braccio e lo portò fin lassù; Virgilio la seguì. Dante, rassicurato, riprende coraggio e sale.
+
+43
+Dallato m’era solo il mio conforto,
+e ’l sole er’alto già più che due ore,
+e ’l viso m’era a la marina torto.
+> Accanto a me c'era solo il mio conforto, e il sole era alto già da più di due ore, e il mio viso era rivolto al mare.
+
+46
+"Non aver tema", disse il mio segnore;
+"fatti sicur, ché noi semo a buon punto;
+non stringer, ma rallarga ogne vigore.
+> «Non aver paura», disse il mio signore; «rassicurati, perché siamo a buon punto; non trattenere, ma allarga ogni forza.
+
+49
+Tu se’ omai al purgatorio giunto:
+vedi là il balzo che ’l chiude dintorno;
+vedi l’entrata là ’ve par digiunto.
+> Sei ormai giunto al Purgatorio: vedi laggiù il balzo che lo chiude intorno; vedi l'entrata là dove sembra interrotto.
+
+52
+Dianzi, ne l’alba che procede al giorno,
+quando l’anima tua dentro dormia,
+sovra li fiori ond’è là giù addorno
+> Poco fa, nell'alba che precede il giorno, quando la tua anima dormiva dentro di te, sopra i fiori di cui laggiù è adorna la valle,
+
+55
+venne una donna, e disse: "I’ son Lucia;
+lasciatemi pigliar costui che dorme;
+sì l’agevolerò per la sua via".
+> venne una donna e disse: "Io sono Lucia; lasciate che prenda costui che dorme; così gli renderò più facile il suo cammino".
+
+58
+Sordel rimase e l’altre genti forme;
+ella ti tolse, e come ’l dì fu chiaro,
+sen venne suso; e io per le sue orme.
+> Sordello rimase e le altre nobili anime; ella ti prese e, appena fu chiaro il giorno, salì in alto; e io seguii le sue orme.
+
+61
+Qui ti posò, ma pria mi dimostraro
+li occhi suoi belli quella intrata aperta;
+poi ella e ’l sonno ad una se n’andaro".
+> Qui ti posò, ma prima i suoi begli occhi mi indicarono quell'entrata aperta; poi lei e il sonno se ne andarono insieme».
+
+64
+A guisa d’uom che ’n dubbio si raccerta
+e che muta in conforto sua paura,
+poi che la verità li è discoperta,
+> Come l'uomo che, nel dubbio, si rassicura e muta la sua paura in conforto, dopo che gli è scoperta la verità,
+
+67
+mi cambia’ io; e come sanza cura
+vide me ’l duca mio, su per lo balzo
+si mosse, e io di rietro inver’ l’altura.
+> mi cambiai io; e quando la mia guida mi vide senza paura, si mosse su per il balzo, e io dietro verso l'altura.
+
+## scena-3 | porta-purgatorio | L'angelo custode e i tre gradini
+personaggi: dante, virgilio, angelo-portiere
+tavola: dore | L'angelo portiere | img/dore/purgatorio-09-portiere-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148974378).jpg
+sintesi: Il poeta avverte il lettore che innalza la materia e vi pone più arte. Davanti alla porta, a cui si sale per tre gradini di colori diversi, siede un portiere dal volto così luminoso che Dante non lo sostiene, con in mano una spada nuda che riflette i raggi. Chiede chi siano; Virgilio spiega che li manda una donna celeste, e l'angelo li invita ai gradini: marmo bianco in cui Dante si specchia, pietra scura e screpolata, porfido rosso come sangue.
+
+70
+Lettor, tu vedi ben com’io innalzo
+la mia matera, e però con più arte
+non ti maravigliar s’io la rincalzo.
+> Lettore, vedi bene come innalzo la mia materia, e perciò non ti meravigliare se la sostengo con più arte.
+
+73
+Noi ci appressammo, ed eravamo in parte
+che là dove pareami prima rotto,
+pur come un fesso che muro diparte,
+> Ci avvicinammo, ed eravamo in un punto in cui, là dove prima mi sembrava una rottura, come una fessura che separa un muro,
+
+76
+vidi una porta, e tre gradi di sotto
+per gire ad essa, di color diversi,
+e un portier ch’ancor non facea motto.
+> vidi una porta, e tre gradini di sotto per salire ad essa, di colori diversi, e un portiere che ancora non parlava.
+
+79
+E come l’occhio più e più v’apersi,
+vidil seder sovra ’l grado sovrano,
+tal ne la faccia ch’io non lo soffersi;
+> E man mano che aprivo più e più l'occhio, lo vidi seduto sul gradino più alto, tale nel volto che non lo sostenni;
+
+82
+e una spada nuda avëa in mano,
+che reflettëa i raggi sì ver’ noi,
+ch’io dirizzava spesso il viso in vano.
+> e aveva in mano una spada nuda, che rifletteva i raggi verso di noi, così che alzavo spesso invano il viso.
+
+85
+"Dite costinci: che volete voi?",
+cominciò elli a dire, "ov’è la scorta?
+Guardate che ’l venir sù non vi nòi".
+> «Dite di lì: che volete?», cominciò a dire, «dov'è la scorta? Badate che il salire non vi nuoccia».
+
+88
+"Donna del ciel, di queste cose accorta",
+rispuose ’l mio maestro a lui, "pur dianzi
+ne disse: "Andate là: quivi è la porta"".
+> «Una donna del cielo, esperta di queste cose», rispose il mio maestro, «poco fa ci disse: "Andate là: lì è la porta"».
+
+91
+"Ed ella i passi vostri in bene avanzi",
+ricominciò il cortese portinaio:
+"Venite dunque a’ nostri gradi innanzi".
+> «E ella faccia avanzare i vostri passi in bene», ricominciò il cortese portinaio: «venite dunque ai nostri gradini».
+
+94
+Là ne venimmo; e lo scaglion primaio
+bianco marmo era sì pulito e terso,
+ch’io mi specchiai in esso qual io paio.
+> Là andammo; e il primo scalino era di marmo bianco, così levigato e terso che mi specchiai in esso come appaio.
+
+97
+Era il secondo tinto più che perso,
+d’una petrina ruvida e arsiccia,
+crepata per lo lungo e per traverso.
+> Il secondo era più scuro del perso, di una pietra ruvida e bruciata, crepata per il lungo e per il traverso.
+
+100
+Lo terzo, che di sopra s’ammassiccia,
+porfido mi parea, sì fiammeggiante
+come sangue che fuor di vena spiccia.
+> Il terzo, che sopra si ammassa, mi sembrava porfido, tanto fiammeggiante come sangue che zampilla da una vena.
+
+103
+Sovra questo tenëa ambo le piante
+l’angel di Dio sedendo in su la soglia
+che mi sembiava pietra di diamante.
+> Sopra questo teneva entrambi i piedi l'angelo di Dio, seduto sulla soglia che mi sembrava di diamante.
+
+## scena-4 | porta-purgatorio | I sette P e le due chiavi
+personaggi: dante, virgilio, angelo-portiere
+tavola: dore | L'angelo portiere | img/dore/purgatorio-09-portiere-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148974378).jpg
+sintesi: Virgilio spinge Dante su per i tre gradini a chiedere umilmente che la porta sia aperta. Dante si getta ai piedi dell'angelo, si batte tre volte il petto, e l'angelo gli incide sette P sulla fronte con la punta della spada, ordinandogli di lavare quelle piaghe all'interno. Con due chiavi, una d'oro e una d'argento, apre la porta: dice di averle da Pietro e avverte di non voltarsi indietro. La porta si apre con un suono mentre risuona il «Te Deum».
+
+106
+Per li tre gradi sù di buona voglia
+mi trasse il duca mio, dicendo: "Chiedi
+umilemente che ’l serrame scioglia".
+> Su per i tre gradini di buona voglia mi trasse la mia guida, dicendo: «Chiedi umilmente che sciolga il chiavistello».
+
+109
+Divoto mi gittai a’ santi piedi;
+misericordia chiesi e ch’el m’aprisse,
+ma tre volte nel petto pria mi diedi.
+> Mi gettai devoto ai santi piedi; chiesi misericordia e che mi aprisse, ma prima mi battei tre volte il petto.
+
+112
+Sette P ne la fronte mi descrisse
+col punton de la spada, e "Fa che lavi,
+quando se’ dentro, queste piaghe" disse.
+> Mi incise sette P sulla fronte con la punta della spada, e disse: «Fa' che tu lavi, quando sei dentro, queste piaghe».
+
+115
+Cenere, o terra che secca si cavi,
+d’un color fora col suo vestimento;
+e di sotto da quel trasse due chiavi.
+> Cenere, o terra che si scavi secca, sarebbe dello stesso colore della sua veste; e da sotto di essa trasse due chiavi.
+
+118
+L’una era d’oro e l’altra era d’argento;
+pria con la bianca e poscia con la gialla
+fece a la porta sì, ch’i’ fu’ contento.
+> L'una era d'oro e l'altra d'argento; prima con la bianca e poi con la gialla fece alla porta in modo che io fui contento.
+
+121
+"Quandunque l’una d’este chiavi falla,
+che non si volga dritta per la toppa",
+diss’elli a noi, "non s’apre questa calla.
+> «Ogni volta che una di queste chiavi manca», disse a noi, «e non gira dritta nella toppa, questa via non si apre.
+
+124
+Più cara è l’una; ma l’altra vuol troppa
+d’arte e d’ingegno avanti che diserri,
+perch’ella è quella che ’l nodo digroppa.
+> Una è più cara; ma l'altra richiede troppa arte e ingegno prima che apra, perché è quella che scioglie il nodo.
+
+127
+Da Pier le tegno; e dissemi ch’i’ erri
+anzi ad aprir ch’a tenerla serrata,
+pur che la gente a’ piedi mi s’atterri".
+> Le tengo da Pietro; e mi disse di sbagliare piuttosto ad aprire che a tenerla chiusa, purché la gente si getti ai miei piedi».
+
+130
+Poi pinse l’uscio a la porta sacrata,
+dicendo: "Intrate; ma facciovi accorti
+che di fuor torna chi ’n dietro si guata".
+> Poi spinse l'uscio della porta sacra, dicendo: «Entrate; ma vi faccio avvertiti che torna fuori chi si guarda indietro».
+
+133
+E quando fuor ne’ cardini distorti
+li spigoli di quella regge sacra,
+che di metallo son sonanti e forti,
+> E quando i cardini di quella sacra reggia girarono, ed erano fatti di metallo sonoro e forte,
+
+136
+non rugghiò sì né si mostrò sì acra
+Tarpëa, come tolto le fu il buono
+Metello, per che poi rimase macra.
+> non rugghiò così né si mostrò così aspra la rupe Tarpea, quando le fu tolto il buon Metello, per cui poi rimase povera.
+
+139
+Io mi rivolsi attento al primo tuono,
+e ’Te Deum laudamus’ mi parea
+udire in voce mista al dolce suono.
+> Mi volsi attento al primo tuono, e mi sembrava di udire «Te Deum laudamus» in voce mista a dolce suono.
+
+142
+Tale imagine a punto mi rendea
+ciò ch’io udiva, qual prender si suole
+quando a cantar con organi si stea;
+> Tale impressione mi rendeva ciò che udivo, quale si suole avere quando si sta a cantare con gli organi,
+
+145
+ch’or sì or no s’intendon le parole.
+> che ora sì ora no si capiscono le parole.
+
+## personaggio | angelo-portiere | L'angelo portiere
+dibattuto: no
+chi_era: L'angelo custode della porta del Purgatorio, dal volto splendente e dalla spada nuda; siede sul terzo gradino, di diamante. Incide sulla fronte di Dante sette P (peccati) e apre con due chiavi, d'oro e d'argento, ricevute da san Pietro.

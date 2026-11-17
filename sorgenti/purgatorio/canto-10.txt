@@ -1,0 +1,318 @@
+# Purgatorio, canto X
+titolo: La prima cornice: esempi di umiltà e i superbi
+
+## scena-1 | porta-purgatorio | La pietra fessa e la prima cornice
+personaggi: dante, virgilio
+tavola: ia | La pietra fessa e la prima cornice | img/ia/purgatorio-10-scena-1.jpg
+sintesi: Varcata la soglia, Dante sente la porta richiudersi dietro di sé: se si fosse voltato, quale scusa avrebbe avuto? I poeti salgono per una fenditura nella roccia che si muove come un'onda; Virgilio avverte che occorre un po' d'arte, e passando ora da un lato ora dall'altro arrivano a un ripiano deserto come una strada nel deserto, largo tre corpi umani: la prima cornice.
+
+1
+Poi fummo dentro al soglio de la porta
+che ’l mal amor de l’anime disusa,
+perché fa parer dritta la via torta,
+> Poi fummo dentro la soglia della porta che il cattivo amore delle anime non usa, perché fa sembrare dritta la via storta,
+
+4
+sonando la senti’ esser richiusa;
+e s’io avesse li occhi vòlti ad essa,
+qual fora stata al fallo degna scusa?
+> sentii dal suono che si richiudeva; e se avessi volto gli occhi ad essa, quale scusa sarebbe stata degna della colpa?
+
+7
+Noi salavam per una pietra fessa,
+che si moveva e d’una e d’altra parte,
+sì come l’onda che fugge e s’appressa.
+> Salivamo per una pietra spaccata, che si muoveva da una parte e dall'altra, come l'onda che fugge e si avvicina.
+
+10
+"Qui si conviene usare un poco d’arte",
+cominciò ’l duca mio, "in accostarsi
+or quinci, or quindi al lato che si parte".
+> «Qui bisogna usare un po' d'arte», cominciò la mia guida, «nell'accostarsi ora di qua, ora di là al lato che si sposta».
+
+13
+E questo fece i nostri passi scarsi,
+tanto che pria lo scemo de la luna
+rigiunse al letto suo per ricorcarsi,
+> E questo rese scarsi i nostri passi, tanto che la luna calante tornò a coricarsi nel suo letto prima che noi fossimo usciti da quella cruna;
+
+16
+che noi fossimo fuor di quella cruna;
+ma quando fummo liberi e aperti
+sù dove il monte in dietro si rauna,
+> ma quando fummo liberi e all'aperto, lassù dove il monte si ritira all'indietro,
+
+19
+ïo stancato e amendue incerti
+di nostra via, restammo in su un piano
+solingo più che strade per diserti.
+> io stanco e tutti e due incerti della via, ci fermammo su un piano solitario più delle strade nei deserti.
+
+22
+Da la sua sponda, ove confina il vano,
+al piè de l’alta ripa che pur sale,
+misurrebbe in tre volte un corpo umano;
+> Dal suo bordo, dove confina il vuoto, al piede dell'alta riva che continua a salire, si misurerebbe in tre volte un corpo umano;
+
+25
+e quanto l’occhio mio potea trar d’ale,
+or dal sinistro e or dal destro fianco,
+questa cornice mi parea cotale.
+> e quanto l'occhio mio poteva spingere le ali, ora dal fianco sinistro ora dal destro, questa cornice mi sembrava tale.
+
+## scena-2 | cornice-1 | L'Annunciazione scolpita
+personaggi: dante, virgilio, maria, angelo-gabriele
+tavola: ia | L'Annunciazione scolpita | img/ia/purgatorio-10-scena-2.jpg
+sintesi: Il muro di marmo bianco è scolpito con intagli di tale perfezione che ne sarebbero umiliati Policleto e la natura stessa. Primo esempio di umiltà: l'angelo Gabriele che annuncia a Maria la pace attesa per secoli, così vivo che sembra dire «Ave»; Maria è scolpita nell'atto di dire «Ecco la serva di Dio».
+
+28
+Là sù non eran mossi i piè nostri anco,
+quand’io conobbi quella ripa intorno
+che dritto di salita aveva manco,
+> Lassù i nostri piedi non si erano ancora mossi, quando mi accorsi che quella riva tutt'intorno, che non aveva salita ripida,
+
+31
+esser di marmo candido e addorno
+d’intagli sì, che non pur Policleto,
+ma la natura lì avrebbe scorno.
+> era di marmo candido e adorna di intagli tali che non solo Policleto, ma la natura vi avrebbe avuto vergogna.
+
+34
+L’angel che venne in terra col decreto
+de la molt’anni lagrimata pace,
+ch’aperse il ciel del suo lungo divieto,
+> L'angelo che venne in terra con il decreto della pace tante volte pianta con lacrime, che aprì il cielo dal suo lungo divieto,
+
+37
+dinanzi a noi pareva sì verace
+quivi intagliato in un atto soave,
+che non sembiava imagine che tace.
+> appariva davanti a noi così vero, scolpito lì in un gesto soave, da non sembrare un'immagine che tace.
+
+40
+Giurato si saria ch’el dicesse ’Ave!’;
+perché iv’era imaginata quella
+ch’ad aprir l’alto amor volse la chiave;
+> Si sarebbe giurato che dicesse «Ave!»; perché lì era scolpita colei che volle aprire con la chiave l'alto amore;
+
+43
+e avea in atto impressa esta favella
+’Ecce ancilla Deï’, propriamente
+come figura in cera si suggella.
+> e aveva impresse nell'atto queste parole: «Ecco la serva di Dio», proprio come una figura si imprime nella cera.
+
+46
+"Non tener pur ad un loco la mente",
+disse ’l dolce maestro, che m’avea
+da quella parte onde ’l cuore ha la gente.
+> «Non tenere la mente fissa in un solo luogo», disse il dolce maestro, che mi aveva dal lato dove l'uomo ha il cuore.
+
+49
+Per ch’i’ mi mossi col viso, e vedea
+di retro da Maria, da quella costa
+onde m’era colui che mi movea,
+> Per questo mossi il viso, e vedevo dietro Maria, da quel lato dove stava colui che mi spingeva,
+
+52
+un’altra storia ne la roccia imposta;
+per ch’io varcai Virgilio, e fe’ mi presso,
+acciò che fosse a li occhi miei disposta.
+> un'altra storia scolpita nella roccia; perciò passai oltre Virgilio e mi feci presso, perché fosse disposta ai miei occhi.
+
+55
+Era intagliato lì nel marmo stesso
+lo carro e ’ buoi, traendo l’arca santa,
+per che si teme officio non commesso.
+> Era scolpito lì nello stesso marmo il carro e i buoi che trainavano l'arca santa, per cui si teme l'incarico non commesso.
+
+58
+Dinanzi parea gente; e tutta quanta,
+partita in sette cori, a’ due mie’ sensi
+faceva dir l’un ’No’, l’altro ’Sì, canta’.
+> Davanti sembrava gente; e tutta quanta, divisa in sette cori, faceva dire a due miei sensi, uno «No» e l'altro «Sì, cantano».
+
+61
+Similemente al fummo de li ’ncensi
+che v’era imaginato, li occhi e ’l naso
+e al sì e al no discordi fensi.
+> Allo stesso modo, al fumo degli incensi che vi era scolpito, gli occhi e il naso si trovarono discordi sul sì e sul no.
+
+## scena-3 | cornice-1 | Davide e Traiano
+personaggi: dante, virgilio, davide, micol, traiano, vedova-di-traiano
+tavola: dore | Traiano e la vedova | img/dore/purgatorio-10-traiano-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148974417).jpg
+sintesi: Secondo esempio: Davide, umile salmista, danza davanti all'arca mentre Micol lo guarda dalla finestra con disprezzo. Terzo esempio: l'imperatore Traiano, circondato da cavalieri e aquile al vento, ascolta una povera vedova che chiede giustizia per il figlio ucciso; egli risponde che la farà prima di partire. Dio ha scolpito quel «parlare visibile» per noi che non lo conosciamo.
+
+64
+Lì precedeva al benedetto vaso,
+trescando alzato, l’umile salmista,
+e più e men che re era in quel caso.
+> Lì precedeva il vaso benedetto, danzando in alto, l'umile salmista, e in quel caso era più e meno che re.
+
+67
+Di contra, effigïata ad una vista
+d’un gran palazzo, Micòl ammirava
+sì come donna dispettosa e trista.
+> Di fronte, raffigurata al vetro di un gran palazzo, Micol guardava come una donna sdegnosa e triste.
+
+70
+I’ mossi i piè del loco dov’io stava,
+per avvisar da presso un’altra istoria,
+che di dietro a Micòl mi biancheggiava.
+> Mossi i piedi dal luogo in cui stavo, per osservare da vicino un'altra storia che mi biancheggiava dietro Micol.
+
+73
+Quiv’era storïata l’alta gloria
+del roman principato, il cui valore
+mosse Gregorio a la sua gran vittoria;
+> Lì era istoriata l'alta gloria del principato romano, il cui valore mosse Gregorio alla sua grande vittoria;
+
+76
+i’ dico di Traiano imperadore;
+e una vedovella li era al freno,
+di lagrime atteggiata e di dolore.
+> dico dell'imperatore Traiano; e una vedovella gli era alle briglie, atteggiata di lacrime e di dolore.
+
+79
+Intorno a lui parea calcato e pieno
+di cavalieri, e l’aguglie ne l’oro
+sovr’essi in vista al vento si movieno.
+> Intorno a lui sembrava calcato e pieno di cavalieri, e le aquile d'oro sopra di loro si muovevano al vento.
+
+82
+La miserella intra tutti costoro
+pareva dir: "Segnor, fammi vendetta
+di mio figliuol ch’è morto, ond’io m’accoro";
+> La poveretta fra tutti costoro sembrava dire: «Signore, fammi vendetta di mio figlio che è morto, per cui mi dolgo»;
+
+85
+ed elli a lei rispondere: "Or aspetta
+tanto ch’i’ torni"; e quella: "Segnor mio",
+come persona in cui dolor s’affretta,
+> ed egli sembrava risponderle: «Ora aspetta finché io torni»; e quella: «Signore mio», come chi ha il dolore che si affretta,
+
+88
+"se tu non torni?"; ed ei: "Chi fia dov’io,
+la ti farà"; ed ella: "L’altrui bene
+a te che fia, se ’l tuo metti in oblio?";
+> «se tu non torni?»; ed egli: «Chi sarà al posto mio te la farà»; ed ella: «Il bene altrui a te che vale, se metti in oblio il tuo?»;
+
+91
+ond’elli: "Or ti conforta; ch’ei convene
+ch’i’ solva il mio dovere anzi ch’i’ mova:
+giustizia vuole e pietà mi ritene".
+> perciò egli: «Ora consolati; ché conviene che io adempia il mio dovere prima di muovermi: giustizia vuole e pietà mi trattiene».
+
+## scena-4 | cornice-1 | I superbi sotto i massi
+personaggi: dante, virgilio
+tavola: ia | I superbi sotto i massi | img/ia/purgatorio-10-scena-4.jpg
+sintesi: Mentre Dante ammira le immagini di tante umiltà, Virgilio lo avverte che vengono molte anime, a passo lento. Dante non le distingue: sono piegate in due dal peso di enormi massi. Virgilio lo invita a guardare meglio: già si vede come ciascuno si batte il petto. Dante si rivolge ai superbi cristiani: siamo vermi destinati a diventare angeliche farfalle; li paragona alle figure di sostegno, con le ginocchia al petto.
+
+94
+Colui che mai non vide cosa nova
+produsse esto visibile parlare,
+novello a noi perché qui non si trova.
+> Colui che mai non vide cosa nuova produsse questo parlare visibile, nuovo per noi perché qui non si trova.
+
+97
+Mentr’io mi dilettava di guardare
+l’imagini di tante umilitadi,
+e per lo fabbro loro a veder care,
+> Mentre mi dilettavo di guardare le immagini di tante umiltà, e care a vedere per il loro artefice,
+
+100
+"Ecco di qua, ma fanno i passi radi",
+mormorava il poeta, "molte genti:
+questi ne ’nvïeranno a li alti gradi".
+> «Ecco di qua, ma fanno i passi radi», mormorava il poeta, «molte genti: queste ci invieranno agli alti gradini».
+
+103
+Li occhi miei, ch’a mirare eran contenti
+per veder novitadi ond’e’ son vaghi,
+volgendosi ver’ lui non furon lenti.
+> I miei occhi, che erano contenti di guardare per vedere novità di cui sono avidi, non furono lenti a volgersi verso di lui.
+
+106
+Non vo’ però, lettor, che tu ti smaghi
+di buon proponimento per udire
+come Dio vuol che ’l debito si paghi.
+> Non voglio però, lettore, che tu ti smarrisca dal buon proposito udendo come Dio vuole che il debito si paghi.
+
+109
+Non attender la forma del martìre:
+pensa la succession; pensa ch’al peggio
+oltre la gran sentenza non può ire.
+> Non badare alla forma del tormento: pensa a ciò che segue; pensa che, al peggio, oltre la gran sentenza non può andare.
+
+112
+Io cominciai: "Maestro, quel ch’io veggio
+muovere a noi, non mi sembian persone,
+e non so che, sì nel veder vaneggio".
+> Io cominciai: «Maestro, quello che vedo muoversi verso di noi non mi sembrano persone, e non so cosa, tanto vaneggio nel vedere».
+
+115
+Ed elli a me: "La grave condizione
+di lor tormento a terra li rannicchia,
+sì che ’ miei occhi pria n’ebber tencione.
+> Ed egli a me: «La grave condizione del loro tormento li rannicchia a terra, così che anche i miei occhi prima ne ebbero contesa.
+
+118
+Ma guarda fiso là, e disviticchia
+col viso quel che vien sotto a quei sassi:
+già scorger puoi come ciascun si picchia".
+> Ma guarda fisso là, e sciogli con il viso quello che viene sotto quei sassi: già puoi scorgere come ciascuno si batte».
+
+121
+O superbi cristian, miseri lassi,
+che, de la vista de la mente infermi,
+fidanza avete ne’ retrosi passi,
+> O superbi cristiani, miseri stanchi, che, malati nella vista della mente, avete fiducia nei passi all'indietro,
+
+124
+non v’accorgete voi che noi siam vermi
+nati a formar l’angelica farfalla,
+che vola a la giustizia sanza schermi?
+> non vi accorgete che siamo vermi nati per formare l'angelica farfalla, che vola alla giustizia senza schermi?
+
+127
+Di che l’animo vostro in alto galla,
+poi siete quasi antomata in difetto,
+sì come vermo in cui formazion falla?
+> Di che l'animo vostro galleggia in alto, se siete come insetti imperfetti, come un verme in cui la formazione manca?
+
+130
+Come per sostentar solaio o tetto,
+per mensola talvolta una figura
+si vede giugner le ginocchia al petto,
+> Come per sostenere un solaio o un tetto, talvolta si vede una figura che giunge le ginocchia al petto, come mensola,
+
+133
+la qual fa del non ver vera rancura
+nascere ’n chi la vede; così fatti
+vid’io color, quando puosi ben cura.
+> la quale fa nascere un vero dolore da una cosa non vera in chi la vede; così fatti vidi costoro, quando li osservai bene.
+
+136
+Vero è che più e meno eran contratti
+secondo ch’avien più e meno a dosso;
+e qual più pazïenza avea ne li atti,
+> È vero che erano più o meno contratti secondo che avevano più o meno peso addosso; e chi aveva più pazienza negli atti,
+
+139
+piangendo parea dicer: ’Più non posso’.
+> piangendo sembrava dire: «Non posso più».
+
+## personaggio | angelo-gabriele | L'angelo Gabriele
+dibattuto: no
+chi_era: L'arcangelo che nel Vangelo di Luca annuncia a Maria la nascita di Gesù. Nel Purgatorio compare scolpito nel marmo come primo esempio di umiltà, con Maria che risponde «Ecco la serva del Signore».
+
+## personaggio | micol | Micol
+dibattuto: no
+chi_era: Figlia di Saul e moglie di Davide, che nella Bibbia lo disprezza vedendolo danzare davanti all'arca. Dante la mostra «dispettosa e trista», contrapposta all'umiltà di Davide.
+
+## personaggio | traiano | Traiano
+dibattuto: no
+chi_era: Marco Ulpio Traiano, imperatore romano (98-117), proverbiale per la giustizia. Nell'episodio della vedova, narrato nella tradizione medievale, rinuncia a partire in guerra per fare giustizia; secondo la leggenda papa Gregorio Magno ne salvò l'anima.
+
+## personaggio | vedova-di-traiano | La vedova
+dibattuto: no
+chi_era: La povera donna della leggenda medievale che chiede a Traiano giustizia per l'uccisione del figlio: egli scende da cavallo e provvede subito.

@@ -1,0 +1,318 @@
+# Purgatorio, canto XVIII
+titolo: Amore e libero arbitrio, gli accidiosi e l'abate di San Zeno
+
+## scena-1 | cornice-4 | Amore e libero arbitrio
+personaggi: dante, virgilio
+tavola: ia | Amore e libero arbitrio | img/ia/purgatorio-18-scena-1.jpg
+sintesi: Terminato il discorso, Virgilio guarda Dante per vedere se è soddisfatto; Dante, che ha ancora sete, tace, ma Virgilio lo incoraggia. Dante gli chiede di spiegare l'amore, da cui derivano ogni buona azione e il suo contrario. Virgilio spiega come l'animo, creato per amare, si muove verso ciò che gli piace come il fuoco verso l'alto; ma non ogni amore è buono. Poiché in noi è innata la facoltà di consigliare e di dare o negare l'assenso, esiste libero arbitrio e merito.
+
+1
+Posto avea fine al suo ragionamento
+l’alto dottore, e attento guardava
+ne la mia vista s’io parea contento;
+> Il sommo dottore aveva posto fine al suo ragionamento, e guardava attento nel mio viso se sembravo contento;
+
+4
+e io, cui nova sete ancor frugava,
+di fuor tacea, e dentro dicea: ’Forse
+lo troppo dimandar ch’io fo li grava’.
+> e io, che ancora una nuova sete tormentava, fuori tacevo, e dentro dicevo: «Forse il troppo domandare che faccio gli pesa».
+
+7
+Ma quel padre verace, che s’accorse
+del timido voler che non s’apriva,
+parlando, di parlare ardir mi porse.
+> Ma quel padre vero, che si accorse del timido desiderio che non si apriva, parlando, mi diede ardire di parlare.
+
+10
+Ond’io: "Maestro, il mio veder s’avviva
+sì nel tuo lume, ch’io discerno chiaro
+quanto la tua ragion parta o descriva.
+> Perciò io: «Maestro, la mia vista si ravviva tanto nel tuo lume che discerno chiaro ciò che la tua ragione spiega o descrive.
+
+13
+Però ti prego, dolce padre caro,
+che mi dimostri amore, a cui reduci
+ogne buono operare e ’l suo contraro".
+> Perciò ti prego, dolce caro padre, che mi mostri l'amore, a cui riconduci ogni buona azione e il suo contrario».
+
+16
+"Drizza", disse, "ver’ me l’agute luci
+de lo ’ntelletto, e fieti manifesto
+l’error de’ ciechi che si fanno duci.
+> «Drizza», disse, «verso di me gli occhi acuti dell'intelletto, e ti sarà manifesto l'errore dei ciechi che si fanno guide.
+
+19
+L’animo, ch’è creato ad amar presto,
+ad ogne cosa è mobile che piace,
+tosto che dal piacere in atto è desto.
+> L'animo, che è creato pronto ad amare, è mobile verso ogni cosa che piace, appena è destato dal piacere in atto.
+
+22
+Vostra apprensiva da esser verace
+tragge intenzione, e dentro a voi la spiega,
+sì che l’animo ad essa volger face;
+> La vostra facoltà percettiva trae un'immagine da una cosa reale e la dispiega dentro di voi, così da far volgere l'animo ad essa;
+
+25
+e se, rivolto, inver’ di lei si piega,
+quel piegare è amor, quell’è natura
+che per piacer di novo in voi si lega.
+> e se, volto, si piega verso di essa, quel piegarsi è amore, quella è natura che per piacere si lega di nuovo in voi.
+
+28
+Poi, come ’l foco movesi in altura
+per la sua forma ch’è nata a salire
+là dove più in sua matera dura,
+> Poi, come il fuoco si muove verso l'alto per la sua forma, nata per salire dove più dura nella sua materia,
+
+31
+così l’animo preso entra in disire,
+ch’è moto spiritale, e mai non posa
+fin che la cosa amata il fa gioire.
+> così l'animo preso entra nel desiderio, che è moto spirituale, e non si ferma finché la cosa amata non lo fa gioire.
+
+34
+Or ti puote apparer quant’è nascosa
+la veritate a la gente ch’avvera
+ciascun amore in sé laudabil cosa;
+> Ora ti può apparire quanto sia nascosta la verità a quelli che sostengono che ogni amore sia in sé cosa lodevole;
+
+37
+però che forse appar la sua matera
+sempre esser buona, ma non ciascun segno
+è buono, ancor che buona sia la cera".
+> perché forse la sua materia appare sempre buona, ma non ogni impronta è buona, anche se buona sia la cera».
+
+40
+"Le tue parole e ’l mio seguace ingegno",
+rispuos’io lui, "m’ hanno amor discoverto,
+ma ciò m’ ha fatto di dubbiar più pregno;
+> «Le tue parole e il mio ingegno che le segue», risposi, «mi hanno scoperto l'amore, ma ciò mi ha reso più gravido di dubbio;
+
+43
+ché, s’amore è di fuori a noi offerto
+e l’anima non va con altro piede,
+se dritta o torta va, non è suo merto".
+> perché, se l'amore ci è offerto dall'esterno e l'anima non va con altro piede, se va dritta o storta non è suo merito».
+
+46
+Ed elli a me: "Quanto ragion qui vede,
+dir ti poss’io; da indi in là t’aspetta
+pur a Beatrice, ch’è opra di fede.
+> Ed egli a me: «Quanto la ragione qui vede, posso dirtelo; di là in poi aspetta solo Beatrice, che è opera di fede.
+
+49
+Ogne forma sustanzïal, che setta
+è da matera ed è con lei unita,
+specifica vertute ha in sé colletta,
+> Ogni forma sostanziale, che è separata dalla materia e unita con essa, ha in sé raccolta una virtù specifica,
+
+52
+la qual sanza operar non è sentita,
+né si dimostra mai che per effetto,
+come per verdi fronde in pianta vita.
+> la quale non si avverte senza operare, né si mostra mai se non per l'effetto, come per le verdi fronde la vita di una pianta.
+
+55
+Però, là onde vegna lo ’ntelletto
+de le prime notizie, omo non sape,
+e de’ primi appetibili l’affetto,
+> Perciò, da dove venga l'intelletto delle prime conoscenze, l'uomo non sa, e dei primi desideri l'affetto,
+
+58
+che sono in voi sì come studio in ape
+di far lo mele; e questa prima voglia
+merto di lode o di biasmo non cape.
+> che sono in voi come l'impulso nell'ape a fare il miele; e questa prima voglia non può avere merito di lode o di biasimo.
+
+61
+Or perché a questa ogn’altra si raccoglia,
+innata v’è la virtù che consiglia,
+e de l’assenso de’ tener la soglia.
+> Ora, perché a questa si raccolga ogni altra, è innata in voi la virtù che consiglia, e che deve tenere la soglia dell'assenso.
+
+64
+Quest’è ’l principio là onde si piglia
+ragion di meritare in voi, secondo
+che buoni e rei amori accoglie e viglia.
+> Questo è il principio da cui si trae la ragione di merito in voi, secondo che accoglie e vaglia amori buoni e cattivi.
+
+67
+Color che ragionando andaro al fondo,
+s’accorser d’esta innata libertate;
+però moralità lasciaro al mondo.
+> Quelli che ragionando andarono a fondo si accorsero di questa libertà innata; perciò lasciarono la morale al mondo.
+
+70
+Onde, poniam che di necessitate
+surga ogne amor che dentro a voi s’accende,
+di ritenerlo è in voi la podestate.
+> Dunque, poniamo che per necessità sorga ogni amore che in voi si accende, di trattenerlo è in voi il potere.
+
+73
+La nobile virtù Beatrice intende
+per lo libero arbitrio, e però guarda
+che l’abbi a mente, s’a parlar ten prende".
+> La nobile virtù Beatrice intende per libero arbitrio, e perciò bada di averlo a mente, se ti tocca parlarne con lei».
+
+## scena-2 | cornice-4 | Gli accidiosi in corsa
+personaggi: dante, virgilio
+tavola: dore | La turba degli accidiosi | img/dore/purgatorio-18-accidiosi-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148974835).jpg
+sintesi: Nel cuore della notte la luna, rossa come un secchio di brace, fa apparire rade le stelle. Dante, appagato nei suoi dubbi, sta per assopirsi, quando una grande folla corre dietro di loro con fervore, come i tebani invocando Bacco. Due in testa gridano esempi di sollecitudine: Maria che corse alla montagna, Cesare che andò in Spagna; gli altri incitano a non perdere tempo per poco amore.
+
+76
+La luna, quasi a mezza notte tarda,
+facea le stelle a noi parer più rade,
+fatta com’un secchion che tuttor arda;
+> La luna, a mezzanotte quasi tarda, faceva apparire a noi le stelle più rade, fatta come un secchio che ancora arda;
+
+79
+e correa contra ’l ciel per quelle strade
+che ’l sole infiamma allor che quel da Roma
+tra ’ Sardi e ’ Corsi il vede quando cade.
+> e correva contro il cielo per quelle strade che il sole infiamma quando quello di Roma lo vede cadere tra i Sardi e i Corsi.
+
+82
+E quell’ombra gentil per cui si noma
+Pietola più che villa mantoana,
+del mio carcar diposta avea la soma;
+> E quell'ombra gentile per cui Pietola si nomina più che villaggio mantovano, aveva deposto il peso del mio carico;
+
+85
+per ch’io, che la ragione aperta e piana
+sovra le mie quistioni avea ricolta,
+stava com’om che sonnolento vana.
+> così io, che avevo raccolto la ragione aperta e piana sulle mie questioni, stavo come un uomo che vaneggia assonnato.
+
+88
+Ma questa sonnolenza mi fu tolta
+subitamente da gente che dopo
+le nostre spalle a noi era già volta.
+> Ma questo assopimento mi fu tolto subito da gente che dopo le nostre spalle era già giunta a noi.
+
+91
+E quale Ismeno già vide e Asopo
+lungo di sé di notte furia e calca,
+pur che i Teban di Bacco avesser uopo,
+> E quale Ismeno e Asopo videro già lungo di sé di notte furia e calca, quando i Tebani avevano bisogno di Bacco,
+
+94
+cotal per quel giron suo passo falca,
+per quel ch’io vidi di color, venendo,
+cui buon volere e giusto amor cavalca.
+> tale per quel giro la sua turba curva il passo, per ciò che io vidi di quelli che venivano, che buon volere e giusto amore cavalca.
+
+97
+Tosto fur sovr’a noi, perché correndo
+si movea tutta quella turba magna;
+e due dinanzi gridavan piangendo:
+> Presto furono sopra di noi, perché correndo si muoveva tutta quella gran turba; e due davanti gridavano piangendo:
+
+100
+"Maria corse con fretta a la montagna;
+e Cesare, per soggiogare Ilerda,
+punse Marsilia e poi corse in Ispagna".
+> «Maria corse con fretta alla montagna; e Cesare, per soggiogare Ilerda, punse Marsiglia e poi corse in Spagna».
+
+103
+"Ratto, ratto, che ’l tempo non si perda
+per poco amor", gridavan li altri appresso,
+"che studio di ben far grazia rinverda".
+> «Presto, presto, che il tempo non si perda per poco amore», gridavano gli altri dietro, «perché lo zelo di ben fare rinverdisca la grazia».
+
+## scena-3 | cornice-4 | L'abate di San Zeno
+personaggi: dante, virgilio, abate-di-san-zeno
+tavola: ia | L'abate di San Zeno | img/ia/purgatorio-18-scena-3.jpg
+sintesi: Virgilio, a nome di Dante, domanda a quelli che corrono dove sia il varco; uno risponde di seguirli e di perdonare se la loro fretta sembra villania. Si presenta come l'abate di San Zeno a Verona al tempo del Barbarossa, e predice la rovina di un signore della Scala, che ha già un piede nella fossa e piangerà quel monastero, per aver messo come abate un figlio storpio e peggiore nell'animo.
+
+106
+"O gente in cui fervore aguto adesso
+ricompie forse negligenza e indugio
+da voi per tepidezza in ben far messo,
+> «O gente in cui un fervore acuto ricolma forse la negligenza e l'indugio messo da voi per tiepidezza nel ben fare,
+
+109
+questi che vive, e certo i’ non vi bugio,
+vuole andar sù, pur che ’l sol ne riluca;
+però ne dite ond’è presso il pertugio".
+> costui che vive, e certo non vi dico bugie, vuole andare su, appena il sole ci illumini; perciò dite dove è vicino il varco».
+
+112
+Parole furon queste del mio duca;
+e un di quelli spirti disse: "Vieni
+di retro a noi, e troverai la buca.
+> Furono queste parole della mia guida; e uno di quegli spiriti disse: «Vieni dietro a noi, e troverai il passaggio.
+
+115
+Noi siam di voglia a muoverci sì pieni,
+che restar non potem; però perdona,
+se villania nostra giustizia tieni.
+> Siamo così pieni di voglia di muoverci che non possiamo restare; perciò perdona, se ritieni villania la nostra giustizia.
+
+118
+Io fui abate in San Zeno a Verona
+sotto lo ’mperio del buon Barbarossa,
+di cui dolente ancor Milan ragiona.
+> Io fui abate in San Zeno a Verona sotto l'impero del buon Barbarossa, di cui ancora Milano parla con dolore.
+
+121
+E tale ha già l’un piè dentro la fossa,
+che tosto piangerà quel monastero,
+e tristo fia d’avere avuta possa;
+> E tale ha già un piede dentro la fossa, che presto piangerà quel monastero, e sarà triste di averne avuto potere;
+
+124
+perché suo figlio, mal del corpo intero,
+e de la mente peggio, e che mal nacque,
+ha posto in loco di suo pastor vero".
+> perché suo figlio, malato nel corpo, e peggio nella mente, e nato male, ha messo al posto del suo vero pastore».
+
+127
+Io non so se più disse o s’ei si tacque,
+tant’era già di là da noi trascorso;
+ma questo intesi, e ritener mi piacque.
+> Non so se disse di più o se tacque, tanto era già corso oltre di noi; ma questo capii, e mi piacque ritenerlo.
+
+## scena-4 | cornice-4 | Gli esempi di accidia e il sonno
+personaggi: dante, virgilio
+tavola: ia | Gli esempi di accidia e il sonno | img/ia/purgatorio-18-scena-4.jpg
+sintesi: Virgilio invita Dante a voltarsi: ne vengono due che mordono l'accidia, gridando che gli Ebrei morirono prima di vedere il Giordano e che i compagni di Enea rinunciarono alla gloria. Poi le ombre si allontanano; nella mente di Dante nascono pensieri su pensieri, finché, per vaghezza, chiude gli occhi e il pensiero si muta in sogno.
+
+130
+E quei che m’era ad ogne uopo soccorso
+disse: "Volgiti qua: vedine due
+venir dando a l’accidïa di morso".
+> E quello che mi era soccorso a ogni bisogno disse: «Volgiti qua: vedine due venire dando morso all'accidia».
+
+133
+Di retro a tutti dicean: "Prima fue
+morta la gente a cui il mar s’aperse,
+che vedesse Iordan le rede sue.
+> Dietro a tutti dicevano: «Prima fu morta la gente a cui il mare si aprì, che il Giordano vedesse i suoi eredi.
+
+136
+E quella che l’affanno non sofferse
+fino a la fine col figlio d’Anchise,
+sé stessa a vita sanza gloria offerse".
+> E quella che non sopportò la fatica fino alla fine con il figlio di Anchise, si offrì a vita senza gloria».
+
+139
+Poi quando fuor da noi tanto divise
+quell’ombre, che veder più non potiersi,
+novo pensiero dentro a me si mise,
+> Poi, quando quelle ombre furono tanto lontane da noi che non si potevano più vedere, nuovo pensiero si mise dentro di me,
+
+142
+del qual più altri nacquero e diversi;
+e tanto d’uno in altro vaneggiai,
+che li occhi per vaghezza ricopersi,
+> dal quale altri nacquero e diversi; e tanto vaneggiai da uno all'altro che per vaghezza richiusi gli occhi,
+
+145
+e ’l pensamento in sogno trasmutai.
+> e trasformai il pensiero in sogno.
+
+## personaggio | abate-di-san-zeno | L'abate di San Zeno
+dibattuto: no
+chi_era: Gherardo II, abate del monastero di San Zeno a Verona ai tempi di Federico Barbarossa. Dante gli fa predire la rovina di Alberto della Scala, che dopo il 1291 pose a capo del monastero il figlio illegittimo Giuseppe, storpio e di costumi dubbi.

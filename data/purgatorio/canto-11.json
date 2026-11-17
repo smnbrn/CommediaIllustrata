@@ -1,0 +1,327 @@
+{
+  "cantica": "purgatorio",
+  "canto": 11,
+  "titolo": "Il Padre nostro dei superbi, Omberto, Oderisi e Provenzano",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_XI",
+  "numero_versi": 142,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 24],
+      "titolo_scena": "Il «Padre nostro» dei superbi",
+      "sintesi": "Le anime della prima cornice, curve sotto il peso dei massi, pregano con una parafrasi del Padre nostro: chiedono la pace del regno di Dio, il pane quotidiano nel deserto, il perdono reciproco, e che sia risparmiata ai vivi la tentazione dell'antico avversario. Procedono sotto il carico come in un sogno, purgando la caligine del mondo.",
+      "luogo_id": "cornice-1",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Il «Padre nostro» dei superbi",
+          "url": "img/ia/purgatorio-11-scena-1.jpg",
+          "miniatura": "img/ia/purgatorio-11-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [25, 72],
+      "titolo_scena": "Omberto Aldobrandesco",
+      "sintesi": "Pregando così per sé e per i vivi, le anime procedono sotto il peso. Virgilio chiede a loro la via per la scala; una voce risponde indicando la destra. Chi parla, che non può alzare il viso, si presenta: è Omberto Aldobrandesco, conte senese, la cui arroganza per l'antico sangue lo portò a disprezzare tutti, e a farsi uccidere, trascinando con sé tutta la famiglia.",
+      "luogo_id": "cornice-1",
+      "personaggi": ["dante", "virgilio", "omberto-aldobrandesco"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Omberto Aldobrandesco",
+          "url": "img/ia/purgatorio-11-scena-2.jpg",
+          "miniatura": "img/ia/purgatorio-11-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [73, 117],
+      "titolo_scena": "Oderisi da Gubbio",
+      "sintesi": "Dante si china ad ascoltare, e un altro spirito lo riconosce: è Oderisi da Gubbio, miniaturista. Oderisi riconosce che ora più ridono le carte di Franco Bolognese: la gloria terrena è come poco verde sulla cima, Cimabue cede a Giotto, un Guido toglie la gloria all'altro, e forse è già nato chi li caccerà entrambi. La fama è fiato di vento, e dura meno di un battito di ciglia rispetto all'eterno.",
+      "luogo_id": "cornice-1",
+      "personaggi": ["dante", "virgilio", "oderisi-da-gubbio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Oderisi da Gubbio",
+          "url": "img/ia/purgatorio-11-scena-3.jpg",
+          "miniatura": "img/ia/purgatorio-11-scena-3.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [118, 142],
+      "titolo_scena": "Provenzan Salvani",
+      "sintesi": "Oderisi indica Provenzan Salvani, signore di Siena e presuntuoso, che deve andare senza riposo sotto il peso. Poiché Provenzano morì senza pentirsi, Dante si stupisce che stia già qui; Oderisi spiega che in piazza del Campo si umiliò chiedendo l'elemosina per riscattare un amico prigioniero di Carlo d'Angiò. Accenna oscuramente all'esilio di Dante.",
+      "luogo_id": "cornice-1",
+      "personaggi": ["dante", "virgilio", "oderisi-da-gubbio", "provenzan-salvani"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Provenzan Salvani",
+          "url": "img/ia/purgatorio-11-scena-4.jpg",
+          "miniatura": "img/ia/purgatorio-11-scena-4.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "\"O Padre nostro, che ne’ cieli stai,\nnon circunscritto, ma per più amore\nch’ai primi effetti di là sù tu hai,",
+      "parafrasi": "«O Padre nostro, che stai nei cieli, non circoscritto, ma per il maggiore amore che hai per i primi effetti lassù,"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "laudato sia ’l tuo nome e ’l tuo valore\nda ogne creatura, com’è degno\ndi render grazie al tuo dolce vapore.",
+      "parafrasi": "sia lodato il tuo nome e il tuo valore da ogni creatura, com'è degno di rendere grazie al tuo dolce soffio."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "Vegna ver’ noi la pace del tuo regno,\nché noi ad essa non potem da noi,\ns’ella non vien, con tutto nostro ingegno.",
+      "parafrasi": "Venga a noi la pace del tuo regno, perché noi non possiamo arrivarci da noi, con tutto il nostro ingegno, se non viene."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "Come del suo voler li angeli tuoi\nfan sacrificio a te, cantando osanna,\ncosì facciano li uomini de’ suoi.",
+      "parafrasi": "Come i tuoi angeli fanno sacrificio a te della loro volontà, cantando osanna, così facciano gli uomini della loro."
+    },
+    {
+      "versi": [13, 15],
+      "testo": "Dà oggi a noi la cotidiana manna,\nsanza la qual per questo aspro diserto\na retro va chi più di gir s’affanna.",
+      "parafrasi": "Dacci oggi la manna quotidiana, senza la quale per questo aspro deserto torna indietro chi più si sforza di andare avanti."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "E come noi lo mal ch’avem sofferto\nperdoniamo a ciascuno, e tu perdona\nbenigno, e non guardar lo nostro merto.",
+      "parafrasi": "E come noi perdoniamo a ciascuno il male che abbiamo sofferto, così perdona tu benigno, e non guardare i nostri meriti."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "Nostra virtù che di legger s’adona,\nnon spermentar con l’antico avversaro,\nma libera da lui che sì la sprona.",
+      "parafrasi": "La nostra virtù, che si lascia vincere facilmente, non metterla alla prova con l'antico avversario, ma liberala da lui che tanto la sprona."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Quest’ultima preghiera, segnor caro,\ngià non si fa per noi, ché non bisogna,\nma per color che dietro a noi restaro\".",
+      "parafrasi": "Quest'ultima preghiera, Signore caro, non la facciamo per noi, perché non occorre, ma per quelli che sono rimasti dietro di noi»."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Così a sé e noi buona ramogna\nquell’ombre orando, andavan sotto ’l pondo,\nsimile a quel che talvolta si sogna,",
+      "parafrasi": "Così pregando bene per sé e per noi, quelle ombre andavano sotto il peso, simile a quello che talvolta si sogna,"
+    },
+    {
+      "versi": [28, 30],
+      "testo": "disparmente angosciate tutte a tondo\ne lasse su per la prima cornice,\npurgando la caligine del mondo.",
+      "parafrasi": "angosciate in modo diverso tutte intorno e stanche per la prima cornice, purgando la caligine del mondo."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "Se di là sempre ben per noi si dice,\ndi qua che dire e far per lor si puote\nda quei c’ hanno al voler buona radice?",
+      "parafrasi": "Se di là si dice sempre bene per noi, che cosa si può dire e fare qui per loro da quelli che hanno la buona radice nel volere?"
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Ben si de’ loro atar lavar le note\nche portar quinci, sì che, mondi e lievi,\npossano uscire a le stellate ruote.",
+      "parafrasi": "Bisogna davvero aiutarli a lavare le macchie che portarono di qui, così che, puri e leggeri, possano uscire alle ruote stellate."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "\"Deh, se giustizia e pietà vi disgrievi\ntosto, sì che possiate muover l’ala,\nche secondo il disio vostro vi lievi,",
+      "parafrasi": "«Deh, se giustizia e pietà vi alleggeriscano presto, così che possiate muovere l'ala, che secondo il vostro desiderio vi sollevi,"
+    },
+    {
+      "versi": [40, 42],
+      "testo": "mostrate da qual mano inver’ la scala\nsi va più corto; e se c’è più d’un varco,\nquel ne ’nsegnate che men erto cala;",
+      "parafrasi": "mostrate da quale parte verso la scala si va più brevemente; e se c'è più di un passaggio, insegnateci quello meno ripido;"
+    },
+    {
+      "versi": [43, 45],
+      "testo": "ché questi che vien meco, per lo ’ncarco\nde la carne d’Adamo onde si veste,\nal montar sù, contra sua voglia, è parco\".",
+      "parafrasi": "perché costui che viene con me, per il peso della carne di Adamo di cui è vestito, è, contro la sua volontà, lento a salire»."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Le lor parole, che rendero a queste\nche dette avea colui cu’ io seguiva,\nnon fur da cui venisser manifeste;",
+      "parafrasi": "Le loro parole, che risposero a queste dette da colui che seguivo, non fu chiaro da chi venissero;"
+    },
+    {
+      "versi": [49, 51],
+      "testo": "ma fu detto: \"A man destra per la riva\ncon noi venite, e troverete il passo\npossibile a salir persona viva.",
+      "parafrasi": "ma fu detto: «A destra, lungo la riva, venite con noi, e troverete il passo possibile per far salire una persona viva."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "E s’io non fossi impedito dal sasso\nche la cervice mia superba doma,\nonde portar convienmi il viso basso,",
+      "parafrasi": "E se non fossi impedito dal sasso che doma la mia cervice superba, per cui devo portare il viso basso,"
+    },
+    {
+      "versi": [55, 57],
+      "testo": "cotesti, ch’ancor vive e non si noma,\nguardere’ io, per veder s’i’ ’l conosco,\ne per farlo pietoso a questa soma.",
+      "parafrasi": "costui, che ancora vive e non si nomina, io guarderei per vedere se lo conosco e per renderlo pietoso a questo carico."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Io fui latino e nato d’un gran Tosco:\nGuiglielmo Aldobrandesco fu mio padre;\nnon so se ’l nome suo già mai fu vosco.",
+      "parafrasi": "Io fui latino e nato da un gran toscano: Guglielmo Aldobrandeschi fu mio padre; non so se il suo nome sia mai stato presso di voi."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "L’antico sangue e l’opere leggiadre\nd’i miei maggior mi fer sì arrogante,\nche, non pensando a la comune madre,",
+      "parafrasi": "L'antico sangue e le opere gentili dei miei antenati mi resero così arrogante che, non pensando alla madre comune,"
+    },
+    {
+      "versi": [64, 66],
+      "testo": "ogn’uomo ebbi in despetto tanto avante,\nch’io ne mori’, come i Sanesi sanno,\ne sallo in Campagnatico ogne fante.",
+      "parafrasi": "ebbi ogni uomo in tale disprezzo che ne morii, come sanno i senesi, e lo sa ogni bambino a Campagnatico."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Io sono Omberto; e non pur a me danno\nsuperbia fa, ché tutti miei consorti\nha ella tratti seco nel malanno.",
+      "parafrasi": "Io sono Omberto; e non solo a me la superbia fa danno, perché ha trascinato nella sventura tutti i miei parenti."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "E qui convien ch’io questo peso porti\nper lei, tanto che a Dio si sodisfaccia,\npoi ch’io nol fe’ tra ’ vivi, qui tra ’ morti\".",
+      "parafrasi": "E qui conviene che io porti questo peso per lei, finché a Dio sia soddisfatto, poiché non lo feci fra i vivi, qui fra i morti»."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Ascoltando chinai in giù la faccia;\ne un di lor, non questi che parlava,\nsi torse sotto il peso che li ’mpaccia,",
+      "parafrasi": "Ascoltando abbassai la faccia; e uno di loro, non quello che parlava, si torse sotto il peso che lo opprime,"
+    },
+    {
+      "versi": [76, 78],
+      "testo": "e videmi e conobbemi e chiamava,\ntenendo li occhi con fatica fisi\na me che tutto chin con loro andava.",
+      "parafrasi": "e mi vide, mi riconobbe e mi chiamava, tenendo con fatica gli occhi fissi su di me, che andavo tutto curvo con loro."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "\"Oh!\", diss’io lui, \"non se’ tu Oderisi,\nl’onor d’Agobbio e l’onor di quell’arte\nch’alluminar chiamata è in Parisi?\".",
+      "parafrasi": "«Oh!», gli dissi, «non sei tu Oderisi, l'onore di Gubbio e l'onore di quell'arte che a Parigi si chiama miniatura?»."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "\"Frate\", diss’elli, \"più ridon le carte\nche pennelleggia Franco Bolognese;\nl’onore è tutto or suo, e mio in parte.",
+      "parafrasi": "«Fratello», disse, «più ridono le carte che pennelleggia Franco Bolognese; l'onore è tutto suo ora, e mio in parte."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "Ben non sare’ io stato sì cortese\nmentre ch’io vissi, per lo gran disio\nde l’eccellenza ove mio core intese.",
+      "parafrasi": "Non sarei stato così cortese mentre vissi, per il gran desiderio di eccellere a cui mirava il mio cuore."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Di tal superbia qui si paga il fio;\ne ancor non sarei qui, se non fosse\nche, possendo peccar, mi volsi a Dio.",
+      "parafrasi": "Di tale superbia qui si paga la pena; e non sarei ancora qui, se non fosse che, potendo peccare, mi volsi a Dio."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Oh vana gloria de l’umane posse!\ncom’ poco verde in su la cima dura,\nse non è giunta da l’etati grosse!",
+      "parafrasi": "Oh vana gloria delle capacità umane! Come dura poco il verde sulla cima, se non è seguito da epoche rozze!"
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Credette Cimabue ne la pittura\ntener lo campo, e ora ha Giotto il grido,\nsì che la fama di colui è scura.",
+      "parafrasi": "Cimabue credette di tenere il campo nella pittura, e ora Giotto ha il grido, così che la fama di quello è oscura."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Così ha tolto l’uno a l’altro Guido\nla gloria de la lingua; e forse è nato\nchi l’uno e l’altro caccerà del nido.",
+      "parafrasi": "Così un Guido ha tolto all'altro la gloria della lingua; e forse è nato chi caccerà l'uno e l'altro dal nido."
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Non è il mondan romore altro ch’un fiato\ndi vento, ch’or vien quinci e or vien quindi,\ne muta nome perché muta lato.",
+      "parafrasi": "Il rumore mondano non è altro che un soffio di vento, che ora viene di qua e ora di là, e cambia nome perché cambia direzione."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Che voce avrai tu più, se vecchia scindi\nda te la carne, che se fossi morto\nanzi che tu lasciassi il ’pappo’ e ’l ’dindi’,",
+      "parafrasi": "Che fama avrai tu di più, se vecchio stacchi da te la carne, che se tu fossi morto prima di lasciare il «pappo» e il «dindi»,"
+    },
+    {
+      "versi": [106, 108],
+      "testo": "pria che passin mill’anni? ch’è più corto\nspazio a l’etterno, ch’un muover di ciglia\nal cerchio che più tardi in cielo è torto.",
+      "parafrasi": "prima che passino mille anni? che è uno spazio più breve, rispetto all'eterno, di un batter di ciglia rispetto al cerchio che in cielo gira più lento."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "Colui che del cammin sì poco piglia\ndinanzi a me, Toscana sonò tutta;\ne ora a pena in Siena sen pispiglia,",
+      "parafrasi": "Colui che prende così poca strada davanti a me, fece risuonare tutta la Toscana; e ora a stento se ne bisbiglia a Siena,"
+    },
+    {
+      "versi": [112, 114],
+      "testo": "ond’era sire quando fu distrutta\nla rabbia fiorentina, che superba\nfu a quel tempo sì com’ora è putta.",
+      "parafrasi": "dove era signore quando fu distrutta la rabbia fiorentina, che fu superba allora come ora è prostituta."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "La vostra nominanza è color d’erba,\nche viene e va, e quei la discolora\nper cui ella esce de la terra acerba\".",
+      "parafrasi": "La vostra fama è colore d'erba, che viene e va, e lo scolorisce quello per cui esce dalla terra acerba»."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "E io a lui: \"Tuo vero dir m’incora\nbona umiltà, e gran tumor m’appiani;\nma chi è quei di cui tu parlavi ora?\".",
+      "parafrasi": "E io a lui: «Il tuo vero dire mi infonde buona umiltà e mi appiana un grande gonfiore; ma chi è quello di cui parlavi poco fa?»."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "\"Quelli è\", rispuose, \"Provenzan Salvani;\ned è qui perché fu presuntüoso\na recar Siena tutta a le sue mani.",
+      "parafrasi": "«Quello è», rispose, «Provenzan Salvani; ed è qui perché fu presuntuoso a portare tutta Siena nelle sue mani."
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Ito è così e va, sanza riposo,\npoi che morì; cotal moneta rende\na sodisfar chi è di là troppo oso\".",
+      "parafrasi": "Così è andato e va, senza riposo, da quando morì; tale moneta paga per soddisfare chi di là è troppo audace»."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "E io: \"Se quello spirito ch’attende,\npria che si penta, l’orlo de la vita,\nqua giù dimora e qua sù non ascende,",
+      "parafrasi": "E io: «Se quello spirito che attende l'orlo della vita prima di pentirsi, sta laggiù e qui non sale,"
+    },
+    {
+      "versi": [130, 132],
+      "testo": "se buona orazïon lui non aita,\nprima che passi tempo quanto visse,\ncome fu la venuta lui largita?\".",
+      "parafrasi": "se una buona preghiera non lo aiuta, prima che passi tanto tempo quanto visse, come fu concessa a lui la venuta?»."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "\"Quando vivea più glorïoso\", disse,\n\"liberamente nel Campo di Siena,\nogne vergogna diposta, s’affisse;",
+      "parafrasi": "«Quando viveva più glorioso», disse, «liberamente nel Campo di Siena, deposta ogni vergogna, si mise;"
+    },
+    {
+      "versi": [136, 138],
+      "testo": "e lì, per trar l’amico suo di pena,\nch’e’ sostenea ne la prigion di Carlo,\nsi condusse a tremar per ogne vena.",
+      "parafrasi": "e lì, per trarre dalla pena un suo amico che sopportava nella prigione di Carlo, si indusse a tremare per ogni vena."
+    },
+    {
+      "versi": [139, 141],
+      "testo": "Più non dirò, e scuro so che parlo;\nma poco tempo andrà, che ’ tuoi vicini\nfaranno sì che tu potrai chiosarlo.",
+      "parafrasi": "Non dirò di più, e so di parlare in modo oscuro; ma passerà poco tempo che i tuoi vicini faranno sì che tu potrai spiegarlo."
+    },
+    {
+      "versi": [142, 142],
+      "testo": "Quest’opera li tolse quei confini\".",
+      "parafrasi": "Quest'opera gli tolse quei confini»."
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "cantica": "purgatorio",
+  "canto": 29,
+  "titolo": "La processione mistica",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_XXIX",
+  "numero_versi": 154,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 36],
+      "titolo_scena": "La luce improvvisa nella foresta",
+      "sintesi": "Matelda canta «Beati quorum tecta sunt peccata» e cammina lungo il fiume come una ninfa; Dante la segue sull'altra riva. Dopo meno di cento passi le rive girano e Dante guarda a oriente: Matelda lo invita a guardare e ad ascoltare. Un improvviso lustro attraversa la foresta come un lampo, ma continua e cresce di splendore, mentre una dolce melodia corre per l'aria. Dante rimpiange l'ardimento di Eva, che non volle restare sotto alcun velo.",
+      "luogo_id": "paradiso-terrestre",
+      "personaggi": ["dante", "virgilio", "stazio", "matelda"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La luce improvvisa nella foresta",
+          "url": "img/ia/purgatorio-29-scena-1.jpg",
+          "miniatura": "img/ia/purgatorio-29-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [37, 81],
+      "titolo_scena": "I sette candelabri",
+      "sintesi": "Dante invoca le Muse perché lo aiutino a mettere in versi cose forti a pensare. Un po' più avanti vede sette alberi d'oro; avvicinatosi, capisce che sono candelabri, e che le voci cantano «Osanna». Sopra, il bello arnese fiammeggia più chiaro della luna a mezzanotte. Dante si volge a Virgilio, pieno di meraviglia, ma anche lui è stupito; poi guarda le alte cose che avanzano più lente di novelle spose. Matelda lo rimprovera di guardare solo le luci e non ciò che viene dietro.",
+      "luogo_id": "paradiso-terrestre",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "I sette candelabri",
+          "url": "img/ia/purgatorio-29-scena-2.jpg",
+          "miniatura": "img/ia/purgatorio-29-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [82, 105],
+      "titolo_scena": "I ventiquattro seniori e i quattro animali",
+      "sintesi": "Sotto un cielo così bello vengono ventiquattro seniori a due a due, incoronati di gigli, cantando «Benedetta tu fra le figlie di Adamo». Dopo di loro vengono quattro animali coronati di fronde verdi, ciascuno con sei ali piene di occhi come quelli di Argo; Dante rimanda il lettore a Ezechiele per descriverli, ma precisa che le ali sono sei, come in Giovanni.",
+      "luogo_id": "paradiso-terrestre",
+      "personaggi": ["dante", "matelda"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "La processione mistica",
+          "url": "img/dore/purgatorio-29-processione-960.jpg",
+          "miniatura": "img/dore/purgatorio-29-processione-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148975531).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [106, 154],
+      "titolo_scena": "Il carro e il grifone",
+      "sintesi": "Nello spazio tra i quattro animali viene un carro trionfale a due ruote, tirato da un grifone dalle membra d'oro e bianche e vermiglie, più bello del carro di Scipione o di Augusto. Alla ruota destra tre donne danzano, una rossa come il fuoco, una verde come smeraldo, una bianca come neve; a sinistra quattro in porpora, guidate da una con tre occhi. Dietro, due vecchi (medico e uomo con la spada), quattro in umile aspetto e un vecchio solo che dorme. A un tuono, la processione si ferma.",
+      "luogo_id": "paradiso-terrestre",
+      "personaggi": ["dante", "matelda", "grifone"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Le tre virtù alla ruota del carro",
+          "url": "img/dore/purgatorio-29-virtu-960.jpg",
+          "miniatura": "img/dore/purgatorio-29-virtu-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148975583).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Cantando come donna innamorata,\ncontinüò col fin di sue parole:\n’Beati quorum tecta sunt peccata!’.",
+      "parafrasi": "Cantando come donna innamorata, continuò, alla fine delle sue parole: «Beati quorum tecta sunt peccata!»."
+    },
+    {
+      "versi": [4, 6],
+      "testo": "E come ninfe che si givan sole\nper le salvatiche ombre, disïando\nqual di veder, qual di fuggir lo sole,",
+      "parafrasi": "E come ninfe che andavano sole per le ombre selvagge, desiderando chi di vedere, chi di fuggire il sole,"
+    },
+    {
+      "versi": [7, 9],
+      "testo": "allor si mosse contra ’l fiume, andando\nsu per la riva; e io pari di lei,\npicciol passo con picciol seguitando.",
+      "parafrasi": "allora si mosse contro il fiume, andando su per la riva; e io pari a lei, piccolo passo con piccolo seguendo."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "Non eran cento tra ’ suoi passi e ’ miei,\nquando le ripe igualmente dier volta,\nper modo ch’a levante mi rendei.",
+      "parafrasi": "Non erano cento tra i suoi passi e i miei, quando le rive diedero ugualmente una svolta, così che mi trovai rivolto a levante."
+    },
+    {
+      "versi": [13, 15],
+      "testo": "Né ancor fu così nostra via molta,\nquando la donna tutta a me si torse,\ndicendo: \"Frate mio, guarda e ascolta\".",
+      "parafrasi": "Né ancora era così lunga la nostra via, quando la donna tutta si volse a me, dicendo: «Fratello mio, guarda e ascolta»."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "Ed ecco un lustro sùbito trascorse\nda tutte parti per la gran foresta,\ntal che di balenar mi mise in forse.",
+      "parafrasi": "Ed ecco un lustro improvviso corse da tutte le parti per la gran foresta, tale che mi mise in dubbio se fosse un lampo."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "Ma perché ’l balenar, come vien, resta,\ne quel, durando, più e più splendeva,\nnel mio pensier dicea: ’Che cosa è questa?’.",
+      "parafrasi": "Ma perché il lampo, come viene, cessa, e quello, durando, più e più splendeva, nel mio pensiero dicevo: «Che cosa è questa?»."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "E una melodia dolce correva\nper l’aere luminoso; onde buon zelo\nmi fé riprender l’ardimento d’Eva,",
+      "parafrasi": "E una melodia dolce correva per l'aria luminosa; per cui buon zelo mi fece rimproverare l'ardimento di Eva,"
+    },
+    {
+      "versi": [25, 27],
+      "testo": "che là dove ubidia la terra e ’l cielo,\nfemmina, sola e pur testé formata,\nnon sofferse di star sotto alcun velo;",
+      "parafrasi": "che là dove obbediva la terra e il cielo, donna, sola e appena allora formata, non sopportò di stare sotto alcun velo;"
+    },
+    {
+      "versi": [28, 30],
+      "testo": "sotto ’l qual se divota fosse stata,\navrei quelle ineffabili delizie\nsentite prima e più lunga fïata.",
+      "parafrasi": "sotto il quale se fosse stata devota, avrei sentito quelle ineffabili delizie prima e più a lungo."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "Mentr’io m’andava tra tante primizie\nde l’etterno piacer tutto sospeso,\ne disïoso ancora a più letizie,",
+      "parafrasi": "Mentre andavo tra tante primizie dell'eterno piacere tutto sospeso, e desideroso ancora di più letizie,"
+    },
+    {
+      "versi": [34, 36],
+      "testo": "dinanzi a noi, tal quale un foco acceso,\nci si fé l’aere sotto i verdi rami;\ne ’l dolce suon per canti era già inteso.",
+      "parafrasi": "davanti a noi, come un fuoco acceso, si fece l'aria sotto i verdi rami; e il dolce suono era già inteso per canti."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "O sacrosante Vergini, se fami,\nfreddi o vigilie mai per voi soffersi,\ncagion mi sprona ch’io mercé vi chiami.",
+      "parafrasi": "O sacrosante Vergini, se fame, freddi o vigilie mai per voi soffersi, la causa mi spinge a chiedere il vostro aiuto."
+    },
+    {
+      "versi": [40, 42],
+      "testo": "Or convien che Elicona per me versi,\ne Uranìe m’aiuti col suo coro\nforti cose a pensar mettere in versi.",
+      "parafrasi": "Ora conviene che Elicona versi per me, e Urania mi aiuti col suo coro a mettere in versi cose forti a pensare."
+    },
+    {
+      "versi": [43, 45],
+      "testo": "Poco più oltre, sette alberi d’oro\nfalsava nel parere il lungo tratto\ndel mezzo ch’era ancor tra noi e loro;",
+      "parafrasi": "Poco più oltre, sette alberi d'oro falsava nell'apparenza la lunga distanza dello spazio che era ancora tra noi e loro;"
+    },
+    {
+      "versi": [46, 48],
+      "testo": "ma quand’i’ fui sì presso di lor fatto,\nche l’obietto comun, che ’l senso inganna,\nnon perdea per distanza alcun suo atto,",
+      "parafrasi": "ma quando fui tanto vicino a loro, che l'oggetto comune, che inganna il senso, non perdeva per la distanza nessuno dei suoi atti,"
+    },
+    {
+      "versi": [49, 51],
+      "testo": "la virtù ch’a ragion discorso ammanna,\nsì com’elli eran candelabri apprese,\ne ne le voci del cantare ’Osanna’.",
+      "parafrasi": "la virtù che prepara il discorso alla ragione li riconobbe come candelabri, e nelle voci del cantare «Osanna»."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "Di sopra fiammeggiava il bello arnese\npiù chiaro assai che luna per sereno\ndi mezza notte nel suo mezzo mese.",
+      "parafrasi": "Di sopra fiammeggiava il bell'arnese molto più chiaro della luna in cielo sereno a mezzanotte nel suo mezzo mese."
+    },
+    {
+      "versi": [55, 57],
+      "testo": "Io mi rivolsi d’ammirazion pieno\nal buon Virgilio, ed esso mi rispuose\ncon vista carca di stupor non meno.",
+      "parafrasi": "Io mi rivolsi pieno di ammirazione al buon Virgilio, ed egli mi rispose con aspetto carico di stupore non minore."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Indi rendei l’aspetto a l’alte cose\nche si movieno incontr’a noi sì tardi,\nche foran vinte da novelle spose.",
+      "parafrasi": "Poi rivolsi l'aspetto alle alte cose che si muovevano verso di noi così lente, che sarebbero vinte da novelle spose."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "La donna mi sgridò: \"Perché pur ardi\nsì ne l’affetto de le vive luci,\ne ciò che vien di retro a lor non guardi?\".",
+      "parafrasi": "La donna mi sgridò: «Perché ardi così nell'affetto delle vive luci, e ciò che viene dietro ad esse non guardi?»."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Genti vid’io allor, come a lor duci,\nvenire appresso, vestite di bianco;\ne tal candor di qua già mai non fuci.",
+      "parafrasi": "Vidi allora genti, come a loro duci, venire dietro, vestite di bianco; e tale candore di qua non fu mai."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "L’acqua imprendëa dal sinistro fianco,\ne rendea me la mia sinistra costa,\ns’io riguardava in lei, come specchio anco.",
+      "parafrasi": "L'acqua prendeva dal fianco sinistro, e rendeva a me la mia costa sinistra, se io guardavo in lei, come anche specchio."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "Quand’io da la mia riva ebbi tal posta,\nche solo il fiume mi facea distante,\nper veder meglio ai passi diedi sosta,",
+      "parafrasi": "Quando io dalla mia riva ebbi tale postazione, che solo il fiume mi faceva distante, per vedere meglio fermai i passi,"
+    },
+    {
+      "versi": [73, 75],
+      "testo": "e vidi le fiammelle andar davante,\nlasciando dietro a sé l’aere dipinto,\ne di tratti pennelli avean sembiante;",
+      "parafrasi": "e vidi le fiammelle andare davanti, lasciando dietro di sé l'aria dipinta, e avevano sembianza di pennelli tracciati;"
+    },
+    {
+      "versi": [76, 78],
+      "testo": "sì che lì sopra rimanea distinto\ndi sette liste, tutte in quei colori\nonde fa l’arco il Sole e Delia il cinto.",
+      "parafrasi": "così che sopra rimaneva distinta di sette liste, tutte in quei colori con cui fa l'arco il Sole e Delia il cinto."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Questi ostendali in dietro eran maggiori\nche la mia vista; e, quanto a mio avviso,\ndiece passi distavan quei di fori.",
+      "parafrasi": "Questi stendardi indietro erano maggiori della mia vista; e, a mio avviso, dieci passi distavano quelli esterni."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "Sotto così bel ciel com’io diviso,\nventiquattro seniori, a due a due,\ncoronati venien di fiordaliso.",
+      "parafrasi": "Sotto così bel cielo come io descrivo, ventiquattro seniori, a due a due, venivano coronati di fiordaliso."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "Tutti cantavan: \"Benedicta tue\nne le figlie d’Adamo, e benedette\nsieno in etterno le bellezze tue!\".",
+      "parafrasi": "Tutti cantavano: «Benedetta tu fra le figlie di Adamo, e benedette siano in eterno le tue bellezze!»."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Poscia che i fiori e l’altre fresche erbette\na rimpetto di me da l’altra sponda\nlibere fuor da quelle genti elette,",
+      "parafrasi": "Dopo che i fiori e le altre fresche erbette di fronte a me dall'altra sponda furono libere da quelle genti elette,"
+    },
+    {
+      "versi": [91, 93],
+      "testo": "sì come luce luce in ciel seconda,\nvennero appresso lor quattro animali,\ncoronati ciascun di verde fronda.",
+      "parafrasi": "come luce segue luce in cielo, vennero dietro a loro quattro animali, coronati ciascuno di fronda verde."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Ognuno era pennuto di sei ali;\nle penne piene d’occhi; e li occhi d’Argo,\nse fosser vivi, sarebber cotali.",
+      "parafrasi": "Ognuno era pennuto di sei ali; le penne piene di occhi; e gli occhi di Argo, se fossero vivi, sarebbero tali."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "A descriver lor forme più non spargo\nrime, lettor; ch’altra spesa mi strigne,\ntanto ch’a questa non posso esser largo;",
+      "parafrasi": "A descrivere le loro forme non spargo più rime, lettore; perché altra spesa mi stringe, tanto che a questa non posso essere largo;"
+    },
+    {
+      "versi": [100, 102],
+      "testo": "ma leggi Ezechïel, che li dipigne\ncome li vide da la fredda parte\nvenir con vento e con nube e con igne;",
+      "parafrasi": "ma leggi Ezechiele, che li dipinge come li vide dalla parte fredda venire con vento e con nube e con fuoco;"
+    },
+    {
+      "versi": [103, 105],
+      "testo": "e quali i troverai ne le sue carte,\ntali eran quivi, salvo ch’a le penne\nGiovanni è meco e da lui si diparte.",
+      "parafrasi": "e quali li troverai nelle sue carte, tali erano qui, salvo che alle penne Giovanni è con me e da lui si diparte."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Lo spazio dentro a lor quattro contenne\nun carro, in su due rote, trïunfale,\nch’al collo d’un grifon tirato venne.",
+      "parafrasi": "Lo spazio dentro a loro quattro conteneva un carro, su due ruote, trionfale, che venne tirato al collo da un grifone."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "Esso tendeva in sù l’una e l’altra ale\ntra la mezzana e le tre e tre liste,\nsì ch’a nulla, fendendo, facea male.",
+      "parafrasi": "Esso tendeva in su l'una e l'altra ala tra la striscia di mezzo e le tre e tre liste, così che non faceva male a nessuna, fendendo."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Tanto salivan che non eran viste;\nle membra d’oro avea quant’era uccello,\ne bianche l’altre, di vermiglio miste.",
+      "parafrasi": "Salivano tanto che non si vedevano; le membra aveva d'oro quanto era uccello, e bianche le altre, miste di vermiglio."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "Non che Roma di carro così bello\nrallegrasse Affricano, o vero Augusto,\nma quel del Sol saria pover con ello;",
+      "parafrasi": "Non solo Roma di carro così bello rallegrò Africano, o anche Augusto, ma quello del Sole sarebbe povero a paragone;"
+    },
+    {
+      "versi": [118, 120],
+      "testo": "quel del Sol che, svïando, fu combusto\nper l’orazion de la Terra devota,\nquando fu Giove arcanamente giusto.",
+      "parafrasi": "quello del Sole che, sviando, fu bruciato per l'orazione della Terra devota, quando Giove fu segretamente giusto."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "Tre donne in giro da la destra rota\nvenian danzando; l’una tanto rossa\nch’a pena fora dentro al foco nota;",
+      "parafrasi": "Tre donne in giro dalla ruota destra venivano danzando; l'una tanto rossa che a stento sarebbe nota dentro al fuoco;"
+    },
+    {
+      "versi": [124, 126],
+      "testo": "l’altr’era come se le carni e l’ossa\nfossero state di smeraldo fatte;\nla terza parea neve testé mossa;",
+      "parafrasi": "l'altra era come se le carni e le ossa fossero state fatte di smeraldo; la terza pareva neve appena mossa;"
+    },
+    {
+      "versi": [127, 129],
+      "testo": "e or parëan da la bianca tratte,\nor da la rossa; e dal canto di questa\nl’altre toglien l’andare e tarde e ratte.",
+      "parafrasi": "e ora parevano guidate dalla bianca, ora dalla rossa; e dal canto di questa le altre prendevano l'andare e lento e rapido."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Da la sinistra quattro facean festa,\nin porpore vestite, dietro al modo\nd’una di lor ch’avea tre occhi in testa.",
+      "parafrasi": "Dalla sinistra quattro facevano festa, in porpore vestite, seguendo il modo di una di loro che aveva tre occhi in testa."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "Appresso tutto il pertrattato nodo\nvidi due vecchi in abito dispari,\nma pari in atto e onesto e sodo.",
+      "parafrasi": "Dopo tutto il gruppo descritto vidi due vecchi in abito dispari, ma pari in atto e onesto e fermo."
+    },
+    {
+      "versi": [136, 138],
+      "testo": "L’un si mostrava alcun de’ famigliari\ndi quel sommo Ipocràte che natura\na li animali fé ch’ell’ ha più cari;",
+      "parafrasi": "L'uno si mostrava uno dei familiari di quel sommo Ippocrate che natura fece per gli animali che ha più cari;"
+    },
+    {
+      "versi": [139, 141],
+      "testo": "mostrava l’altro la contraria cura\ncon una spada lucida e aguta,\ntal che di qua dal rio mi fé paura.",
+      "parafrasi": "mostrava l'altro la cura contraria con una spada lucida e aguzza, tale che di qua dal rio mi fece paura."
+    },
+    {
+      "versi": [142, 144],
+      "testo": "Poi vidi quattro in umile paruta;\ne di retro da tutti un vecchio solo\nvenir, dormendo, con la faccia arguta.",
+      "parafrasi": "Poi vidi quattro in umile aspetto; e dietro a tutti un vecchio solo venire, dormendo, con la faccia acuta."
+    },
+    {
+      "versi": [145, 147],
+      "testo": "E questi sette col primaio stuolo\nerano abitüati, ma di gigli\ndintorno al capo non facëan brolo,",
+      "parafrasi": "E questi sette con il primo stuolo erano abituati, ma di gigli non facevano una cinta intorno al capo,"
+    },
+    {
+      "versi": [148, 150],
+      "testo": "anzi di rose e d’altri fior vermigli;\ngiurato avria poco lontano aspetto\nche tutti ardesser di sopra da’ cigli.",
+      "parafrasi": "anzi di rose e di altri fiori vermigli; avrebbe giurato poco lontano l'aspetto che tutti ardessero sopra le ciglia."
+    },
+    {
+      "versi": [151, 153],
+      "testo": "E quando il carro a me fu a rimpetto,\nun tuon s’udì, e quelle genti degne\nparvero aver l’andar più interdetto,",
+      "parafrasi": "E quando il carro mi fu di fronte, si udì un tuono, e quelle genti degne parvero avere l'andare impedito,"
+    },
+    {
+      "versi": [154, 154],
+      "testo": "fermandosi ivi con le prime insegne.",
+      "parafrasi": "fermandosi lì con le prime insegne."
+    }
+  ]
+}

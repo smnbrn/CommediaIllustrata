@@ -1,0 +1,332 @@
+{
+  "cantica": "purgatorio",
+  "canto": 19,
+  "titolo": "La femmina balba, l'angelo e Adriano V",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_XIX",
+  "numero_versi": 145,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 36],
+      "titolo_scena": "La femmina balba",
+      "sintesi": "All'alba Dante sogna una donna balbuziente, strabica, storpia, con le mani mozze e pallida; sotto il suo sguardo la lingua si scioglie, il volto si colora, e comincia a cantare come una dolce sirena che ha traviato Ulisse. Appare una donna santa che chiama Virgilio con sdegno; questi strappa le vesti alla sirena, mostrando il ventre: il puzzo sveglia Dante.",
+      "luogo_id": "cornice-4",
+      "personaggi": ["dante", "virgilio", "sirena"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La femmina balba",
+          "url": "img/ia/purgatorio-19-scena-1.jpg",
+          "miniatura": "img/ia/purgatorio-19-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [37, 69],
+      "titolo_scena": "L'angelo della quarta cornice",
+      "sintesi": "Ormai è pieno giorno e Dante segue Virgilio curvo, come chi ha la mente carica di pensieri. Una voce soave li invita a passare; un angelo con ali di cigno li guida su tra due pareti di macigno e, ventilandoli, afferma che sono beati coloro che piangono. Dante racconta il sogno: Virgilio spiega che è l'antica strega che fa piangere i cupidi, e lo invita a guardare il richiamo del cielo.",
+      "luogo_id": "cornice-4",
+      "personaggi": ["dante", "virgilio", "angelo-della-sollecitudine"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "L'angelo che invita a salire",
+          "url": "img/dore/purgatorio-19-angelo-960.jpg",
+          "miniatura": "img/dore/purgatorio-19-angelo-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148974906).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [70, 96],
+      "titolo_scena": "Gli avari distesi",
+      "sintesi": "Nella quinta cornice Dante vede gente che piange giacendo a terra con la faccia in giù, e sente dire con sospiri così alti che la parola a stento si intende: «La mia anima si è attaccata al suolo». Virgilio chiede loro la via più breve e riceve risposta da un'anima nascosta, a cui Dante si rivolge con il permesso della sua guida.",
+      "luogo_id": "cornice-5",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Gli avari distesi a terra",
+          "url": "img/dore/purgatorio-19-avari-960.jpg",
+          "miniatura": "img/dore/purgatorio-19-avari-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148974959).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [97, 145],
+      "titolo_scena": "Adriano V",
+      "sintesi": "L'anima risponde di essere stata papa, successore di Pietro, nato nella Liguria tra Sestri e Chiaveri: in poco più di un mese provò come pesi il gran manto. Si convertì tardi e scoprì la vita bugiarda; prima era anima avara, e ora sconta l'avarizia, legata a terra con le mani e i piedi. Dante si inginocchia per rispetto, ma il papa lo rialza: in Purgatorio tutti sono servi dello stesso potere, e nel regno dei cieli non si sposano. Gli affida la nipote Alagia.",
+      "luogo_id": "cornice-5",
+      "personaggi": ["dante", "virgilio", "adriano-v"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Adriano V",
+          "url": "img/ia/purgatorio-19-scena-4.jpg",
+          "miniatura": "img/ia/purgatorio-19-scena-4.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Ne l’ora che non può ’l calor dïurno\nintepidar più ’l freddo de la luna,\nvinto da terra, e talor da Saturno",
+      "parafrasi": "Nell'ora in cui il calore diurno non può più intiepidire il freddo della luna, vinto dalla terra, e talvolta da Saturno"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "- quando i geomanti lor Maggior Fortuna\nveggiono in orïente, innanzi a l’alba,\nsurger per via che poco le sta bruna -,",
+      "parafrasi": "(quando i geomanti vedono la loro Fortuna maggiore sorgere in oriente, prima dell'alba, per una via che le resta poco scura),"
+    },
+    {
+      "versi": [7, 9],
+      "testo": "mi venne in sogno una femmina balba,\nne li occhi guercia, e sovra i piè distorta,\ncon le man monche, e di colore scialba.",
+      "parafrasi": "mi venne in sogno una femmina balbuziente, guercia negli occhi, storpia sui piedi, con le mani monche e di colore scialbo."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "Io la mirava; e come ’l sol conforta\nle fredde membra che la notte aggrava,\ncosì lo sguardo mio le facea scorta",
+      "parafrasi": "Io la guardavo; e come il sole conforta le fredde membra che la notte appesantisce, così il mio sguardo le rendeva sciolta"
+    },
+    {
+      "versi": [13, 15],
+      "testo": "la lingua, e poscia tutta la drizzava\nin poco d’ora, e lo smarrito volto,\ncom’amor vuol, così le colorava.",
+      "parafrasi": "la lingua, e poi la raddrizzava tutta in poco tempo, e il volto smarrito, come vuole amore, così le colorava."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "Poi ch’ell’avea ’l parlar così disciolto,\ncominciava a cantar sì, che con pena\nda lei avrei mio intento rivolto.",
+      "parafrasi": "Dopo che aveva così sciolto la parola, cominciava a cantare così bene che a fatica da lei avrei volto la mia attenzione."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "\"Io son\", cantava, \"io son dolce serena,\nche ’ marinari in mezzo mar dismago;\ntanto son di piacere a sentir piena!",
+      "parafrasi": "«Io sono», cantava, «io sono la dolce sirena, che smarrisco i marinai in mezzo al mare; tanto sono piena di piacere da udire!"
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Io volsi Ulisse del suo cammin vago\nal canto mio; e qual meco s’ausa,\nrado sen parte; sì tutto l’appago!\".",
+      "parafrasi": "Io distolsi Ulisse dal suo cammino errabondo col mio canto; e chi si abitua a me, raramente se ne va; così lo appago del tutto!»."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Ancor non era sua bocca richiusa,\nquand’una donna apparve santa e presta\nlunghesso me per far colei confusa.",
+      "parafrasi": "Ancora non era chiusa la sua bocca, quando una donna santa e pronta apparve vicino a me per confonderla."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "\"O Virgilio, Virgilio, chi è questa?\",\nfieramente dicea; ed el venìa\ncon li occhi fitti pur in quella onesta.",
+      "parafrasi": "«O Virgilio, Virgilio, chi è questa?», diceva fieramente; ed egli veniva con gli occhi fissi su quella onesta."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "L’altra prendea, e dinanzi l’apria\nfendendo i drappi, e mostravami ’l ventre;\nquel mi svegliò col puzzo che n’uscia.",
+      "parafrasi": "L'altra la prendeva e davanti la apriva squarciando le vesti, e mi mostrava il ventre; quello mi svegliò col puzzo che ne usciva."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Io mossi li occhi, e ’l buon maestro: \"Almen tre\nvoci t’ ho messe!\", dicea, \"Surgi e vieni;\ntroviam l’aperta per la qual tu entre\".",
+      "parafrasi": "Mossi gli occhi, e il buon maestro: «Almeno tre voci ti ho mandato!», diceva; «Alzati e vieni; troviamo l'apertura per cui tu entri»."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Sù mi levai, e tutti eran già pieni\nde l’alto dì i giron del sacro monte,\ne andavam col sol novo a le reni.",
+      "parafrasi": "Mi alzai, e già i giri del sacro monte erano tutti pieni del pieno giorno, e andavamo col sole nuovo alle spalle."
+    },
+    {
+      "versi": [40, 42],
+      "testo": "Seguendo lui, portava la mia fronte\ncome colui che l’ ha di pensier carca,\nche fa di sé un mezzo arco di ponte;",
+      "parafrasi": "Seguendolo, portavo la fronte come chi la ha carica di pensieri, e fa di sé un mezzo arco di ponte;"
+    },
+    {
+      "versi": [43, 45],
+      "testo": "quand’io udi’ \"Venite; qui si varca\"\nparlare in modo soave e benigno,\nqual non si sente in questa mortal marca.",
+      "parafrasi": "quando udii «Venite; qui si passa», parlare in modo soave e benigno, quale non si sente in questa terra mortale."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Con l’ali aperte, che parean di cigno,\nvolseci in sù colui che sì parlonne\ntra due pareti del duro macigno.",
+      "parafrasi": "Con le ali aperte, che sembravano di cigno, ci volse in su colui che così parlò tra due pareti di duro macigno."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "Mosse le penne poi e ventilonne,\n’Qui lugent’affermando esser beati,\nch’avran di consolar l’anime donne.",
+      "parafrasi": "Mosse poi le penne e ci ventilò, affermando che «Qui lugent» sono beati, perché avranno le anime ricolme di consolazione."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "\"Che hai che pur inver’ la terra guati?\",\nla guida mia incominciò a dirmi,\npoco amendue da l’angel sormontati.",
+      "parafrasi": "«Che hai che guardi solo verso la terra?», la mia guida cominciò a dirmi, quando entrambi eravamo poco sopra l'angelo."
+    },
+    {
+      "versi": [55, 57],
+      "testo": "E io: \"Con tanta sospeccion fa irmi\nnovella visïon ch’a sé mi piega,\nsì ch’io non posso dal pensar partirmi\".",
+      "parafrasi": "E io: «Mi fa andare con tanto sospetto una nuova visione che mi piega a sé, così che non posso staccarmi dal pensiero»."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "\"Vedesti\", disse, \"quell’antica strega\nche sola sovr’a noi omai si piagne;\nvedesti come l’uom da lei si slega.",
+      "parafrasi": "«Hai visto», disse, «quell'antica strega che sola sopra di noi ormai si piange; hai visto come l'uomo si libera da lei."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Bastiti, e batti a terra le calcagne;\nli occhi rivolgi al logoro che gira\nlo rege etterno con le rote magne\".",
+      "parafrasi": "Ti basti, e batti a terra i calcagni; volgi gli occhi al logoro che gira il re eterno con le ruote grandi»."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Quale ’l falcon, che prima a’ piè si mira,\nindi si volge al grido e si protende\nper lo disio del pasto che là il tira,",
+      "parafrasi": "Come il falco, che prima si guarda ai piedi, poi si volge al grido e si protende per il desiderio del cibo che là lo tira,"
+    },
+    {
+      "versi": [67, 69],
+      "testo": "tal mi fec’io; e tal, quanto si fende\nla roccia per dar via a chi va suso,\nn’andai infin dove ’l cerchiar si prende.",
+      "parafrasi": "tale mi feci io; e tale, per quanto si apre la roccia per dar via a chi va su, andai fino dove si prende il giro."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "Com’io nel quinto giro fui dischiuso,\nvidi gente per esso che piangea,\ngiacendo a terra tutta volta in giuso.",
+      "parafrasi": "Quando fui sbucato nel quinto giro, vidi gente che vi piangeva, giacendo a terra tutta volta in giù."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "’Adhaesit pavimento anima mea’\nsentia dir lor con sì alti sospiri,\nche la parola a pena s’intendea.",
+      "parafrasi": "«Adhaesit pavimento anima mea» sentivo dire da loro con sospiri così alti che la parola a malapena si capiva."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "\"O eletti di Dio, li cui soffriri\ne giustizia e speranza fa men duri,\ndrizzate noi verso li alti saliri\".",
+      "parafrasi": "«O eletti di Dio, i cui patimenti giustizia e speranza rendono meno duri, indirizzateci verso le alte scale»."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "\"Se voi venite dal giacer sicuri,\ne volete trovar la via più tosto,\nle vostre destre sien sempre di fori\".",
+      "parafrasi": "«Se venite dal giacere sicuri e volete trovare la via più presto, le vostre destre siano sempre all'esterno»."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "Così pregò ’l poeta, e sì risposto\npoco dinanzi a noi ne fu; per ch’io\nnel parlare avvisai l’altro nascosto,",
+      "parafrasi": "Così pregò il poeta, e così fu risposto poco davanti a noi; per cui io, dal parlare, notai l'altro nascosto,"
+    },
+    {
+      "versi": [85, 87],
+      "testo": "e volsi li occhi a li occhi al segnor mio:\nond’elli m’assentì con lieto cenno\nciò che chiedea la vista del disio.",
+      "parafrasi": "e volsi gli occhi agli occhi del mio signore: ed egli mi assentì con lieto cenno ciò che chiedeva la vista del desiderio."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Poi ch’io potei di me fare a mio senno,\ntrassimi sovra quella creatura\nle cui parole pria notar mi fenno,",
+      "parafrasi": "Dopo che potei fare a mio senno, mi trassi sopra quella creatura le cui parole mi avevano fatto notare prima,"
+    },
+    {
+      "versi": [91, 93],
+      "testo": "dicendo: \"Spirto in cui pianger matura\nquel sanza ’l quale a Dio tornar non pòssi,\nsosta un poco per me tua maggior cura.",
+      "parafrasi": "dicendo: «Spirito in cui piange maturare ciò senza cui non si può tornare a Dio, sosta un poco per me della tua maggior cura."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Chi fosti e perché vòlti avete i dossi\nal sù, mi dì, e se vuo’ ch’io t’impetri\ncosa di là ond’io vivendo mossi\".",
+      "parafrasi": "Chi fosti e perché avete volte le schiene in su, dimmi, e se vuoi che ti ottenga qualcosa di là da dove io mi mossi vivendo»."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Ed elli a me: \"Perché i nostri diretri\nrivolga il cielo a sé, saprai; ma prima\nscias quod ego fui successor Petri.",
+      "parafrasi": "Ed egli a me: «Perché il cielo ci volga le spalle, lo saprai; ma prima sappi che io fui successore di Pietro."
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Intra Sïestri e Chiaveri s’adima\nuna fiumana bella, e del suo nome\nlo titol del mio sangue fa sua cima.",
+      "parafrasi": "Tra Sestri e Chiavari scende un bel fiume, e dal suo nome il titolo del mio sangue fa il suo vertice."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Un mese e poco più prova’ io come\npesa il gran manto a chi dal fango il guarda,\nche piuma sembran tutte l’altre some.",
+      "parafrasi": "Un mese e poco più provai come pesa il gran manto a chi lo guarda dal fango, tanto che tutti gli altri pesi sembrano piume."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "La mia conversïone, omè!, fu tarda;\nma, come fatto fui roman pastore,\ncosì scopersi la vita bugiarda.",
+      "parafrasi": "La mia conversione, ahimè, fu tarda; ma, come fui fatto pastore romano, così scoprii la vita bugiarda."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "Vidi che lì non s’acquetava il core,\nné più salir potiesi in quella vita;\nper che di questa in me s’accese amore.",
+      "parafrasi": "Vidi che lì il cuore non si acquietava, né si poteva più salire in quella vita; per cui in me si accese amore per questa."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Fino a quel punto misera e partita\nda Dio anima fui, del tutto avara;\nor, come vedi, qui ne son punita.",
+      "parafrasi": "Fino a quel punto fui anima misera e separata da Dio, del tutto avara; ora, come vedi, qui ne sono punita."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "Quel ch’avarizia fa, qui si dichiara\nin purgazion de l’anime converse;\ne nulla pena il monte ha più amara.",
+      "parafrasi": "Ciò che l'avarizia fa, qui si dichiara nella purgazione delle anime convertite; e il monte non ha pena più amara."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Sì come l’occhio nostro non s’aderse\nin alto, fisso a le cose terrene,\ncosì giustizia qui a terra il merse.",
+      "parafrasi": "Come il nostro occhio non si innalzò, fisso alle cose terrene, così la giustizia qui lo ha immerso a terra."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "Come avarizia spense a ciascun bene\nlo nostro amore, onde operar perdési,\ncosì giustizia qui stretti ne tene,",
+      "parafrasi": "Come l'avarizia spense in ciascuno di noi l'amore per ogni bene, per cui si perse l'operare, così la giustizia qui ci tiene stretti,"
+    },
+    {
+      "versi": [124, 126],
+      "testo": "ne’ piedi e ne le man legati e presi;\ne quanto fia piacer del giusto Sire,\ntanto staremo immobili e distesi\".",
+      "parafrasi": "nei piedi e nelle mani legati e presi; e quanto sarà piacere del giusto Signore, tanto staremo immobili e distesi»."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Io m’era inginocchiato e volea dire;\nma com’io cominciai ed el s’accorse,\nsolo ascoltando, del mio reverire,",
+      "parafrasi": "Io mi ero inginocchiato e volevo parlare; ma appena cominciai ed egli si accorse, solo ascoltando, del mio riverire,"
+    },
+    {
+      "versi": [130, 132],
+      "testo": "\"Qual cagion\", disse, \"in giù così ti torse?\".\nE io a lui: \"Per vostra dignitate\nmia coscïenza dritto mi rimorse\".",
+      "parafrasi": "«Quale causa», disse, «ti ha piegato così in giù?». E io a lui: «Per la vostra dignità la mia coscienza mi rimordeva giustamente»."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "\"Drizza le gambe, lèvati sù, frate!\",\nrispuose; \"non errar: conservo sono\nteco e con li altri ad una podestate.",
+      "parafrasi": "«Drizza le gambe, alzati, fratello!», rispose; «non sbagliare: sono tuo compagno di servizio e degli altri, a uno stesso potere."
+    },
+    {
+      "versi": [136, 138],
+      "testo": "Se mai quel santo evangelico suono\nche dice ‘Neque nubent’ intendesti,\nben puoi veder perch’io così ragiono.",
+      "parafrasi": "Se mai hai capito quel santo suono evangelico che dice \"Neque nubent\", puoi ben vedere perché io parlo così."
+    },
+    {
+      "versi": [139, 141],
+      "testo": "Vattene omai: non vo’ che più t’arresti;\nché la tua stanza mio pianger disagia,\ncol qual maturo ciò che tu dicesti.",
+      "parafrasi": "Vattene ormai: non voglio che ti fermi di più; perché la tua sosta disagia il mio pianto, col quale maturo ciò che dicesti."
+    },
+    {
+      "versi": [142, 144],
+      "testo": "Nepote ho io di là c’ha nome Alagia,\nbuona da sé, pur che la nostra casa\nnon faccia lei per essempro malvagia;",
+      "parafrasi": "Ho una nipote di là che ha nome Alagia, buona da sé, purché la nostra casa non la renda malvagia per esempio;"
+    },
+    {
+      "versi": [145, 145],
+      "testo": "e questa sola di là m’è rimasa\".",
+      "parafrasi": "e questa sola di là mi è rimasta»."
+    }
+  ]
+}

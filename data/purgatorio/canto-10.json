@@ -1,0 +1,322 @@
+{
+  "cantica": "purgatorio",
+  "canto": 10,
+  "titolo": "La prima cornice: esempi di umiltà e i superbi",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_X",
+  "numero_versi": 139,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 27],
+      "titolo_scena": "La pietra fessa e la prima cornice",
+      "sintesi": "Varcata la soglia, Dante sente la porta richiudersi dietro di sé: se si fosse voltato, quale scusa avrebbe avuto? I poeti salgono per una fenditura nella roccia che si muove come un'onda; Virgilio avverte che occorre un po' d'arte, e passando ora da un lato ora dall'altro arrivano a un ripiano deserto come una strada nel deserto, largo tre corpi umani: la prima cornice.",
+      "luogo_id": "porta-purgatorio",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La pietra fessa e la prima cornice",
+          "url": "img/ia/purgatorio-10-scena-1.jpg",
+          "miniatura": "img/ia/purgatorio-10-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [28, 63],
+      "titolo_scena": "L'Annunciazione scolpita",
+      "sintesi": "Il muro di marmo bianco è scolpito con intagli di tale perfezione che ne sarebbero umiliati Policleto e la natura stessa. Primo esempio di umiltà: l'angelo Gabriele che annuncia a Maria la pace attesa per secoli, così vivo che sembra dire «Ave»; Maria è scolpita nell'atto di dire «Ecco la serva di Dio».",
+      "luogo_id": "cornice-1",
+      "personaggi": ["dante", "virgilio", "maria", "angelo-gabriele"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "L'Annunciazione scolpita",
+          "url": "img/ia/purgatorio-10-scena-2.jpg",
+          "miniatura": "img/ia/purgatorio-10-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [64, 93],
+      "titolo_scena": "Davide e Traiano",
+      "sintesi": "Secondo esempio: Davide, umile salmista, danza davanti all'arca mentre Micol lo guarda dalla finestra con disprezzo. Terzo esempio: l'imperatore Traiano, circondato da cavalieri e aquile al vento, ascolta una povera vedova che chiede giustizia per il figlio ucciso; egli risponde che la farà prima di partire. Dio ha scolpito quel «parlare visibile» per noi che non lo conosciamo.",
+      "luogo_id": "cornice-1",
+      "personaggi": ["dante", "virgilio", "davide", "micol", "traiano", "vedova-di-traiano"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Traiano e la vedova",
+          "url": "img/dore/purgatorio-10-traiano-960.jpg",
+          "miniatura": "img/dore/purgatorio-10-traiano-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148974417).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [94, 139],
+      "titolo_scena": "I superbi sotto i massi",
+      "sintesi": "Mentre Dante ammira le immagini di tante umiltà, Virgilio lo avverte che vengono molte anime, a passo lento. Dante non le distingue: sono piegate in due dal peso di enormi massi. Virgilio lo invita a guardare meglio: già si vede come ciascuno si batte il petto. Dante si rivolge ai superbi cristiani: siamo vermi destinati a diventare angeliche farfalle; li paragona alle figure di sostegno, con le ginocchia al petto.",
+      "luogo_id": "cornice-1",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "I superbi sotto i massi",
+          "url": "img/ia/purgatorio-10-scena-4.jpg",
+          "miniatura": "img/ia/purgatorio-10-scena-4.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Poi fummo dentro al soglio de la porta\nche ’l mal amor de l’anime disusa,\nperché fa parer dritta la via torta,",
+      "parafrasi": "Poi fummo dentro la soglia della porta che il cattivo amore delle anime non usa, perché fa sembrare dritta la via storta,"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "sonando la senti’ esser richiusa;\ne s’io avesse li occhi vòlti ad essa,\nqual fora stata al fallo degna scusa?",
+      "parafrasi": "sentii dal suono che si richiudeva; e se avessi volto gli occhi ad essa, quale scusa sarebbe stata degna della colpa?"
+    },
+    {
+      "versi": [7, 9],
+      "testo": "Noi salavam per una pietra fessa,\nche si moveva e d’una e d’altra parte,\nsì come l’onda che fugge e s’appressa.",
+      "parafrasi": "Salivamo per una pietra spaccata, che si muoveva da una parte e dall'altra, come l'onda che fugge e si avvicina."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "\"Qui si conviene usare un poco d’arte\",\ncominciò ’l duca mio, \"in accostarsi\nor quinci, or quindi al lato che si parte\".",
+      "parafrasi": "«Qui bisogna usare un po' d'arte», cominciò la mia guida, «nell'accostarsi ora di qua, ora di là al lato che si sposta»."
+    },
+    {
+      "versi": [13, 15],
+      "testo": "E questo fece i nostri passi scarsi,\ntanto che pria lo scemo de la luna\nrigiunse al letto suo per ricorcarsi,",
+      "parafrasi": "E questo rese scarsi i nostri passi, tanto che la luna calante tornò a coricarsi nel suo letto prima che noi fossimo usciti da quella cruna;"
+    },
+    {
+      "versi": [16, 18],
+      "testo": "che noi fossimo fuor di quella cruna;\nma quando fummo liberi e aperti\nsù dove il monte in dietro si rauna,",
+      "parafrasi": "ma quando fummo liberi e all'aperto, lassù dove il monte si ritira all'indietro,"
+    },
+    {
+      "versi": [19, 21],
+      "testo": "ïo stancato e amendue incerti\ndi nostra via, restammo in su un piano\nsolingo più che strade per diserti.",
+      "parafrasi": "io stanco e tutti e due incerti della via, ci fermammo su un piano solitario più delle strade nei deserti."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Da la sua sponda, ove confina il vano,\nal piè de l’alta ripa che pur sale,\nmisurrebbe in tre volte un corpo umano;",
+      "parafrasi": "Dal suo bordo, dove confina il vuoto, al piede dell'alta riva che continua a salire, si misurerebbe in tre volte un corpo umano;"
+    },
+    {
+      "versi": [25, 27],
+      "testo": "e quanto l’occhio mio potea trar d’ale,\nor dal sinistro e or dal destro fianco,\nquesta cornice mi parea cotale.",
+      "parafrasi": "e quanto l'occhio mio poteva spingere le ali, ora dal fianco sinistro ora dal destro, questa cornice mi sembrava tale."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Là sù non eran mossi i piè nostri anco,\nquand’io conobbi quella ripa intorno\nche dritto di salita aveva manco,",
+      "parafrasi": "Lassù i nostri piedi non si erano ancora mossi, quando mi accorsi che quella riva tutt'intorno, che non aveva salita ripida,"
+    },
+    {
+      "versi": [31, 33],
+      "testo": "esser di marmo candido e addorno\nd’intagli sì, che non pur Policleto,\nma la natura lì avrebbe scorno.",
+      "parafrasi": "era di marmo candido e adorna di intagli tali che non solo Policleto, ma la natura vi avrebbe avuto vergogna."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "L’angel che venne in terra col decreto\nde la molt’anni lagrimata pace,\nch’aperse il ciel del suo lungo divieto,",
+      "parafrasi": "L'angelo che venne in terra con il decreto della pace tante volte pianta con lacrime, che aprì il cielo dal suo lungo divieto,"
+    },
+    {
+      "versi": [37, 39],
+      "testo": "dinanzi a noi pareva sì verace\nquivi intagliato in un atto soave,\nche non sembiava imagine che tace.",
+      "parafrasi": "appariva davanti a noi così vero, scolpito lì in un gesto soave, da non sembrare un'immagine che tace."
+    },
+    {
+      "versi": [40, 42],
+      "testo": "Giurato si saria ch’el dicesse ’Ave!’;\nperché iv’era imaginata quella\nch’ad aprir l’alto amor volse la chiave;",
+      "parafrasi": "Si sarebbe giurato che dicesse «Ave!»; perché lì era scolpita colei che volle aprire con la chiave l'alto amore;"
+    },
+    {
+      "versi": [43, 45],
+      "testo": "e avea in atto impressa esta favella\n’Ecce ancilla Deï’, propriamente\ncome figura in cera si suggella.",
+      "parafrasi": "e aveva impresse nell'atto queste parole: «Ecco la serva di Dio», proprio come una figura si imprime nella cera."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "\"Non tener pur ad un loco la mente\",\ndisse ’l dolce maestro, che m’avea\nda quella parte onde ’l cuore ha la gente.",
+      "parafrasi": "«Non tenere la mente fissa in un solo luogo», disse il dolce maestro, che mi aveva dal lato dove l'uomo ha il cuore."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "Per ch’i’ mi mossi col viso, e vedea\ndi retro da Maria, da quella costa\nonde m’era colui che mi movea,",
+      "parafrasi": "Per questo mossi il viso, e vedevo dietro Maria, da quel lato dove stava colui che mi spingeva,"
+    },
+    {
+      "versi": [52, 54],
+      "testo": "un’altra storia ne la roccia imposta;\nper ch’io varcai Virgilio, e fe’ mi presso,\nacciò che fosse a li occhi miei disposta.",
+      "parafrasi": "un'altra storia scolpita nella roccia; perciò passai oltre Virgilio e mi feci presso, perché fosse disposta ai miei occhi."
+    },
+    {
+      "versi": [55, 57],
+      "testo": "Era intagliato lì nel marmo stesso\nlo carro e ’ buoi, traendo l’arca santa,\nper che si teme officio non commesso.",
+      "parafrasi": "Era scolpito lì nello stesso marmo il carro e i buoi che trainavano l'arca santa, per cui si teme l'incarico non commesso."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Dinanzi parea gente; e tutta quanta,\npartita in sette cori, a’ due mie’ sensi\nfaceva dir l’un ’No’, l’altro ’Sì, canta’.",
+      "parafrasi": "Davanti sembrava gente; e tutta quanta, divisa in sette cori, faceva dire a due miei sensi, uno «No» e l'altro «Sì, cantano»."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Similemente al fummo de li ’ncensi\nche v’era imaginato, li occhi e ’l naso\ne al sì e al no discordi fensi.",
+      "parafrasi": "Allo stesso modo, al fumo degli incensi che vi era scolpito, gli occhi e il naso si trovarono discordi sul sì e sul no."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Lì precedeva al benedetto vaso,\ntrescando alzato, l’umile salmista,\ne più e men che re era in quel caso.",
+      "parafrasi": "Lì precedeva il vaso benedetto, danzando in alto, l'umile salmista, e in quel caso era più e meno che re."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Di contra, effigïata ad una vista\nd’un gran palazzo, Micòl ammirava\nsì come donna dispettosa e trista.",
+      "parafrasi": "Di fronte, raffigurata al vetro di un gran palazzo, Micol guardava come una donna sdegnosa e triste."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "I’ mossi i piè del loco dov’io stava,\nper avvisar da presso un’altra istoria,\nche di dietro a Micòl mi biancheggiava.",
+      "parafrasi": "Mossi i piedi dal luogo in cui stavo, per osservare da vicino un'altra storia che mi biancheggiava dietro Micol."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Quiv’era storïata l’alta gloria\ndel roman principato, il cui valore\nmosse Gregorio a la sua gran vittoria;",
+      "parafrasi": "Lì era istoriata l'alta gloria del principato romano, il cui valore mosse Gregorio alla sua grande vittoria;"
+    },
+    {
+      "versi": [76, 78],
+      "testo": "i’ dico di Traiano imperadore;\ne una vedovella li era al freno,\ndi lagrime atteggiata e di dolore.",
+      "parafrasi": "dico dell'imperatore Traiano; e una vedovella gli era alle briglie, atteggiata di lacrime e di dolore."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Intorno a lui parea calcato e pieno\ndi cavalieri, e l’aguglie ne l’oro\nsovr’essi in vista al vento si movieno.",
+      "parafrasi": "Intorno a lui sembrava calcato e pieno di cavalieri, e le aquile d'oro sopra di loro si muovevano al vento."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "La miserella intra tutti costoro\npareva dir: \"Segnor, fammi vendetta\ndi mio figliuol ch’è morto, ond’io m’accoro\";",
+      "parafrasi": "La poveretta fra tutti costoro sembrava dire: «Signore, fammi vendetta di mio figlio che è morto, per cui mi dolgo»;"
+    },
+    {
+      "versi": [85, 87],
+      "testo": "ed elli a lei rispondere: \"Or aspetta\ntanto ch’i’ torni\"; e quella: \"Segnor mio\",\ncome persona in cui dolor s’affretta,",
+      "parafrasi": "ed egli sembrava risponderle: «Ora aspetta finché io torni»; e quella: «Signore mio», come chi ha il dolore che si affretta,"
+    },
+    {
+      "versi": [88, 90],
+      "testo": "\"se tu non torni?\"; ed ei: \"Chi fia dov’io,\nla ti farà\"; ed ella: \"L’altrui bene\na te che fia, se ’l tuo metti in oblio?\";",
+      "parafrasi": "«se tu non torni?»; ed egli: «Chi sarà al posto mio te la farà»; ed ella: «Il bene altrui a te che vale, se metti in oblio il tuo?»;"
+    },
+    {
+      "versi": [91, 93],
+      "testo": "ond’elli: \"Or ti conforta; ch’ei convene\nch’i’ solva il mio dovere anzi ch’i’ mova:\ngiustizia vuole e pietà mi ritene\".",
+      "parafrasi": "perciò egli: «Ora consolati; ché conviene che io adempia il mio dovere prima di muovermi: giustizia vuole e pietà mi trattiene»."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Colui che mai non vide cosa nova\nprodusse esto visibile parlare,\nnovello a noi perché qui non si trova.",
+      "parafrasi": "Colui che mai non vide cosa nuova produsse questo parlare visibile, nuovo per noi perché qui non si trova."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Mentr’io mi dilettava di guardare\nl’imagini di tante umilitadi,\ne per lo fabbro loro a veder care,",
+      "parafrasi": "Mentre mi dilettavo di guardare le immagini di tante umiltà, e care a vedere per il loro artefice,"
+    },
+    {
+      "versi": [100, 102],
+      "testo": "\"Ecco di qua, ma fanno i passi radi\",\nmormorava il poeta, \"molte genti:\nquesti ne ’nvïeranno a li alti gradi\".",
+      "parafrasi": "«Ecco di qua, ma fanno i passi radi», mormorava il poeta, «molte genti: queste ci invieranno agli alti gradini»."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Li occhi miei, ch’a mirare eran contenti\nper veder novitadi ond’e’ son vaghi,\nvolgendosi ver’ lui non furon lenti.",
+      "parafrasi": "I miei occhi, che erano contenti di guardare per vedere novità di cui sono avidi, non furono lenti a volgersi verso di lui."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Non vo’ però, lettor, che tu ti smaghi\ndi buon proponimento per udire\ncome Dio vuol che ’l debito si paghi.",
+      "parafrasi": "Non voglio però, lettore, che tu ti smarrisca dal buon proposito udendo come Dio vuole che il debito si paghi."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "Non attender la forma del martìre:\npensa la succession; pensa ch’al peggio\noltre la gran sentenza non può ire.",
+      "parafrasi": "Non badare alla forma del tormento: pensa a ciò che segue; pensa che, al peggio, oltre la gran sentenza non può andare."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Io cominciai: \"Maestro, quel ch’io veggio\nmuovere a noi, non mi sembian persone,\ne non so che, sì nel veder vaneggio\".",
+      "parafrasi": "Io cominciai: «Maestro, quello che vedo muoversi verso di noi non mi sembrano persone, e non so cosa, tanto vaneggio nel vedere»."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "Ed elli a me: \"La grave condizione\ndi lor tormento a terra li rannicchia,\nsì che ’ miei occhi pria n’ebber tencione.",
+      "parafrasi": "Ed egli a me: «La grave condizione del loro tormento li rannicchia a terra, così che anche i miei occhi prima ne ebbero contesa."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Ma guarda fiso là, e disviticchia\ncol viso quel che vien sotto a quei sassi:\ngià scorger puoi come ciascun si picchia\".",
+      "parafrasi": "Ma guarda fisso là, e sciogli con il viso quello che viene sotto quei sassi: già puoi scorgere come ciascuno si batte»."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "O superbi cristian, miseri lassi,\nche, de la vista de la mente infermi,\nfidanza avete ne’ retrosi passi,",
+      "parafrasi": "O superbi cristiani, miseri stanchi, che, malati nella vista della mente, avete fiducia nei passi all'indietro,"
+    },
+    {
+      "versi": [124, 126],
+      "testo": "non v’accorgete voi che noi siam vermi\nnati a formar l’angelica farfalla,\nche vola a la giustizia sanza schermi?",
+      "parafrasi": "non vi accorgete che siamo vermi nati per formare l'angelica farfalla, che vola alla giustizia senza schermi?"
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Di che l’animo vostro in alto galla,\npoi siete quasi antomata in difetto,\nsì come vermo in cui formazion falla?",
+      "parafrasi": "Di che l'animo vostro galleggia in alto, se siete come insetti imperfetti, come un verme in cui la formazione manca?"
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Come per sostentar solaio o tetto,\nper mensola talvolta una figura\nsi vede giugner le ginocchia al petto,",
+      "parafrasi": "Come per sostenere un solaio o un tetto, talvolta si vede una figura che giunge le ginocchia al petto, come mensola,"
+    },
+    {
+      "versi": [133, 135],
+      "testo": "la qual fa del non ver vera rancura\nnascere ’n chi la vede; così fatti\nvid’io color, quando puosi ben cura.",
+      "parafrasi": "la quale fa nascere un vero dolore da una cosa non vera in chi la vede; così fatti vidi costoro, quando li osservai bene."
+    },
+    {
+      "versi": [136, 138],
+      "testo": "Vero è che più e meno eran contratti\nsecondo ch’avien più e meno a dosso;\ne qual più pazïenza avea ne li atti,",
+      "parafrasi": "È vero che erano più o meno contratti secondo che avevano più o meno peso addosso; e chi aveva più pazienza negli atti,"
+    },
+    {
+      "versi": [139, 139],
+      "testo": "piangendo parea dicer: ’Più non posso’.",
+      "parafrasi": "piangendo sembrava dire: «Non posso più»."
+    }
+  ]
+}

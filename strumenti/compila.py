@@ -154,7 +154,7 @@ if __name__ == "__main__":
                     errori.append(f"{c['cantica']}/{c['canto']} {s['id']}: personaggio non dichiarato: {pid}")
                 else:
                     personaggi[pid]["apparizioni"].append(f"{c['cantica']}/{c['canto']}/{s['id']}")
-    luoghi = {l["id"] for l in carica(DATI / "luoghi.json")["luoghi"]}
+    luoghi = {l["id"] for f in sorted(DATI.glob("luoghi*.json")) for l in carica(f)["luoghi"]}   # luoghi.json (Inferno) e luoghi-purgatorio.json
     for c in canti:
         for s in c["scene"]:
             if s["luogo_id"] not in luoghi:

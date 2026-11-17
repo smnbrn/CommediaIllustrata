@@ -51,7 +51,7 @@ def versi(wt):
     t = re.sub(r"\{\{§\|[^|{}]*\}\}", "", t)               # ancore semplici
     t = re.sub(r"\{\{§\|[^|{}]*\|", "", t)                 # ancore che racchiudono testo
     # collegamenti ad autori/opere citati: {{AutoreCitato|Nome|testo}} o {{Ac|Nome|testo}} -> testo
-    t = re.sub(r"\{\{(?:AutoreCitato|TestoCitato|Ac)\|[^|{}]*\|", "", t)
+    t = re.sub(r"\{\{(?:AutoreCitato|TestoCitato|Ac|Wl|Ancora)\|[^|{}]*\|", "", t)   # {{Wl|Q123|testo}}: collegamento a Wikidata
     t = t.replace("}}", "")
     t = re.sub(r"<[^>]+>", "", t)                          # tag html residui
     t = re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", lambda m: m.group(1), t)   # collegamenti wiki: [[w:Orfeo|Orfeo]] -> Orfeo

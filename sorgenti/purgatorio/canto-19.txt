@@ -1,0 +1,326 @@
+# Purgatorio, canto XIX
+titolo: La femmina balba, l'angelo e Adriano V
+
+## scena-1 | cornice-4 | La femmina balba
+personaggi: dante, virgilio, sirena
+tavola: ia | La femmina balba | img/ia/purgatorio-19-scena-1.jpg
+sintesi: All'alba Dante sogna una donna balbuziente, strabica, storpia, con le mani mozze e pallida; sotto il suo sguardo la lingua si scioglie, il volto si colora, e comincia a cantare come una dolce sirena che ha traviato Ulisse. Appare una donna santa che chiama Virgilio con sdegno; questi strappa le vesti alla sirena, mostrando il ventre: il puzzo sveglia Dante.
+
+1
+Ne l’ora che non può ’l calor dïurno
+intepidar più ’l freddo de la luna,
+vinto da terra, e talor da Saturno
+> Nell'ora in cui il calore diurno non può più intiepidire il freddo della luna, vinto dalla terra, e talvolta da Saturno
+
+4
+- quando i geomanti lor Maggior Fortuna
+veggiono in orïente, innanzi a l’alba,
+surger per via che poco le sta bruna -,
+> (quando i geomanti vedono la loro Fortuna maggiore sorgere in oriente, prima dell'alba, per una via che le resta poco scura),
+
+7
+mi venne in sogno una femmina balba,
+ne li occhi guercia, e sovra i piè distorta,
+con le man monche, e di colore scialba.
+> mi venne in sogno una femmina balbuziente, guercia negli occhi, storpia sui piedi, con le mani monche e di colore scialbo.
+
+10
+Io la mirava; e come ’l sol conforta
+le fredde membra che la notte aggrava,
+così lo sguardo mio le facea scorta
+> Io la guardavo; e come il sole conforta le fredde membra che la notte appesantisce, così il mio sguardo le rendeva sciolta
+
+13
+la lingua, e poscia tutta la drizzava
+in poco d’ora, e lo smarrito volto,
+com’amor vuol, così le colorava.
+> la lingua, e poi la raddrizzava tutta in poco tempo, e il volto smarrito, come vuole amore, così le colorava.
+
+16
+Poi ch’ell’avea ’l parlar così disciolto,
+cominciava a cantar sì, che con pena
+da lei avrei mio intento rivolto.
+> Dopo che aveva così sciolto la parola, cominciava a cantare così bene che a fatica da lei avrei volto la mia attenzione.
+
+19
+"Io son", cantava, "io son dolce serena,
+che ’ marinari in mezzo mar dismago;
+tanto son di piacere a sentir piena!
+> «Io sono», cantava, «io sono la dolce sirena, che smarrisco i marinai in mezzo al mare; tanto sono piena di piacere da udire!
+
+22
+Io volsi Ulisse del suo cammin vago
+al canto mio; e qual meco s’ausa,
+rado sen parte; sì tutto l’appago!".
+> Io distolsi Ulisse dal suo cammino errabondo col mio canto; e chi si abitua a me, raramente se ne va; così lo appago del tutto!».
+
+25
+Ancor non era sua bocca richiusa,
+quand’una donna apparve santa e presta
+lunghesso me per far colei confusa.
+> Ancora non era chiusa la sua bocca, quando una donna santa e pronta apparve vicino a me per confonderla.
+
+28
+"O Virgilio, Virgilio, chi è questa?",
+fieramente dicea; ed el venìa
+con li occhi fitti pur in quella onesta.
+> «O Virgilio, Virgilio, chi è questa?», diceva fieramente; ed egli veniva con gli occhi fissi su quella onesta.
+
+31
+L’altra prendea, e dinanzi l’apria
+fendendo i drappi, e mostravami ’l ventre;
+quel mi svegliò col puzzo che n’uscia.
+> L'altra la prendeva e davanti la apriva squarciando le vesti, e mi mostrava il ventre; quello mi svegliò col puzzo che ne usciva.
+
+34
+Io mossi li occhi, e ’l buon maestro: "Almen tre
+voci t’ ho messe!", dicea, "Surgi e vieni;
+troviam l’aperta per la qual tu entre".
+> Mossi gli occhi, e il buon maestro: «Almeno tre voci ti ho mandato!», diceva; «Alzati e vieni; troviamo l'apertura per cui tu entri».
+
+## scena-2 | cornice-4 | L'angelo della quarta cornice
+personaggi: dante, virgilio, angelo-della-sollecitudine
+tavola: dore | L'angelo che invita a salire | img/dore/purgatorio-19-angelo-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148974906).jpg
+sintesi: Ormai è pieno giorno e Dante segue Virgilio curvo, come chi ha la mente carica di pensieri. Una voce soave li invita a passare; un angelo con ali di cigno li guida su tra due pareti di macigno e, ventilandoli, afferma che sono beati coloro che piangono. Dante racconta il sogno: Virgilio spiega che è l'antica strega che fa piangere i cupidi, e lo invita a guardare il richiamo del cielo.
+
+37
+Sù mi levai, e tutti eran già pieni
+de l’alto dì i giron del sacro monte,
+e andavam col sol novo a le reni.
+> Mi alzai, e già i giri del sacro monte erano tutti pieni del pieno giorno, e andavamo col sole nuovo alle spalle.
+
+40
+Seguendo lui, portava la mia fronte
+come colui che l’ ha di pensier carca,
+che fa di sé un mezzo arco di ponte;
+> Seguendolo, portavo la fronte come chi la ha carica di pensieri, e fa di sé un mezzo arco di ponte;
+
+43
+quand’io udi’ "Venite; qui si varca"
+parlare in modo soave e benigno,
+qual non si sente in questa mortal marca.
+> quando udii «Venite; qui si passa», parlare in modo soave e benigno, quale non si sente in questa terra mortale.
+
+46
+Con l’ali aperte, che parean di cigno,
+volseci in sù colui che sì parlonne
+tra due pareti del duro macigno.
+> Con le ali aperte, che sembravano di cigno, ci volse in su colui che così parlò tra due pareti di duro macigno.
+
+49
+Mosse le penne poi e ventilonne,
+’Qui lugent’affermando esser beati,
+ch’avran di consolar l’anime donne.
+> Mosse poi le penne e ci ventilò, affermando che «Qui lugent» sono beati, perché avranno le anime ricolme di consolazione.
+
+52
+"Che hai che pur inver’ la terra guati?",
+la guida mia incominciò a dirmi,
+poco amendue da l’angel sormontati.
+> «Che hai che guardi solo verso la terra?», la mia guida cominciò a dirmi, quando entrambi eravamo poco sopra l'angelo.
+
+55
+E io: "Con tanta sospeccion fa irmi
+novella visïon ch’a sé mi piega,
+sì ch’io non posso dal pensar partirmi".
+> E io: «Mi fa andare con tanto sospetto una nuova visione che mi piega a sé, così che non posso staccarmi dal pensiero».
+
+58
+"Vedesti", disse, "quell’antica strega
+che sola sovr’a noi omai si piagne;
+vedesti come l’uom da lei si slega.
+> «Hai visto», disse, «quell'antica strega che sola sopra di noi ormai si piange; hai visto come l'uomo si libera da lei.
+
+61
+Bastiti, e batti a terra le calcagne;
+li occhi rivolgi al logoro che gira
+lo rege etterno con le rote magne".
+> Ti basti, e batti a terra i calcagni; volgi gli occhi al logoro che gira il re eterno con le ruote grandi».
+
+64
+Quale ’l falcon, che prima a’ piè si mira,
+indi si volge al grido e si protende
+per lo disio del pasto che là il tira,
+> Come il falco, che prima si guarda ai piedi, poi si volge al grido e si protende per il desiderio del cibo che là lo tira,
+
+67
+tal mi fec’io; e tal, quanto si fende
+la roccia per dar via a chi va suso,
+n’andai infin dove ’l cerchiar si prende.
+> tale mi feci io; e tale, per quanto si apre la roccia per dar via a chi va su, andai fino dove si prende il giro.
+
+## scena-3 | cornice-5 | Gli avari distesi
+personaggi: dante, virgilio
+tavola: dore | Gli avari distesi a terra | img/dore/purgatorio-19-avari-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148974959).jpg
+sintesi: Nella quinta cornice Dante vede gente che piange giacendo a terra con la faccia in giù, e sente dire con sospiri così alti che la parola a stento si intende: «La mia anima si è attaccata al suolo». Virgilio chiede loro la via più breve e riceve risposta da un'anima nascosta, a cui Dante si rivolge con il permesso della sua guida.
+
+70
+Com’io nel quinto giro fui dischiuso,
+vidi gente per esso che piangea,
+giacendo a terra tutta volta in giuso.
+> Quando fui sbucato nel quinto giro, vidi gente che vi piangeva, giacendo a terra tutta volta in giù.
+
+73
+’Adhaesit pavimento anima mea’
+sentia dir lor con sì alti sospiri,
+che la parola a pena s’intendea.
+> «Adhaesit pavimento anima mea» sentivo dire da loro con sospiri così alti che la parola a malapena si capiva.
+
+76
+"O eletti di Dio, li cui soffriri
+e giustizia e speranza fa men duri,
+drizzate noi verso li alti saliri".
+> «O eletti di Dio, i cui patimenti giustizia e speranza rendono meno duri, indirizzateci verso le alte scale».
+
+79
+"Se voi venite dal giacer sicuri,
+e volete trovar la via più tosto,
+le vostre destre sien sempre di fori".
+> «Se venite dal giacere sicuri e volete trovare la via più presto, le vostre destre siano sempre all'esterno».
+
+82
+Così pregò ’l poeta, e sì risposto
+poco dinanzi a noi ne fu; per ch’io
+nel parlare avvisai l’altro nascosto,
+> Così pregò il poeta, e così fu risposto poco davanti a noi; per cui io, dal parlare, notai l'altro nascosto,
+
+85
+e volsi li occhi a li occhi al segnor mio:
+ond’elli m’assentì con lieto cenno
+ciò che chiedea la vista del disio.
+> e volsi gli occhi agli occhi del mio signore: ed egli mi assentì con lieto cenno ciò che chiedeva la vista del desiderio.
+
+88
+Poi ch’io potei di me fare a mio senno,
+trassimi sovra quella creatura
+le cui parole pria notar mi fenno,
+> Dopo che potei fare a mio senno, mi trassi sopra quella creatura le cui parole mi avevano fatto notare prima,
+
+91
+dicendo: "Spirto in cui pianger matura
+quel sanza ’l quale a Dio tornar non pòssi,
+sosta un poco per me tua maggior cura.
+> dicendo: «Spirito in cui piange maturare ciò senza cui non si può tornare a Dio, sosta un poco per me della tua maggior cura.
+
+94
+Chi fosti e perché vòlti avete i dossi
+al sù, mi dì, e se vuo’ ch’io t’impetri
+cosa di là ond’io vivendo mossi".
+> Chi fosti e perché avete volte le schiene in su, dimmi, e se vuoi che ti ottenga qualcosa di là da dove io mi mossi vivendo».
+
+## scena-4 | cornice-5 | Adriano V
+personaggi: dante, virgilio, adriano-v
+tavola: ia | Adriano V | img/ia/purgatorio-19-scena-4.jpg
+sintesi: L'anima risponde di essere stata papa, successore di Pietro, nato nella Liguria tra Sestri e Chiaveri: in poco più di un mese provò come pesi il gran manto. Si convertì tardi e scoprì la vita bugiarda; prima era anima avara, e ora sconta l'avarizia, legata a terra con le mani e i piedi. Dante si inginocchia per rispetto, ma il papa lo rialza: in Purgatorio tutti sono servi dello stesso potere, e nel regno dei cieli non si sposano. Gli affida la nipote Alagia.
+
+97
+Ed elli a me: "Perché i nostri diretri
+rivolga il cielo a sé, saprai; ma prima
+scias quod ego fui successor Petri.
+> Ed egli a me: «Perché il cielo ci volga le spalle, lo saprai; ma prima sappi che io fui successore di Pietro.
+
+100
+Intra Sïestri e Chiaveri s’adima
+una fiumana bella, e del suo nome
+lo titol del mio sangue fa sua cima.
+> Tra Sestri e Chiavari scende un bel fiume, e dal suo nome il titolo del mio sangue fa il suo vertice.
+
+103
+Un mese e poco più prova’ io come
+pesa il gran manto a chi dal fango il guarda,
+che piuma sembran tutte l’altre some.
+> Un mese e poco più provai come pesa il gran manto a chi lo guarda dal fango, tanto che tutti gli altri pesi sembrano piume.
+
+106
+La mia conversïone, omè!, fu tarda;
+ma, come fatto fui roman pastore,
+così scopersi la vita bugiarda.
+> La mia conversione, ahimè, fu tarda; ma, come fui fatto pastore romano, così scoprii la vita bugiarda.
+
+109
+Vidi che lì non s’acquetava il core,
+né più salir potiesi in quella vita;
+per che di questa in me s’accese amore.
+> Vidi che lì il cuore non si acquietava, né si poteva più salire in quella vita; per cui in me si accese amore per questa.
+
+112
+Fino a quel punto misera e partita
+da Dio anima fui, del tutto avara;
+or, come vedi, qui ne son punita.
+> Fino a quel punto fui anima misera e separata da Dio, del tutto avara; ora, come vedi, qui ne sono punita.
+
+115
+Quel ch’avarizia fa, qui si dichiara
+in purgazion de l’anime converse;
+e nulla pena il monte ha più amara.
+> Ciò che l'avarizia fa, qui si dichiara nella purgazione delle anime convertite; e il monte non ha pena più amara.
+
+118
+Sì come l’occhio nostro non s’aderse
+in alto, fisso a le cose terrene,
+così giustizia qui a terra il merse.
+> Come il nostro occhio non si innalzò, fisso alle cose terrene, così la giustizia qui lo ha immerso a terra.
+
+121
+Come avarizia spense a ciascun bene
+lo nostro amore, onde operar perdési,
+così giustizia qui stretti ne tene,
+> Come l'avarizia spense in ciascuno di noi l'amore per ogni bene, per cui si perse l'operare, così la giustizia qui ci tiene stretti,
+
+124
+ne’ piedi e ne le man legati e presi;
+e quanto fia piacer del giusto Sire,
+tanto staremo immobili e distesi".
+> nei piedi e nelle mani legati e presi; e quanto sarà piacere del giusto Signore, tanto staremo immobili e distesi».
+
+127
+Io m’era inginocchiato e volea dire;
+ma com’io cominciai ed el s’accorse,
+solo ascoltando, del mio reverire,
+> Io mi ero inginocchiato e volevo parlare; ma appena cominciai ed egli si accorse, solo ascoltando, del mio riverire,
+
+130
+"Qual cagion", disse, "in giù così ti torse?".
+E io a lui: "Per vostra dignitate
+mia coscïenza dritto mi rimorse".
+> «Quale causa», disse, «ti ha piegato così in giù?». E io a lui: «Per la vostra dignità la mia coscienza mi rimordeva giustamente».
+
+133
+"Drizza le gambe, lèvati sù, frate!",
+rispuose; "non errar: conservo sono
+teco e con li altri ad una podestate.
+> «Drizza le gambe, alzati, fratello!», rispose; «non sbagliare: sono tuo compagno di servizio e degli altri, a uno stesso potere.
+
+136
+Se mai quel santo evangelico suono
+che dice ‘Neque nubent’ intendesti,
+ben puoi veder perch’io così ragiono.
+> Se mai hai capito quel santo suono evangelico che dice "Neque nubent", puoi ben vedere perché io parlo così.
+
+139
+Vattene omai: non vo’ che più t’arresti;
+ché la tua stanza mio pianger disagia,
+col qual maturo ciò che tu dicesti.
+> Vattene ormai: non voglio che ti fermi di più; perché la tua sosta disagia il mio pianto, col quale maturo ciò che dicesti.
+
+142
+Nepote ho io di là c’ha nome Alagia,
+buona da sé, pur che la nostra casa
+non faccia lei per essempro malvagia;
+> Ho una nipote di là che ha nome Alagia, buona da sé, purché la nostra casa non la renda malvagia per esempio;
+
+145
+e questa sola di là m’è rimasa".
+> e questa sola di là mi è rimasta».
+
+## personaggio | sirena | La sirena
+dibattuto: sì
+chi_era: La femmina balba del sogno di Dante, che si trasforma in una dolce sirena: simbolo dei beni terreni, ciò che sviava Ulisse. L'interpretazione corrente è che rappresenti avarizia, gola e lussuria, i peccati delle cornici superiori.
+
+## personaggio | angelo-della-sollecitudine | L'angelo della sollecitudine
+dibattuto: no
+chi_era: L'angelo della quarta cornice (accidia), dalle ali di cigno; cancella il quarto P e canta «Beati qui lugent», i beati che piangono.
+
+## personaggio | adriano-v | Adriano V
+dibattuto: no
+chi_era: Ottobono Fieschi, genovese, papa dal 11 luglio al 18 agosto 1276, di famiglia dei conti di Lavagna. Dante lo trova tra gli avari: fu papa per soli trentanove giorni.

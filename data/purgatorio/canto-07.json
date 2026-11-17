@@ -1,0 +1,329 @@
+{
+  "cantica": "purgatorio",
+  "canto": 7,
+  "titolo": "Virgilio e Sordello, la valletta dei principi",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_VII",
+  "numero_versi": 136,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 21],
+      "titolo_scena": "Sordello riconosce Virgilio",
+      "sintesi": "Dopo ripetute accoglienze, Sordello chiede chi siano; Virgilio dice il suo nome e che il suo unico peccato fu non avere fede. Sordello, come chi vede qualcosa di straordinario e non osa crederci, si china e lo abbraccia ai piedi, in segno di umiltà, chiamandolo gloria dei latini.",
+      "luogo_id": "antipurgatorio-morti-violenti",
+      "personaggi": ["dante", "virgilio", "sordello"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Sordello e Virgilio",
+          "url": "img/dore/purgatorio-07-sordello-960.jpg",
+          "miniatura": "img/dore/purgatorio-07-sordello-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148974286).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [22, 63],
+      "titolo_scena": "Il Limbo e la legge della notte",
+      "sintesi": "Virgilio racconta di venire dal Limbo, dove stanno i bambini innocenti e i virtuosi senza fede, e chiede la via per il Purgatorio. Sordello offre di accompagnarli, ma il sole sta calando e di notte non si può salire: traccia una riga nella polvere che nessuno può oltrepassare quando il sole è tramontato, e propone di fermarsi fra le anime nella valle.",
+      "luogo_id": "antipurgatorio-morti-violenti",
+      "personaggi": ["dante", "virgilio", "sordello"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Il Limbo e la legge della notte",
+          "url": "img/ia/purgatorio-07-scena-2.jpg",
+          "miniatura": "img/ia/purgatorio-07-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [64, 84],
+      "titolo_scena": "La valletta fiorita",
+      "sintesi": "Poco lontano il monte si incava in una valletta, dove si arriva per un sentiero obliquo. L'erba e i fiori superano in colore e profumo ogni pigmento e ogni metallo prezioso; fra di essi sedevano anime che cantavano «Salve, Regina», nascoste dal bordo della valle.",
+      "luogo_id": "valletta-principi",
+      "personaggi": ["dante", "virgilio", "sordello"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "I principi nella valletta cantano il Salve Regina",
+          "url": "img/dore/purgatorio-07-valletta-960.jpg",
+          "miniatura": "img/dore/purgatorio-07-valletta-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148974292).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [85, 136],
+      "titolo_scena": "I principi negligenti",
+      "sintesi": "Prima che il sole tramonti, Sordello conduce i poeti su un'altura da cui si vedono meglio i volti dei principi negligenti: Rodolfo d'Asburgo, che poteva sanare l'Italia; Ottachero di Boemia; Filippo l'Ardito ed Enrico di Navarra, padre e suocero del «mal di Francia»; Carlo d'Angiò e Pietro d'Aragona che cantano insieme; Enrico d'Inghilterra; Guglielmo di Monferrato. Sordello ne ricorda difetti e eredi.",
+      "luogo_id": "valletta-principi",
+      "personaggi": [
+        "dante",
+        "virgilio",
+        "sordello",
+        "rodolfo-d-asburgo",
+        "ottachero",
+        "filippo-l-ardito",
+        "enrico-di-navarra",
+        "carlo-i-d-angio",
+        "pietro-iii-d-aragona",
+        "enrico-iii-d-inghilterra",
+        "guglielmo-di-monferrato"
+      ],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "I principi negligenti",
+          "url": "img/ia/purgatorio-07-scena-4.jpg",
+          "miniatura": "img/ia/purgatorio-07-scena-4.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Poscia che l’accoglienze oneste e liete\nfuro iterate tre e quattro volte,\nSordel si trasse, e disse: \"Voi, chi siete?\".",
+      "parafrasi": "Dopo che le accoglienze oneste e liete furono ripetute tre o quattro volte, Sordello si ritrasse e disse: «Voi, chi siete?»."
+    },
+    {
+      "versi": [4, 6],
+      "testo": "\"Anzi che a questo monte fosser volte\nl’anime degne di salire a Dio,\nfur l’ossa mie per Ottavian sepolte.",
+      "parafrasi": "«Prima che a questo monte fossero rivolte le anime degne di salire a Dio, le mie ossa furono sepolte da Ottaviano."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "Io son Virgilio; e per null’altro rio\nlo ciel perdei che per non aver fé\".\nCosì rispuose allora il duca mio.",
+      "parafrasi": "Io sono Virgilio; e per nessun'altra colpa persi il cielo se non per non aver avuto fede». Così rispose allora la mia guida."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "Qual è colui che cosa innanzi sé\nsùbita vede ond’e’ si maraviglia,\nche crede e non, dicendo \"Ella è ... non è ...\",",
+      "parafrasi": "Come chi vede davanti a sé una cosa improvvisa di cui si meraviglia, che crede e non crede, dicendo «È... non è...»,"
+    },
+    {
+      "versi": [13, 15],
+      "testo": "tal parve quelli; e poi chinò le ciglia,\ne umilmente ritornò ver’ lui,\ne abbracciòl là ’ve ’l minor s’appiglia.",
+      "parafrasi": "tale sembrò quello; poi abbassò le ciglia e umilmente tornò verso di lui e lo abbracciò là dove l'inferiore si afferra."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "\"O gloria di Latin\", disse, \"per cui\nmostrò ciò che potea la lingua nostra,\no pregio etterno del loco ond’io fui,",
+      "parafrasi": "«O gloria dei Latini», disse, «per cui la nostra lingua mostrò ciò che poteva, o pregio eterno del luogo da cui io venni,"
+    },
+    {
+      "versi": [19, 21],
+      "testo": "qual merito o qual grazia mi ti mostra?\nS’io son d’udir le tue parole degno,\ndimmi se vien d’inferno, e di qual chiostra\".",
+      "parafrasi": "quale merito o quale grazia ti mostra a me? Se sono degno di udire le tue parole, dimmi se vieni dall'inferno e da quale chiostro»."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "\"Per tutt’i cerchi del dolente regno\",\nrispuose lui, \"son io di qua venuto;\nvirtù del ciel mi mosse, e con lei vegno.",
+      "parafrasi": "«Per tutti i cerchi del regno doloroso», rispose lui, «sono venuto fin qui; mi mosse la virtù del cielo, e con essa vengo."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Non per far, ma per non fare ho perduto\na veder l’alto Sol che tu disiri\ne che fu tardi per me conosciuto.",
+      "parafrasi": "Non per aver fatto, ma per non aver fatto ho perso la vista dell'alto Sole che tu desideri e che per me fu conosciuto troppo tardi."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Luogo è là giù non tristo di martìri,\nma di tenebre solo, ove i lamenti\nnon suonan come guai, ma son sospiri.",
+      "parafrasi": "C'è laggiù un luogo non triste di tormenti, ma solo di tenebre, dove i lamenti non suonano come guai, ma sono sospiri."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "Quivi sto io coi pargoli innocenti\ndai denti morsi de la morte avante\nche fosser da l’umana colpa essenti;",
+      "parafrasi": "Là sto io con i bambini innocenti morsi dai denti della morte prima che fossero liberi dalla colpa umana;"
+    },
+    {
+      "versi": [34, 36],
+      "testo": "quivi sto io con quei che le tre sante\nvirtù non si vestiro, e sanza vizio\nconobber l’altre e seguir tutte quante.",
+      "parafrasi": "là sto io con quelli che non si vestirono delle tre sante virtù, e senza vizio conobbero le altre e le seguirono tutte."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Ma se tu sai e puoi, alcuno indizio\ndà noi per che venir possiam più tosto\nlà dove purgatorio ha dritto inizio\".",
+      "parafrasi": "Ma se sai e puoi, dacci qualche indicazione per cui possiamo arrivare più presto là dove il Purgatorio ha vero inizio»."
+    },
+    {
+      "versi": [40, 42],
+      "testo": "Rispuose: \"Loco certo non c’è posto;\nlicito m’è andar suso e intorno;\nper quanto ir posso, a guida mi t’accosto.",
+      "parafrasi": "Rispose: «Un luogo certo non c'è assegnato; mi è lecito andare su e intorno; per quanto posso andare, mi unisco a te come guida."
+    },
+    {
+      "versi": [43, 45],
+      "testo": "Ma vedi già come dichina il giorno,\ne andar sù di notte non si puote;\nperò è buon pensar di bel soggiorno.",
+      "parafrasi": "Ma vedi già come il giorno declina, e salire di notte non si può; perciò è bene pensare a un buon soggiorno."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Anime sono a destra qua remote;\nse mi consenti, io ti merrò ad esse,\ne non sanza diletto ti fier note\".",
+      "parafrasi": "Ci sono anime a destra, qua in disparte; se me lo consenti, ti condurrò da loro, e non senza piacere ti saranno note»."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "\"Com’è ciò?\", fu risposto. \"Chi volesse\nsalir di notte, fora elli impedito\nd’altrui, o non sarria ché non potesse?\".",
+      "parafrasi": "«Come mai?», fu risposto. «Chi volesse salire di notte, sarebbe impedito da altri, o non potrebbe farlo da sé?»."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "E ’l buon Sordello in terra fregò ’l dito,\ndicendo: \"Vedi? sola questa riga\nnon varcheresti dopo ’l sol partito:",
+      "parafrasi": "E il buon Sordello strofinò con il dito la terra, dicendo: «Vedi? Solo questa riga non oltrepasseresti dopo il tramonto:"
+    },
+    {
+      "versi": [55, 57],
+      "testo": "non però ch’altra cosa desse briga,\nche la notturna tenebra, ad ir suso;\nquella col nonpoder la voglia intriga.",
+      "parafrasi": "non perché altra cosa dia impedimento a salire che l'oscurità della notte; quella con l'impotenza intralcia la volontà."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Ben si poria con lei tornare in giuso\ne passeggiar la costa intorno errando,\nmentre che l’orizzonte il dì tien chiuso\".",
+      "parafrasi": "Si potrebbe bene con la notte tornare in giù e passeggiare errando intorno al pendio, mentre l'orizzonte tiene chiuso il giorno»."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Allora il mio segnor, quasi ammirando,\n\"Menane\", disse, \"dunque là ’ve dici\nch’aver si può diletto dimorando\".",
+      "parafrasi": "Allora il mio signore, quasi ammirato, disse: «Portaci dunque là dove dici che si può avere piacere soggiornando»."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Poco allungati c’eravam di lici,\nquand’io m’accorsi che ’l monte era scemo,\na guisa che i vallon li sceman quici.",
+      "parafrasi": "Eravamo allontanati poco da lì, quando mi accorsi che il monte era incavato, come accade da noi con le valli."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "\"Colà\", disse quell’ombra, \"n’anderemo\ndove la costa face di sé grembo;\ne là il novo giorno attenderemo\".",
+      "parafrasi": "«Là», disse quell'ombra, «andremo dove la costa fa di sé un grembo; e là aspetteremo il nuovo giorno»."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "Tra erto e piano era un sentiero schembo,\nche ne condusse in fianco de la lacca,\nlà dove più ch’a mezzo muore il lembo.",
+      "parafrasi": "Tra il ripido e il piano c'era un sentiero obliquo, che ci condusse al fianco della conca, là dove il bordo si riduce a meno della metà."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Oro e argento fine, cocco e biacca,\nindaco, legno lucido e sereno,\nfresco smeraldo in l’ora che si fiacca,",
+      "parafrasi": "Oro e argento fino, cocco e biacca, indaco, legno lucido e sereno, fresco smeraldo nell'ora in cui si spezza,"
+    },
+    {
+      "versi": [76, 78],
+      "testo": "da l’erba e da li fior, dentr’a quel seno\nposti, ciascun saria di color vinto,\ncome dal suo maggiore è vinto il meno.",
+      "parafrasi": "posti dentro a quel seno, sarebbero stati vinti ciascuno dal colore dell'erba e dei fiori, come il minore è vinto dal maggiore."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Non avea pur natura ivi dipinto,\nma di soavità di mille odori\nvi facea uno incognito e indistinto.",
+      "parafrasi": "La natura non vi aveva solo dipinto, ma di dolcezza di mille profumi ne faceva uno sconosciuto e indistinto."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "’Salve, Regina’ in sul verde e ’n su’ fiori\nquindi seder cantando anime vidi,\nche per la valle non parean di fuori.",
+      "parafrasi": "«Salve, Regina» sul verde e sui fiori vidi lì sedere cantando anime che dalla valle non si vedevano da fuori."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "\"Prima che ’l poco sole omai s’annidi\",\ncominciò ’l Mantoan che ci avea vòlti,\n\"tra color non vogliate ch’io vi guidi.",
+      "parafrasi": "«Prima che il poco sole si nasconda», cominciò il Mantovano che ci aveva condotti, «non vogliate che vi guidi fra costoro."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Di questo balzo meglio li atti e ’ volti\nconoscerete voi di tutti quanti,\nche ne la lama giù tra essi accolti.",
+      "parafrasi": "Da questo balzo conoscerete meglio gli atti e i volti di tutti, che non nella conca laggiù, accolti tra loro."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Colui che più siede alto e fa sembianti\nd’aver negletto ciò che far dovea,\ne che non move bocca a li altrui canti,",
+      "parafrasi": "Colui che siede più in alto e fa l'aria di aver trascurato ciò che doveva fare, e non muove bocca ai canti degli altri,"
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Rodolfo imperador fu, che potea\nsanar le piaghe c’ hanno Italia morta,\nsì che tardi per altri si ricrea.",
+      "parafrasi": "fu l'imperatore Rodolfo, che poteva sanare le piaghe che hanno ucciso l'Italia, così che tardi per altri essa si risana."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "L’altro che ne la vista lui conforta,\nresse la terra dove l’acqua nasce\nche Molta in Albia, e Albia in mar ne porta:",
+      "parafrasi": "L'altro che nel volto lo conforta governò la terra dove nasce l'acqua che la Moldava porta nell'Elba, e l'Elba nel mare:"
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Ottacchero ebbe nome, e ne le fasce\nfu meglio assai che Vincislao suo figlio\nbarbuto, cui lussuria e ozio pasce.",
+      "parafrasi": "ebbe nome Ottachero, e in fasce fu molto meglio di Venceslao suo figlio barbuto, che si nutre di lussuria e ozio."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "E quel nasetto che stretto a consiglio\npar con colui c’ ha sì benigno aspetto,\nmorì fuggendo e disfiorando il giglio:",
+      "parafrasi": "E quel nasetto che sembra in stretto consiglio con colui che ha un aspetto tanto benigno, morì fuggendo e sfiorando il giglio:"
+    },
+    {
+      "versi": [106, 108],
+      "testo": "guardate là come si batte il petto!\nL’altro vedete c’ ha fatto a la guancia\nde la sua palma, sospirando, letto.",
+      "parafrasi": "guardate là come si batte il petto! Vedete l'altro che ha fatto della palma un letto alla guancia, sospirando."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "Padre e suocero son del mal di Francia:\nsanno la vita sua viziata e lorda,\ne quindi viene il duol che sì li lancia.",
+      "parafrasi": "Sono padre e suocero del male di Francia: conoscono la sua vita viziata e sporca, e di lì viene il dolore che li trafigge."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Quel che par sì membruto e che s’accorda,\ncantando, con colui dal maschio naso,\nd’ogne valor portò cinta la corda;",
+      "parafrasi": "Quello che sembra tanto robusto e che si accorda, cantando, con colui dal naso maschio, portò cinta la corda di ogni valore;"
+    },
+    {
+      "versi": [115, 117],
+      "testo": "e se re dopo lui fosse rimaso\nlo giovanetto che retro a lui siede,\nben andava il valor di vaso in vaso,",
+      "parafrasi": "e se il giovanetto che siede dietro a lui fosse rimasto re dopo di lui, il valore sarebbe passato da un vaso all'altro,"
+    },
+    {
+      "versi": [118, 120],
+      "testo": "che non si puote dir de l’altre rede;\nIacomo e Federigo hanno i reami;\ndel retaggio miglior nessun possiede.",
+      "parafrasi": "cosa che non si può dire degli altri eredi; Giacomo e Federico hanno i regni; nessuno possiede la migliore eredità."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "Rade volte risurge per li rami\nl’umana probitate; e questo vole\nquei che la dà, perché da lui si chiami.",
+      "parafrasi": "Raramente risorge nei rami la probità umana; e questo vuole colui che la dà, perché si chieda a lui."
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Anche al nasuto vanno mie parole\nnon men ch’a l’altro, Pier, che con lui canta,\nonde Puglia e Proenza già si dole.",
+      "parafrasi": "Anche al nasuto vanno le mie parole non meno che all'altro, Pietro, che canta con lui, per cui la Puglia e la Provenza già si lamentano."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Tant’è del seme suo minor la pianta,\nquanto, più che Beatrice e Margherita,\nCostanza di marito ancor si vanta.",
+      "parafrasi": "Tanto la pianta è inferiore al suo seme, quanto più di Beatrice e Margherita Costanza ancora si vanta del marito."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Vedete il re de la semplice vita\nseder là solo, Arrigo d’Inghilterra:\nquesti ha ne’ rami suoi migliore uscita.",
+      "parafrasi": "Vedete il re dalla vita semplice seduto là solo, Arrigo d'Inghilterra: questi ha nei suoi rami una discendenza migliore."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "Quel che più basso tra costor s’atterra,\nguardando in suso, è Guiglielmo marchese,\nper cui e Alessandria e la sua guerra",
+      "parafrasi": "Quello che più in basso tra costoro siede a terra, guardando in su, è il marchese Guglielmo, per cui Alessandria e la sua guerra"
+    },
+    {
+      "versi": [136, 136],
+      "testo": "fa pianger Monferrato e Canavese\".",
+      "parafrasi": "fanno piangere il Monferrato e il Canavese."
+    }
+  ]
+}

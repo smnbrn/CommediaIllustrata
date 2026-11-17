@@ -1,0 +1,316 @@
+# Purgatorio, canto XXVII
+titolo: Il muro di fuoco, il sogno di Lia e il congedo di Virgilio
+
+## scena-1 | cornice-7 | L'angelo della castità e il muro di fuoco
+personaggi: dante, virgilio, stazio, angelo-della-castita
+tavola: ia | L'angelo della castità e il muro di fuoco | img/ia/purgatorio-27-scena-1.jpg
+sintesi: Il sole è al tramonto quando appare l'angelo di Dio, fuori dalla fiamma, che canta «Beati mundo corde» e ordina di entrare nel fuoco: non si sale più se prima non morde. Dante, a quelle parole, resta come uno che sta per essere sepolto vivo, immaginando corpi umani bruciati. Virgilio lo incoraggia: qui può esserci tormento, non morte. Ma Dante resta fermo, finché Virgilio dice: «Tra Beatrice e te è questo muro». Al nome di lei Dante cede.
+
+1
+Sì come quando i primi raggi vibra
+là dove il suo fattor lo sangue sparse,
+cadendo Ibero sotto l’alta Libra,
+> Come quando vibra i primi raggi là dove il suo creatore sparse il sangue, cadendo l'Ebro sotto l'alta Libra,
+
+4
+e l’onde in Gange da nona rïarse,
+sì stava il sole; onde ’l giorno sen giva,
+come l’angel di Dio lieto ci apparse.
+> e le onde del Gange arse dall'ora nona, così stava il sole; per cui il giorno se ne andava, quando l'angelo di Dio ci apparve lieto.
+
+7
+Fuor de la fiamma stava in su la riva,
+e cantava ’Beati mundo corde!’
+in voce assai più che la nostra viva.
+> Stava fuori dalla fiamma sulla riva, e cantava «Beati mundo corde!» con una voce molto più viva della nostra.
+
+10
+Poscia "Più non si va, se pria non morde,
+anime sante, il foco: intrate in esso,
+e al cantar di là non siate sorde",
+> Poi: «Non si va più oltre, se prima non morde, anime sante, il fuoco: entrate in esso, e al cantare di là non siate sorde»,
+
+13
+ci disse come noi li fummo presso;
+per ch’io divenni tal, quando lo ’ntesi,
+qual è colui che ne la fossa è messo.
+> ci disse quando gli fummo vicini; per cui io divenni tale, quando lo intesi, quale è colui che è messo nella fossa.
+
+16
+In su le man commesse mi protesi,
+guardando il foco e imaginando forte
+umani corpi già veduti accesi.
+> Mi protesi sulle mani giunte, guardando il fuoco e immaginando forte corpi umani già visti bruciati.
+
+19
+Volsersi verso me le buone scorte;
+e Virgilio mi disse: "Figliuol mio,
+qui può esser tormento, ma non morte.
+> Le buone scorte si volsero verso di me; e Virgilio mi disse: «Figlio mio, qui può esserci tormento, ma non morte.
+
+22
+Ricorditi, ricorditi! E se io
+sovresso Gerïon ti guidai salvo,
+che farò ora presso più a Dio?
+> Ricordati, ricordati! E se io sopra Gerione ti guidai salvo, che farò ora più vicino a Dio?
+
+25
+Credi per certo che se dentro a l’alvo
+di questa fiamma stessi ben mille anni,
+non ti potrebbe far d’un capel calvo.
+> Credi per certo che se dentro il ventre di questa fiamma stessi bene mille anni, non ti potrebbe far calvo di un capello.
+
+28
+E se tu forse credi ch’io t’inganni,
+fatti ver’ lei, e fatti far credenza
+con le tue mani al lembo d’i tuoi panni.
+> E se forse credi che io t'inganni, avvicinati ad essa, e fatti dare certezza con le tue mani al lembo dei tuoi panni.
+
+31
+Pon giù omai, pon giù ogne temenza;
+volgiti in qua e vieni: entra sicuro!".
+E io pur fermo e contra coscïenza.
+> Deponi ormai, deponi ogni timore; volgiti qua e vieni: entra sicuro!». E io pur fermo e contro coscienza.
+
+34
+Quando mi vide star pur fermo e duro,
+turbato un poco disse: "Or vedi, figlio:
+tra Bëatrice e te è questo muro".
+> Quando mi vide stare fermo e duro, turbato un poco disse: «Ora vedi, figlio: tra Beatrice e te c'è questo muro».
+
+37
+Come al nome di Tisbe aperse il ciglio
+Piramo in su la morte, e riguardolla,
+allor che ’l gelso diventò vermiglio;
+> Come al nome di Tisbe aprì il ciglio Piramo in punto di morte, e la guardò, quando il gelso diventò vermiglio;
+
+40
+così, la mia durezza fatta solla,
+mi volsi al savio duca, udendo il nome
+che ne la mente sempre mi rampolla.
+> così, la mia durezza fatta molle, mi volsi al saggio duca, udendo il nome che nella mente sempre mi germoglia.
+
+43
+Ond’ei crollò la fronte e disse: "Come!
+volenci star di qua?"; indi sorrise
+come al fanciul si fa ch’è vinto al pome.
+> Perciò egli scosse la fronte e disse: «Come! vogliamo restare di qua?»; poi sorrise come si fa al fanciullo vinto da una mela.
+
+46
+Poi dentro al foco innanzi mi si mise,
+pregando Stazio che venisse retro,
+che pria per lunga strada ci divise.
+> Poi dentro il fuoco davanti mi si mise, pregando Stazio che venisse dietro, che prima per lunga strada ci divise.
+
+## scena-2 | cornice-7 | L'attraversamento del fuoco e la sera sulla scala
+personaggi: dante, virgilio, stazio
+tavola: ia | L'attraversamento del fuoco e la sera sulla scala | img/ia/purgatorio-27-scena-2.jpg
+sintesi: Dentro il fuoco Dante si getterebbe in vetro bollente per rinfrescarsi; Virgilio lo conforta parlando di Beatrice. Una voce che canta li guida fuori, dove si sale; dal lume dice «Venite, benedetti del Padre mio», e li invita a salire prima che l'occidente si annerisca. Su una scala dritta nella roccia, appena sparita l'ombra del sole, ciascuno si fa letto di un gradino; Dante guarda le stelle, grandi e chiare, come una capra tra i pastori.
+
+49
+Sì com’ fui dentro, in un bogliente vetro
+gittato mi sarei per rinfrescarmi,
+tant’era ivi lo ’ncendio sanza metro.
+> Appena fui dentro, in vetro bollente mi sarei gettato per rinfrescarmi, tanto era lì l'incendio senza misura.
+
+52
+Lo dolce padre mio, per confortarmi,
+pur di Beatrice ragionando andava,
+dicendo: "Li occhi suoi già veder parmi".
+> Il mio dolce padre, per confortarmi, andava ragionando solo di Beatrice, dicendo: «Gli occhi suoi già mi sembra di vedere».
+
+55
+Guidavaci una voce che cantava
+di là; e noi, attenti pur a lei,
+venimmo fuor là ove si montava.
+> Ci guidava una voce che cantava di là; e noi, attenti solo a lei, venimmo fuori dove si saliva.
+
+58
+’Venite, benedicti Patris mei’,
+sonò dentro a un lume che lì era,
+tal che mi vinse e guardar nol potei.
+> «Venite, benedicti Patris mei», risuonò dentro a un lume che era lì, tale che mi vinse e non lo potei guardare.
+
+61
+"Lo sol sen va", soggiunse, "e vien la sera;
+non v’arrestate, ma studiate il passo,
+mentre che l’occidente non si annera".
+> «Il sole se ne va», aggiunse, «e viene la sera; non vi fermate, ma studiate il passo, finché l'occidente non si annera».
+
+64
+Dritta salia la via per entro ’l sasso
+verso tal parte ch’io toglieva i raggi
+dinanzi a me del sol ch’era già basso.
+> Dritta saliva la via dentro la roccia verso una parte tale che io toglievo i raggi davanti a me del sole che era già basso.
+
+67
+E di pochi scaglion levammo i saggi,
+che ’l sol corcar, per l’ombra che si spense,
+sentimmo dietro e io e li miei saggi.
+> E di pochi gradini avevamo fatto prova, quando il sole coricarsi, per l'ombra che si spense, sentimmo alle spalle io e i miei savi.
+
+70
+E pria che ’n tutte le sue parti immense
+fosse orizzonte fatto d’uno aspetto,
+e notte avesse tutte sue dispense,
+> E prima che in tutte le sue parti immense l'orizzonte fosse fatto di un solo aspetto, e la notte avesse tutte le sue dispense,
+
+73
+ciascun di noi d’un grado fece letto;
+ché la natura del monte ci affranse
+la possa del salir più e ’l diletto.
+> ciascuno di noi fece di un gradino letto; perché la natura del monte ci spezzò la possibilità di salire più e il diletto.
+
+76
+Quali si stanno ruminando manse
+le capre, state rapide e proterve
+sovra le cime avante che sien pranse,
+> Come stanno ruminando miti le capre, state rapide e proterve sopra le cime prima di essere pasciute,
+
+79
+tacite a l’ombra, mentre che ’l sol ferve,
+guardate dal pastor, che ’n su la verga
+poggiato s’è e lor di posa serve;
+> tacite all'ombra, mentre il sole bolle, guardate dal pastore, che sul bastone si è appoggiato e le sorveglia nel riposo;
+
+82
+e quale il mandrïan che fori alberga,
+lungo il pecuglio suo queto pernotta,
+guardando perché fiera non lo sperga;
+> e come il mandriano che alloggia fuori, lungo il suo bestiame tranquillo passa la notte, guardando che fiera non lo disperda;
+
+85
+tali eravamo tutti e tre allotta,
+io come capra, ed ei come pastori,
+fasciati quinci e quindi d’alta grotta.
+> tali eravamo tutti e tre allora, io come capra, ed essi come pastori, fasciati di qua e di là da alta grotta.
+
+88
+Poco parer potea lì del di fori;
+ma, per quel poco, vedea io le stelle
+di lor solere e più chiare e maggiori.
+> Poco poteva apparire lì del cielo fuori; ma, per quel poco, vedevo le stelle più chiare e maggiori del solito.
+
+## scena-3 | cornice-7 | Il sogno di Lia e Rachele
+personaggi: dante, lia
+tavola: dore | Il sogno di Lia | img/dore/purgatorio-27-lia-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148975403).jpg
+sintesi: Ruminando e guardando le stelle, Dante si addormenta. All'ora in cui Venere raggia dall'oriente, sogna una giovane bella donna che coglie fiori in una landa cantando: è Lia, che si adorna le mani per piacere allo specchio, mentre la sorella Rachele non si stacca mai dal suo miraglio; l'una appaga l'operare, l'altra il vedere.
+
+91
+Sì ruminando e sì mirando in quelle,
+mi prese il sonno; il sonno che sovente,
+anzi che ’l fatto sia, sa le novelle.
+> Così ruminando e così guardando in esse, mi prese il sonno; il sonno che spesso, prima che il fatto sia, sa le novelle.
+
+94
+Ne l’ora, credo, che de l’orïente
+prima raggiò nel monte Citerea,
+che di foco d’amor par sempre ardente,
+> Nell'ora, credo, in cui dall'oriente prima raggiò sul monte Citerea, che di fuoco d'amore sembra sempre ardente,
+
+97
+giovane e bella in sogno mi parea
+donna vedere andar per una landa
+cogliendo fiori; e cantando dicea:
+> giovane e bella in sogno mi sembrava vedere una donna andare per una landa cogliendo fiori; e cantando diceva:
+
+100
+"Sappia qualunque il mio nome dimanda
+ch’i’ mi son Lia, e vo movendo intorno
+le belle mani a farmi una ghirlanda.
+> «Sappia chiunque domanda il mio nome che io sono Lia, e vado muovendo intorno le belle mani per farmi una ghirlanda.
+
+103
+Per piacermi a lo specchio, qui m’addorno;
+ma mia suora Rachel mai non si smaga
+dal suo miraglio, e siede tutto giorno.
+> Per piacermi allo specchio, qui mi adorno; ma mia sorella Rachele mai si stacca dal suo specchio, e siede tutto il giorno.
+
+106
+Ell’è d’i suoi belli occhi veder vaga
+com’io de l’addornarmi con le mani;
+lei lo vedere, e me l’ovrare appaga".
+> Ella è vaga di vedere i suoi begli occhi, come io di adornarmi con le mani; lei il vedere, e me l'operare appaga».
+
+109
+E già per li splendori antelucani,
+che tanto a’ pellegrin surgon più grati,
+quanto, tornando, albergan men lontani,
+> E già per gli splendori antelucani, che tanto ai pellegrini sorgono più graditi, quanto, tornando, albergano meno lontani,
+
+## scena-4 | paradiso-terrestre | Il congedo di Virgilio
+personaggi: dante, virgilio, stazio
+tavola: ia | Il congedo di Virgilio | img/ia/purgatorio-27-scena-4.jpg
+sintesi: All'alba le tenebre fuggono e Dante si sveglia, vedendo i maestri già alzati. Virgilio gli promette che oggi il dolce frutto che cercano tutti i mortali placherà la sua fame. Dante cresce di voglia, quasi gli spuntassero le penne. In cima alla scala Virgilio lo guarda e dice che ha visto il fuoco temporale e l'eterno; ora che il suo piacere sia la guida, perché è fuori dalle vie erte. Gli indica il sole, i fiori e gli arbusti, e lo incorona di sé sopra di sé.
+
+112
+le tenebre fuggian da tutti lati,
+e ’l sonno mio con esse; ond’io leva’ mi,
+veggendo i gran maestri già levati.
+> le tenebre fuggivano da tutti i lati, e il mio sonno con esse; perciò mi levai, vedendo i grandi maestri già alzati.
+
+115
+"Quel dolce pome che per tanti rami
+cercando va la cura de’ mortali,
+oggi porrà in pace le tue fami".
+> «Quel dolce frutto che per tanti rami va cercando la cura dei mortali, oggi porrà in pace le tue fami».
+
+118
+Virgilio inverso me queste cotali
+parole usò; e mai non furo strenne
+che fosser di piacere a queste iguali.
+> Virgilio verso di me queste tali parole usò; e mai non furono strenne che fossero di piacere uguali a queste.
+
+121
+Tanto voler sopra voler mi venne
+de l’esser sù, ch’ad ogne passo poi
+al volo mi sentia crescer le penne.
+> Tanto desiderio sopra desiderio mi venne di essere su, che a ogni passo poi sentivo crescere le penne al volo.
+
+124
+Come la scala tutta sotto noi
+fu corsa e fummo in su ’l grado superno,
+in me ficcò Virgilio li occhi suoi,
+> Come la scala tutta sotto di noi fu percorsa e fummo sul grado supremo, Virgilio fissò i suoi occhi su di me,
+
+127
+e disse: "Il temporal foco e l’etterno
+veduto hai, figlio; e se’ venuto in parte
+dov’io per me più oltre non discerno.
+> e disse: «Il fuoco temporale e l'eterno hai visto, figlio; e sei venuto in parte dove io per me più oltre non discerno.
+
+130
+Tratto t’ ho qui con ingegno e con arte;
+lo tuo piacere omai prendi per duce;
+fuor se’ de l’erte vie, fuor se’ de l’arte.
+> Ti ho condotto qui con ingegno e con arte; il tuo piacere prendi ormai per guida; sei fuori dalle vie erte, sei fuori dalle strette.
+
+133
+Vedi lo sol che ’n fronte ti riluce;
+vedi l’erbette, i fiori e li arbuscelli
+che qui la terra sol da sé produce.
+> Vedi il sole che ti riluce in fronte; vedi l'erbette, i fiori e gli arbusti che qui la terra produce da sola.
+
+136
+Mentre che vegnan lieti li occhi belli
+che, lagrimando, a te venir mi fenno,
+seder ti puoi e puoi andar tra elli.
+> Finché vengono lieti gli occhi belli che, piangendo, mi fecero venire a te, puoi sederti e puoi andare tra loro.
+
+139
+Non aspettar mio dir più né mio cenno;
+libero, dritto e sano è tuo arbitrio,
+e fallo fora non fare a suo senno:
+> Non aspettare più il mio dire né il mio cenno; libero, dritto e sano è il tuo arbitrio, e sarebbe fallo non fare a suo senno:
+
+142
+per ch’io te sovra te corono e mitrio".
+> perciò io te sopra te corono e mitrio».
+
+## personaggio | angelo-della-castita | L'angelo della castità
+dibattuto: no
+chi_era: L'angelo della settima cornice, che sta fuori dalla fiamma e canta «Beati mundo corde», invitando le anime a passare nel fuoco; cancella l'ultimo P dalla fronte di Dante.
+
+## personaggio | lia | Lia
+dibattuto: no
+chi_era: Nella Bibbia, la prima moglie di Giacobbe, sorella maggiore di Rachele. Nella lettura medievale simboleggia la vita attiva, mentre Rachele la vita contemplativa; compare nel sogno di Dante.

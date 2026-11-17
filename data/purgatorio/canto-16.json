@@ -1,0 +1,341 @@
+{
+  "cantica": "purgatorio",
+  "canto": 16,
+  "titolo": "Il fumo degli iracondi, Marco Lombardo e il libero arbitrio",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_XVI",
+  "numero_versi": 145,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 24],
+      "titolo_scena": "Il fumo e l'«Agnus Dei»",
+      "sintesi": "Il fumo che avvolge la terza cornice è più denso dell'inferno e della notte più buia: Dante non può tenere gli occhi aperti, e Virgilio gli offre la spalla perché lo segua, come un cieco la sua guida. Nell'aria amara e sozza Dante sente voci che pregano l'«Agnus Dei» tutte con la stessa parola e lo stesso tono: sono gli iracondi che sciolgono il nodo della collera.",
+      "luogo_id": "cornice-3",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Il fumo e l'«Agnus Dei»",
+          "url": "img/ia/purgatorio-16-scena-1.jpg",
+          "miniatura": "img/ia/purgatorio-16-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [25, 45],
+      "titolo_scena": "Marco Lombardo",
+      "sintesi": "Un'anima domanda chi sia costui che fende il fumo e parla come se contasse il tempo per calende. Virgilio incoraggia Dante a rispondere e a chiedere la via. Dante, promettendo cose meravigliose, si dice vivo e venuto per grazia di Dio; l'anima dice di essere lombardo, di nome Marco, e che Dante va bene, e gli chiede di pregare per lui.",
+      "luogo_id": "cornice-3",
+      "personaggi": ["dante", "virgilio", "marco-lombardo"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Marco Lombardo nel fumo",
+          "url": "img/dore/purgatorio-16-marco-960.jpg",
+          "miniatura": "img/dore/purgatorio-16-marco-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148974683).jpg",
+          "licenza": "Pubblico dominio"
+        },
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Dante e Virgilio seguono Marco Lombardo",
+          "url": "img/dore/purgatorio-16-fumo-960.jpg",
+          "miniatura": "img/dore/purgatorio-16-fumo-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148974730).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [46, 129],
+      "titolo_scena": "Libero arbitrio e i due soli",
+      "sintesi": "Marco Lombardo, lombardo di nome Marco, si lamenta che il mondo sia privo di virtù. Dante gli chiede la causa: Marco risponde che non è il cielo, ma gli uomini stessi, perché hanno il libero arbitrio. L'anima, uscita dalla mano di Dio, sa solo amare; serve il freno della legge e un re che discerna la torre della vera città. Ma il papa regge le leggi senza ruminare il bene: Roma aveva due soli, impero e Chiesa, e ora la spada è unita al pastorale.",
+      "luogo_id": "cornice-3",
+      "personaggi": ["dante", "virgilio", "marco-lombardo"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Libero arbitrio e i due soli",
+          "url": "img/ia/purgatorio-16-scena-3.jpg",
+          "miniatura": "img/ia/purgatorio-16-scena-3.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [130, 145],
+      "titolo_scena": "Il congedo di Marco",
+      "sintesi": "Dante intende ora perché i figli di Levi furono esclusi dall'eredità e chiede chi sia quel buon Gherardo; Marco, ironico, risponde che non lo conosce se non come padre di Gaia. Poi, vedendo il bianco dell'alba nel fumo e sapendo che l'angelo è lì, se ne va prima di essere visto.",
+      "luogo_id": "cornice-3",
+      "personaggi": ["dante", "virgilio", "marco-lombardo"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Il congedo di Marco",
+          "url": "img/ia/purgatorio-16-scena-4.jpg",
+          "miniatura": "img/ia/purgatorio-16-scena-4.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Buio d’inferno e di notte privata\nd’ogne pianeto, sotto pover cielo,\nquant’esser può di nuvol tenebrata,",
+      "parafrasi": "Il buio d'inferno e di una notte privata di ogni pianeta, sotto un cielo povero, quanto può essere oscurata dalle nuvole,"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "non fece al viso mio sì grosso velo\ncome quel fummo ch’ivi ci coperse,\nné a sentir di così aspro pelo,",
+      "parafrasi": "non fece al mio viso un velo così spesso come quel fumo che ci coprì lì, né così aspro al sentire,"
+    },
+    {
+      "versi": [7, 9],
+      "testo": "che l’occhio stare aperto non sofferse;\nonde la scorta mia saputa e fida\nmi s’accostò e l’omero m’offerse.",
+      "parafrasi": "che l'occhio non sopportò di restare aperto; perciò la mia guida saggia e fedele si accostò e mi offrì la spalla."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "Sì come cieco va dietro a sua guida\nper non smarrirsi e per non dar di cozzo\nin cosa che ’l molesti, o forse ancida,",
+      "parafrasi": "Come il cieco va dietro alla sua guida per non perdersi e per non urtare in qualcosa che lo molesti, o forse lo uccida,"
+    },
+    {
+      "versi": [13, 15],
+      "testo": "m’andava io per l’aere amaro e sozzo,\nascoltando il mio duca che diceva\npur: \"Guarda che da me tu non sia mozzo\".",
+      "parafrasi": "andavo io per l'aria amara e sozza, ascoltando la mia guida che diceva solo: «Guarda di non staccarti da me»."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "Io sentia voci, e ciascuna pareva\npregar per pace e per misericordia\nl’Agnel di Dio che le peccata leva.",
+      "parafrasi": "Sentivo voci, e ciascuna sembrava pregare per pace e per misericordia l'Agnello di Dio che toglie i peccati."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "Pur ’Agnus Dei’ eran le loro essordia;\nuna parola in tutte era e un modo,\nsì che parea tra esse ogne concordia.",
+      "parafrasi": "Sempre «Agnus Dei» erano i loro esordi; una sola parola c'era in tutte e un solo modo, così che tra loro sembrava ogni concordia."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "\"Quei sono spirti, maestro, ch’i’ odo?\",\ndiss’io. Ed elli a me: \"Tu vero apprendi,\ne d’iracundia van solvendo il nodo\".",
+      "parafrasi": "«Sono spiriti, maestro, quelli che sento?», dissi. Ed egli a me: «Capisci il vero, e vanno sciogliendo il nodo dell'ira»."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "\"Or tu chi se’ che ’l nostro fummo fendi,\ne di noi parli pur come se tue\npartissi ancor lo tempo per calendi?\".",
+      "parafrasi": "«Ora tu chi sei, che fendi il nostro fumo e parli di noi come se ancora dividessi il tempo per calende?»."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Così per una voce detto fue;\nonde ’l maestro mio disse: \"Rispondi,\ne domanda se quinci si va sùe\".",
+      "parafrasi": "Così fu detto da una voce; perciò il mio maestro disse: «Rispondi, e domanda se da qui si sale»."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "E io: \"O creatura che ti mondi\nper tornar bella a colui che ti fece,\nmaraviglia udirai, se mi secondi\".",
+      "parafrasi": "E io: «O creatura che ti purifichi per tornare bella a colui che ti fece, udrai meraviglie se mi segui»."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "\"Io ti seguiterò quanto mi lece\",\nrispuose; \"e se veder fummo non lascia,\nl’udir ci terrà giunti in quella vece\".",
+      "parafrasi": "«Ti seguirò quanto mi è lecito», rispose; «e se il fumo non ci lascia vedere, l'udito ci terrà uniti al suo posto»."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Allora incominciai: \"Con quella fascia\nche la morte dissolve men vo suso,\ne venni qui per l’infernale ambascia.",
+      "parafrasi": "Allora cominciai: «Con quella fascia che la morte dissolve vado su, e sono venuto qui attraverso l'angoscia infernale."
+    },
+    {
+      "versi": [40, 42],
+      "testo": "E se Dio m’ ha in sua grazia rinchiuso,\ntanto che vuol ch’i’ veggia la sua corte\nper modo tutto fuor del moderno uso,",
+      "parafrasi": "E se Dio mi ha racchiuso nella sua grazia, tanto da volere che io veda la sua corte in un modo del tutto fuori dall'uso moderno,"
+    },
+    {
+      "versi": [43, 45],
+      "testo": "non mi celar chi fosti anzi la morte,\nma dilmi, e dimmi s’i’ vo bene al varco;\ne tue parole fier le nostre scorte\".",
+      "parafrasi": "non nascondermi chi fosti prima della morte, ma dimmelo, e dimmi se vado bene verso il varco; e le tue parole saranno la nostra scorta»."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "\"Lombardo fui, e fu’ chiamato Marco;\ndel mondo seppi, e quel valore amai\nal quale ha or ciascun disteso l’arco.",
+      "parafrasi": "«Lombardo fui, e fui chiamato Marco; seppi del mondo e amai quel valore a cui ora ciascuno ha disteso l'arco."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "Per montar sù dirittamente vai\".\nCosì rispuose, e soggiunse: \"I’ ti prego\nche per me prieghi quando sù sarai\".",
+      "parafrasi": "Per salire vai dritto». Così rispose e aggiunse: «Ti prego che tu preghi per me quando sarai lassù»."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "E io a lui: \"Per fede mi ti lego\ndi far ciò che mi chiedi; ma io scoppio\ndentro ad un dubbio, s’io non me ne spiego.",
+      "parafrasi": "E io a lui: «Per fede mi lego a fare ciò che mi chiedi; ma scoppio dentro per un dubbio, se non me lo spiego."
+    },
+    {
+      "versi": [55, 57],
+      "testo": "Prima era scempio, e ora è fatto doppio\nne la sentenza tua, che mi fa certo\nqui, e altrove, quello ov’io l’accoppio.",
+      "parafrasi": "Prima era semplice, ora è fatto doppio nella tua sentenza, che mi rende certo qui, e altrove, ciò a cui lo accoppio."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Lo mondo è ben così tutto diserto\nd’ogne virtute, come tu mi sone,\ne di malizia gravido e coverto;",
+      "parafrasi": "Il mondo è davvero così deserto di ogni virtù, come mi dici, e gravido e coperto di malizia;"
+    },
+    {
+      "versi": [61, 63],
+      "testo": "ma priego che m’addite la cagione,\nsì ch’i’ la veggia e ch’i’ la mostri altrui;\nché nel cielo uno, e un qua giù la pone\".",
+      "parafrasi": "ma ti prego di indicarmene la causa, così che io la veda e la mostri agli altri; perché uno la pone nel cielo e uno quaggiù»."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Alto sospir, che duolo strinse in \"uhi!\",\nmise fuor prima; e poi cominciò: \"Frate,\nlo mondo è cieco, e tu vien ben da lui.",
+      "parafrasi": "Un alto sospiro, che il dolore strinse in «uhi!», emise prima; e poi cominciò: «Fratello, il mondo è cieco, e tu vieni bene da lui."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Voi che vivete ogne cagion recate\npur suso al cielo, pur come se tutto\nmovesse seco di necessitate.",
+      "parafrasi": "Voi che vivete riconducete ogni causa solo al cielo, come se tutto si muovesse con esso per necessità."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "Se così fosse, in voi fora distrutto\nlibero arbitrio, e non fora giustizia\nper ben letizia, e per male aver lutto.",
+      "parafrasi": "Se così fosse, in voi sarebbe distrutto il libero arbitrio, e non sarebbe giustizia aver gioia per il bene e lutto per il male."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Lo cielo i vostri movimenti inizia;\nnon dico tutti, ma, posto ch’i’ ’l dica,\nlume v’è dato a bene e a malizia,",
+      "parafrasi": "Il cielo inizia i vostri movimenti; non dico tutti, ma, posto che io lo dica, vi è dato lume per il bene e il male,"
+    },
+    {
+      "versi": [76, 78],
+      "testo": "e libero voler; che, se fatica\nne le prime battaglie col ciel dura,\npoi vince tutto, se ben si notrica.",
+      "parafrasi": "e libero volere; che, se faticoso nelle prime battaglie col cielo, poi vince tutto, se è ben nutrito."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "A maggior forza e a miglior natura\nliberi soggiacete; e quella cria\nla mente in voi, che ’l ciel non ha in sua cura.",
+      "parafrasi": "A una forza maggiore e a una natura migliore, liberi, siete soggetti; e quella crea la mente in voi, che il cielo non ha in sua cura."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "Però, se ’l mondo presente disvia,\nin voi è la cagione, in voi si cheggia;\ne io te ne sarò or vera spia.",
+      "parafrasi": "Perciò, se il mondo presente si disvia, in voi è la causa, in voi si cerchi; e io ora te ne sarò vera spia."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "Esce di mano a lui che la vagheggia\nprima che sia, a guisa di fanciulla\nche piangendo e ridendo pargoleggia,",
+      "parafrasi": "Esce dalla mano di colui che la ama prima che sia, come una fanciulla che piangendo e ridendo gioca,"
+    },
+    {
+      "versi": [88, 90],
+      "testo": "l’anima semplicetta che sa nulla,\nsalvo che, mossa da lieto fattore,\nvolontier torna a ciò che la trastulla.",
+      "parafrasi": "l'anima semplicetta che non sa nulla, salvo che, mossa da un lieto creatore, volentieri torna a ciò che la trastulla."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Di picciol bene in pria sente sapore;\nquivi s’inganna, e dietro ad esso corre,\nse guida o fren non torce suo amore.",
+      "parafrasi": "Di un piccolo bene sente prima il sapore; lì si inganna e corre dietro ad esso, se una guida o un freno non torce il suo amore."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Onde convenne legge per fren porre;\nconvenne rege aver, che discernesse\nde la vera cittade almen la torre.",
+      "parafrasi": "Perciò fu necessario porre la legge come freno; fu necessario avere un re, che discernesse almeno la torre della vera città."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Le leggi son, ma chi pon mano ad esse?\nNullo, però che ’l pastor che procede,\nrugumar può, ma non ha l’unghie fesse;",
+      "parafrasi": "Le leggi ci sono, ma chi vi mette mano? Nessuno, perché il pastore che sta davanti può ruminare, ma non ha gli zoccoli fessi;"
+    },
+    {
+      "versi": [100, 102],
+      "testo": "per che la gente, che sua guida vede\npur a quel ben fedire ond’ella è ghiotta,\ndi quel si pasce, e più oltre non chiede.",
+      "parafrasi": "perciò la gente, che vede la sua guida mirare solo a quel bene di cui è ghiotta, di quello si pasce e non chiede di più."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Ben puoi veder che la mala condotta\nè la cagion che ’l mondo ha fatto reo,\ne non natura che ’n voi sia corrotta.",
+      "parafrasi": "Puoi ben vedere che la cattiva condotta è la causa che ha reso il mondo malvagio, e non la natura che in voi sia corrotta."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Soleva Roma, che ’l buon mondo feo,\ndue soli aver, che l’una e l’altra strada\nfacean vedere, e del mondo e di Deo.",
+      "parafrasi": "Roma, che fece il buon mondo, soleva avere due soli, che facevano vedere l'una e l'altra strada, del mondo e di Dio."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "L’un l’altro ha spento; ed è giunta la spada\ncol pasturale, e l’un con l’altro insieme\nper viva forza mal convien che vada;",
+      "parafrasi": "L'uno ha spento l'altro; ed è unita la spada al pastorale, e l'uno con l'altro insieme per forza viva conviene che vada male;"
+    },
+    {
+      "versi": [112, 114],
+      "testo": "però che, giunti, l’un l’altro non teme:\nse non mi credi, pon mente a la spiga,\nch’ogn’erba si conosce per lo seme.",
+      "parafrasi": "perché, uniti, l'uno non teme l'altro: se non mi credi, osserva la spiga, perché ogni erba si conosce dal seme."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "In sul paese ch’Adice e Po riga,\nsolea valore e cortesia trovarsi,\nprima che Federigo avesse briga;",
+      "parafrasi": "Nel paese che l'Adige e il Po bagnano soleva trovarsi valore e cortesia, prima che Federico avesse lite;"
+    },
+    {
+      "versi": [118, 120],
+      "testo": "or può sicuramente indi passarsi\nper qualunque lasciasse, per vergogna,\ndi ragionar coi buoni o d’appressarsi.",
+      "parafrasi": "ora vi può passare sicuramente chiunque lasciasse, per vergogna, di parlare con i buoni o di avvicinarsi."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "Ben v’èn tre vecchi ancora in cui rampogna\nl’antica età la nova, e par lor tardo\nche Dio a miglior vita li ripogna:",
+      "parafrasi": "Ben vi sono ancora tre vecchi in cui l'antica età rimprovera la nuova, e a loro pare tardi che Dio li riporti a miglior vita:"
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Currado da Palazzo e ’l buon Gherardo\ne Guido da Castel, che mei si noma,\nfrancescamente, il semplice Lombardo.",
+      "parafrasi": "Corrado da Palazzo e il buon Gherardo e Guido da Castel, che meglio si chiama, alla francese, il semplice Lombardo."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Dì oggimai che la Chiesa di Roma,\nper confondere in sé due reggimenti,\ncade nel fango, e sé brutta e la soma\".",
+      "parafrasi": "Di' ormai che la Chiesa di Roma, per confondere in sé due governi, cade nel fango, e sporca sé e il carico»."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "\"O Marco mio\", diss’io, \"bene argomenti;\ne or discerno perché dal retaggio\nli figli di Levì furono essenti.",
+      "parafrasi": "«O Marco mio», dissi, «ragioni bene; e ora capisco perché dall'eredità furono esclusi i figli di Levi."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "Ma qual Gherardo è quel che tu per saggio\ndi’ ch’è rimaso de la gente spenta,\nin rimprovèro del secol selvaggio?\".",
+      "parafrasi": "Ma quale Gherardo è quello che tu dici saggio, rimasto della gente spenta, a rimprovero del secolo selvaggio?»."
+    },
+    {
+      "versi": [136, 138],
+      "testo": "\"O tuo parlar m’inganna, o el mi tenta\",\nrispuose a me; \"ché, parlandomi tosco,\npar che del buon Gherardo nulla senta.",
+      "parafrasi": "«O il tuo parlare mi inganna, o mi tenta», rispose; «perché, parlandomi toscano, sembra che del buon Gherardo non sappia nulla."
+    },
+    {
+      "versi": [139, 141],
+      "testo": "Per altro sopranome io nol conosco,\ns’io nol togliessi da sua figlia Gaia.\nDio sia con voi, ché più non vegno vosco.",
+      "parafrasi": "Con altro soprannome io non lo conosco, se non lo prendessi da sua figlia Gaia. Dio sia con voi, perché più non vengo con voi."
+    },
+    {
+      "versi": [142, 144],
+      "testo": "Vedi l’albor che per lo fummo raia\ngià biancheggiare, e me convien partirmi\n(l’angelo è ivi) prima ch’io li paia\".",
+      "parafrasi": "Vedi la luce che nel fumo raggia già biancheggiare, e mi conviene partire (l'angelo è lì) prima che io gli appaia»."
+    },
+    {
+      "versi": [145, 145],
+      "testo": "Così tornò, e più non volle udirmi.",
+      "parafrasi": "Così tornò, e non volle più ascoltarmi."
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "cantica": "purgatorio",
+  "canto": 17,
+  "titolo": "Le visioni dell'ira, l'angelo della pace e il discorso sull'amore",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_XVII",
+  "numero_versi": 139,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 45],
+      "titolo_scena": "Le visioni dell'ira punita",
+      "sintesi": "Dante invita il lettore a ricordare la nebbia alpina e come il sole vi penetri a stento; così rivede il sole al tramonto uscendo dal fumo. Poi, rapito dalla fantasia, vede in visione tre esempi di ira punita: Progne trasformata in usignolo, Aman crocifisso davanti ad Assuero, Ester e Mardocheo, e Lavinia che piange la madre Amata, suicida per ira. La visione si rompe come una bolla per una luce improvvisa.",
+      "luogo_id": "cornice-3",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Le visioni dell'ira punita",
+          "url": "img/ia/purgatorio-17-scena-1.jpg",
+          "miniatura": "img/ia/purgatorio-17-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [46, 78],
+      "titolo_scena": "L'angelo della pace",
+      "sintesi": "Dante si volge a capire dove sia, quando una voce dice «Qui si sale»: è l'angelo, una luce che il suo splendore nasconde. Virgilio spiega che l'angelo indica la via senza essere pregato, e invita a salire prima che il giorno finisca. Sulla scala, Dante sente un movimento d'ala che gli ventila il viso e una voce: «Beati i pacifici, che sono senza ira malvagia». Già le stelle appaiono, e le gambe di Dante rallentano.",
+      "luogo_id": "cornice-3",
+      "personaggi": ["dante", "virgilio", "angelo-della-pace"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "L'angelo della pace",
+          "url": "img/ia/purgatorio-17-scena-2.jpg",
+          "miniatura": "img/ia/purgatorio-17-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [79, 139],
+      "titolo_scena": "Il discorso sull'amore",
+      "sintesi": "Giunti alla quarta cornice, dove si sale solo di giorno, Dante chiede a Virgilio che colpa si purghi qui. Virgilio risponde con una teoria dell'amore: né creatore né creatura furono mai senza amore, naturale o d'animo; l'amore naturale è senza errore, l'altro può errare per cattivo oggetto o per troppo o troppo poco vigore. Dall'amore deviato nascono i tre peccati delle cornici inferiori (superbia, invidia, ira); qui si espia l'amore lento del bene, mentre sopra si piange per l'amore eccessivo.",
+      "luogo_id": "cornice-4",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Il discorso sull'amore",
+          "url": "img/ia/purgatorio-17-scena-3.jpg",
+          "miniatura": "img/ia/purgatorio-17-scena-3.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Ricorditi, lettor, se mai ne l’alpe\nti colse nebbia per la qual vedessi\nnon altrimenti che per pelle talpe,",
+      "parafrasi": "Ricordati, lettore, se mai sulle Alpi ti colse una nebbia per cui vedessi non diversamente che attraverso la pelle una talpa,"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "come, quando i vapori umidi e spessi\na diradar cominciansi, la spera\ndel sol debilemente entra per essi;",
+      "parafrasi": "come, quando i vapori umidi e spessi cominciano a diradarsi, la sfera del sole vi entra debolmente;"
+    },
+    {
+      "versi": [7, 9],
+      "testo": "e fia la tua imagine leggera\nin giugnere a veder com’io rividi\nlo sole in pria, che già nel corcar era.",
+      "parafrasi": "e sarà facile alla tua immaginazione arrivare a vedere come io rividi il sole, che già era al tramonto."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "Sì, pareggiando i miei co’ passi fidi\ndel mio maestro, usci’ fuor di tal nube\nai raggi morti già ne’ bassi lidi.",
+      "parafrasi": "Così, pareggiando i miei passi ai passi fidati del mio maestro, uscii da quella nube ai raggi morti ormai sulle rive in basso."
+    },
+    {
+      "versi": [13, 15],
+      "testo": "O imaginativa che ne rube\ntalvolta sì di fuor, ch’om non s’accorge\nperché dintorno suonin mille tube,",
+      "parafrasi": "O immaginazione, che ci rubi talvolta così all'esterno che non ci si accorge, anche se intorno suonano mille trombe,"
+    },
+    {
+      "versi": [16, 18],
+      "testo": "chi move te, se ’l senso non ti porge?\nMoveti lume che nel ciel s’informa,\nper sé o per voler che giù lo scorge.",
+      "parafrasi": "chi ti muove, se il senso non ti porge nulla? Ti muove una luce che si forma nel cielo, per sé o per volere che la guida quaggiù."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "De l’empiezza di lei che mutò forma\nne l’uccel ch’a cantar più si diletta,\nne l’imagine mia apparve l’orma;",
+      "parafrasi": "Dell'empietà di colei che mutò forma nell'uccello che più si diletta a cantare, nella mia immaginazione apparve l'impronta;"
+    },
+    {
+      "versi": [22, 24],
+      "testo": "e qui fu la mia mente sì ristretta\ndentro da sé, che di fuor non venìa\ncosa che fosse allor da lei ricetta.",
+      "parafrasi": "e qui la mia mente fu tanto ristretta in sé che da fuori non veniva cosa che da essa fosse allora accolta."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Poi piovve dentro a l’alta fantasia\nun crucifisso, dispettoso e fero\nne la sua vista, e cotal si moria;",
+      "parafrasi": "Poi piovve nell'alta fantasia un crocifisso, sdegnoso e feroce nell'aspetto, e così moriva;"
+    },
+    {
+      "versi": [28, 30],
+      "testo": "intorno ad esso era il grande Assüero,\nEstèr sua sposa e ’l giusto Mardoceo,\nche fu al dire e al far così intero.",
+      "parafrasi": "intorno ad esso c'erano il grande Assuero, Ester sua sposa e il giusto Mardocheo, che fu nel dire e nel fare così integro."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "E come questa imagine rompeo\nsé per sé stessa, a guisa d’una bulla\ncui manca l’acqua sotto qual si feo,",
+      "parafrasi": "E come questa immagine si ruppe da sé, come una bolla a cui manca l'acqua sotto cui si formò,"
+    },
+    {
+      "versi": [34, 36],
+      "testo": "surse in mia visïone una fanciulla\npiangendo forte, e dicea: \"O regina,\nperché per ira hai voluto esser nulla?",
+      "parafrasi": "sorse nella mia visione una fanciulla che piangeva forte e diceva: «O regina, perché per ira hai voluto essere niente?"
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Ancisa t’ hai per non perder Lavina;\nor m’ hai perduta! Io son essa che lutto,\nmadre, a la tua pria ch’a l’altrui ruina\".",
+      "parafrasi": "Ti sei uccisa per non perdere Lavinia; ora mi hai perduta! Io sono colei che piange, madre, la tua rovina prima di quella di altri»."
+    },
+    {
+      "versi": [40, 42],
+      "testo": "Come si frange il sonno ove di butto\nnova luce percuote il viso chiuso,\nche fratto guizza pria che muoia tutto;",
+      "parafrasi": "Come si frange il sonno quando una luce nuova colpisce di colpo il viso chiuso, che spezzato guizza prima di morire del tutto;"
+    },
+    {
+      "versi": [43, 45],
+      "testo": "così l’imaginar mio cadde giuso\ntosto che lume il volto mi percosse,\nmaggior assai che quel ch’è in nostro uso.",
+      "parafrasi": "così la mia immaginazione cadde giù subito che una luce mi colpì il volto, molto maggiore di quella a cui siamo abituati."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "I’ mi volgea per veder ov’io fosse,\nquando una voce disse \"Qui si monta\",\nche da ogne altro intento mi rimosse;",
+      "parafrasi": "Mi volgevo per vedere dove fossi, quando una voce disse «Qui si sale», che mi distolse da ogni altro intento;"
+    },
+    {
+      "versi": [49, 51],
+      "testo": "e fece la mia voglia tanto pronta\ndi riguardar chi era che parlava,\nche mai non posa, se non si raffronta.",
+      "parafrasi": "e rese la mia volontà tanto pronta di guardare chi fosse che parlava, che non si ferma finché non si trova faccia a faccia."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "Ma come al sol che nostra vista grava\ne per soverchio sua figura vela,\ncosì la mia virtù quivi mancava.",
+      "parafrasi": "Ma come davanti al sole che grava la nostra vista e per l'eccesso vela la sua figura, così la mia capacità qui mancava."
+    },
+    {
+      "versi": [55, 57],
+      "testo": "\"Questo è divino spirito, che ne la\nvia da ir sù ne drizza sanza prego,\ne col suo lume sé medesmo cela.",
+      "parafrasi": "«Questo è uno spirito divino, che ci indirizza sulla via per salire senza che lo preghiamo, e col suo lume nasconde se stesso."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Sì fa con noi, come l’uom si fa sego;\nché quale aspetta prego e l’uopo vede,\nmalignamente già si mette al nego.",
+      "parafrasi": "Fa con noi come l'uomo fa con se stesso; perché chi aspetta la preghiera e vede il bisogno, già malignamente si dispone al rifiuto."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Or accordiamo a tanto invito il piede;\nprocacciam di salir pria che s’abbui,\nché poi non si poria, se ’l dì non riede\".",
+      "parafrasi": "Ora accordiamo il piede a così grande invito; cerchiamo di salire prima che si faccia buio, perché poi non si potrebbe, se il giorno non torna»."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Così disse il mio duca, e io con lui\nvolgemmo i nostri passi ad una scala;\ne tosto ch’io al primo grado fui,",
+      "parafrasi": "Così disse la mia guida, e io con lui volgemmo i nostri passi a una scala; e appena fui sul primo gradino,"
+    },
+    {
+      "versi": [67, 69],
+      "testo": "senti’ mi presso quasi un muover d’ala\ne ventarmi nel viso e dir: ’Beati\npacifici, che son sanz’ira mala!’.",
+      "parafrasi": "mi sentii vicino quasi un movimento d'ala e ventarmi il viso e dire: «Beati i pacifici, che sono senza ira malvagia!»."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "Già eran sovra noi tanto levati\nli ultimi raggi che la notte segue,\nche le stelle apparivan da più lati.",
+      "parafrasi": "Già erano così levati sopra di noi gli ultimi raggi che la notte segue, che le stelle apparivano da più parti."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "’O virtù mia, perché sì ti dilegue?’,\nfra me stesso dicea, ché mi sentiva\nla possa de le gambe posta in triegue.",
+      "parafrasi": "«O mia virtù, perché ti dilegui così?», dicevo fra me stesso, perché sentivo la forza delle gambe messa in tregua."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "Noi eravam dove più non saliva\nla scala sù, ed eravamo affissi,\npur come nave ch’a la piaggia arriva.",
+      "parafrasi": "Eravamo dove la scala non saliva più, ed eravamo fermi, come una nave che arriva alla spiaggia."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "E io attesi un poco, s’io udissi\nalcuna cosa nel novo girone;\npoi mi volsi al maestro mio, e dissi:",
+      "parafrasi": "E io attesi un poco, per sentire se udissi qualcosa nel nuovo girone; poi mi volsi al mio maestro, e dissi:"
+    },
+    {
+      "versi": [82, 84],
+      "testo": "\"Dolce mio padre, dì, quale offensione\nsi purga qui nel giro dove semo?\nSe i piè si stanno, non stea tuo sermone\".",
+      "parafrasi": "«Dolce padre mio, dimmi, quale offesa si purga qui nel giro dove siamo? Se i piedi stanno fermi, non stia ferma la tua parola»."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "Ed elli a me: \"L’amor del bene, scemo\ndel suo dover, quiritta si ristora;\nqui si ribatte il mal tardato remo.",
+      "parafrasi": "Ed egli a me: «L'amore del bene, scarso del suo dovere, qui si ristora; qui si ribatte il remo mal tirato."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Ma perché più aperto intendi ancora,\nvolgi la mente a me, e prenderai\nalcun buon frutto di nostra dimora\".",
+      "parafrasi": "Ma perché tu comprenda ancora più chiaramente, volgi la mente a me, e prenderai qualche buon frutto dalla nostra sosta»."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "\"Né creator né creatura mai\",\ncominciò el, \"figliuol, fu sanza amore,\no naturale o d’animo; e tu ’l sai.",
+      "parafrasi": "«Né creatore né creatura mai», cominciò, «figlio, fu senza amore, o naturale o d'animo; e tu lo sai."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Lo naturale è sempre sanza errore,\nma l’altro puote errar per malo obietto\no per troppo o per poco di vigore.",
+      "parafrasi": "Il naturale è sempre senza errore, ma l'altro può errare per cattivo oggetto o per troppo o per poco vigore."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Mentre ch’elli è nel primo ben diretto,\ne ne’ secondi sé stesso misura,\nesser non può cagion di mal diletto;",
+      "parafrasi": "Finché è diretto al primo bene, e nei secondi si misura, non può essere causa di cattivo diletto;"
+    },
+    {
+      "versi": [100, 102],
+      "testo": "ma quando al mal si torce, o con più cura\no con men che non dee corre nel bene,\ncontra ’l fattore adovra sua fattura.",
+      "parafrasi": "ma quando si torce al male, o con più cura o con meno di quel che deve corre nel bene, opera contro il creatore la sua creatura."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Quinci comprender puoi ch’esser convene\namor sementa in voi d’ogne virtute\ne d’ogne operazion che merta pene.",
+      "parafrasi": "Da qui puoi capire che conviene che l'amore sia seme in voi di ogni virtù e di ogni azione che merita pena."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Or, perché mai non può da la salute\namor del suo subietto volger viso,\nda l’odio proprio son le cose tute;",
+      "parafrasi": "Ora, poiché mai l'amore può distogliere lo sguardo dalla salute del suo soggetto, dall'odio di sé le cose sono al sicuro;"
+    },
+    {
+      "versi": [109, 111],
+      "testo": "e perché intender non si può diviso,\ne per sé stante, alcuno esser dal primo,\nda quello odiare ogne effetto è deciso.",
+      "parafrasi": "e poiché non si può intendere nessun essere diviso e sussistente per sé stesso dal primo, da quello ogni effetto è escluso dall'odiare."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Resta, se dividendo bene stimo,\nche ’l mal che s’ama è del prossimo; ed esso\namor nasce in tre modi in vostro limo.",
+      "parafrasi": "Resta, se giudico bene dividendo, che il male che si ama è del prossimo; ed esso amore nasce in tre modi nel vostro fango."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "E’ chi, per esser suo vicin soppresso,\nspera eccellenza, e sol per questo brama\nch’el sia di sua grandezza in basso messo;",
+      "parafrasi": "C'è chi, sperando di eccellere dall'abbassamento del vicino, brama soltanto per questo che sia messo in basso dalla sua grandezza;"
+    },
+    {
+      "versi": [118, 120],
+      "testo": "è chi podere, grazia, onore e fama\nteme di perder perch’altri sormonti,\nonde s’attrista sì che ’l contrario ama;",
+      "parafrasi": "c'è chi teme di perdere potere, grazia, onore e fama perché un altro sale, per cui si rattrista tanto che ama il contrario;"
+    },
+    {
+      "versi": [121, 123],
+      "testo": "ed è chi per ingiuria par ch’aonti,\nsì che si fa de la vendetta ghiotto,\ne tal convien che ’l male altrui impronti.",
+      "parafrasi": "e c'è chi per un'ingiuria sembra offendersi, così che diventa ghiotto di vendetta, e tale conviene che apprenda il male altrui."
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Questo triforme amor qua giù di sotto\nsi piange: or vo’ che tu de l’altro intende,\nche corre al ben con ordine corrotto.",
+      "parafrasi": "Questo triforme amore quaggiù di sotto si piange: ora voglio che tu intenda dell'altro, che corre al bene con ordine corrotto."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Ciascun confusamente un bene apprende\nnel qual si queti l’animo, e disira;\nper che di giugner lui ciascun contende.",
+      "parafrasi": "Ciascuno comprende confusamente un bene in cui si quieti l'animo, e lo desidera; perciò ciascuno si sforza di raggiungerlo."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Se lento amore a lui veder vi tira\no a lui acquistar, questa cornice,\ndopo giusto penter, ve ne martira.",
+      "parafrasi": "Se amore lento vi tira a vederlo o ad acquistarlo, questa cornice, dopo giusto pentimento, ve ne tormenta."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "Altro ben è che non fa l’uom felice;\nnon è felicità, non è la buona\nessenza, d’ogne ben frutto e radice.",
+      "parafrasi": "C'è un altro bene che non fa felice l'uomo; non è felicità, non è la buona essenza, frutto e radice di ogni bene."
+    },
+    {
+      "versi": [136, 138],
+      "testo": "L’amor ch’ad esso troppo s’abbandona,\ndi sovr’a noi si piange per tre cerchi;\nma come tripartito si ragiona,",
+      "parafrasi": "L'amore che troppo si abbandona ad esso, sopra di noi si piange per tre cerchi; ma come sia ripartito,"
+    },
+    {
+      "versi": [139, 139],
+      "testo": "tacciolo, acciò che tu per te ne cerchi\".",
+      "parafrasi": "lo taccio, perché tu lo cerchi da te»."
+    }
+  ]
+}

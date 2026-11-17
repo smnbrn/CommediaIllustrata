@@ -1,0 +1,323 @@
+{
+  "cantica": "purgatorio",
+  "canto": 14,
+  "titolo": "Guido del Duca, l'Arno e la Romagna",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_XIV",
+  "numero_versi": 151,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 66],
+      "titolo_scena": "Guido del Duca e Rinieri: la valle dell'Arno",
+      "sintesi": "Due anime, chine l'una verso l'altra, parlano di Dante e gli chiedono chi sia. Dante risponde evitando il nome: viene da un fiumicello che nasce a Falterona. Capito che è l'Arno, una delle due ombre si stupisce che Dante ne taccia il nome come di una cosa orribile; l'altra risponde che ne è degno, e descrive come i popoli lungo il fiume diventano porci, botoli, lupi e volpi. Poi predice che il nipote di Rinieri farà strage dei lupi.",
+      "luogo_id": "cornice-2",
+      "personaggi": ["dante", "virgilio", "guido-del-duca", "rinieri-da-calboli"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Guido del Duca e Rinieri: la valle dell'Arno",
+          "url": "img/ia/purgatorio-14-scena-1.jpg",
+          "miniatura": "img/ia/purgatorio-14-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [67, 126],
+      "titolo_scena": "Guido del Duca e la Romagna",
+      "sintesi": "Una delle ombre si turba alla profezia sul destino della propria famiglia; poi si rivela per Guido del Duca, bruciato di invidia, e indica Rinieri da Calboli, tutta la cui famiglia è decaduta. Piange la scomparsa dell'antica cortesia di Romagna: i buoni signori di un tempo sono morti, le famiglie estinte o tralignate. Chiude invitando Dante ad andare, perché gli è più dolce piangere che parlare.",
+      "luogo_id": "cornice-2",
+      "personaggi": ["dante", "virgilio", "guido-del-duca", "rinieri-da-calboli"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Guido del Duca e la Romagna",
+          "url": "img/ia/purgatorio-14-scena-2.jpg",
+          "miniatura": "img/ia/purgatorio-14-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [127, 151],
+      "titolo_scena": "Le voci dell'invidia punita",
+      "sintesi": "Dante e Virgilio proseguono mentre le due anime li ascoltano in silenzio. Soli, odono come un fulmine che fende l'aria la voce di Caino, «Mi ucciderà chiunque mi trova», e poi quella di Aglauro, trasformata in sasso per l'invidia. Dante si stringe al poeta. Virgilio commenta: sono i freni dell'invidia; ma gli uomini abboccano all'esca dell'avversario e guardano la terra mentre il cielo li chiama.",
+      "luogo_id": "cornice-2",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Le voci dell'invidia punita",
+          "url": "img/ia/purgatorio-14-scena-3.jpg",
+          "miniatura": "img/ia/purgatorio-14-scena-3.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "\"Chi è costui che ’l nostro monte cerchia\nprima che morte li abbia dato il volo,\ne apre li occhi a sua voglia e coverchia?\".",
+      "parafrasi": "«Chi è costui che circonda il nostro monte prima che la morte gli abbia dato il volo, e apre e chiude gli occhi a suo piacimento?»."
+    },
+    {
+      "versi": [4, 6],
+      "testo": "\"Non so chi sia, ma so ch’e’ non è solo;\ndomandal tu che più li t’avvicini,\ne dolcemente, sì che parli, acco’ lo\".",
+      "parafrasi": "«Non so chi sia, ma so che non è solo; chiedilo tu che gli sei più vicino, e con dolcezza, così che parli, accoglilo»."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "Così due spirti, l’uno a l’altro chini,\nragionavan di me ivi a man dritta;\npoi fer li visi, per dirmi, supini;",
+      "parafrasi": "Così due spiriti, chini l'uno verso l'altro, ragionavano di me là a destra; poi alzarono i visi, per parlarmi, supini;"
+    },
+    {
+      "versi": [10, 12],
+      "testo": "e disse l’uno: \"O anima che fitta\nnel corpo ancora inver’ lo ciel ten vai,\nper carità ne consola e ne ditta",
+      "parafrasi": "e disse uno: «O anima che, ancora chiusa nel corpo, vai verso il cielo, per carità consolaci e dicci"
+    },
+    {
+      "versi": [13, 15],
+      "testo": "onde vieni e chi se’; ché tu ne fai\ntanto maravigliar de la tua grazia,\nquanto vuol cosa che non fu più mai\".",
+      "parafrasi": "da dove vieni e chi sei; perché ci fai tanto meravigliare per la tua grazia, quanto vuole una cosa che non fu mai»."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "E io: \"Per mezza Toscana si spazia\nun fiumicel che nasce in Falterona,\ne cento miglia di corso nol sazia.",
+      "parafrasi": "E io: «Per mezza Toscana si estende un fiumicello che nasce in Falterona, e cento miglia di corso non lo saziano."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "Di sovr’esso rech’io questa persona:\ndirvi ch’i’ sia, saria parlare indarno,\nché ’l nome mio ancor molto non suona\".",
+      "parafrasi": "Da sopra di esso porto questa persona: dirvi chi sono sarebbe parlare invano, perché il mio nome ancora non risuona molto»."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "\"Se ben lo ’ntendimento tuo accarno\ncon lo ’ntelletto\", allora mi rispuose\nquei che diceva pria, \"tu parli d’Arno\".",
+      "parafrasi": "«Se bene capisco con l'intelletto il tuo pensiero», allora mi rispose quello che aveva parlato prima, «tu parli dell'Arno»."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "E l’altro disse lui: \"Perché nascose\nquesti il vocabol di quella riviera,\npur com’om fa de l’orribili cose?\".",
+      "parafrasi": "E l'altro gli disse: «Perché costui nascose il nome di quel fiume, come si fa per le cose orribili?»."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "E l’ombra che di ciò domandata era,\nsi sdebitò così: \"Non so; ma degno\nben è che ’l nome di tal valle pèra;",
+      "parafrasi": "E l'ombra a cui era chiesto questo si sdebitò così: «Non so; ma è ben giusto che il nome di tale valle perisca;"
+    },
+    {
+      "versi": [31, 33],
+      "testo": "ché dal principio suo, ov’è sì pregno\nl’alpestro monte ond’è tronco Peloro,\nche ’n pochi luoghi passa oltra quel segno,",
+      "parafrasi": "perché dal suo principio, dove la montagna alpestre da cui fu staccato il Peloro è così gravida, che in pochi luoghi supera quel segno,"
+    },
+    {
+      "versi": [34, 36],
+      "testo": "infin là ’ve si rende per ristoro\ndi quel che ’l ciel de la marina asciuga,\nond’ hanno i fiumi ciò che va con loro,",
+      "parafrasi": "fino là dove si restituisce per ristoro di ciò che il cielo asciuga dal mare, da cui i fiumi hanno ciò che portano con sé,"
+    },
+    {
+      "versi": [37, 39],
+      "testo": "vertù così per nimica si fuga\nda tutti come biscia, o per sventura\ndel luogo, o per mal uso che li fruga:",
+      "parafrasi": "la virtù è fuggita da tutti come una biscia, o per sventura del luogo, o per cattiva abitudine che li incalza:"
+    },
+    {
+      "versi": [40, 42],
+      "testo": "ond’ hanno sì mutata lor natura\nli abitator de la misera valle,\nche par che Circe li avesse in pastura.",
+      "parafrasi": "per cui gli abitanti della misera valle hanno tanto mutato la loro natura che sembra che Circe li abbia avuti al pascolo."
+    },
+    {
+      "versi": [43, 45],
+      "testo": "Tra brutti porci, più degni di galle\nche d’altro cibo fatto in uman uso,\ndirizza prima il suo povero calle.",
+      "parafrasi": "Fra brutti porci, più degni di ghiande che di altro cibo fatto per uso umano, dirizza prima il suo povero sentiero."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Botoli trova poi, venendo giuso,\nringhiosi più che non chiede lor possa,\ne da lor disdegnosa torce il muso.",
+      "parafrasi": "Poi, venendo giù, trova botoli, più ringhiosi di quanto chieda la loro forza, e da loro sdegnosa torce il muso."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "Vassi caggendo; e quant’ella più ’ngrossa,\ntanto più trova di can farsi lupi\nla maladetta e sventurata fossa.",
+      "parafrasi": "Va cadendo; e quanto più ingrossa, tanto più trova che i cani diventano lupi la maledetta e sventurata fossa."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "Discesa poi per più pelaghi cupi,\ntrova le volpi sì piene di froda,\nche non temono ingegno che le occùpi.",
+      "parafrasi": "Scesa poi per più pelaghi profondi, trova le volpi così piene di frode che non temono ingegno che le catturi."
+    },
+    {
+      "versi": [55, 57],
+      "testo": "Né lascerò di dir perch’altri m’oda;\ne buon sarà costui, s’ancor s’ammenta\ndi ciò che vero spirto mi disnoda.",
+      "parafrasi": "Né smetterò di dire, anche se altri mi ode; e sarà bene per costui se ancora ricorda ciò che uno spirito vero mi scioglie."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Io veggio tuo nepote che diventa\ncacciator di quei lupi in su la riva\ndel fiero fiume, e tutti li sgomenta.",
+      "parafrasi": "Io vedo tuo nipote che diventa cacciatore di quei lupi sulla riva del fiero fiume, e tutti li spaventa."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Vende la carne loro essendo viva;\nposcia li ancide come antica belva;\nmolti di vita e sé di pregio priva.",
+      "parafrasi": "Vende la loro carne essendo viva; poi li uccide come antica belva; molti privano di vita e sé di pregio."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Sanguinoso esce de la trista selva;\nlasciala tal, che di qui a mille anni\nne lo stato primaio non si rinselva\".",
+      "parafrasi": "Esce sanguinoso dalla triste selva; la lascia tale che di qui a mille anni non torna allo stato primitivo»."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Com’a l’annunzio di dogliosi danni\nsi turba il viso di colui ch’ascolta,\nda qual che parte il periglio l’assanni,",
+      "parafrasi": "Come all'annuncio di dolorosi danni si turba il viso di chi ascolta, da qualunque parte il pericolo lo morda,"
+    },
+    {
+      "versi": [70, 72],
+      "testo": "così vid’io l’altr’anima, che volta\nstava a udir, turbarsi e farsi trista,\npoi ch’ebbe la parola a sé raccolta.",
+      "parafrasi": "così vidi l'altra anima, che stava rivolta ad ascoltare, turbarsi e rattristarsi, dopo aver raccolto a sé la parola."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Lo dir de l’una e de l’altra la vista\nmi fer voglioso di saper lor nomi,\ne dimanda ne fei con prieghi mista;",
+      "parafrasi": "Il discorso dell'una e l'aspetto dell'altra mi fecero desideroso di sapere i loro nomi, e ne feci domanda mista a preghiere;"
+    },
+    {
+      "versi": [76, 78],
+      "testo": "per che lo spirto che di pria parlòmi\nricominciò: \"Tu vuo’ ch’io mi deduca\nnel fare a te ciò che tu far non vuo’ mi.",
+      "parafrasi": "perciò lo spirito che mi aveva parlato per primo ricominciò: «Tu vuoi che io mi abbassi a fare per te ciò che tu non vuoi fare per me."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Ma da che Dio in te vuol che traluca\ntanto sua grazia, non ti sarò scarso;\nperò sappi ch’io fui Guido del Duca.",
+      "parafrasi": "Ma poiché Dio vuole che in te traspaia tanto la sua grazia, non ti sarò avaro; sappi dunque che fui Guido del Duca."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "Fu il sangue mio d’invidia sì rïarso,\nche se veduto avesse uom farsi lieto,\nvisto m’avresti di livore sparso.",
+      "parafrasi": "Il mio sangue fu così bruciato d'invidia che, se avesse visto un uomo farsi lieto, mi avresti visto cosparso di livore."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "Di mia semente cotal paglia mieto;\no gente umana, perché poni ’l core\nlà ’v’è mestier di consorte divieto?",
+      "parafrasi": "Dal mio seme raccolgo tale paglia; o gente umana, perché poni il cuore là dove è necessario il divieto di condividere?"
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Questi è Rinier; questi è ’l pregio e l’onore\nde la casa da Calboli, ove nullo\nfatto s’è reda poi del suo valore.",
+      "parafrasi": "Questi è Rinieri; questi è il pregio e l'onore della casa da Calboli, in cui nessuno si è fatto erede del suo valore."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "E non pur lo suo sangue è fatto brullo,\ntra ’l Po e ’l monte e la marina e ’l Reno,\ndel ben richesto al vero e al trastullo;",
+      "parafrasi": "E non solo il suo sangue è fatto spoglio, tra il Po e il monte e la marina e il Reno, del bene richiesto al vero e al diletto;"
+    },
+    {
+      "versi": [94, 96],
+      "testo": "ché dentro a questi termini è ripieno\ndi venenosi sterpi, sì che tardi\nper coltivare omai verrebber meno.",
+      "parafrasi": "perché dentro questi confini è pieno di sterpi velenosi, così che tardi, per coltivarli, verrebbero meno."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Ov’è ’l buon Lizio e Arrigo Mainardi?\nPier Traversaro e Guido di Carpigna?\nOh Romagnuoli tornati in bastardi!",
+      "parafrasi": "Dov'è il buon Lizio e Arrigo Mainardi? Pier Traversaro e Guido di Carpigna? Oh Romagnoli tornati in bastardi!"
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Quando in Bologna un Fabbro si ralligna?\nquando in Faenza un Bernardin di Fosco,\nverga gentil di picciola gramigna?",
+      "parafrasi": "Quando in Bologna un Fabbro rimette radici? Quando in Faenza un Bernardin di Fosco, virgulto gentile di piccola gramigna?"
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Non ti maravigliar s’io piango, Tosco,\nquando rimembro, con Guido da Prata,\nUgolin d’Azzo che vivette nosco,",
+      "parafrasi": "Non ti meravigliare se piango, Toscano, quando ricordo, con Guido da Prata, Ugolin d'Azzo che visse con noi,"
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Federigo Tignoso e sua brigata,\nla casa Traversara e li Anastagi\n(e l’una gente e l’altra è diretata),",
+      "parafrasi": "Federigo Tignoso e la sua brigata, la casa Traversara e gli Anastagi (e l'una gente e l'altra è diseredata),"
+    },
+    {
+      "versi": [109, 111],
+      "testo": "le donne e ’ cavalier, li affanni e li agi\nche ne ’nvogliava amore e cortesia\nlà dove i cuor son fatti sì malvagi.",
+      "parafrasi": "le donne e i cavalieri, i travagli e gli agi che ci faceva desiderare amore e cortesia là dove i cuori sono fatti così malvagi."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "O Bretinoro, ché non fuggi via,\npoi che gita se n’è la tua famiglia\ne molta gente per non esser ria?",
+      "parafrasi": "O Brettinoro, perché non fuggi via, poiché se n'è andata la tua famiglia e molta gente per non essere colpevole?"
+    },
+    {
+      "versi": [115, 117],
+      "testo": "Ben fa Bagnacaval, che non rifiglia;\ne mal fa Castrocaro, e peggio Conio,\nche di figliar tai conti più s’impiglia.",
+      "parafrasi": "Fa bene Bagnacavallo, che non rifiglia; e fa male Castrocaro, e peggio Conio, che si impiglia a figliare tali conti."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Ben faranno i Pagan, da che ’l demonio\nlor sen girà; ma non però che puro\ngià mai rimagna d’essi testimonio.",
+      "parafrasi": "Faranno bene i Pagani, quando il loro demonio se ne sarà andato; ma non perché ne resti mai pura testimonianza."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "O Ugolin de’ Fantolin, sicuro\nè ’l nome tuo, da che più non s’aspetta\nchi far lo possa, tralignando, scuro.",
+      "parafrasi": "O Ugolin de' Fantolin, sicuro è il tuo nome, perché non si aspetta più chi possa, tralignando, oscurarlo."
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Ma va via, Tosco, omai; ch’or mi diletta\ntroppo di pianger più che di parlare,\nsì m’ ha nostra ragion la mente stretta\".",
+      "parafrasi": "Ma va' via, Toscano, ormai; che ora mi diletta troppo piangere più che parlare, tanto la nostra ragione mi ha stretto la mente»."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Noi sapavam che quell’anime care\nci sentivano andar; però, tacendo,\nfacëan noi del cammin confidare.",
+      "parafrasi": "Sapevamo che quelle care anime ci sentivano andare; perciò, tacendo, ci facevano confidare nel cammino."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Poi fummo fatti soli procedendo,\nfolgore parve quando l’aere fende,\nvoce che giunse di contra dicendo:",
+      "parafrasi": "Poi, procedendo, fummo soli: come un fulmine quando fende l'aria, venne di fronte una voce che diceva:"
+    },
+    {
+      "versi": [133, 135],
+      "testo": "’Anciderammi qualunque m’apprende’;\ne fuggì come tuon che si dilegua,\nse sùbito la nuvola scoscende.",
+      "parafrasi": "«Mi ucciderà chiunque mi trova»; e fuggì come tuono che si dilegua, se improvvisamente la nuvola si squarcia."
+    },
+    {
+      "versi": [136, 138],
+      "testo": "Come da lei l’udir nostro ebbe triegua,\ned ecco l’altra con sì gran fracasso,\nche somigliò tonar che tosto segua:",
+      "parafrasi": "Appena il nostro udito ebbe tregua da lei, ecco l'altra con così gran fracasso che sembrò un tuono che segua subito:"
+    },
+    {
+      "versi": [139, 141],
+      "testo": "\"Io sono Aglauro che divenni sasso\";\ne allor, per ristrignermi al poeta,\nin destro feci, e non innanzi, il passo.",
+      "parafrasi": "«Io sono Aglauro che divenni sasso»; e allora, per stringermi al poeta, feci un passo a destra, e non avanti."
+    },
+    {
+      "versi": [142, 144],
+      "testo": "Già era l’aura d’ogne parte queta;\ned el mi disse: \"Quel fu ’l duro camo\nche dovria l’uom tener dentro a sua meta.",
+      "parafrasi": "Già l'aria era tranquilla da ogni parte; ed egli mi disse: «Quello fu il duro morso che dovrebbe tenere l'uomo dentro il suo limite."
+    },
+    {
+      "versi": [145, 147],
+      "testo": "Ma voi prendete l’esca, sì che l’amo\nde l’antico avversaro a sé vi tira;\ne però poco val freno o richiamo.",
+      "parafrasi": "Ma voi prendete l'esca, così che l'amo dell'antico avversario vi tira a sé; e perciò poco vale freno o richiamo."
+    },
+    {
+      "versi": [148, 150],
+      "testo": "Chiamavi ’l cielo e ’ntorno vi si gira,\nmostrandovi le sue bellezze etterne,\ne l’occhio vostro pur a terra mira;",
+      "parafrasi": "Vi chiama il cielo e vi gira intorno, mostrandovi le sue bellezze eterne, e il vostro occhio guarda solo la terra;"
+    },
+    {
+      "versi": [151, 151],
+      "testo": "onde vi batte chi tutto discerne\".",
+      "parafrasi": "per questo vi batte colui che tutto discerne»."
+    }
+  ]
+}

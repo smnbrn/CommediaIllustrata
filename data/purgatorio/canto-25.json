@@ -1,0 +1,312 @@
+{
+  "cantica": "purgatorio",
+  "canto": 25,
+  "titolo": "La generazione dell'anima, l'anima aerea e la cornice dei lussuriosi",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_XXV",
+  "numero_versi": 139,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 33],
+      "titolo_scena": "La domanda di Dante",
+      "sintesi": "È mezzogiorno e il tempo urge: i tre poeti salgono la scala stretta uno dietro l'altro. Dante, come un cicognino che vorrebbe volare e non osa lasciare il nido, vuole chiedere ma esita. Virgilio lo incoraggia: «Scocca l'arco del dire». Dante domanda come si possa dimagrire dove non c'è bisogno di nutrirsi. Virgilio risponde con due immagini, Meleagro e lo specchio, e chiama Stazio a sciogliere il dubbio.",
+      "luogo_id": "cornice-6",
+      "personaggi": ["dante", "virgilio", "stazio"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Verso la settima cornice",
+          "url": "img/dore/purgatorio-25-salita-960.jpg",
+          "miniatura": "img/dore/purgatorio-25-salita-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148975289).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [34, 108],
+      "titolo_scena": "La generazione dell'anima e l'ombra aerea",
+      "sintesi": "Stazio spiega la generazione umana: il sangue perfetto, che non è bevuto dalle vene, scende nei vasi naturali e si unisce al sangue della donna; il seme comincia a operare e forma prima un'anima vegetativa, poi sensitiva; quando il cervello è compiuto, Dio infonde l'anima intellettiva, che diventa una sola anima. Alla morte l'anima porta con sé il divino e l'umano e cade su una delle due rive; l'aria intorno si modella a sua immagine e diventa un'ombra, che si adatta ai desideri e agli affetti, spiegando la magrezza dei golosi.",
+      "luogo_id": "cornice-7",
+      "personaggi": ["dante", "virgilio", "stazio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La generazione dell'anima e l'ombra aerea",
+          "url": "img/ia/purgatorio-25-scena-2.jpg",
+          "miniatura": "img/ia/purgatorio-25-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [109, 139],
+      "titolo_scena": "La settima cornice, il fuoco e l'inno",
+      "sintesi": "Giunti all'ultima tortura, i poeti si volgono a destra e trovano la cornice dei lussuriosi: la roccia getta fuori fiamme, mentre il bordo spira un vento che le respinge, lasciando uno stretto passaggio da percorrere uno alla volta. Dante teme il fuoco da un lato e la caduta dall'altro; Virgilio lo avverte di tenere a freno gli occhi. Dal grande ardore si ode l'inno «Summae Deus clementiae»; Dante vede spiriti camminare nella fiamma, e gridano esempi di castità: Maria, Diana, mogli e mariti casti.",
+      "luogo_id": "cornice-7",
+      "personaggi": ["dante", "virgilio", "stazio"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "I tre poeti davanti alle fiamme",
+          "url": "img/dore/purgatorio-25-fiamme-960.jpg",
+          "miniatura": "img/dore/purgatorio-25-fiamme-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148975326).jpg",
+          "licenza": "Pubblico dominio"
+        },
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Gli spiriti nella fiamma",
+          "url": "img/dore/purgatorio-25-spiriti-960.jpg",
+          "miniatura": "img/dore/purgatorio-25-spiriti-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148975345).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Ora era onde ’l salir non volea storpio;\nché ’l sole avëa il cerchio di merigge\nlasciato al Tauro e la notte a lo Scorpio:",
+      "parafrasi": "Era l'ora in cui il salire non voleva intoppo; perché il sole aveva lasciato il cerchio del meriggio al Toro e la notte allo Scorpione:"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "per che, come fa l’uom che non s’affigge\nma vassi a la via sua, che che li appaia,\nse di bisogno stimolo il trafigge,",
+      "parafrasi": "per cui, come fa l'uomo che non si ferma ma va per la sua via, qualunque cosa gli appaia, se uno stimolo di necessità lo punge,"
+    },
+    {
+      "versi": [7, 9],
+      "testo": "così intrammo noi per la callaia,\nuno innanzi altro prendendo la scala\nche per artezza i salitor dispaia.",
+      "parafrasi": "così entrammo noi nella stretta fenditura, uno dietro l'altro prendendo la scala che per l'angustia separa i salitori."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "E quale il cicognin che leva l’ala\nper voglia di volare, e non s’attenta\nd’abbandonar lo nido, e giù la cala;",
+      "parafrasi": "E come il piccolo cicogna che alza l'ala per voglia di volare, e non osa abbandonare il nido, e la abbassa;"
+    },
+    {
+      "versi": [13, 15],
+      "testo": "tal era io con voglia accesa e spenta\ndi dimandar, venendo infino a l’atto\nche fa colui ch’a dicer s’argomenta.",
+      "parafrasi": "tale ero io con voglia accesa e spenta di domandare, arrivando fino all'atto che fa chi si prepara a parlare."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "Non lasciò, per l’andar che fosse ratto,\nlo dolce padre mio, ma disse: \"Scocca\nl’arco del dir, che ’nfino al ferro hai tratto\".",
+      "parafrasi": "Non lasciò, per quanto l'andare fosse rapido, il mio dolce padre, ma disse: «Scocca l'arco del dire, che hai tratto fino al ferro»."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "Allor sicuramente apri’ la bocca\ne cominciai: \"Come si può far magro\nlà dove l’uopo di nodrir non tocca?\".",
+      "parafrasi": "Allora sicuramente aprii la bocca e cominciai: «Come si può dimagrire là dove il bisogno di nutrirsi non tocca?»."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "\"Se t’ammentassi come Meleagro\nsi consumò al consumar d’un stizzo,\nnon fora\", disse, \"a te questo sì agro;",
+      "parafrasi": "«Se ti ricordassi come Meleagro si consumò al consumarsi di un tizzone, non ti sarebbe», disse, «questo così amaro;"
+    },
+    {
+      "versi": [25, 27],
+      "testo": "e se pensassi come, al vostro guizzo,\nguizza dentro a lo specchio vostra image,\nciò che par duro ti parrebbe vizzo.",
+      "parafrasi": "e se pensassi come, al vostro guizzo, guizza dentro lo specchio la vostra immagine, ciò che sembra duro ti sembrerebbe tenero."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Ma perché dentro a tuo voler t’adage,\necco qui Stazio; e io lui chiamo e prego\nche sia or sanator de le tue piage\".",
+      "parafrasi": "Ma perché dentro al tuo volere ti adagi, ecco qui Stazio; e io lo chiamo e lo prego che sia ora sanatore delle tue piaghe»."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "\"Se la veduta etterna li dislego\",\nrispuose Stazio, \"là dove tu sie,\ndiscolpi me non potert’io far nego\".",
+      "parafrasi": "«Se gli svelo la visione eterna», rispose Stazio, «là dove tu sei, mi scusi il non poterti rifiutare»."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Poi cominciò: \"Se le parole mie,\nfiglio, la mente tua guarda e riceve,\nlume ti fiero al come che tu die.",
+      "parafrasi": "Poi cominciò: «Se le mie parole, figlio, la tua mente guarda e riceve, ti saranno luce al come che chiedi."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Sangue perfetto, che poi non si beve\nda l’assetate vene, e si rimane\nquasi alimento che di mensa leve,",
+      "parafrasi": "Il sangue perfetto, che non si beve poi dalle assetate vene, e rimane quasi alimento che si toglie dalla mensa,"
+    },
+    {
+      "versi": [40, 42],
+      "testo": "prende nel core a tutte membra umane\nvirtute informativa, come quello\nch’a farsi quelle per le vene vane.",
+      "parafrasi": "prende nel cuore a tutte le membra umane virtù formativa, come quello che per le vene va a farsi quelle."
+    },
+    {
+      "versi": [43, 45],
+      "testo": "Ancor digesto, scende ov’è più bello\ntacer che dire; e quindi poscia geme\nsovr’altrui sangue in natural vasello.",
+      "parafrasi": "Ancora digerito, scende dove è più bello tacere che dire; e di lì poi geme sul sangue altrui in vaso naturale."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Ivi s’accoglie l’uno e l’altro insieme,\nl’un disposto a patire, e l’altro a fare\nper lo perfetto loco onde si preme;",
+      "parafrasi": "Là si raccolgono l'uno e l'altro insieme, l'uno predisposto a patire e l'altro a fare, per il perfetto luogo da cui si preme;"
+    },
+    {
+      "versi": [49, 51],
+      "testo": "e, giunto lui, comincia ad operare\ncoagulando prima, e poi avviva\nciò che per sua matera fé constare.",
+      "parafrasi": "e, congiunto, comincia a operare, coagulando prima, e poi avviva ciò che per sua materia fece consistere."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "Anima fatta la virtute attiva\nqual d’una pianta, in tanto differente,\nche questa è in via e quella è già a riva,",
+      "parafrasi": "Fatta anima la virtù attiva come quella di una pianta, in questo differente, che questa è in cammino e quella è già alla riva,"
+    },
+    {
+      "versi": [55, 57],
+      "testo": "tanto ovra poi, che già si move e sente,\ncome spungo marino; e indi imprende\nad organar le posse ond’è semente.",
+      "parafrasi": "tanto opera poi, che già si muove e sente, come spugna marina; e da lì prende a organizzare le potenze di cui è seme."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Or si spiega, figliuolo, or si distende\nla virtù ch’è dal cor del generante,\ndove natura a tutte membra intende.",
+      "parafrasi": "Ora si spiega, figlio, ora si distende la virtù che è dal cuore del generante, dove natura mira a tutte le membra."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Ma come d’animal divegna fante,\nnon vedi tu ancor: quest’è tal punto,\nche più savio di te fé già errante,",
+      "parafrasi": "Ma come da animale diventi essere parlante, non vedi ancora: questo è un punto che fece già errare uno più savio di te,"
+    },
+    {
+      "versi": [64, 66],
+      "testo": "sì che per sua dottrina fé disgiunto\nda l’anima il possibile intelletto,\nperché da lui non vide organo assunto.",
+      "parafrasi": "tanto che per la sua dottrina separò dall'anima l'intelletto possibile, perché non vide organo da lui assunto."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Apri a la verità che viene il petto;\ne sappi che, sì tosto come al feto\nl’articular del cerebro è perfetto,",
+      "parafrasi": "Apri alla verità che viene il petto; e sappi che, appena al feto l'articolazione del cervello è perfetta,"
+    },
+    {
+      "versi": [70, 72],
+      "testo": "lo motor primo a lui si volge lieto\nsovra tant’arte di natura, e spira\nspirito novo, di vertù repleto,",
+      "parafrasi": "il primo motore si volge a lui lieto, sopra tanta arte di natura, e spira spirito nuovo, pieno di virtù,"
+    },
+    {
+      "versi": [73, 75],
+      "testo": "che ciò che trova attivo quivi, tira\nin sua sustanzia, e fassi un’alma sola,\nche vive e sente e sé in sé rigira.",
+      "parafrasi": "che ciò che trova attivo qui, tira nella sua sostanza, e si fa un'anima sola, che vive e sente e si rigira in sé."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "E perché meno ammiri la parola,\nguarda il calor del sol che si fa vino,\ngiunto a l’omor che de la vite cola.",
+      "parafrasi": "E perché ammiri meno la parola, guarda il calore del sole che si fa vino, unito all'umore che cola dalla vite."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Quando Làchesis non ha più del lino,\nsolvesi da la carne, e in virtute\nne porta seco e l’umano e ’l divino:",
+      "parafrasi": "Quando Lachesi non ha più lino, si scioglie dalla carne, e in virtù porta con sé e l'umano e il divino:"
+    },
+    {
+      "versi": [82, 84],
+      "testo": "l’altre potenze tutte quante mute;\nmemoria, intelligenza e volontade\nin atto molto più che prima agute.",
+      "parafrasi": "le altre potenze tutte quante mute; memoria, intelligenza e volontà in atto molto più acute di prima."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "Sanza restarsi, per sé stessa cade\nmirabilmente a l’una de le rive;\nquivi conosce prima le sue strade.",
+      "parafrasi": "Senza fermarsi, per se stessa cade meravigliosamente a una delle rive; qui conosce prima le sue strade."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Tosto che loco lì la circunscrive,\nla virtù formativa raggia intorno\ncosì e quanto ne le membra vive.",
+      "parafrasi": "Appena il luogo la circoscrive, la virtù formativa raggia intorno così e quanto nelle membra vive."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "E come l’aere, quand’è ben pïorno,\nper l’altrui raggio che ’n sé si reflette,\ndi diversi color diventa addorno;",
+      "parafrasi": "E come l'aria, quando è ben piovosa, per l'altrui raggio che in sé si riflette, di diversi colori si adorna;"
+    },
+    {
+      "versi": [94, 96],
+      "testo": "così l’aere vicin quivi si mette\ne in quella forma ch’è in lui suggella\nvirtüalmente l’alma che ristette;",
+      "parafrasi": "così l'aria vicina qui si dispone e in quella forma che è in lei suggella virtualmente l'anima che si fermò;"
+    },
+    {
+      "versi": [97, 99],
+      "testo": "e simigliante poi a la fiammella\nche segue il foco là ’vunque si muta,\nsegue lo spirto sua forma novella.",
+      "parafrasi": "e simile poi alla fiammella che segue il fuoco ovunque si sposti, segue lo spirito la sua forma nuova."
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Però che quindi ha poscia sua paruta,\nè chiamata ombra; e quindi organa poi\nciascun sentire infino a la veduta.",
+      "parafrasi": "Poiché di qui ha poi la sua parvenza, è chiamata ombra; e di qui organizza poi ciascun senso fino alla vista."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Quindi parliamo e quindi ridiam noi;\nquindi facciam le lagrime e ’ sospiri\nche per lo monte aver sentiti puoi.",
+      "parafrasi": "Di qui parliamo e di qui ridiamo; di qui facciamo le lacrime e i sospiri che per il monte puoi aver sentito."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Secondo che ci affliggono i disiri\ne li altri affetti, l’ombra si figura;\ne quest’è la cagion di che tu miri\".",
+      "parafrasi": "Secondo che ci affliggono i desideri e gli altri affetti, l'ombra si figura; e questa è la causa di ciò che ti meravigli»."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "E già venuto a l’ultima tortura\ns’era per noi, e vòlto a la man destra,\ned eravamo attenti ad altra cura.",
+      "parafrasi": "E già eravamo giunti all'ultima tortura, volti alla destra, e stavamo attenti ad altra cura."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Quivi la ripa fiamma in fuor balestra,\ne la cornice spira fiato in suso\nche la reflette e via da lei sequestra;",
+      "parafrasi": "Qui la ripa lancia fiamma all'esterno, e la cornice spira vento in su che la respinge e la allontana da sé;"
+    },
+    {
+      "versi": [115, 117],
+      "testo": "ond’ir ne convenia dal lato schiuso\nad uno ad uno; e io temëa ’l foco\nquinci, e quindi temeva cader giuso.",
+      "parafrasi": "perciò ci conveniva andare dal lato libero, uno alla volta; e io temevo il fuoco da una parte, e dall'altra temevo di cadere giù."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Lo duca mio dicea: \"Per questo loco\nsi vuol tenere a li occhi stretto il freno,\nperò ch’errar potrebbesi per poco\".",
+      "parafrasi": "La mia guida diceva: «Per questo luogo si vuole tenere alla vista stretto il freno, perché si potrebbe sbagliare per poco»."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "’Summae Deus clementïae’ nel seno\nal grande ardore allora udi’ cantando,\nche di volger mi fé caler non meno;",
+      "parafrasi": "«Summae Deus clementiae» udii allora cantare nel seno del grande ardore, che mi fece guardare con non meno cura;"
+    },
+    {
+      "versi": [124, 126],
+      "testo": "e vidi spirti per la fiamma andando;\nper ch’io guardava a loro e a’ miei passi,\ncompartendo la vista a quando a quando.",
+      "parafrasi": "e vidi spiriti andare per la fiamma; per cui guardavo a loro e ai miei passi, dividendo la vista a volta a volta."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Appresso il fine ch’a quell’inno fassi,\ngridavano alto: ’Virum non cognosco’;\nindi ricominciavan l’inno bassi.",
+      "parafrasi": "Dopo la fine che si fa a quell'inno, gridavano forte: «Virum non cognosco»; poi ricominciavano l'inno a voce bassa."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Finitolo, anco gridavano: \"Al bosco\nsi tenne Diana, ed Elice caccionne\nche di Venere avea sentito il tòsco\".",
+      "parafrasi": "Finito, gridavano ancora: «Nel bosco si tenne Diana, e cacciò Elice che aveva sentito il veleno di Venere»."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "Indi al cantar tornavano; indi donne\ngridavano e mariti che fuor casti\ncome virtute e matrimonio imponne.",
+      "parafrasi": "Poi tornavano al canto; poi donne gridavano e mariti che furono casti come virtù e matrimonio impongono."
+    },
+    {
+      "versi": [136, 138],
+      "testo": "E questo modo credo che lor basti\nper tutto il tempo che ’l foco li abbruscia:\ncon tal cura conviene e con tai pasti",
+      "parafrasi": "E questo modo credo che basti loro per tutto il tempo che il fuoco li brucia: con tale cura conviene e con tali pasti"
+    },
+    {
+      "versi": [139, 139],
+      "testo": "che la piaga da sezzo si ricuscia.",
+      "parafrasi": "che la piaga alla fine si ricucia."
+    }
+  ]
+}

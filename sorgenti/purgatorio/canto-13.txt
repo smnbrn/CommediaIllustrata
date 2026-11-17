@@ -1,0 +1,336 @@
+# Purgatorio, canto XIII
+titolo: La seconda cornice: gli invidiosi e Sapia
+
+## scena-1 | cornice-2 | La seconda cornice e le voci della carità
+personaggi: dante, virgilio
+tavola: ia | La seconda cornice e le voci della carità | img/ia/purgatorio-13-scena-1.jpg
+sintesi: In cima alla scala la montagna si restringe in una seconda cornice, simile alla prima ma più curva; non c'è né ombra né immagine, solo la pietra livida. Virgilio, senza anime da interrogare, volge il suo cammino al sole come guida. Poco dopo volano invisibili voci che gridano esempi di carità: «Non hanno vino», «Io sono Oreste», «Amate da cui male aveste».
+
+1
+Noi eravamo al sommo de la scala,
+dove secondamente si risega
+lo monte che salendo altrui dismala.
+> Eravamo in cima alla scala, dove il monte che fa perdere il male salendo si ritaglia una seconda volta.
+
+4
+Ivi così una cornice lega
+dintorno il poggio, come la primaia;
+se non che l’arco suo più tosto piega.
+> Qui una cornice cinge intorno il pendio, come la prima; se non che il suo arco piega più in fretta.
+
+7
+Ombra non lì è né segno che si paia:
+parsi la ripa e parsi la via schietta
+col livido color de la petraia.
+> Non c'è lì ombra né segno che appaia: la ripa e la via si mostravano lisce, del colore livido della pietra.
+
+10
+"Se qui per dimandar gente s’aspetta",
+ragionava il poeta, "io temo forse
+che troppo avrà d’indugio nostra eletta".
+> «Se qui si aspetta per chiedere a qualcuno», ragionava il poeta, «temo che la nostra scelta avrà troppo indugio».
+
+13
+Poi fisamente al sole li occhi porse;
+fece del destro lato a muover centro,
+e la sinistra parte di sé torse.
+> Poi fisso rivolse gli occhi al sole; fece del lato destro un centro del movimento e torse la parte sinistra di sé.
+
+16
+"O dolce lume a cui fidanza i’ entro
+per lo novo cammin, tu ne conduci",
+dicea, "come condur si vuol quinc’entro.
+> «O dolce luce, nella cui fiducia entro nel nuovo cammino, tu ci conduci», diceva, «come si vuole essere condotti qui dentro.
+
+19
+Tu scaldi il mondo, tu sovr’esso luci;
+s’altra ragione in contrario non ponta,
+esser dien sempre li tuoi raggi duci".
+> Tu scaldi il mondo, tu risplendi su di esso; se altra ragione non spinge in contrario, i tuoi raggi devono essere sempre guide».
+
+22
+Quanto di qua per un migliaio si conta,
+tanto di là eravam noi già iti,
+con poco tempo, per la voglia pronta;
+> Quanto di qua si conta per un miglio, tanto eravamo già andati di là, in poco tempo, per la volontà pronta;
+
+25
+e verso noi volar furon sentiti,
+non però visti, spiriti parlando
+a la mensa d’amor cortesi inviti.
+> e verso di noi furono sentiti volare, ma non visti, spiriti che pronunciavano inviti cortesi alla mensa dell'amore.
+
+28
+La prima voce che passò volando
+’Vinum non habent’altamente disse,
+e dietro a noi l’andò reïterando.
+> La prima voce che passò volando disse ad alta voce «Vinum non habent», e dietro a noi lo andò ripetendo.
+
+31
+E prima che del tutto non si udisse
+per allungarsi, un’altra ’I’ sono Oreste’
+passò gridando, e anco non s’affisse.
+> E prima che si cessasse del tutto di udirla per l'allontanarsi, un'altra passò gridando «Io sono Oreste», e neppure si fermò.
+
+34
+"Oh!", diss’io, "padre, che voci son queste?".
+E com’io domandai, ecco la terza
+dicendo: ’Amate da cui male aveste’.
+> «Oh!», dissi, «padre, che voci sono queste?». E mentre domandavo, ecco la terza dire: «Amate da cui male aveste».
+
+37
+E ’l buon maestro: "Questo cinghio sferza
+la colpa de la invidia, e però sono
+tratte d’amor le corde de la ferza.
+> E il buon maestro: «Questo cerchio frusta la colpa dell'invidia, e perciò le corde della frusta sono tratte dall'amore.
+
+40
+Lo fren vuol esser del contrario suono;
+credo che l’udirai, per mio avviso,
+prima che giunghi al passo del perdono.
+> Il freno vuol essere di suono contrario; credo che lo udirai, a mio avviso, prima di giungere al passo del perdono.
+
+43
+Ma ficca li occhi per l’aere ben fiso,
+e vedrai gente innanzi a noi sedersi,
+e ciascun è lungo la grotta assiso".
+> Ma fissa bene gli occhi nell'aria, e vedrai gente davanti a noi seduta, e ognuno è seduto lungo la roccia».
+
+## scena-2 | cornice-2 | Gli invidiosi
+personaggi: dante, virgilio
+tavola: dore | Gli invidiosi | img/dore/purgatorio-13-invidiosi-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148974537).jpg
+sintesi: Dante vede ombre in mantelli del colore della pietra, e sente invocare Maria, Michele, Pietro e tutti i santi. Da vicino prova dolore: sono coperti di vile cilicio, si sostengono l'un l'altro con la spalla e tutti sono sostenuti dalla ripa, come ciechi che stanno a mendicare perdono. Hanno gli occhi cuciti con un filo di ferro, come si fa a un falcone selvatico. Dante, imbarazzato di vederli senza essere visto, si rivolge a Virgilio, che lo invita a parlare.
+
+46
+Allora più che prima li occhi apersi;
+guarda’ mi innanzi, e vidi ombre con manti
+al color de la pietra non diversi.
+> Allora aprii gli occhi più di prima; mi guardai davanti, e vidi ombre con mantelli di colore non diverso dalla pietra.
+
+49
+E poi che fummo un poco più avanti,
+udia gridar: ’Maria òra per noi’:
+gridar ’Michele’ e ’Pietro’ e ’Tutti santi’.
+> E dopo che fummo un po' più avanti, udivo gridare: «Maria, prega per noi», e gridare «Michele» e «Pietro» e «Tutti i santi».
+
+52
+Non credo che per terra vada ancoi
+omo sì duro, che non fosse punto
+per compassion di quel ch’i’ vidi poi;
+> Non credo che oggi per la terra vada un uomo così duro, che non fosse punto dalla compassione per ciò che vidi poi;
+
+55
+ché, quando fui sì presso di lor giunto,
+che li atti loro a me venivan certi,
+per li occhi fui di grave dolor munto.
+> perché, quando fui così vicino a loro che i loro atti mi venivano certi, fui spremuto di grave dolore dagli occhi.
+
+58
+Di vil ciliccio mi parean coperti,
+e l’un sofferia l’altro con la spalla,
+e tutti da la ripa eran sofferti.
+> Mi sembravano coperti di vile cilicio, e l'uno sosteneva l'altro con la spalla, e tutti erano sostenuti dalla ripa.
+
+61
+Così li ciechi a cui la roba falla,
+stanno a’ perdoni a chieder lor bisogna,
+e l’uno il capo sopra l’altro avvalla,
+> Così i ciechi a cui manca il necessario stanno alle indulgenze a chiedere il loro bisogno, e l'uno abbassa il capo sull'altro,
+
+64
+perché ’n altrui pietà tosto si pogna,
+non pur per lo sonar de le parole,
+ma per la vista che non meno agogna.
+> perché negli altri sorga presto la pietà, non solo per il suono delle parole, ma per la vista che non desidera meno.
+
+67
+E come a li orbi non approda il sole,
+così a l’ombre quivi, ond’io parlo ora,
+luce del ciel di sé largir non vole;
+> E come ai ciechi non giunge il sole, così alle ombre di cui parlo qui la luce del cielo non vuole concedersi;
+
+70
+ché a tutti un fil di ferro i cigli fóra
+e cusce sì, come a sparvier selvaggio
+si fa però che queto non dimora.
+> perché a tutti un filo di ferro fora le palpebre e le cuce, come si fa a uno sparviero selvatico perché non sta quieto.
+
+73
+A me pareva, andando, fare oltraggio,
+veggendo altrui, non essendo veduto:
+per ch’io mi volsi al mio consiglio saggio.
+> Mi sembrava, andando, fare oltraggio, vedendo altri senza essere visto: perciò mi volsi al mio saggio consigliere.
+
+76
+Ben sapev’ei che volea dir lo muto;
+e però non attese mia dimanda,
+ma disse: "Parla, e sie breve e arguto".
+> Ben sapeva ciò che voleva dire il muto; e perciò non attese la mia domanda, ma disse: «Parla, e sii breve e acuto».
+
+79
+Virgilio mi venìa da quella banda
+de la cornice onde cader si puote,
+perché da nulla sponda s’inghirlanda;
+> Virgilio mi veniva da quella parte della cornice da cui si può cadere, perché non è circondata da nessun parapetto;
+
+82
+da l’altra parte m’eran le divote
+ombre, che per l’orribile costura
+premevan sì, che bagnavan le gote.
+> dall'altra parte avevo le devote ombre, che per la terribile cucitura premevano tanto che si bagnavano le guance.
+
+85
+Volsimi a loro e: "O gente sicura",
+incominciai, "di veder l’alto lume
+che ’l disio vostro solo ha in sua cura,
+> Mi volsi a loro e: «O gente sicura», cominciai, «di vedere l'alta luce che il vostro desiderio ha come unica cura,
+
+88
+se tosto grazia resolva le schiume
+di vostra coscïenza sì che chiaro
+per essa scenda de la mente il fiume,
+> se presto la grazia scioglie le schiume della vostra coscienza così che chiaro per essa scenda il fiume della mente,
+
+91
+ditemi, ché mi fia grazioso e caro,
+s’anima è qui tra voi che sia latina;
+e forse lei sarà buon s’i’ l’apparo".
+> ditemi, che mi sarà grazioso e caro, se c'è tra voi un'anima che sia latina; e forse sarà bene per lei se la rendo nota».
+
+## scena-3 | cornice-2 | Sapia
+personaggi: dante, virgilio, sapia
+tavola: ia | Sapia | img/ia/purgatorio-13-scena-3.jpg
+sintesi: Una voce risponde che ogni anima è cittadina di una vera città; Dante intende «che visse in Italia come pellegrina». Tra gli spiriti ne vede uno che aspetta con il mento levato come un cieco: si presenta come senese, Sapia, non savia, più lieta dei danni altrui che della propria fortuna. Racconta come, vecchia, vide i suoi concittadini sconfitti a Colle e gridò a Dio di non temerlo più, come il merlo; si pentì solo in fin di vita, aiutata dalle preghiere di Pier Pettinaio.
+
+94
+"O frate mio, ciascuna è cittadina
+d’una vera città; ma tu vuo’ dire
+che vivesse in Italia peregrina".
+> «O fratello mio, ciascuna è cittadina di una vera città; ma tu vuoi dire che visse in Italia da pellegrina».
+
+97
+Questo mi parve per risposta udire
+più innanzi alquanto che là dov’io stava,
+ond’io mi feci ancor più là sentire.
+> Questo mi sembrò sentire per risposta un po' più avanti di dove stavo, perciò mi feci sentire ancora più là.
+
+100
+Tra l’altre vidi un’ombra ch’aspettava
+in vista; e se volesse alcun dir ’Come?’,
+lo mento a guisa d’orbo in sù levava.
+> Tra le altre vidi un'ombra che aspettava nell'aspetto; e se qualcuno volesse dire «Come?», alzava il mento come un cieco.
+
+103
+"Spirto", diss’io, "che per salir ti dome,
+se tu se’ quelli che mi rispondesti,
+fammiti conto o per luogo o per nome".
+> «Spirito», dissi, «che per salire ti domi, se sei tu che mi hai risposto, fammi sapere o il luogo o il nome».
+
+106
+"Io fui sanese", rispuose, "e con questi
+altri rimendo qui la vita ria,
+lagrimando a colui che sé ne presti.
+> «Io fui senese», rispose, «e con questi altri correggo qui la vita colpevole, piangendo a colui che ce ne faccia dono.
+
+109
+Savia non fui, avvegna che Sapìa
+fossi chiamata, e fui de li altrui danni
+più lieta assai che di ventura mia.
+> Savia non fui, benché Sapia mi chiamassi, e fui dei danni altrui molto più lieta che della mia fortuna.
+
+112
+E perché tu non creda ch’io t’inganni,
+odi s’i’ fui, com’io ti dico, folle,
+già discendendo l’arco d’i miei anni.
+> E perché non creda che ti inganni, ascolta se fui, come ti dico, folle, quando già scendevo l'arco dei miei anni.
+
+115
+Eran li cittadin miei presso a Colle
+in campo giunti co’ loro avversari,
+e io pregava Iddio di quel ch’e’ volle.
+> Erano i miei concittadini presso Colle in campo contro i loro avversari, e io pregavo Dio di ciò che egli voleva.
+
+118
+Rotti fuor quivi e vòlti ne li amari
+passi di fuga; e veggendo la caccia,
+letizia presi a tutte altre dispari,
+> Furono sconfitti e volti nei passi amari della fuga; e vedendo l'inseguimento, presi una gioia dispari a tutte le altre,
+
+121
+tanto ch’io volsi in sù l’ardita faccia,
+gridando a Dio: "Omai più non ti temo!",
+come fé ’l merlo per poca bonaccia.
+> tanto che volsi in su l'audace faccia, gridando a Dio: «Ormai non ti temo più!», come fece il merlo per un po' di bel tempo.
+
+124
+Pace volli con Dio in su lo stremo
+de la mia vita; e ancor non sarebbe
+lo mio dover per penitenza scemo,
+> Volli pace con Dio sul limite della mia vita; e ancora il mio debito non sarebbe diminuito dalla penitenza,
+
+127
+se ciò non fosse, ch’a memoria m’ebbe
+Pier Pettinaio in sue sante orazioni,
+a cui di me per caritate increbbe.
+> se ciò non fosse, che mi ebbe a memoria Pier Pettinaio nelle sue sante orazioni, a cui per carità dispiacque di me.
+
+## scena-4 | cornice-2 | Dante e Sapia
+personaggi: dante, virgilio, sapia
+tavola: dore | Dante e Sapia | img/dore/purgatorio-13-sapia-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148974581).jpg
+sintesi: Sapia domanda a Dante chi sia, lui che vede e parla. Dante risponde che gli occhi gli saranno tolti qui, ma per poco, perché poco ha peccato d'invidia; teme molto di più il tormento dei superbi. Sapia, stupita che sia ancora vivo, lo prega di far ritornare la sua fama presso i parenti, tra la gente vana che spera in Talamone e perderà più speranze che a cercare la Diana, ma più ancora i comandanti.
+
+130
+Ma tu chi se’, che nostre condizioni
+vai dimandando, e porti li occhi sciolti,
+sì com’io credo, e spirando ragioni?".
+> Ma tu chi sei, che domandi le nostre condizioni, e porti gli occhi sciolti, come credo, e parli respirando?».
+
+133
+"Li occhi", diss’io, "mi fieno ancor qui tolti,
+ma picciol tempo, ché poca è l’offesa
+fatta per esser con invidia vòlti.
+> «Gli occhi», dissi, «mi saranno tolti anche qui, ma per poco tempo, perché poca è l'offesa fatta nell'essersi volti con invidia.
+
+136
+Troppa è più la paura ond’è sospesa
+l’anima mia del tormento di sotto,
+che già lo ’ncarco di là giù mi pesa".
+> Molto più grande è la paura da cui è sospesa la mia anima del tormento di sotto, tanto che già il carico di laggiù mi pesa».
+
+139
+Ed ella a me: "Chi t’ ha dunque condotto
+qua sù tra noi, se giù ritornar credi?".
+E io: "Costui ch’è meco e non fa motto.
+> Ed ella a me: «Chi ti ha dunque condotto quassù tra noi, se pensi di tornare giù?». E io: «Costui che è con me e non parla.
+
+142
+E vivo sono; e però mi richiedi,
+spirito eletto, se tu vuo’ ch’i’ mova
+di là per te ancor li mortai piedi".
+> E sono vivo; perciò chiedimi, spirito eletto, se vuoi che io muova per te di là ancora i mortali piedi».
+
+145
+"Oh, questa è a udir sì cosa nuova",
+rispuose, "che gran segno è che Dio t’ami;
+però col priego tuo talor mi giova.
+> «Oh, questa è una cosa così nuova a udirsi», rispose, «che è gran segno che Dio ti ama; perciò con la tua preghiera talora mi giovi.
+
+148
+E cheggioti, per quel che tu più brami,
+se mai calchi la terra di Toscana,
+che a’ miei propinqui tu ben mi rinfami.
+> E ti chiedo, per ciò che più brami, se mai calchi la terra di Toscana, che tu mi rimetta in buona fama presso i miei parenti.
+
+151
+Tu li vedrai tra quella gente vana
+che spera in Talamone, e perderagli
+più di speranza ch’a trovar la Diana;
+> Li vedrai tra quella gente vana che spera in Talamone, e perderà più speranza che nel trovare la Diana;
+
+154
+ma più vi perderanno li ammiragli".
+> ma più vi perderanno gli ammiragli».
+
+## personaggio | sapia | Sapia
+dibattuto: no
+chi_era: Sapia Salvani, nobildonna senese (XIII secolo), zia di Provenzan Salvani. Nella battaglia di Colle di Val d'Elsa (1269) gioì della sconfitta dei suoi concittadini, tra cui il nipote; morì pentita, aiutata dalle preghiere di Pier Pettinaio.

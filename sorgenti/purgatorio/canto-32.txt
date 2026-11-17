@@ -1,0 +1,344 @@
+# Purgatorio, canto XXXII
+titolo: L'albero spoglio, il sonno di Dante e le sventure del carro
+
+## scena-1 | paradiso-terrestre | La processione si volge e l'albero spoglio
+personaggi: dante, beatrice, matelda, stazio, grifone
+tavola: ia | La processione si volge e l'albero spoglio | img/ia/purgatorio-32-scena-1.jpg
+sintesi: Gli occhi di Dante sono tanto fissi a spegnere la sete di dieci anni che gli altri sensi sono spenti, finché le dee gli dicono «Troppo fiso!» e lo costringono a distogliere lo sguardo; abbagliato, per un po' non vede. Poi vede la processione girare a destra e ripartire col sole e le sette fiamme in volto; il grifone muove il carro senza scuotere una piuma. Seguono la ruota Matelda, Stazio e Dante, tra l'alta foresta vuota; giungono a un albero spoglio, venerato da tutti con il nome «Adamo». Il grifone lega il timone al suo tronco e l'albero rifiorisce; Dante si addormenta ascoltando l'inno.
+
+1
+Tant’eran li occhi miei fissi e attenti
+a disbramarsi la decenne sete,
+che li altri sensi m’eran tutti spenti.
+> Tanto erano fissi e attenti i miei occhi a spegnere la sete di dieci anni, che gli altri sensi mi erano tutti spenti.
+
+4
+Ed essi quinci e quindi avien parete
+di non caler - così lo santo riso
+a sé traéli con l’antica rete! -;
+> Ed essi di qua e di là avevano parete di non curanza, tanto il santo riso li traeva a sé con l'antica rete!
+
+7
+quando per forza mi fu vòlto il viso
+ver’ la sinistra mia da quelle dee,
+perch’io udi’ da loro un "Troppo fiso!";
+> quando per forza mi fu volto il viso verso la mia sinistra da quelle dee, perché io udii da loro un «Troppo fisso!»;
+
+10
+e la disposizion ch’a veder èe
+ne li occhi pur testé dal sol percossi,
+sanza la vista alquanto esser mi fée.
+> e la disposizione che ha chi vede negli occhi appena percossi dal sole, mi fece senza vista per un poco.
+
+13
+Ma poi ch’al poco il viso riformossi
+(e dico ’al poco’ per rispetto al molto
+sensibile onde a forza mi rimossi),
+> Ma dopo che la vista si riformò al poco (e dico «al poco» rispetto al molto sensibile da cui a forza mi ero rimosso),
+
+16
+vidi ’n sul braccio destro esser rivolto
+lo glorïoso essercito, e tornarsi
+col sole e con le sette fiamme al volto.
+> vidi che sul braccio destro si era rivolto il glorioso esercito, e tornava col sole e con le sette fiamme in volto.
+
+19
+Come sotto li scudi per salvarsi
+volgesi schiera, e sé gira col segno,
+prima che possa tutta in sé mutarsi;
+> Come sotto gli scudi per salvarsi si volge una schiera, e si gira con l'insegna, prima che possa tutta mutarsi;
+
+22
+quella milizia del celeste regno
+che procedeva, tutta trapassonne
+pria che piegasse il carro il primo legno.
+> quella milizia del regno celeste che procedeva, tutta passò prima che il carro piegasse il primo legno.
+
+25
+Indi a le rote si tornar le donne,
+e ’l grifon mosse il benedetto carco
+sì, che però nulla penna crollonne.
+> Poi alle ruote tornarono le donne, e il grifone mosse il benedetto carico così che non per questo una penna ne tremò.
+
+28
+La bella donna che mi trasse al varco
+e Stazio e io seguitavam la rota
+che fé l’orbita sua con minore arco.
+> La bella donna che mi trasse al varco e Stazio e io seguivamo la ruota che fece la sua orbita con minore arco.
+
+31
+Sì passeggiando l’alta selva vòta,
+colpa di quella ch’al serpente crese,
+temprava i passi un’angelica nota.
+> Così passeggiando l'alta selva vuota, colpa di quella che al serpente credette, regolava i passi una nota angelica.
+
+34
+Forse in tre voli tanto spazio prese
+disfrenata saetta, quanto eramo
+rimossi, quando Bëatrice scese.
+> Forse in tre voli tanto spazio prese una saetta scagliata, quanto eravamo discosti, quando Beatrice scese.
+
+37
+Io senti’ mormorare a tutti "Adamo";
+poi cerchiaro una pianta dispogliata
+di foglie e d’altra fronda in ciascun ramo.
+> Io sentii mormorare a tutti «Adamo»; poi circondarono una pianta spogliata di foglie e di altra fronda in ciascun ramo.
+
+40
+La coma sua, che tanto si dilata
+più quanto più è sù, fora da l’Indi
+ne’ boschi lor per altezza ammirata.
+> La sua chioma, che tanto si dilata più quanto più è in alto, sarebbe dagli Indiani nei loro boschi ammirata per altezza.
+
+43
+"Beato se’, grifon, che non discindi
+col becco d’esto legno dolce al gusto,
+poscia che mal si torce il ventre quindi".
+> «Beato sei, grifone, che non strappi col becco di questo legno dolce al gusto, poiché male si torce il ventre di qui».
+
+46
+Così dintorno a l’albero robusto
+gridaron li altri; e l’animal binato:
+"Sì si conserva il seme d’ogne giusto".
+> Così intorno all'albero robusto gridarono gli altri; e l'animale di duplice natura: «Così si conserva il seme di ogni giusto».
+
+49
+E vòlto al temo ch’elli avea tirato,
+trasselo al piè de la vedova frasca,
+e quel di lei a lei lasciò legato.
+> E volto al timone che aveva tirato, lo trasse al piede della vedova fronda, e quello di lei a lei lasciò legato.
+
+52
+Come le nostre piante, quando casca
+giù la gran luce mischiata con quella
+che raggia dietro a la celeste lasca,
+> Come le nostre piante, quando cade giù la gran luce mischiata con quella che raggia dietro la celeste lasca,
+
+55
+turgide fansi, e poi si rinovella
+di suo color ciascuna, pria che ’l sole
+giunga li suoi corsier sotto altra stella;
+> si fanno turgide, e poi si rinnova ciascuna del suo colore, prima che il sole aggiunga i suoi corsieri sotto un'altra stella;
+
+58
+men che di rose e più che di vïole
+colore aprendo, s’innovò la pianta,
+che prima avea le ramora sì sole.
+> meno che di rose e più che di viole colore aprendo, si rinnovò la pianta, che prima aveva i rami così soli.
+
+61
+Io non lo ’ntesi, né qui non si canta
+l’inno che quella gente allor cantaro,
+né la nota soffersi tutta quanta.
+> Io non lo intesi, né qui si canta l'inno che quella gente allora cantò, né sopportai la nota tutta quanta.
+
+64
+S’io potessi ritrar come assonnaro
+li occhi spietati udendo di Siringa,
+li occhi a cui pur vegghiar costò sì caro;
+> Se io potessi ritrarre come si addormentarono gli occhi spietati udendo di Siringa, gli occhi a cui il vegliare costò così caro;
+
+67
+come pintor che con essempro pinga,
+disegnerei com’io m’addormentai;
+ma qual vuol sia che l’assonnar ben finga.
+> come pittore che dipinga con esempio, disegnerei come mi addormentai; ma chi voglia ben finga l'assopirsi.
+
+70
+Però trascorro a quando mi svegliai,
+e dico ch’un splendor mi squarciò ’l velo
+del sonno, e un chiamar: "Surgi: che fai?".
+> Perciò trascorro a quando mi svegliai, e dico che uno splendore mi squarciò il velo del sonno, e un chiamare: «Sorgi: che fai?».
+
+## scena-2 | paradiso-terrestre | Beatrice sotto l'albero
+personaggi: dante, beatrice, matelda
+tavola: ia | Beatrice sotto l'albero | img/ia/purgatorio-32-scena-2.jpg
+sintesi: Come Pietro, Giovanni e Giacomo, condotti a vedere la Trasfigurazione e vinti dal sonno, tornano alla parola di Cristo, e videro scomparsi Mosè ed Elia e il maestro cambiato di veste, così Dante si risveglia, e vede Matelda sopra di sé. Chiede dov'è Beatrice: ella è seduta sotto la fronda nuova sulla sua radice, sola come guardia del carro lasciato, circondata dalle sette ninfe con i lumi in mano. Gli dice che sarà poco tempo silvano, poi cittadino con lei di quella Roma di cui Cristo è romano; per ora guardi il carro e scriva ciò che vede.
+
+73
+Quali a veder de’ fioretti del melo
+che del suo pome li angeli fa ghiotti
+e perpetüe nozze fa nel cielo,
+> Come per vedere dei fiorellini del melo, che dei suoi frutti fa golosi gli angeli e fa nozze perpetue nel cielo,
+
+76
+Pietro e Giovanni e Iacopo condotti
+e vinti, ritornaro a la parola
+da la qual furon maggior sonni rotti,
+> Pietro e Giovanni e Giacomo condotti e vinti, ritornarono alla parola dalla quale furono rotti maggiori sonni,
+
+79
+e videro scemata loro scuola
+così di Moïsè come d’Elia,
+e al maestro suo cangiata stola;
+> e videro scemata la loro scuola così di Mosè come di Elia, e al maestro loro mutata la veste;
+
+82
+tal torna’ io, e vidi quella pia
+sovra me starsi che conducitrice
+fu de’ miei passi lungo ’l fiume pria.
+> tale tornai io, e vidi quella pia stare sopra di me che fu conduttrice dei miei passi lungo il fiume prima.
+
+85
+E tutto in dubbio dissi: "Ov’è Beatrice?".
+Ond’ella: "Vedi lei sotto la fronda
+nova sedere in su la sua radice.
+> E tutto in dubbio dissi: «Dov'è Beatrice?». Perciò ella: «La vedi sotto la fronda nuova sedere sulla sua radice.
+
+88
+Vedi la compagnia che la circonda:
+li altri dopo ’l grifon sen vanno suso
+con più dolce canzone e più profonda".
+> Vedi la compagnia che la circonda: gli altri dopo il grifone se ne vanno in alto con più dolce canzone e più profonda».
+
+91
+E se più fu lo suo parlar diffuso,
+non so, però che già ne li occhi m’era
+quella ch’ad altro intender m’avea chiuso.
+> E se il suo parlare fu più diffuso, non so, perché già negli occhi mi era quella che ad altro intendere mi aveva chiuso.
+
+94
+Sola sedeasi in su la terra vera,
+come guardia lasciata lì del plaustro
+che legar vidi a la biforme fera.
+> Sola sedeva sulla terra vera, come guardia lasciata lì del carro che vidi legare alla fiera biforme.
+
+97
+In cerchio le facevan di sé claustro
+le sette ninfe, con quei lumi in mano
+che son sicuri d’Aquilone e d’Austro.
+> In cerchio le facevano di sé chiostro le sette ninfe, con quei lumi in mano che sono sicuri da Aquilone e da Austro.
+
+100
+"Qui sarai tu poco tempo silvano;
+e sarai meco sanza fine cive
+di quella Roma onde Cristo è romano.
+> «Qui sarai tu poco tempo silvano; e sarai con me senza fine cittadino di quella Roma di cui Cristo è romano.
+
+103
+Però, in pro del mondo che mal vive,
+al carro tieni or li occhi, e quel che vedi,
+ritornato di là, fa che tu scrive".
+> Perciò, in pro del mondo che male vive, al carro tieni ora gli occhi, e quel che vedi, tornato di là, fa' che tu scriva».
+
+106
+Così Beatrice; e io, che tutto ai piedi
+d’i suoi comandamenti era divoto,
+la mente e li occhi ov’ella volle diedi.
+> Così Beatrice; e io, che tutto ai piedi dei suoi comandamenti ero devoto, la mente e gli occhi dove ella volle diedi.
+
+## scena-3 | paradiso-terrestre | L'aquila, la volpe e il drago
+personaggi: dante, beatrice
+tavola: ia | L'aquila, la volpe e il drago | img/ia/purgatorio-32-scena-3.jpg
+sintesi: Dante vede scendere come folgore l'uccello di Giove attraverso l'albero, rompendo scorza, fiori e foglie, e colpire il carro che piega come nave in tempesta. Poi una volpe magra si avventa nel carro, ma Beatrice la mette in fuga. L'aquila scende ancora e lascia sul carro le sue piume; una voce dal cielo dice: «O navicella mia, come sei mal carica!». Poi dalla terra esce un drago che ficca la coda nel carro e, ritiratala, se ne va con parte del fondo; il resto si ricopre di piume.
+
+109
+Non scese mai con sì veloce moto
+foco di spessa nube, quando piove
+da quel confine che più va remoto,
+> Non scese mai con così veloce moto fuoco di fitta nube, quando piove da quel confine che più è remoto,
+
+112
+com’io vidi calar l’uccel di Giove
+per l’alber giù, rompendo de la scorza,
+non che d’i fiori e de le foglie nove;
+> come vidi calare l'uccello di Giove per l'albero in giù, rompendo la scorza, non che i fiori e le foglie nuove;
+
+115
+e ferì ’l carro di tutta sua forza;
+ond’el piegò come nave in fortuna,
+vinta da l’onda, or da poggia, or da orza.
+> e colpì il carro con tutta la sua forza; per cui esso piegò come nave in tempesta, vinta dall'onda, ora da poggia, ora da orza.
+
+118
+Poscia vidi avventarsi ne la cuna
+del trïunfal veiculo una volpe
+che d’ogne pasto buon parea digiuna;
+> Poi vidi avventarsi nella culla del veicolo trionfale una volpe che sembrava digiuna di ogni buon pasto;
+
+121
+ma, riprendendo lei di laide colpe,
+la donna mia la volse in tanta futa
+quanto sofferser l’ossa sanza polpe.
+> ma, rimproverandola di laide colpe, la mia donna la volse in fuga tanto veloce quanto sopportarono le ossa senza polpe.
+
+124
+Poscia per indi ond’era pria venuta,
+l’aguglia vidi scender giù ne l’arca
+del carro e lasciar lei di sé pennuta;
+> Poi per dove era prima venuta, vidi l'aquila scendere giù nell'arca del carro e lasciarlo di sé pennuto;
+
+127
+e qual esce di cuor che si rammarca,
+tal voce uscì del cielo e cotal disse:
+"O navicella mia, com’ mal se’ carca!".
+> e quale esce da un cuore che si rammarica, tale una voce uscì dal cielo e così disse: «O navicella mia, come sei mal carica!».
+
+130
+Poi parve a me che la terra s’aprisse
+tr’ambo le ruote, e vidi uscirne un drago
+che per lo carro sù la coda fisse;
+> Poi parve a me che la terra si aprisse tra le due ruote, e vidi uscirne un drago che per il carro su ficcò la coda;
+
+133
+e come vespa che ritragge l’ago,
+a sé traendo la coda maligna,
+trasse del fondo, e gissen vago vago.
+> e come vespa che ritrae il pungiglione, a sé traendo la coda maligna, trasse parte del fondo, e se ne andò vago vago.
+
+136
+Quel che rimase, come da gramigna
+vivace terra, da la piuma, offerta
+forse con intenzion sana e benigna,
+> Quello che rimase, come da gramigna terra viva, dalla piuma, offerta forse con intenzione sana e benigna,
+
+139
+si ricoperse, e funne ricoperta
+e l’una e l’altra rota e ’l temo, in tanto
+che più tiene un sospir la bocca aperta.
+> si ricoprì, e ne fu ricoperta e l'una e l'altra ruota e il timone, in tanto che più tiene un sospiro la bocca aperta.
+
+## scena-4 | paradiso-terrestre | Il mostro, la puttana e il gigante
+personaggi: dante, beatrice
+tavola: dore | La puttana e il gigante sul carro | img/dore/purgatorio-32-carro-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148975659).jpg
+sintesi: Il santo edificio, trasformato, mette fuori sette teste: tre sul timone e una per ogni angolo; le prime tre cornute come buoi, le altre quattro con un corno solo. Sopra siede, sicura come una rocca, una puttana sciolta dagli occhi inquieti; accanto a lei un gigante, come per tenerla, con cui si bacia. Ma perché ella volge l'occhio cupido su Dante, il gigante la flagella dalla testa ai piedi; poi, pieno di sospetto, scioglie il mostro e lo trascina per la selva, fino a nascondere la puttana e la belva.
+
+142
+Trasformato così ’l dificio santo
+mise fuor teste per le parti sue,
+tre sovra ’l temo e una in ciascun canto.
+> Trasformato così l'edificio santo mise fuori teste per le sue parti, tre sopra il timone e una a ciascun angolo.
+
+145
+Le prime eran cornute come bue,
+ma le quattro un sol corno avean per fronte:
+simile mostro visto ancor non fue.
+> Le prime erano cornute come bue, ma le quattro avevano un solo corno per fronte: simile mostro non si vide mai.
+
+148
+Sicura, quasi rocca in alto monte,
+seder sovresso una puttana sciolta
+m’apparve con le ciglia intorno pronte;
+> Sicura, quasi rocca in alto monte, sedere sopra di esso una puttana sciolta mi apparve con le ciglia intorno pronte;
+
+151
+e come perché non li fosse tolta,
+vidi di costa a lei dritto un gigante;
+e basciavansi insieme alcuna volta.
+> e come perché non le fosse tolta, vidi al fianco di lei un gigante in piedi; e si baciavano insieme talvolta.
+
+154
+Ma perché l’occhio cupido e vagante
+a me rivolse, quel feroce drudo
+la flagellò dal capo infin le piante;
+> Ma perché l'occhio cupido e vagante rivolse a me, quel feroce amante la flagellò dalla testa fino ai piedi;
+
+157
+poi, di sospetto pieno e d’ira crudo,
+disciolse il mostro, e trassel per la selva,
+tanto che sol di lei mi fece scudo
+> poi, pieno di sospetto e crudele di ira, sciolse il mostro, e lo trascinò per la selva, tanto che solo di lei mi fece scudo
+
+160
+a la puttana e a la nova belva.
+> alla puttana e alla nuova belva.

@@ -1,0 +1,295 @@
+# Purgatorio, canto XXI
+titolo: Stazio, il terremoto e l'incontro con Virgilio
+
+## scena-1 | cornice-5 | Stazio appare ai due poeti
+personaggi: dante, virgilio, stazio
+tavola: ia | Stazio appare ai due poeti | img/ia/purgatorio-21-scena-1.jpg
+sintesi: La sete naturale che solo l'acqua della Samaritana può saziare tormenta Dante, mentre cammina dietro a Virgilio. Come Cristo apparve ai due di Emmaus, appare un'ombra dietro di loro che li saluta: «Dio vi dia pace». Virgilio risponde e spiega che Dante, ancora vivo, è guidato da lui per grazia; poi chiede perché il monte ha tremato e tutto ha gridato fino ai piedi.
+
+1
+La sete natural che mai non sazia
+se non con l’acqua onde la femminetta
+samaritana domandò la grazia,
+> La sete naturale che non si sazia mai se non con l'acqua con cui la femminetta samaritana domandò la grazia,
+
+4
+mi travagliava, e pungeami la fretta
+per la ’mpacciata via dietro al mio duca,
+e condoleami a la giusta vendetta.
+> mi travagliava, e mi stimolava la fretta per la via ingombra dietro alla mia guida, e mi dolevo della giusta vendetta.
+
+7
+Ed ecco, sì come ne scrive Luca
+che Cristo apparve a’ due ch’erano in via,
+già surto fuor de la sepulcral buca,
+> Ed ecco, come scrive Luca che Cristo apparve ai due che erano in cammino, già risorto dal sepolcro,
+
+10
+ci apparve un’ombra, e dietro a noi venìa,
+dal piè guardando la turba che giace;
+né ci addemmo di lei, sì parlò pria,
+> ci apparve un'ombra, e ci veniva dietro, guardando dai piedi la turba che giace; né ci accorgemmo di lei, tanto parlò prima,
+
+13
+dicendo: "O frati miei, Dio vi dea pace".
+Noi ci volgemmo sùbiti, e Virgilio
+rendéli ’l cenno ch’a ciò si conface.
+> dicendo: «O fratelli miei, Dio vi dia pace». Noi ci volgemmo subito, e Virgilio le rese il cenno che a ciò si conviene.
+
+16
+Poi cominciò: "Nel beato concilio
+ti ponga in pace la verace corte
+che me rilega ne l’etterno essilio".
+> Poi cominciò: «Nel beato concilio ti ponga in pace la vera corte che mi relega nell'esilio eterno».
+
+19
+"Come!", diss’elli, e parte andavam forte:
+"se voi siete ombre che Dio sù non degni,
+chi v’ ha per la sua scala tanto scorte?".
+> «Come!», disse egli, e andavamo in parte forte: «se voi siete ombre che Dio non degna lassù, chi vi ha scortati tanto per la sua scala?».
+
+22
+E ’l dottor mio: "Se tu riguardi a’ segni
+che questi porta e che l’angel profila,
+ben vedrai che coi buon convien ch’e’ regni.
+> E il mio maestro: «Se tu guardi ai segni che costui porta e che l'angelo traccia, vedrai bene che è necessario che regni con i buoni.
+
+25
+Ma perché lei che dì e notte fila
+non li avea tratta ancora la conocchia
+che Cloto impone a ciascuno e compila,
+> Ma poiché colei che giorno e notte fila non gli aveva ancora tratto la rocca che Cloto impone a ciascuno e compie,
+
+28
+l’anima sua, ch’è tua e mia serocchia,
+venendo sù, non potea venir sola,
+però ch’al nostro modo non adocchia.
+> l'anima sua, che è tua e mia sorella, venendo su, non poteva venire sola, perché al nostro modo non guarda.
+
+31
+Ond’io fui tratto fuor de l’ampia gola
+d’inferno per mostrarli, e mosterrolli
+oltre, quanto ’l potrà menar mia scola.
+> Perciò io fui tratto fuori dall'ampia gola dell'inferno per mostrargli, e gli mostrerò oltre, quanto lo potrà condurre la mia scuola.
+
+34
+Ma dimmi, se tu sai, perché tai crolli
+diè dianzi ’l monte, e perché tutto ad una
+parve gridare infino a’ suoi piè molli".
+> Ma dimmi, se lo sai, perché il monte diede poco fa tali scosse, e perché tutto insieme parve gridare fino ai suoi piedi molli».
+
+## scena-2 | cornice-5 | Il terremoto del Purgatorio
+personaggi: dante, virgilio, stazio
+tavola: ia | Il terremoto del Purgatorio | img/ia/purgatorio-21-scena-2.jpg
+sintesi: L'ombra risponde che la montagna è libera da ogni alterazione atmosferica: oltre la porta non cade pioggia, grandine, neve, né si vedono nuvole o arcobaleni, e non c'è vento sotterraneo. Trema quando un'anima si sente monda e sorge per salire; il grido è la lode che i beati rendono. Egli stesso ha giaciuto qui oltre cinquecento anni, e proprio ora ha sentito la libera volontà di una soglia migliore.
+
+37
+Sì mi diè, dimandando, per la cruna
+del mio disio, che pur con la speranza
+si fece la mia sete men digiuna.
+> Così, domandando, mi diede nella cruna del mio desiderio, tanto che solo con la speranza la mia sete si fece meno digiuna.
+
+40
+Quei cominciò: "Cosa non è che sanza
+ordine senta la religïone
+de la montagna, o che sia fuor d’usanza.
+> Quello cominciò: «Cosa non è che senza ordine senta la religione della montagna, o che sia fuori dall'usanza.
+
+43
+Libero è qui da ogne alterazione:
+di quel che ’l ciel da sé in sé riceve
+esser ci puote, e non d’altro, cagione.
+> Qui è libero da ogni alterazione: di ciò che il cielo da sé in sé riceve, può esserci causa, e non d'altro.
+
+46
+Per che non pioggia, non grando, non neve,
+non rugiada, non brina più sù cade
+che la scaletta di tre gradi breve;
+> Per cui non cade più su né pioggia, né grandine, né neve, né rugiada, né brina, che la scaletta di tre gradini breve;
+
+49
+nuvole spesse non paion né rade,
+né coruscar, né figlia di Taumante,
+che di là cangia sovente contrade;
+> nuvole spesse non appaiono né rade, né lampeggiare, né figlia di Taumante, che di là cambia spesso contrada;
+
+52
+secco vapor non surge più avante
+ch’al sommo d’i tre gradi ch’io parlai,
+dov’ ha ’l vicario di Pietro le piante.
+> secco vapore non sale più avanti che alla cima dei tre gradini di cui ho parlato, dove il vicario di Pietro ha i piedi.
+
+55
+Trema forse più giù poco o assai;
+ma per vento che ’n terra si nasconda,
+non so come, qua sù non tremò mai.
+> Trema forse più giù poco o assai; ma per vento che si nasconda in terra, non so come, quassù non tremò mai.
+
+58
+Tremaci quando alcuna anima monda
+sentesi, sì che surga o che si mova
+per salir sù; e tal grido seconda.
+> Qui trema quando qualche anima si sente monda, così da sorgere o muoversi per salire; e tale grido segue.
+
+61
+De la mondizia sol voler fa prova,
+che, tutto libero a mutar convento,
+l’alma sorprende, e di voler le giova.
+> Della purezza fa prova solo il volere, che, tutto libero di mutar convento, sorprende l'anima, e le giova di volere.
+
+64
+Prima vuol ben, ma non lascia il talento
+che divina giustizia, contra voglia,
+come fu al peccar, pone al tormento.
+> Prima vuole bene, ma non lascia il desiderio che la giustizia divina, contro la volontà, pone al tormento, come fu al peccare.
+
+67
+E io, che son giaciuto a questa doglia
+cinquecent’anni e più, pur mo sentii
+libera volontà di miglior soglia:
+> E io, che sono giaciuto in questa pena cinquecento anni e più, proprio ora ho sentito libera volontà di una soglia migliore:
+
+70
+però sentisti il tremoto e li pii
+spiriti per lo monte render lode
+a quel Segnor, che tosto sù li ’nvii".
+> perciò sentisti il terremoto e gli spiriti pii per il monte rendere lode a quel Signore, che presto li invii in su».
+
+73
+Così ne disse; e però ch’el si gode
+tanto del ber quant’è grande la sete,
+non saprei dir quant’el mi fece prode.
+> Così ci disse; e poiché si gode tanto del bere quanto è grande la sete, non saprei dire quanto mi fece prode.
+
+## scena-3 | cornice-5 | Stazio e Virgilio
+personaggi: dante, virgilio, stazio
+tavola: ia | Stazio e Virgilio | img/ia/purgatorio-21-scena-3.jpg
+sintesi: Virgilio, che ora vede la rete che li impiglia, chiede il nome e il perché di tanti secoli. L'ombra risponde di essere Stazio, nato a Tolosa e poi a Roma incoronato di mirto, che cantò di Tebe e di Achille; l'Eneide fu mamma e nutrice del suo poetare, e per aver vissuto ai tempi di Virgilio accetterebbe un sole di più in esilio. Dante sorride a queste parole: Virgilio lo ammonisce, e Stazio, pregato, gli chiede il perché; Dante gli presenta Virgilio, e Stazio vuole abbracciarne i piedi, ma Virgilio lo ferma: siamo ombre.
+
+76
+E ’l savio duca: "Omai veggio la rete
+che qui vi ’mpiglia e come si scalappia,
+perché ci trema e di che congaudete.
+> E il savio duca: «Ormai vedo la rete che qui vi impiglia e come si districa, perché ci trema e di che vi rallegrate.
+
+79
+Ora chi fosti, piacciati ch’io sappia,
+e perché tanti secoli giaciuto
+qui se’, ne le parole tue mi cappia".
+> Ora, chi fosti, ti piaccia che io sappia, e perché per tanti secoli sei giaciuto qui, mi sia accolto nelle tue parole».
+
+82
+"Nel tempo che ’l buon Tito, con l’aiuto
+del sommo rege, vendicò le fóra
+ond’uscì ’l sangue per Giuda venduto,
+> «Nel tempo in cui il buon Tito, con l'aiuto del sommo re, vendicò le ferite da cui uscì il sangue venduto da Giuda,
+
+85
+col nome che più dura e più onora
+era io di là", rispuose quello spirto,
+"famoso assai, ma non con fede ancora.
+> ero di là con il nome che più dura e più onora», rispose quello spirito, «assai famoso, ma non ancora con fede.
+
+88
+Tanto fu dolce mio vocale spirto,
+che, tolosano, a sé mi trasse Roma,
+dove mertai le tempie ornar di mirto.
+> Tanto fu dolce il mio spirito vocale che, tolosano, mi trasse a sé Roma, dove meritai di ornare le tempie di mirto.
+
+91
+Stazio la gente ancor di là mi noma:
+cantai di Tebe, e poi del grande Achille;
+ma caddi in via con la seconda soma.
+> Stazio la gente ancora di là mi nomina: cantai di Tebe, e poi del grande Achille; ma caddi per via con la seconda soma.
+
+94
+Al mio ardor fuor seme le faville,
+che mi scaldar, de la divina fiamma
+onde sono allumati più di mille;
+> Al mio ardore furono seme le faville che mi scaldarono, della divina fiamma da cui sono illuminati più di mille;
+
+97
+de l’Eneïda dico, la qual mamma
+fummi, e fummi nutrice, poetando:
+sanz’essa non fermai peso di dramma.
+> dell'Eneide dico, la quale mi fu mamma, e mi fu nutrice, poetando: senza di essa non fermai il peso di una dramma.
+
+100
+E per esser vivuto di là quando
+visse Virgilio, assentirei un sole
+più che non deggio al mio uscir di bando".
+> E per esser vissuto di là quando visse Virgilio, accetterei un sole di più di quanto devo al mio uscire dall'esilio».
+
+103
+Volser Virgilio a me queste parole
+con viso che, tacendo, disse ’Taci’;
+ma non può tutto la virtù che vuole;
+> Virgilio mi rivolse queste parole con un viso che, tacendo, diceva «Taci»; ma non può tutto la virtù che vuole;
+
+106
+ché riso e pianto son tanto seguaci
+a la passion di che ciascun si spicca,
+che men seguon voler ne’ più veraci.
+> perché riso e pianto sono tanto seguaci alla passione da cui ciascuno si stacca, che meno seguono la volontà nei più veraci.
+
+109
+Io pur sorrisi come l’uom ch’ammicca;
+per che l’ombra si tacque, e riguardommi
+ne li occhi ove ’l sembiante più si ficca;
+> Io sorrisi come chi ammicca; per cui l'ombra si tacque, e mi guardò negli occhi dove l'aspetto più si fissa;
+
+112
+e "Se tanto labore in bene assommi",
+disse, "perché la tua faccia testeso
+un lampeggiar di riso dimostrommi?".
+> e «Se tanta fatica porti a buon fine», disse, «perché la tua faccia poco fa mi ha mostrato un lampeggiare di riso?».
+
+115
+Or son io d’una parte e d’altra preso:
+l’una mi fa tacer, l’altra scongiura
+ch’io dica; ond’io sospiro, e sono inteso
+> Ora sono preso da una parte e dall'altra: l'una mi fa tacere, l'altra scongiura che io parli; perciò sospiro, e sono capito
+
+118
+dal mio maestro, e "Non aver paura",
+mi dice, "di parlar; ma parla e digli
+quel ch’e’ dimanda con cotanta cura".
+> dal mio maestro, e «Non aver paura», mi dice, «di parlare; ma parla e digli ciò che domanda con tanta cura».
+
+121
+Ond’io: "Forse che tu ti maravigli,
+antico spirto, del rider ch’io fei;
+ma più d’ammirazion vo’ che ti pigli.
+> Perciò io: «Forse ti meravigli, antico spirito, del ridere che feci; ma voglio che ti prenda più ammirazione.
+
+124
+Questi che guida in alto li occhi miei,
+è quel Virgilio dal qual tu togliesti
+forte a cantar de li uomini e d’i dèi.
+> Questi che guida in alto i miei occhi, è quel Virgilio dal quale tu prendesti forza di cantare degli uomini e degli dèi.
+
+127
+Se cagion altra al mio rider credesti,
+lasciala per non vera, ed esser credi
+quelle parole che di lui dicesti".
+> Se credesti altra causa al mio ridere, lasciala per non vera, e credi che siano state quelle parole che dicesti di lui».
+
+130
+Già s’inchinava ad abbracciar li piedi
+al mio dottor, ma el li disse: "Frate,
+non far, ché tu se’ ombra e ombra vedi".
+> Già si inchinava ad abbracciare i piedi al mio dottore, ma egli gli disse: «Fratello, non farlo, perché sei ombra e ombra vedi».
+
+133
+Ed ei surgendo: "Or puoi la quantitate
+comprender de l’amor ch’a te mi scalda,
+quand’io dismento nostra vanitate,
+> Ed egli, alzandosi: «Ora puoi comprendere la quantità dell'amore che mi scalda per te, quando dimentico la nostra vanità,
+
+136
+trattando l’ombre come cosa salda".
+> trattando le ombre come cosa salda».
+
+## personaggio | stazio | Stazio
+dibattuto: no
+chi_era: Publio Papinio Stazio, poeta latino del I secolo d.C., autore della Tebaide e dell'Achilleide. Dante lo crede nato a Tolosa e segretamente cristiano, e lo fa compagno di Virgilio da qui alla fine del Purgatorio; nella tradizione medievale è il poeta che ammira più di ogni altro Virgilio.

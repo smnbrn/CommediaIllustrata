@@ -1,0 +1,318 @@
+{
+  "cantica": "purgatorio",
+  "canto": 28,
+  "titolo": "La divina foresta, Matelda e la natura del Paradiso terrestre",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_XXVIII",
+  "numero_versi": 148,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 33],
+      "titolo_scena": "La divina foresta e il ruscello",
+      "sintesi": "Dante, desideroso di esplorare la divina foresta fitta e viva, lascia la riva e cammina lentamente sul suolo profumato. Un'aria dolce gli sfiora la fronte e piega le fronde verso la parte da cui cade la prima ombra del monte, ma non tanto da impedire agli uccelli di cantare, come nella pineta di Classe. Si ferma davanti a un ruscello limpidissimo che piega l'erba verso sinistra, più puro di ogni acqua terrena, benché scuro sotto l'ombra perpetua.",
+      "luogo_id": "paradiso-terrestre",
+      "personaggi": ["dante", "virgilio", "stazio"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "La divina foresta",
+          "url": "img/dore/purgatorio-28-foresta-960.jpg",
+          "miniatura": "img/dore/purgatorio-28-foresta-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148975446).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [34, 84],
+      "titolo_scena": "Matelda",
+      "sintesi": "Dante si ferma sulla riva e guarda al di là del fiumicello la grande varietà dei freschi fiori; lì gli appare, improvvisa, una donna sola che va cantando e scegliendo fior da fiore. La prega di avvicinarsi per intendere il suo canto: gli ricorda Proserpina quando perse la primavera. Ella si volge come danzatrice, si avvicina, e leva gli occhi su di lui, più luminosi di quelli di Venere ferita da Amore. Dall'altra riva ride, intrecciando fiori; è separata da Dante solo da tre passi d'acqua.",
+      "luogo_id": "paradiso-terrestre",
+      "personaggi": ["dante", "virgilio", "stazio", "matelda"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Matelda",
+          "url": "img/ia/purgatorio-28-scena-2.jpg",
+          "miniatura": "img/ia/purgatorio-28-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [85, 148],
+      "titolo_scena": "La natura del Paradiso terrestre",
+      "sintesi": "Dante le chiede come mai l'acqua e il vento della foresta contrastino con ciò che aveva sentito dire. Matelda spiega: Dio creò l'uomo buono e gli diede questo luogo come caparra di pace eterna; il monte sale in alto, oltre le perturbazioni dell'aria. La rotazione del cielo percuote la foresta, la quale feconda la terra intorno con sementi nuove. Le acque non vengono da vena: vi è un'unica fonte che si versa in due fiumi, Letè, che toglie memoria del peccato, ed Eunoè, che rende memoria del bene; i poeti antichi che parlarono dell'età dell'oro forse sognarono questo luogo.",
+      "luogo_id": "paradiso-terrestre",
+      "personaggi": ["dante", "virgilio", "stazio", "matelda"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La natura del Paradiso terrestre",
+          "url": "img/ia/purgatorio-28-scena-3.jpg",
+          "miniatura": "img/ia/purgatorio-28-scena-3.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Vago già di cercar dentro e dintorno\nla divina foresta spessa e viva,\nch’a li occhi temperava il novo giorno,",
+      "parafrasi": "Desideroso ormai di cercare dentro e intorno la divina foresta fitta e viva, che agli occhi temperava il nuovo giorno,"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "sanza più aspettar, lasciai la riva,\nprendendo la campagna lento lento\nsu per lo suol che d’ogne parte auliva.",
+      "parafrasi": "senza più aspettare lasciai la riva, prendendo la campagna lento lento su per il suolo che da ogni parte profumava."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "Un’aura dolce, sanza mutamento\navere in sé, mi feria per la fronte\nnon di più colpo che soave vento;",
+      "parafrasi": "Un'aria dolce, senza variazione in sé, mi feriva la fronte non con più colpo di un vento soave;"
+    },
+    {
+      "versi": [10, 12],
+      "testo": "per cui le fronde, tremolando, pronte\ntutte quante piegavano a la parte\nu’ la prim’ombra gitta il santo monte;",
+      "parafrasi": "per cui le fronde, tremolando, pronte tutte quante si piegavano verso la parte dove la prima ombra getta il santo monte;"
+    },
+    {
+      "versi": [13, 15],
+      "testo": "non però dal loro esser dritto sparte\ntanto, che li augelletti per le cime\nlasciasser d’operare ogne lor arte;",
+      "parafrasi": "non tanto, però, spostate dal loro essere dritte, che gli uccelletti sulle cime lasciassero di operare ogni loro arte;"
+    },
+    {
+      "versi": [16, 18],
+      "testo": "ma con piena letizia l’ore prime,\ncantando, ricevieno intra le foglie,\nche tenevan bordone a le sue rime,",
+      "parafrasi": "ma con piena letizia le prime ore, cantando, ricevevano tra le foglie, che facevano bordone alle loro rime,"
+    },
+    {
+      "versi": [19, 21],
+      "testo": "tal qual di ramo in ramo si raccoglie\nper la pineta in su ’l lito di Chiassi,\nquand’Ëolo scilocco fuor discioglie.",
+      "parafrasi": "come si raccoglie di ramo in ramo per la pineta sul lido di Classe, quando Eolo scioglie lo scirocco."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Già m’avean trasportato i lenti passi\ndentro a la selva antica tanto, ch’io\nnon potea rivedere ond’io mi ’ntrassi;",
+      "parafrasi": "Già mi avevano trasportato i lenti passi dentro l'antica selva tanto, che io non potevo rivedere da dove ero entrato;"
+    },
+    {
+      "versi": [25, 27],
+      "testo": "ed ecco più andar mi tolse un rio,\nche ’nver’ sinistra con sue picciole onde\npiegava l’erba che ’n sua ripa uscìo.",
+      "parafrasi": "ed ecco più andare mi tolse un rio, che verso sinistra con le sue piccole onde piegava l'erba che sulla sua riva usciva."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "Tutte l’acque che son di qua più monde,\nparrieno avere in sé mistura alcuna\nverso di quella, che nulla nasconde,",
+      "parafrasi": "Tutte le acque che sono di qua più pure sembrerebbero avere in sé qualche mescolanza rispetto a quella, che nulla nasconde,"
+    },
+    {
+      "versi": [31, 33],
+      "testo": "avvegna che si mova bruna bruna\nsotto l’ombra perpetüa, che mai\nraggiar non lascia sole ivi né luna.",
+      "parafrasi": "benché si muova scura scura sotto l'ombra perpetua, che mai non lascia raggiare sole né luna."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Coi piè ristetti e con li occhi passai\ndi là dal fiumicello, per mirare\nla gran varïazion d’i freschi mai;",
+      "parafrasi": "Con i piedi mi fermai e con gli occhi passai al di là del fiumicello, per guardare la grande varietà dei freschi maggi;"
+    },
+    {
+      "versi": [37, 39],
+      "testo": "e là m’apparve, sì com’elli appare\nsubitamente cosa che disvia\nper maraviglia tutto altro pensare,",
+      "parafrasi": "e là mi apparve, come appare improvvisamente cosa che distoglie per meraviglia ogni altro pensiero,"
+    },
+    {
+      "versi": [40, 42],
+      "testo": "una donna soletta che si gia\ne cantando e scegliendo fior da fiore\nond’era pinta tutta la sua via.",
+      "parafrasi": "una donna solitaria che andava e cantando e scegliendo fiore da fiore di cui era dipinta tutta la sua via."
+    },
+    {
+      "versi": [43, 45],
+      "testo": "\"Deh, bella donna, che a’ raggi d’amore\nti scaldi, s’i’ vo’ credere a’ sembianti\nche soglion esser testimon del core,",
+      "parafrasi": "«Deh, bella donna, che ai raggi d'amore ti scaldi, se voglio credere ai sembianti che sogliono essere testimoni del cuore,"
+    },
+    {
+      "versi": [46, 48],
+      "testo": "vegnati in voglia di trarreti avanti\",\ndiss’io a lei, \"verso questa rivera,\ntanto ch’io possa intender che tu canti.",
+      "parafrasi": "ti venga voglia di farti avanti», le dissi, «verso questa riva, tanto che io possa intendere che cosa canti."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "Tu mi fai rimembrar dove e qual era\nProserpina nel tempo che perdette\nla madre lei, ed ella primavera\".",
+      "parafrasi": "Tu mi fai ricordare dove e quale era Proserpina nel tempo che perdette la madre, ed ella la primavera»."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "Come si volge, con le piante strette\na terra e intra sé, donna che balli,\ne piede innanzi piede a pena mette,",
+      "parafrasi": "Come si volge, con le piante strette a terra e tra loro, donna che balli, e piede innanzi a piede appena mette,"
+    },
+    {
+      "versi": [55, 57],
+      "testo": "volsesi in su i vermigli e in su i gialli\nfioretti verso me, non altrimenti\nche vergine che li occhi onesti avvalli;",
+      "parafrasi": "si volse sopra i vermigli e sopra i gialli fioretti verso di me, non diversamente da una vergine che abbassi gli occhi onesti;"
+    },
+    {
+      "versi": [58, 60],
+      "testo": "e fece i prieghi miei esser contenti,\nsì appressando sé, che ’l dolce suono\nveniva a me co’ suoi intendimenti.",
+      "parafrasi": "e fece contenti i miei preghi, appressandosi così che il dolce suono veniva a me con i suoi significati."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Tosto che fu là dove l’erbe sono\nbagnate già da l’onde del bel fiume,\ndi levar li occhi suoi mi fece dono.",
+      "parafrasi": "Appena fu là dove le erbe sono già bagnate dalle onde del bel fiume, mi fece dono di levare gli occhi suoi."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Non credo che splendesse tanto lume\nsotto le ciglia a Venere, trafitta\ndal figlio fuor di tutto suo costume.",
+      "parafrasi": "Non credo che splendesse tanto lume sotto le ciglia a Venere, trafitta dal figlio fuori di ogni suo costume."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Ella ridea da l’altra riva dritta,\ntrattando più color con le sue mani,\nche l’alta terra sanza seme gitta.",
+      "parafrasi": "Ella rideva dall'altra riva diritta, intrecciando più colori con le sue mani, che l'alta terra senza seme produce."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "Tre passi ci facea il fiume lontani;\nma Elesponto, là ’ve passò Serse,\nancora freno a tutti orgogli umani,",
+      "parafrasi": "Il fiume ci faceva tre passi lontani; ma l'Ellesponto, dove passò Serse, ancora freno a tutti gli orgogli umani,"
+    },
+    {
+      "versi": [73, 75],
+      "testo": "più odio da Leandro non sofferse\nper mareggiare intra Sesto e Abido,\nche quel da me perch’allor non s’aperse.",
+      "parafrasi": "non sopportò più odio da Leandro per il mareggiare tra Sesto e Abido, di quello che da me perché allora non si aprì."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "\"Voi siete nuovi, e forse perch’io rido\",\ncominciò ella, \"in questo luogo eletto\na l’umana natura per suo nido,",
+      "parafrasi": "«Voi siete nuovi, e forse perché io rido», cominciò ella, «in questo luogo eletto alla natura umana per suo nido,"
+    },
+    {
+      "versi": [79, 81],
+      "testo": "maravigliando tienvi alcun sospetto;\nma luce rende il salmo Delectasti,\nche puote disnebbiar vostro intelletto.",
+      "parafrasi": "una qualche inquietudine vi tiene meravigliati; ma il salmo Delectasti rende luce, che può dissolvere la nebbia del vostro intelletto."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "E tu che se’ dinanzi e mi pregasti,\ndì s’altro vuoli udir; ch’i’ venni presta\nad ogne tua question tanto che basti\".",
+      "parafrasi": "E tu che sei davanti e mi pregasti, dimmi se altro vuoi udire; io venni pronta a ogni tua domanda tanto che basti»."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "\"L’acqua\", diss’io, \"e ’l suon de la foresta\nimpugnan dentro a me novella fede\ndi cosa ch’io udi’ contraria a questa\".",
+      "parafrasi": "«L'acqua», dissi, «e il suono della foresta combattono dentro di me una fede nuova in una cosa che udii contraria a questa»."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Ond’ella: \"Io dicerò come procede\nper sua cagion ciò ch’ammirar ti face,\ne purgherò la nebbia che ti fiede.",
+      "parafrasi": "Perciò ella: «Io dirò come procede per sua causa ciò che ti fa meravigliare, e purgherò la nebbia che ti colpisce."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Lo sommo ben, che solo esso a sé piace,\nfé l’uom buono e a bene, e questo loco\ndiede per arr’a lui d’etterna pace.",
+      "parafrasi": "Il sommo bene, che solo ad esso piace, fece l'uomo buono e a bene, e questo luogo gli diede per caparra di pace eterna."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Per sua difalta qui dimorò poco;\nper sua difalta in pianto e in affanno\ncambiò onesto riso e dolce gioco.",
+      "parafrasi": "Per sua colpa qui dimorò poco; per sua colpa in pianto e in affanno cambiò onesto riso e dolce gioco."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Perché ’l turbar che sotto da sé fanno\nl’essalazion de l’acqua e de la terra,\nche quanto posson dietro al calor vanno,",
+      "parafrasi": "Perché il turbamento che sotto di sé fanno le esalazioni dell'acqua e della terra, che quanto possono vanno dietro al calore,"
+    },
+    {
+      "versi": [100, 102],
+      "testo": "a l’uomo non facesse alcuna guerra,\nquesto monte salìo verso ’l ciel tanto,\ne libero n’è d’indi ove si serra.",
+      "parafrasi": "all'uomo non facesse alcuna guerra, questo monte salì verso il cielo tanto, ed è libero da quel punto in cui si chiude."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Or perché in circuito tutto quanto\nl’aere si volge con la prima volta,\nse non li è rotto il cerchio d’alcun canto,",
+      "parafrasi": "Ora poiché in giro tutta quanta l'aria si volge con il primo giro, se non le è rotto il cerchio da qualche parte,"
+    },
+    {
+      "versi": [106, 108],
+      "testo": "in questa altezza ch’è tutta disciolta\nne l’aere vivo, tal moto percuote,\ne fa sonar la selva perch’è folta;",
+      "parafrasi": "in questa altezza che è tutta sciolta nell'aria viva, tale moto percuote e fa risuonare la selva perché è folta;"
+    },
+    {
+      "versi": [109, 111],
+      "testo": "e la percossa pianta tanto puote,\nche de la sua virtute l’aura impregna\ne quella poi, girando, intorno scuote;",
+      "parafrasi": "e la pianta percossa tanto può, che dell'aria sua virtù impregna e quella poi, girando, intorno scuote;"
+    },
+    {
+      "versi": [112, 114],
+      "testo": "e l’altra terra, secondo ch’è degna\nper sé e per suo ciel, concepe e figlia\ndi diverse virtù diverse legna.",
+      "parafrasi": "e l'altra terra, secondo che è degna per sé e per il suo cielo, concepisce e partorisce di diverse virtù diversi alberi."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "Non parrebbe di là poi maraviglia,\nudito questo, quando alcuna pianta\nsanza seme palese vi s’appiglia.",
+      "parafrasi": "Non parrebbe di là poi meraviglia, udito questo, quando qualche pianta senza seme palese vi si attacca."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "E saper dei che la campagna santa\ndove tu se’, d’ogne semenza è piena,\ne frutto ha in sé che di là non si schianta.",
+      "parafrasi": "E devi sapere che la campagna santa dove tu sei, è piena di ogni semenza, e ha in sé frutto che di là non si coglie."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "L’acqua che vedi non surge di vena\nche ristori vapor che gel converta,\ncome fiume ch’acquista e perde lena;",
+      "parafrasi": "L'acqua che vedi non sorge da vena che ristori vapore che gelo converta, come fiume che acquista e perde forza;"
+    },
+    {
+      "versi": [124, 126],
+      "testo": "ma esce di fontana salda e certa,\nche tanto dal voler di Dio riprende,\nquant’ella versa da due parti aperta.",
+      "parafrasi": "ma esce da fontana salda e certa, che tanto dalla volontà di Dio riprende, quanto essa versa da due parti aperta."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Da questa parte con virtù discende\nche toglie altrui memoria del peccato;\nda l’altra d’ogne ben fatto la rende.",
+      "parafrasi": "Da questa parte discende con virtù che toglie ad altri memoria del peccato; dall'altra la rende di ogni bene fatto."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Quinci Letè; così da l’altro lato\nEünoè si chiama, e non adopra\nse quinci e quindi pria non è gustato:",
+      "parafrasi": "Di qui Lete; così dall'altro lato Eunoè si chiama, e non opera se di qua e di là prima non è gustato:"
+    },
+    {
+      "versi": [133, 135],
+      "testo": "a tutti altri sapori esto è di sopra.\nE avvegna ch’assai possa esser sazia\nla sete tua perch’io più non ti scuopra,",
+      "parafrasi": "a tutti gli altri sapori questo è superiore. E benché possa essere assai sazia la tua sete se io non ti scopro altro,"
+    },
+    {
+      "versi": [136, 138],
+      "testo": "darotti un corollario ancor per grazia;\nné credo che ’l mio dir ti sia men caro,\nse oltre promession teco si spazia.",
+      "parafrasi": "ti darò ancora un corollario per grazia; né credo che il mio dire ti sia meno caro, se oltre promessa con te si dilunga."
+    },
+    {
+      "versi": [139, 141],
+      "testo": "Quelli ch’anticamente poetaro\nl’età de l’oro e suo stato felice,\nforse in Parnaso esto loco sognaro.",
+      "parafrasi": "Quelli che anticamente poetarono l'età dell'oro e il suo stato felice, forse in Parnaso sognarono questo luogo."
+    },
+    {
+      "versi": [142, 144],
+      "testo": "Qui fu innocente l’umana radice;\nqui primavera sempre e ogne frutto;\nnettare è questo di che ciascun dice\".",
+      "parafrasi": "Qui fu innocente l'umana radice; qui primavera sempre e ogni frutto; nettare è questo di cui ciascuno parla»."
+    },
+    {
+      "versi": [145, 147],
+      "testo": "Io mi rivolsi ’n dietro allora tutto\na’ miei poeti, e vidi che con riso\nudito avëan l’ultimo costrutto;",
+      "parafrasi": "Io mi rivolsi allora tutto indietro ai miei poeti, e vidi che con riso avevano udito l'ultima conclusione;"
+    },
+    {
+      "versi": [148, 148],
+      "testo": "poi a la bella donna torna’ il viso.",
+      "parafrasi": "poi alla bella donna tornai il viso."
+    }
+  ]
+}

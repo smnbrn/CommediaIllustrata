@@ -1,0 +1,328 @@
+# Purgatorio, canto VII
+titolo: Virgilio e Sordello, la valletta dei principi
+
+## scena-1 | antipurgatorio-morti-violenti | Sordello riconosce Virgilio
+personaggi: dante, virgilio, sordello
+tavola: dore | Sordello e Virgilio | img/dore/purgatorio-07-sordello-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148974286).jpg
+sintesi: Dopo ripetute accoglienze, Sordello chiede chi siano; Virgilio dice il suo nome e che il suo unico peccato fu non avere fede. Sordello, come chi vede qualcosa di straordinario e non osa crederci, si china e lo abbraccia ai piedi, in segno di umiltà, chiamandolo gloria dei latini.
+
+1
+Poscia che l’accoglienze oneste e liete
+furo iterate tre e quattro volte,
+Sordel si trasse, e disse: "Voi, chi siete?".
+> Dopo che le accoglienze oneste e liete furono ripetute tre o quattro volte, Sordello si ritrasse e disse: «Voi, chi siete?».
+
+4
+"Anzi che a questo monte fosser volte
+l’anime degne di salire a Dio,
+fur l’ossa mie per Ottavian sepolte.
+> «Prima che a questo monte fossero rivolte le anime degne di salire a Dio, le mie ossa furono sepolte da Ottaviano.
+
+7
+Io son Virgilio; e per null’altro rio
+lo ciel perdei che per non aver fé".
+Così rispuose allora il duca mio.
+> Io sono Virgilio; e per nessun'altra colpa persi il cielo se non per non aver avuto fede». Così rispose allora la mia guida.
+
+10
+Qual è colui che cosa innanzi sé
+sùbita vede ond’e’ si maraviglia,
+che crede e non, dicendo "Ella è ... non è ...",
+> Come chi vede davanti a sé una cosa improvvisa di cui si meraviglia, che crede e non crede, dicendo «È... non è...»,
+
+13
+tal parve quelli; e poi chinò le ciglia,
+e umilmente ritornò ver’ lui,
+e abbracciòl là ’ve ’l minor s’appiglia.
+> tale sembrò quello; poi abbassò le ciglia e umilmente tornò verso di lui e lo abbracciò là dove l'inferiore si afferra.
+
+16
+"O gloria di Latin", disse, "per cui
+mostrò ciò che potea la lingua nostra,
+o pregio etterno del loco ond’io fui,
+> «O gloria dei Latini», disse, «per cui la nostra lingua mostrò ciò che poteva, o pregio eterno del luogo da cui io venni,
+
+19
+qual merito o qual grazia mi ti mostra?
+S’io son d’udir le tue parole degno,
+dimmi se vien d’inferno, e di qual chiostra".
+> quale merito o quale grazia ti mostra a me? Se sono degno di udire le tue parole, dimmi se vieni dall'inferno e da quale chiostro».
+
+## scena-2 | antipurgatorio-morti-violenti | Il Limbo e la legge della notte
+personaggi: dante, virgilio, sordello
+tavola: ia | Il Limbo e la legge della notte | img/ia/purgatorio-07-scena-2.jpg
+sintesi: Virgilio racconta di venire dal Limbo, dove stanno i bambini innocenti e i virtuosi senza fede, e chiede la via per il Purgatorio. Sordello offre di accompagnarli, ma il sole sta calando e di notte non si può salire: traccia una riga nella polvere che nessuno può oltrepassare quando il sole è tramontato, e propone di fermarsi fra le anime nella valle.
+
+22
+"Per tutt’i cerchi del dolente regno",
+rispuose lui, "son io di qua venuto;
+virtù del ciel mi mosse, e con lei vegno.
+> «Per tutti i cerchi del regno doloroso», rispose lui, «sono venuto fin qui; mi mosse la virtù del cielo, e con essa vengo.
+
+25
+Non per far, ma per non fare ho perduto
+a veder l’alto Sol che tu disiri
+e che fu tardi per me conosciuto.
+> Non per aver fatto, ma per non aver fatto ho perso la vista dell'alto Sole che tu desideri e che per me fu conosciuto troppo tardi.
+
+28
+Luogo è là giù non tristo di martìri,
+ma di tenebre solo, ove i lamenti
+non suonan come guai, ma son sospiri.
+> C'è laggiù un luogo non triste di tormenti, ma solo di tenebre, dove i lamenti non suonano come guai, ma sono sospiri.
+
+31
+Quivi sto io coi pargoli innocenti
+dai denti morsi de la morte avante
+che fosser da l’umana colpa essenti;
+> Là sto io con i bambini innocenti morsi dai denti della morte prima che fossero liberi dalla colpa umana;
+
+34
+quivi sto io con quei che le tre sante
+virtù non si vestiro, e sanza vizio
+conobber l’altre e seguir tutte quante.
+> là sto io con quelli che non si vestirono delle tre sante virtù, e senza vizio conobbero le altre e le seguirono tutte.
+
+37
+Ma se tu sai e puoi, alcuno indizio
+dà noi per che venir possiam più tosto
+là dove purgatorio ha dritto inizio".
+> Ma se sai e puoi, dacci qualche indicazione per cui possiamo arrivare più presto là dove il Purgatorio ha vero inizio».
+
+40
+Rispuose: "Loco certo non c’è posto;
+licito m’è andar suso e intorno;
+per quanto ir posso, a guida mi t’accosto.
+> Rispose: «Un luogo certo non c'è assegnato; mi è lecito andare su e intorno; per quanto posso andare, mi unisco a te come guida.
+
+43
+Ma vedi già come dichina il giorno,
+e andar sù di notte non si puote;
+però è buon pensar di bel soggiorno.
+> Ma vedi già come il giorno declina, e salire di notte non si può; perciò è bene pensare a un buon soggiorno.
+
+46
+Anime sono a destra qua remote;
+se mi consenti, io ti merrò ad esse,
+e non sanza diletto ti fier note".
+> Ci sono anime a destra, qua in disparte; se me lo consenti, ti condurrò da loro, e non senza piacere ti saranno note».
+
+49
+"Com’è ciò?", fu risposto. "Chi volesse
+salir di notte, fora elli impedito
+d’altrui, o non sarria ché non potesse?".
+> «Come mai?», fu risposto. «Chi volesse salire di notte, sarebbe impedito da altri, o non potrebbe farlo da sé?».
+
+52
+E ’l buon Sordello in terra fregò ’l dito,
+dicendo: "Vedi? sola questa riga
+non varcheresti dopo ’l sol partito:
+> E il buon Sordello strofinò con il dito la terra, dicendo: «Vedi? Solo questa riga non oltrepasseresti dopo il tramonto:
+
+55
+non però ch’altra cosa desse briga,
+che la notturna tenebra, ad ir suso;
+quella col nonpoder la voglia intriga.
+> non perché altra cosa dia impedimento a salire che l'oscurità della notte; quella con l'impotenza intralcia la volontà.
+
+58
+Ben si poria con lei tornare in giuso
+e passeggiar la costa intorno errando,
+mentre che l’orizzonte il dì tien chiuso".
+> Si potrebbe bene con la notte tornare in giù e passeggiare errando intorno al pendio, mentre l'orizzonte tiene chiuso il giorno».
+
+61
+Allora il mio segnor, quasi ammirando,
+"Menane", disse, "dunque là ’ve dici
+ch’aver si può diletto dimorando".
+> Allora il mio signore, quasi ammirato, disse: «Portaci dunque là dove dici che si può avere piacere soggiornando».
+
+## scena-3 | valletta-principi | La valletta fiorita
+personaggi: dante, virgilio, sordello
+tavola: dore | I principi nella valletta cantano il Salve Regina | img/dore/purgatorio-07-valletta-960.jpg | File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148974292).jpg
+sintesi: Poco lontano il monte si incava in una valletta, dove si arriva per un sentiero obliquo. L'erba e i fiori superano in colore e profumo ogni pigmento e ogni metallo prezioso; fra di essi sedevano anime che cantavano «Salve, Regina», nascoste dal bordo della valle.
+
+64
+Poco allungati c’eravam di lici,
+quand’io m’accorsi che ’l monte era scemo,
+a guisa che i vallon li sceman quici.
+> Eravamo allontanati poco da lì, quando mi accorsi che il monte era incavato, come accade da noi con le valli.
+
+67
+"Colà", disse quell’ombra, "n’anderemo
+dove la costa face di sé grembo;
+e là il novo giorno attenderemo".
+> «Là», disse quell'ombra, «andremo dove la costa fa di sé un grembo; e là aspetteremo il nuovo giorno».
+
+70
+Tra erto e piano era un sentiero schembo,
+che ne condusse in fianco de la lacca,
+là dove più ch’a mezzo muore il lembo.
+> Tra il ripido e il piano c'era un sentiero obliquo, che ci condusse al fianco della conca, là dove il bordo si riduce a meno della metà.
+
+73
+Oro e argento fine, cocco e biacca,
+indaco, legno lucido e sereno,
+fresco smeraldo in l’ora che si fiacca,
+> Oro e argento fino, cocco e biacca, indaco, legno lucido e sereno, fresco smeraldo nell'ora in cui si spezza,
+
+76
+da l’erba e da li fior, dentr’a quel seno
+posti, ciascun saria di color vinto,
+come dal suo maggiore è vinto il meno.
+> posti dentro a quel seno, sarebbero stati vinti ciascuno dal colore dell'erba e dei fiori, come il minore è vinto dal maggiore.
+
+79
+Non avea pur natura ivi dipinto,
+ma di soavità di mille odori
+vi facea uno incognito e indistinto.
+> La natura non vi aveva solo dipinto, ma di dolcezza di mille profumi ne faceva uno sconosciuto e indistinto.
+
+82
+’Salve, Regina’ in sul verde e ’n su’ fiori
+quindi seder cantando anime vidi,
+che per la valle non parean di fuori.
+> «Salve, Regina» sul verde e sui fiori vidi lì sedere cantando anime che dalla valle non si vedevano da fuori.
+
+## scena-4 | valletta-principi | I principi negligenti
+personaggi: dante, virgilio, sordello, rodolfo-d-asburgo, ottachero, filippo-l-ardito, enrico-di-navarra, carlo-i-d-angio, pietro-iii-d-aragona, enrico-iii-d-inghilterra, guglielmo-di-monferrato
+tavola: ia | I principi negligenti | img/ia/purgatorio-07-scena-4.jpg
+sintesi: Prima che il sole tramonti, Sordello conduce i poeti su un'altura da cui si vedono meglio i volti dei principi negligenti: Rodolfo d'Asburgo, che poteva sanare l'Italia; Ottachero di Boemia; Filippo l'Ardito ed Enrico di Navarra, padre e suocero del «mal di Francia»; Carlo d'Angiò e Pietro d'Aragona che cantano insieme; Enrico d'Inghilterra; Guglielmo di Monferrato. Sordello ne ricorda difetti e eredi.
+
+85
+"Prima che ’l poco sole omai s’annidi",
+cominciò ’l Mantoan che ci avea vòlti,
+"tra color non vogliate ch’io vi guidi.
+> «Prima che il poco sole si nasconda», cominciò il Mantovano che ci aveva condotti, «non vogliate che vi guidi fra costoro.
+
+88
+Di questo balzo meglio li atti e ’ volti
+conoscerete voi di tutti quanti,
+che ne la lama giù tra essi accolti.
+> Da questo balzo conoscerete meglio gli atti e i volti di tutti, che non nella conca laggiù, accolti tra loro.
+
+91
+Colui che più siede alto e fa sembianti
+d’aver negletto ciò che far dovea,
+e che non move bocca a li altrui canti,
+> Colui che siede più in alto e fa l'aria di aver trascurato ciò che doveva fare, e non muove bocca ai canti degli altri,
+
+94
+Rodolfo imperador fu, che potea
+sanar le piaghe c’ hanno Italia morta,
+sì che tardi per altri si ricrea.
+> fu l'imperatore Rodolfo, che poteva sanare le piaghe che hanno ucciso l'Italia, così che tardi per altri essa si risana.
+
+97
+L’altro che ne la vista lui conforta,
+resse la terra dove l’acqua nasce
+che Molta in Albia, e Albia in mar ne porta:
+> L'altro che nel volto lo conforta governò la terra dove nasce l'acqua che la Moldava porta nell'Elba, e l'Elba nel mare:
+
+100
+Ottacchero ebbe nome, e ne le fasce
+fu meglio assai che Vincislao suo figlio
+barbuto, cui lussuria e ozio pasce.
+> ebbe nome Ottachero, e in fasce fu molto meglio di Venceslao suo figlio barbuto, che si nutre di lussuria e ozio.
+
+103
+E quel nasetto che stretto a consiglio
+par con colui c’ ha sì benigno aspetto,
+morì fuggendo e disfiorando il giglio:
+> E quel nasetto che sembra in stretto consiglio con colui che ha un aspetto tanto benigno, morì fuggendo e sfiorando il giglio:
+
+106
+guardate là come si batte il petto!
+L’altro vedete c’ ha fatto a la guancia
+de la sua palma, sospirando, letto.
+> guardate là come si batte il petto! Vedete l'altro che ha fatto della palma un letto alla guancia, sospirando.
+
+109
+Padre e suocero son del mal di Francia:
+sanno la vita sua viziata e lorda,
+e quindi viene il duol che sì li lancia.
+> Sono padre e suocero del male di Francia: conoscono la sua vita viziata e sporca, e di lì viene il dolore che li trafigge.
+
+112
+Quel che par sì membruto e che s’accorda,
+cantando, con colui dal maschio naso,
+d’ogne valor portò cinta la corda;
+> Quello che sembra tanto robusto e che si accorda, cantando, con colui dal naso maschio, portò cinta la corda di ogni valore;
+
+115
+e se re dopo lui fosse rimaso
+lo giovanetto che retro a lui siede,
+ben andava il valor di vaso in vaso,
+> e se il giovanetto che siede dietro a lui fosse rimasto re dopo di lui, il valore sarebbe passato da un vaso all'altro,
+
+118
+che non si puote dir de l’altre rede;
+Iacomo e Federigo hanno i reami;
+del retaggio miglior nessun possiede.
+> cosa che non si può dire degli altri eredi; Giacomo e Federico hanno i regni; nessuno possiede la migliore eredità.
+
+121
+Rade volte risurge per li rami
+l’umana probitate; e questo vole
+quei che la dà, perché da lui si chiami.
+> Raramente risorge nei rami la probità umana; e questo vuole colui che la dà, perché si chieda a lui.
+
+124
+Anche al nasuto vanno mie parole
+non men ch’a l’altro, Pier, che con lui canta,
+onde Puglia e Proenza già si dole.
+> Anche al nasuto vanno le mie parole non meno che all'altro, Pietro, che canta con lui, per cui la Puglia e la Provenza già si lamentano.
+
+127
+Tant’è del seme suo minor la pianta,
+quanto, più che Beatrice e Margherita,
+Costanza di marito ancor si vanta.
+> Tanto la pianta è inferiore al suo seme, quanto più di Beatrice e Margherita Costanza ancora si vanta del marito.
+
+130
+Vedete il re de la semplice vita
+seder là solo, Arrigo d’Inghilterra:
+questi ha ne’ rami suoi migliore uscita.
+> Vedete il re dalla vita semplice seduto là solo, Arrigo d'Inghilterra: questi ha nei suoi rami una discendenza migliore.
+
+133
+Quel che più basso tra costor s’atterra,
+guardando in suso, è Guiglielmo marchese,
+per cui e Alessandria e la sua guerra
+> Quello che più in basso tra costoro siede a terra, guardando in su, è il marchese Guglielmo, per cui Alessandria e la sua guerra
+
+136
+fa pianger Monferrato e Canavese".
+> fanno piangere il Monferrato e il Canavese.
+
+## personaggio | rodolfo-d-asburgo | Rodolfo d'Asburgo
+dibattuto: no
+chi_era: Imperatore del Sacro Romano Impero dal 1273 al 1291; secondo Dante poteva sanare l'Italia ma non scese mai a ristabilirvi l'ordine, e per questo è tra i principi negligenti.
+
+## personaggio | ottachero | Ottachero II di Boemia
+dibattuto: no
+chi_era: Re di Boemia (1253-1278), rivale di Rodolfo d'Asburgo e da lui sconfitto. Il figlio Venceslao II, che Dante rimprovera per lussuria e ozio, gli fu inferiore.
+
+## personaggio | filippo-l-ardito | Filippo III l'Ardito
+dibattuto: no
+chi_era: Re di Francia (1270-1285), «nasetto», morto in fuga dopo la sconfitta in Aragona; padre di Filippo il Bello, che Dante chiama «il mal di Francia».
+
+## personaggio | enrico-di-navarra | Enrico I di Navarra
+dibattuto: no
+chi_era: Re di Navarra (1270-1274), «colui c'ha sì benigno aspetto», suocero di Filippo il Bello e perciò padre e suocero del «mal di Francia».
+
+## personaggio | carlo-i-d-angio | Carlo I d'Angiò
+dibattuto: no
+chi_era: Fratello di Luigi IX di Francia, re di Sicilia e Napoli (1266-1285), vincitore di Manfredi. Dante lo ricorda per il valore, ma i suoi eredi furono inferiori.
+
+## personaggio | pietro-iii-d-aragona | Pietro III d'Aragona
+dibattuto: no
+chi_era: Re di Aragona (1276-1285), «dal maschio naso», rivale di Carlo d'Angiò dopo i Vespri siciliani; padre di Giacomo e Federico, che regnarono dopo di lui.
+
+## personaggio | enrico-iii-d-inghilterra | Enrico III d'Inghilterra
+dibattuto: no
+chi_era: Re d'Inghilterra (1216-1272), «re de la semplice vita», di carattere debole; Dante lo loda per la discendenza migliore, Edoardo I.
+
+## personaggio | guglielmo-di-monferrato | Guglielmo VII marchese di Monferrato
+dibattuto: no
+chi_era: Marchese di Monferrato (1254-1292), catturato dagli alessandrini nel 1290 e morto in prigionia; la guerra che ne seguì fece piangere il Monferrato e il Canavese.

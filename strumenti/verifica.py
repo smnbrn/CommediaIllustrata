@@ -145,7 +145,7 @@ def controlla_rete(canti):
 
 if __name__ == "__main__":
     sys.stdout.reconfigure(encoding="utf-8")
-    luoghi = {l["id"]: l for l in carica(DATI / "luoghi.json")["luoghi"]}
+    luoghi = {l["id"]: l for f in sorted(DATI.glob("luoghi*.json")) for l in carica(f)["luoghi"]}
     personaggi = {p["id"]: p for p in carica(DATI / "personaggi.json")["personaggi"]}
     illustratori = {i["id"] for i in carica(DATI / "indice.json")["illustratori"]}
     canti = [controlla_canto(p, luoghi, personaggi, illustratori) for p in sorted(DATI.glob("*/canto-*.json"))]

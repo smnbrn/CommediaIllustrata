@@ -1,0 +1,298 @@
+{
+  "cantica": "purgatorio",
+  "canto": 21,
+  "titolo": "Stazio, il terremoto e l'incontro con Virgilio",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_XXI",
+  "numero_versi": 136,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 36],
+      "titolo_scena": "Stazio appare ai due poeti",
+      "sintesi": "La sete naturale che solo l'acqua della Samaritana può saziare tormenta Dante, mentre cammina dietro a Virgilio. Come Cristo apparve ai due di Emmaus, appare un'ombra dietro di loro che li saluta: «Dio vi dia pace». Virgilio risponde e spiega che Dante, ancora vivo, è guidato da lui per grazia; poi chiede perché il monte ha tremato e tutto ha gridato fino ai piedi.",
+      "luogo_id": "cornice-5",
+      "personaggi": ["dante", "virgilio", "stazio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Stazio appare ai due poeti",
+          "url": "img/ia/purgatorio-21-scena-1.jpg",
+          "miniatura": "img/ia/purgatorio-21-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [37, 75],
+      "titolo_scena": "Il terremoto del Purgatorio",
+      "sintesi": "L'ombra risponde che la montagna è libera da ogni alterazione atmosferica: oltre la porta non cade pioggia, grandine, neve, né si vedono nuvole o arcobaleni, e non c'è vento sotterraneo. Trema quando un'anima si sente monda e sorge per salire; il grido è la lode che i beati rendono. Egli stesso ha giaciuto qui oltre cinquecento anni, e proprio ora ha sentito la libera volontà di una soglia migliore.",
+      "luogo_id": "cornice-5",
+      "personaggi": ["dante", "virgilio", "stazio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Il terremoto del Purgatorio",
+          "url": "img/ia/purgatorio-21-scena-2.jpg",
+          "miniatura": "img/ia/purgatorio-21-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [76, 136],
+      "titolo_scena": "Stazio e Virgilio",
+      "sintesi": "Virgilio, che ora vede la rete che li impiglia, chiede il nome e il perché di tanti secoli. L'ombra risponde di essere Stazio, nato a Tolosa e poi a Roma incoronato di mirto, che cantò di Tebe e di Achille; l'Eneide fu mamma e nutrice del suo poetare, e per aver vissuto ai tempi di Virgilio accetterebbe un sole di più in esilio. Dante sorride a queste parole: Virgilio lo ammonisce, e Stazio, pregato, gli chiede il perché; Dante gli presenta Virgilio, e Stazio vuole abbracciarne i piedi, ma Virgilio lo ferma: siamo ombre.",
+      "luogo_id": "cornice-5",
+      "personaggi": ["dante", "virgilio", "stazio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Stazio e Virgilio",
+          "url": "img/ia/purgatorio-21-scena-3.jpg",
+          "miniatura": "img/ia/purgatorio-21-scena-3.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "La sete natural che mai non sazia\nse non con l’acqua onde la femminetta\nsamaritana domandò la grazia,",
+      "parafrasi": "La sete naturale che non si sazia mai se non con l'acqua con cui la femminetta samaritana domandò la grazia,"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "mi travagliava, e pungeami la fretta\nper la ’mpacciata via dietro al mio duca,\ne condoleami a la giusta vendetta.",
+      "parafrasi": "mi travagliava, e mi stimolava la fretta per la via ingombra dietro alla mia guida, e mi dolevo della giusta vendetta."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "Ed ecco, sì come ne scrive Luca\nche Cristo apparve a’ due ch’erano in via,\ngià surto fuor de la sepulcral buca,",
+      "parafrasi": "Ed ecco, come scrive Luca che Cristo apparve ai due che erano in cammino, già risorto dal sepolcro,"
+    },
+    {
+      "versi": [10, 12],
+      "testo": "ci apparve un’ombra, e dietro a noi venìa,\ndal piè guardando la turba che giace;\nné ci addemmo di lei, sì parlò pria,",
+      "parafrasi": "ci apparve un'ombra, e ci veniva dietro, guardando dai piedi la turba che giace; né ci accorgemmo di lei, tanto parlò prima,"
+    },
+    {
+      "versi": [13, 15],
+      "testo": "dicendo: \"O frati miei, Dio vi dea pace\".\nNoi ci volgemmo sùbiti, e Virgilio\nrendéli ’l cenno ch’a ciò si conface.",
+      "parafrasi": "dicendo: «O fratelli miei, Dio vi dia pace». Noi ci volgemmo subito, e Virgilio le rese il cenno che a ciò si conviene."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "Poi cominciò: \"Nel beato concilio\nti ponga in pace la verace corte\nche me rilega ne l’etterno essilio\".",
+      "parafrasi": "Poi cominciò: «Nel beato concilio ti ponga in pace la vera corte che mi relega nell'esilio eterno»."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "\"Come!\", diss’elli, e parte andavam forte:\n\"se voi siete ombre che Dio sù non degni,\nchi v’ ha per la sua scala tanto scorte?\".",
+      "parafrasi": "«Come!», disse egli, e andavamo in parte forte: «se voi siete ombre che Dio non degna lassù, chi vi ha scortati tanto per la sua scala?»."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "E ’l dottor mio: \"Se tu riguardi a’ segni\nche questi porta e che l’angel profila,\nben vedrai che coi buon convien ch’e’ regni.",
+      "parafrasi": "E il mio maestro: «Se tu guardi ai segni che costui porta e che l'angelo traccia, vedrai bene che è necessario che regni con i buoni."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Ma perché lei che dì e notte fila\nnon li avea tratta ancora la conocchia\nche Cloto impone a ciascuno e compila,",
+      "parafrasi": "Ma poiché colei che giorno e notte fila non gli aveva ancora tratto la rocca che Cloto impone a ciascuno e compie,"
+    },
+    {
+      "versi": [28, 30],
+      "testo": "l’anima sua, ch’è tua e mia serocchia,\nvenendo sù, non potea venir sola,\nperò ch’al nostro modo non adocchia.",
+      "parafrasi": "l'anima sua, che è tua e mia sorella, venendo su, non poteva venire sola, perché al nostro modo non guarda."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "Ond’io fui tratto fuor de l’ampia gola\nd’inferno per mostrarli, e mosterrolli\noltre, quanto ’l potrà menar mia scola.",
+      "parafrasi": "Perciò io fui tratto fuori dall'ampia gola dell'inferno per mostrargli, e gli mostrerò oltre, quanto lo potrà condurre la mia scuola."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Ma dimmi, se tu sai, perché tai crolli\ndiè dianzi ’l monte, e perché tutto ad una\nparve gridare infino a’ suoi piè molli\".",
+      "parafrasi": "Ma dimmi, se lo sai, perché il monte diede poco fa tali scosse, e perché tutto insieme parve gridare fino ai suoi piedi molli»."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Sì mi diè, dimandando, per la cruna\ndel mio disio, che pur con la speranza\nsi fece la mia sete men digiuna.",
+      "parafrasi": "Così, domandando, mi diede nella cruna del mio desiderio, tanto che solo con la speranza la mia sete si fece meno digiuna."
+    },
+    {
+      "versi": [40, 42],
+      "testo": "Quei cominciò: \"Cosa non è che sanza\nordine senta la religïone\nde la montagna, o che sia fuor d’usanza.",
+      "parafrasi": "Quello cominciò: «Cosa non è che senza ordine senta la religione della montagna, o che sia fuori dall'usanza."
+    },
+    {
+      "versi": [43, 45],
+      "testo": "Libero è qui da ogne alterazione:\ndi quel che ’l ciel da sé in sé riceve\nesser ci puote, e non d’altro, cagione.",
+      "parafrasi": "Qui è libero da ogni alterazione: di ciò che il cielo da sé in sé riceve, può esserci causa, e non d'altro."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Per che non pioggia, non grando, non neve,\nnon rugiada, non brina più sù cade\nche la scaletta di tre gradi breve;",
+      "parafrasi": "Per cui non cade più su né pioggia, né grandine, né neve, né rugiada, né brina, che la scaletta di tre gradini breve;"
+    },
+    {
+      "versi": [49, 51],
+      "testo": "nuvole spesse non paion né rade,\nné coruscar, né figlia di Taumante,\nche di là cangia sovente contrade;",
+      "parafrasi": "nuvole spesse non appaiono né rade, né lampeggiare, né figlia di Taumante, che di là cambia spesso contrada;"
+    },
+    {
+      "versi": [52, 54],
+      "testo": "secco vapor non surge più avante\nch’al sommo d’i tre gradi ch’io parlai,\ndov’ ha ’l vicario di Pietro le piante.",
+      "parafrasi": "secco vapore non sale più avanti che alla cima dei tre gradini di cui ho parlato, dove il vicario di Pietro ha i piedi."
+    },
+    {
+      "versi": [55, 57],
+      "testo": "Trema forse più giù poco o assai;\nma per vento che ’n terra si nasconda,\nnon so come, qua sù non tremò mai.",
+      "parafrasi": "Trema forse più giù poco o assai; ma per vento che si nasconda in terra, non so come, quassù non tremò mai."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Tremaci quando alcuna anima monda\nsentesi, sì che surga o che si mova\nper salir sù; e tal grido seconda.",
+      "parafrasi": "Qui trema quando qualche anima si sente monda, così da sorgere o muoversi per salire; e tale grido segue."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "De la mondizia sol voler fa prova,\nche, tutto libero a mutar convento,\nl’alma sorprende, e di voler le giova.",
+      "parafrasi": "Della purezza fa prova solo il volere, che, tutto libero di mutar convento, sorprende l'anima, e le giova di volere."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Prima vuol ben, ma non lascia il talento\nche divina giustizia, contra voglia,\ncome fu al peccar, pone al tormento.",
+      "parafrasi": "Prima vuole bene, ma non lascia il desiderio che la giustizia divina, contro la volontà, pone al tormento, come fu al peccare."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "E io, che son giaciuto a questa doglia\ncinquecent’anni e più, pur mo sentii\nlibera volontà di miglior soglia:",
+      "parafrasi": "E io, che sono giaciuto in questa pena cinquecento anni e più, proprio ora ho sentito libera volontà di una soglia migliore:"
+    },
+    {
+      "versi": [70, 72],
+      "testo": "però sentisti il tremoto e li pii\nspiriti per lo monte render lode\na quel Segnor, che tosto sù li ’nvii\".",
+      "parafrasi": "perciò sentisti il terremoto e gli spiriti pii per il monte rendere lode a quel Signore, che presto li invii in su»."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "Così ne disse; e però ch’el si gode\ntanto del ber quant’è grande la sete,\nnon saprei dir quant’el mi fece prode.",
+      "parafrasi": "Così ci disse; e poiché si gode tanto del bere quanto è grande la sete, non saprei dire quanto mi fece prode."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "E ’l savio duca: \"Omai veggio la rete\nche qui vi ’mpiglia e come si scalappia,\nperché ci trema e di che congaudete.",
+      "parafrasi": "E il savio duca: «Ormai vedo la rete che qui vi impiglia e come si districa, perché ci trema e di che vi rallegrate."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Ora chi fosti, piacciati ch’io sappia,\ne perché tanti secoli giaciuto\nqui se’, ne le parole tue mi cappia\".",
+      "parafrasi": "Ora, chi fosti, ti piaccia che io sappia, e perché per tanti secoli sei giaciuto qui, mi sia accolto nelle tue parole»."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "\"Nel tempo che ’l buon Tito, con l’aiuto\ndel sommo rege, vendicò le fóra\nond’uscì ’l sangue per Giuda venduto,",
+      "parafrasi": "«Nel tempo in cui il buon Tito, con l'aiuto del sommo re, vendicò le ferite da cui uscì il sangue venduto da Giuda,"
+    },
+    {
+      "versi": [85, 87],
+      "testo": "col nome che più dura e più onora\nera io di là\", rispuose quello spirto,\n\"famoso assai, ma non con fede ancora.",
+      "parafrasi": "ero di là con il nome che più dura e più onora», rispose quello spirito, «assai famoso, ma non ancora con fede."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Tanto fu dolce mio vocale spirto,\nche, tolosano, a sé mi trasse Roma,\ndove mertai le tempie ornar di mirto.",
+      "parafrasi": "Tanto fu dolce il mio spirito vocale che, tolosano, mi trasse a sé Roma, dove meritai di ornare le tempie di mirto."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Stazio la gente ancor di là mi noma:\ncantai di Tebe, e poi del grande Achille;\nma caddi in via con la seconda soma.",
+      "parafrasi": "Stazio la gente ancora di là mi nomina: cantai di Tebe, e poi del grande Achille; ma caddi per via con la seconda soma."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Al mio ardor fuor seme le faville,\nche mi scaldar, de la divina fiamma\nonde sono allumati più di mille;",
+      "parafrasi": "Al mio ardore furono seme le faville che mi scaldarono, della divina fiamma da cui sono illuminati più di mille;"
+    },
+    {
+      "versi": [97, 99],
+      "testo": "de l’Eneïda dico, la qual mamma\nfummi, e fummi nutrice, poetando:\nsanz’essa non fermai peso di dramma.",
+      "parafrasi": "dell'Eneide dico, la quale mi fu mamma, e mi fu nutrice, poetando: senza di essa non fermai il peso di una dramma."
+    },
+    {
+      "versi": [100, 102],
+      "testo": "E per esser vivuto di là quando\nvisse Virgilio, assentirei un sole\npiù che non deggio al mio uscir di bando\".",
+      "parafrasi": "E per esser vissuto di là quando visse Virgilio, accetterei un sole di più di quanto devo al mio uscire dall'esilio»."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Volser Virgilio a me queste parole\ncon viso che, tacendo, disse ’Taci’;\nma non può tutto la virtù che vuole;",
+      "parafrasi": "Virgilio mi rivolse queste parole con un viso che, tacendo, diceva «Taci»; ma non può tutto la virtù che vuole;"
+    },
+    {
+      "versi": [106, 108],
+      "testo": "ché riso e pianto son tanto seguaci\na la passion di che ciascun si spicca,\nche men seguon voler ne’ più veraci.",
+      "parafrasi": "perché riso e pianto sono tanto seguaci alla passione da cui ciascuno si stacca, che meno seguono la volontà nei più veraci."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "Io pur sorrisi come l’uom ch’ammicca;\nper che l’ombra si tacque, e riguardommi\nne li occhi ove ’l sembiante più si ficca;",
+      "parafrasi": "Io sorrisi come chi ammicca; per cui l'ombra si tacque, e mi guardò negli occhi dove l'aspetto più si fissa;"
+    },
+    {
+      "versi": [112, 114],
+      "testo": "e \"Se tanto labore in bene assommi\",\ndisse, \"perché la tua faccia testeso\nun lampeggiar di riso dimostrommi?\".",
+      "parafrasi": "e «Se tanta fatica porti a buon fine», disse, «perché la tua faccia poco fa mi ha mostrato un lampeggiare di riso?»."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "Or son io d’una parte e d’altra preso:\nl’una mi fa tacer, l’altra scongiura\nch’io dica; ond’io sospiro, e sono inteso",
+      "parafrasi": "Ora sono preso da una parte e dall'altra: l'una mi fa tacere, l'altra scongiura che io parli; perciò sospiro, e sono capito"
+    },
+    {
+      "versi": [118, 120],
+      "testo": "dal mio maestro, e \"Non aver paura\",\nmi dice, \"di parlar; ma parla e digli\nquel ch’e’ dimanda con cotanta cura\".",
+      "parafrasi": "dal mio maestro, e «Non aver paura», mi dice, «di parlare; ma parla e digli ciò che domanda con tanta cura»."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "Ond’io: \"Forse che tu ti maravigli,\nantico spirto, del rider ch’io fei;\nma più d’ammirazion vo’ che ti pigli.",
+      "parafrasi": "Perciò io: «Forse ti meravigli, antico spirito, del ridere che feci; ma voglio che ti prenda più ammirazione."
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Questi che guida in alto li occhi miei,\nè quel Virgilio dal qual tu togliesti\nforte a cantar de li uomini e d’i dèi.",
+      "parafrasi": "Questi che guida in alto i miei occhi, è quel Virgilio dal quale tu prendesti forza di cantare degli uomini e degli dèi."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Se cagion altra al mio rider credesti,\nlasciala per non vera, ed esser credi\nquelle parole che di lui dicesti\".",
+      "parafrasi": "Se credesti altra causa al mio ridere, lasciala per non vera, e credi che siano state quelle parole che dicesti di lui»."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Già s’inchinava ad abbracciar li piedi\nal mio dottor, ma el li disse: \"Frate,\nnon far, ché tu se’ ombra e ombra vedi\".",
+      "parafrasi": "Già si inchinava ad abbracciare i piedi al mio dottore, ma egli gli disse: «Fratello, non farlo, perché sei ombra e ombra vedi»."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "Ed ei surgendo: \"Or puoi la quantitate\ncomprender de l’amor ch’a te mi scalda,\nquand’io dismento nostra vanitate,",
+      "parafrasi": "Ed egli, alzandosi: «Ora puoi comprendere la quantità dell'amore che mi scalda per te, quando dimentico la nostra vanità,"
+    },
+    {
+      "versi": [136, 136],
+      "testo": "trattando l’ombre come cosa salda\".",
+      "parafrasi": "trattando le ombre come cosa salda»."
+    }
+  ]
+}

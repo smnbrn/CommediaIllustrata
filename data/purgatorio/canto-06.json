@@ -1,0 +1,342 @@
+{
+  "cantica": "purgatorio",
+  "canto": 6,
+  "titolo": "Sordello e l'invettiva contro l'Italia",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_VI",
+  "numero_versi": 151,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 60],
+      "titolo_scena": "La calca delle anime e la preghiera dei vivi",
+      "sintesi": "Dante, assediato dalle anime dei morti di morte violenta che chiedono preghiere, si libera promettendo, come il vincitore al gioco della zara. Ne riconosce alcune: l'aretino Benincasa, Guccio affogato, Federico Novello, il pisano Farinata, il conte Orso, Pier de la Broccia. Poi chiede a Virgilio se le preghiere possano davvero piegare il cielo; Virgilio risponde e rimanda a Beatrice.",
+      "luogo_id": "antipurgatorio-morti-violenti",
+      "personaggi": ["dante", "virgilio", "benincasa-da-laterina", "guccio-dei-tarlati", "federico-novello", "farinata-degli-scornigiani", "conte-orso", "pier-de-la-broccia"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La calca delle anime e la preghiera dei vivi",
+          "url": "img/ia/purgatorio-06-scena-1.jpg",
+          "miniatura": "img/ia/purgatorio-06-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [61, 75],
+      "titolo_scena": "Sordello abbraccia Virgilio",
+      "sintesi": "I poeti si avvicinano a un'anima lombarda, sola, altera e disdegnosa, che li guarda come un leone a riposo; Virgilio le chiede la via, ma quella domanda invece della loro patria. Appena Virgilio dice «Mantova», l'ombra gli corre incontro, si presenta come Sordello della stessa terra e i due si abbracciano.",
+      "luogo_id": "antipurgatorio-morti-violenti",
+      "personaggi": ["dante", "virgilio", "sordello"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Sordello abbraccia Virgilio",
+          "url": "img/ia/purgatorio-06-scena-2.jpg",
+          "miniatura": "img/ia/purgatorio-06-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [76, 126],
+      "titolo_scena": "L'invettiva contro l'Italia",
+      "sintesi": "Dall'abbraccio di due mantovani Dante prende lo spunto per una violenta invettiva: l'Italia è serva, nave senza nocchiero, bordello; le città sono in guerra civile; la sella dell'impero è vuota perché Alberto tedesco l'ha abbandonata. Dante chiama l'imperatore a vedere Roma vedova e le famiglie rivali, e interroga Dio sull'ingiustizia.",
+      "luogo_id": "antipurgatorio-morti-violenti",
+      "personaggi": ["dante"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "L'invettiva contro l'Italia",
+          "url": "img/ia/purgatorio-06-scena-3.jpg",
+          "miniatura": "img/ia/purgatorio-06-scena-3.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [127, 151],
+      "titolo_scena": "Firenze",
+      "sintesi": "Con amara ironia Dante si rivolge a Firenze: può dirsi contenta di questa digressione che non la tocca, perché il suo popolo è sempre pronto a parole e a sobbarcarsi gli incarichi. Si vanti pure ricca, in pace e saggia: i suoi continui cambiamenti di leggi e di costumi la rendono simile a un'inferma che non trova pace nel letto.",
+      "luogo_id": "antipurgatorio-morti-violenti",
+      "personaggi": ["dante"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Firenze",
+          "url": "img/ia/purgatorio-06-scena-4.jpg",
+          "miniatura": "img/ia/purgatorio-06-scena-4.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Quando si parte il gioco de la zara,\ncolui che perde si riman dolente,\nrepetendo le volte, e tristo impara;",
+      "parafrasi": "Quando finisce il gioco della zara, chi perde resta addolorato, ripetendo i tiri e imparando tristemente;"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "con l’altro se ne va tutta la gente;\nqual va dinanzi, e qual di dietro il prende,\ne qual dallato li si reca a mente;",
+      "parafrasi": "con l'altro se ne va tutta la gente: chi gli va davanti, chi lo prende da dietro, chi gli si ricorda di lato;"
+    },
+    {
+      "versi": [7, 9],
+      "testo": "el non s’arresta, e questo e quello intende;\na cui porge la man, più non fa pressa;\ne così da la calca si difende.",
+      "parafrasi": "egli non si ferma e ascolta questo e quello; a chi porge la mano, quello non si accalca più; e così si difende dalla calca."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "Tal era io in quella turba spessa,\nvolgendo a loro, e qua e là, la faccia,\ne promettendo mi sciogliea da essa.",
+      "parafrasi": "Tale ero io in quella folla fitta, voltando a loro la faccia qua e là, e promettendo mi liberavo da essa."
+    },
+    {
+      "versi": [13, 15],
+      "testo": "Quiv’era l’Aretin che da le braccia\nfiere di Ghin di Tacco ebbe la morte,\ne l’altro ch’annegò correndo in caccia.",
+      "parafrasi": "Qui c'era l'Aretino che ebbe la morte dalle braccia feroci di Ghino di Tacco, e l'altro che annegò correndo all'inseguimento."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "Quivi pregava con le mani sporte\nFederigo Novello, e quel da Pisa\nche fé parer lo buon Marzucco forte.",
+      "parafrasi": "Qui pregava con le mani tese Federigo Novello, e quello di Pisa che fece apparire forte il buon Marzucco."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "Vidi conte Orso e l’anima divisa\ndal corpo suo per astio e per inveggia,\ncom’e’ dicea, non per colpa commisa;",
+      "parafrasi": "Vidi il conte Orso e l'anima separata dal suo corpo per rancore e per invidia, come diceva, non per una colpa commessa;"
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Pier da la Broccia dico; e qui proveggia,\nmentr’è di qua, la donna di Brabante,\nsì che però non sia di peggior greggia.",
+      "parafrasi": "dico Pier de la Broccia; e qui provveda, finché è di là, la donna di Brabante, così che non finisca in una schiera peggiore."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Come libero fui da tutte quante\nquell’ombre che pregar pur ch’altri prieghi,\nsì che s’avacci lor divenir sante,",
+      "parafrasi": "Quando fui libero da tutte quelle ombre che pregavano soltanto che altri preghi, in modo da affrettare il loro diventare sante,"
+    },
+    {
+      "versi": [28, 30],
+      "testo": "io cominciai: \"El par che tu mi nieghi,\no luce mia, espresso in alcun testo\nche decreto del cielo orazion pieghi;",
+      "parafrasi": "cominciai: «Sembra che tu mi neghi, o mia luce, in qualche passo espresso, che una preghiera possa piegare il decreto del cielo;"
+    },
+    {
+      "versi": [31, 33],
+      "testo": "e questa gente prega pur di questo:\nsarebbe dunque loro speme vana,\no non m’è ’l detto tuo ben manifesto?\".",
+      "parafrasi": "e questa gente prega proprio per questo: sarebbe dunque vana la loro speranza, o il tuo detto non mi è ben chiaro?»."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Ed elli a me: \"La mia scrittura è piana;\ne la speranza di costor non falla,\nse ben si guarda con la mente sana;",
+      "parafrasi": "Ed egli a me: «La mia scrittura è chiara; e la speranza di costoro non è vana, se si guarda con mente sana;"
+    },
+    {
+      "versi": [37, 39],
+      "testo": "ché cima di giudicio non s’avvalla\nperché foco d’amor compia in un punto\nciò che de’ sodisfar chi qui s’astalla;",
+      "parafrasi": "perché la cima della giustizia non si abbassa se il fuoco dell'amore compie in un istante ciò che deve soddisfare chi qui sta;"
+    },
+    {
+      "versi": [40, 42],
+      "testo": "e là dov’io fermai cotesto punto,\nnon s’ammendava, per pregar, difetto,\nperché ’l priego da Dio era disgiunto.",
+      "parafrasi": "e là dove io posi quel punto, non si riparava la colpa con la preghiera, perché la preghiera era separata da Dio."
+    },
+    {
+      "versi": [43, 45],
+      "testo": "Veramente a così alto sospetto\nnon ti fermar, se quella nol ti dice\nche lume fia tra ’l vero e lo ’ntelletto.",
+      "parafrasi": "Veramente non fermarti su un dubbio così alto, se non te lo scioglie colei che sarà luce tra il vero e l'intelletto."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Non so se ’ntendi: io dico di Beatrice;\ntu la vedrai di sopra, in su la vetta\ndi questo monte, ridere e felice\".",
+      "parafrasi": "Non so se capisci: parlo di Beatrice; la vedrai più su, in cima a questo monte, sorridente e felice»."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "E io: \"Segnore, andiamo a maggior fretta,\nché già non m’affatico come dianzi,\ne vedi omai che ’l poggio l’ombra getta\".",
+      "parafrasi": "E io: «Signore, andiamo con più fretta, perché non mi affatico più come prima, e vedi ormai che il pendio getta ombra»."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "\"Noi anderem con questo giorno innanzi\",\nrispuose, \"quanto più potremo omai;\nma ’l fatto è d’altra forma che non stanzi.",
+      "parafrasi": "«Andremo avanti con questo giorno», rispose, «quanto più potremo; ma la cosa è diversa da come pensi."
+    },
+    {
+      "versi": [55, 57],
+      "testo": "Prima che sie là sù, tornar vedrai\ncolui che già si cuopre de la costa,\nsì che ’ suoi raggi tu romper non fai.",
+      "parafrasi": "Prima di essere lassù, vedrai tornare colui che già si nasconde dietro il pendio, così che tu non spezzi più i suoi raggi."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Ma vedi là un’anima che, posta\nsola soletta, inverso noi riguarda:\nquella ne ’nsegnerà la via più tosta\".",
+      "parafrasi": "Ma vedi laggiù un'anima che, posta sola soletta, guarda verso di noi: quella ci insegnerà la via più breve»."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Venimmo a lei: o anima lombarda,\ncome ti stavi altera e disdegnosa\ne nel mover de li occhi onesta e tarda!",
+      "parafrasi": "Andammo da lei: o anima lombarda, come stavi altera e sdegnosa, e nel muovere gli occhi onesta e lenta!"
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Ella non ci dicëa alcuna cosa,\nma lasciavane gir, solo sguardando\na guisa di leon quando si posa.",
+      "parafrasi": "Ella non ci diceva nulla, ma ci lasciava andare, guardando soltanto, come un leone quando riposa."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Pur Virgilio si trasse a lei, pregando\nche ne mostrasse la miglior salita;\ne quella non rispuose al suo dimando,",
+      "parafrasi": "Eppure Virgilio si accostò a lei, pregandola di mostrarci la salita migliore; e quella non rispose alla sua domanda,"
+    },
+    {
+      "versi": [70, 72],
+      "testo": "ma di nostro paese e de la vita\nci ’nchiese; e ’l dolce duca incominciava\n\"Mantüa...\" e l’ombra, tutta in sé romita,",
+      "parafrasi": "ma ci chiese del nostro paese e della nostra vita; e la dolce guida cominciava: «Mantova...» e l'ombra, tutta chiusa in sé,"
+    },
+    {
+      "versi": [73, 75],
+      "testo": "surse ver’ lui del loco ove pria stava,\ndicendo: \"O Mantoano, io son Sordello\nde la tua terra!\"; e l’un l’altro abbracciava.",
+      "parafrasi": "si alzò verso di lui dal luogo dove stava, dicendo: «O mantovano, io sono Sordello della tua terra!»; e si abbracciarono."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "Ahi serva Italia, di dolore ostello,\nnave sanza nocchiere in gran tempesta,\nnon donna di provincie, ma bordello!",
+      "parafrasi": "Ahi serva Italia, albergo di dolore, nave senza timoniere in gran tempesta, non signora di province, ma bordello!"
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Quell’anima gentil fu così presta,\nsol per lo dolce suon de la sua terra,\ndi fare al cittadin suo quivi festa;",
+      "parafrasi": "Quell'anima gentile fu così pronta, solo al dolce suono della sua terra, a far festa qui al suo concittadino;"
+    },
+    {
+      "versi": [82, 84],
+      "testo": "e ora in te non stanno sanza guerra\nli vivi tuoi, e l’un l’altro si rode\ndi quei ch’un muro e una fossa serra.",
+      "parafrasi": "e ora in te i tuoi vivi non stanno senza guerra, e si rodono l'un l'altro quelli che sono chiusi da uno stesso muro e da una stessa fossa."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "Cerca, misera, intorno da le prode\nle tue marine, e poi ti guarda in seno,\ns’alcuna parte in te di pace gode.",
+      "parafrasi": "Cerca, misera, intorno alle tue coste marine, e poi guardati dentro, se qualche parte di te gode la pace."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Che val perché ti racconciasse il freno\nIustinïano, se la sella è vòta?\nSanz’esso fora la vergogna meno.",
+      "parafrasi": "A che serve che Giustiniano ti abbia rimesso il freno, se la sella è vuota? Senza di lui la vergogna sarebbe minore."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Ahi gente che dovresti esser devota,\ne lasciar seder Cesare in la sella,\nse bene intendi ciò che Dio ti nota,",
+      "parafrasi": "Ahi gente che dovresti essere devota e lasciare Cesare sulla sella, se capisci bene ciò che Dio ti dice,"
+    },
+    {
+      "versi": [94, 96],
+      "testo": "guarda come esta fiera è fatta fella\nper non esser corretta da li sproni,\npoi che ponesti mano a la predella.",
+      "parafrasi": "guarda come questa fiera è diventata selvaggia per non essere corretta dagli speroni, da quando hai messo mano alla briglia."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "O Alberto tedesco ch’abbandoni\ncostei ch’è fatta indomita e selvaggia,\ne dovresti inforcar li suoi arcioni,",
+      "parafrasi": "O Alberto tedesco che abbandoni costei, ormai indomita e selvaggia, e dovresti montarle in sella,"
+    },
+    {
+      "versi": [100, 102],
+      "testo": "giusto giudicio da le stelle caggia\nsovra ’l tuo sangue, e sia novo e aperto,\ntal che ’l tuo successor temenza n’aggia!",
+      "parafrasi": "un giusto giudizio cada dalle stelle sul tuo sangue, e sia nuovo e palese, tale che il tuo successore ne abbia timore!"
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Ch’avete tu e ’l tuo padre sofferto,\nper cupidigia di costà distretti,\nche ’l giardin de lo ’mperio sia diserto.",
+      "parafrasi": "Perché tu e tuo padre avete sopportato, trattenuti laggiù dalla cupidigia, che il giardino dell'impero fosse deserto."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Vieni a veder Montecchi e Cappelletti,\nMonaldi e Filippeschi, uom sanza cura:\ncolor già tristi, e questi con sospetti!",
+      "parafrasi": "Vieni a vedere Montecchi e Cappelletti, Monaldi e Filippeschi, uomo senza cura: quelli già tristi, e questi con sospetti!"
+    },
+    {
+      "versi": [109, 111],
+      "testo": "Vien, crudel, vieni, e vedi la pressura\nd’i tuoi gentili, e cura lor magagne;\ne vedrai Santafior com’è oscura!",
+      "parafrasi": "Vieni, crudele, vieni, e vedi l'oppressione dei tuoi nobili, e cura i loro mali; e vedrai com'è oscura Santafiora!"
+    },
+    {
+      "versi": [112, 114],
+      "testo": "Vieni a veder la tua Roma che piagne\nvedova e sola, e dì e notte chiama:\n\"Cesare mio, perché non m’accompagne?\".",
+      "parafrasi": "Vieni a vedere la tua Roma che piange, vedova e sola, e giorno e notte chiama: «Cesare mio, perché non mi accompagni?»."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "Vieni a veder la gente quanto s’ama!\ne se nulla di noi pietà ti move,\na vergognar ti vien de la tua fama.",
+      "parafrasi": "Vieni a vedere quanto la gente si ama! E se nulla ti muove a pietà di noi, ti venga vergogna della tua fama."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "E se licito m’è, o sommo Giove\nche fosti in terra per noi crucifisso,\nson li giusti occhi tuoi rivolti altrove?",
+      "parafrasi": "E se mi è lecito, o sommo Giove che fosti crocifisso in terra per noi, i tuoi giusti occhi sono rivolti altrove?"
+    },
+    {
+      "versi": [121, 123],
+      "testo": "O è preparazion che ne l’abisso\ndel tuo consiglio fai per alcun bene\nin tutto de l’accorger nostro scisso?",
+      "parafrasi": "O è una preparazione che nell'abisso del tuo consiglio fai per qualche bene, del tutto separata dalla nostra capacità di capire?"
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Ché le città d’Italia tutte piene\nson di tiranni, e un Marcel diventa\nogne villan che parteggiando viene.",
+      "parafrasi": "Perché le città d'Italia sono tutte piene di tiranni, e un Marcello diventa ogni villano che viene a fare il partigiano."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Fiorenza mia, ben puoi esser contenta\ndi questa digression che non ti tocca,\nmercé del popol tuo che si argomenta.",
+      "parafrasi": "Firenze mia, puoi ben essere contenta di questa digressione che non ti riguarda, grazie al tuo popolo che si dà da fare."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Molti han giustizia in cuore, e tardi scocca\nper non venir sanza consiglio a l’arco;\nma il popol tuo l’ ha in sommo de la bocca.",
+      "parafrasi": "Molti hanno la giustizia nel cuore, ma scocca tardi, per non arrivare all'arco senza riflessione; ma il tuo popolo l'ha sulla punta della lingua."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "Molti rifiutan lo comune incarco;\nma il popol tuo solicito risponde\nsanza chiamare, e grida: \"I’ mi sobbarco!\".",
+      "parafrasi": "Molti rifiutano gli incarichi pubblici; ma il tuo popolo risponde sollecito senza essere chiamato, e grida: «Io me ne faccio carico!»."
+    },
+    {
+      "versi": [136, 138],
+      "testo": "Or ti fa lieta, ché tu hai ben onde:\ntu ricca, tu con pace e tu con senno!\nS’io dico ’l ver, l’effetto nol nasconde.",
+      "parafrasi": "Ora rallegrati, ché hai ben ragione: tu ricca, tu in pace, tu con senno! Se dico il vero, l'effetto non lo nasconde."
+    },
+    {
+      "versi": [139, 141],
+      "testo": "Atene e Lacedemona, che fenno\nl’antiche leggi e furon sì civili,\nfecero al viver bene un picciol cenno",
+      "parafrasi": "Atene e Sparta, che fecero le antiche leggi e furono così civili, fecero un piccolo accenno al viver bene"
+    },
+    {
+      "versi": [142, 144],
+      "testo": "verso di te, che fai tanto sottili\nprovedimenti, ch’a mezzo novembre\nnon giugne quel che tu d’ottobre fili.",
+      "parafrasi": "rispetto a te, che fai provvedimenti tanto sottili che a metà novembre non arriva ciò che tu fili d'ottobre."
+    },
+    {
+      "versi": [145, 147],
+      "testo": "Quante volte, del tempo che rimembre,\nlegge, moneta, officio e costume\nhai tu mutato, e rinovate membre!",
+      "parafrasi": "Quante volte, nel tempo che ricordi, legge, moneta, cariche e costume hai cambiato, e rinnovato le membra!"
+    },
+    {
+      "versi": [148, 150],
+      "testo": "E se ben ti ricordi e vedi lume,\nvedrai te somigliante a quella inferma\nche non può trovar posa in su le piume,",
+      "parafrasi": "E se ti ricordi bene e vedi chiaro, ti vedrai simile a quell'inferma che non può trovare riposo sulle piume,"
+    },
+    {
+      "versi": [151, 151],
+      "testo": "ma con dar volta suo dolore scherma.",
+      "parafrasi": "ma girandosi cerca di schermire il suo dolore."
+    }
+  ]
+}

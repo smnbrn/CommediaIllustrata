@@ -1,0 +1,347 @@
+{
+  "cantica": "purgatorio",
+  "canto": 13,
+  "titolo": "La seconda cornice: gli invidiosi e Sapia",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_XIII",
+  "numero_versi": 154,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 45],
+      "titolo_scena": "La seconda cornice e le voci della carità",
+      "sintesi": "In cima alla scala la montagna si restringe in una seconda cornice, simile alla prima ma più curva; non c'è né ombra né immagine, solo la pietra livida. Virgilio, senza anime da interrogare, volge il suo cammino al sole come guida. Poco dopo volano invisibili voci che gridano esempi di carità: «Non hanno vino», «Io sono Oreste», «Amate da cui male aveste».",
+      "luogo_id": "cornice-2",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La seconda cornice e le voci della carità",
+          "url": "img/ia/purgatorio-13-scena-1.jpg",
+          "miniatura": "img/ia/purgatorio-13-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [46, 93],
+      "titolo_scena": "Gli invidiosi",
+      "sintesi": "Dante vede ombre in mantelli del colore della pietra, e sente invocare Maria, Michele, Pietro e tutti i santi. Da vicino prova dolore: sono coperti di vile cilicio, si sostengono l'un l'altro con la spalla e tutti sono sostenuti dalla ripa, come ciechi che stanno a mendicare perdono. Hanno gli occhi cuciti con un filo di ferro, come si fa a un falcone selvatico. Dante, imbarazzato di vederli senza essere visto, si rivolge a Virgilio, che lo invita a parlare.",
+      "luogo_id": "cornice-2",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Gli invidiosi",
+          "url": "img/dore/purgatorio-13-invidiosi-960.jpg",
+          "miniatura": "img/dore/purgatorio-13-invidiosi-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148974537).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [94, 129],
+      "titolo_scena": "Sapia",
+      "sintesi": "Una voce risponde che ogni anima è cittadina di una vera città; Dante intende «che visse in Italia come pellegrina». Tra gli spiriti ne vede uno che aspetta con il mento levato come un cieco: si presenta come senese, Sapia, non savia, più lieta dei danni altrui che della propria fortuna. Racconta come, vecchia, vide i suoi concittadini sconfitti a Colle e gridò a Dio di non temerlo più, come il merlo; si pentì solo in fin di vita, aiutata dalle preghiere di Pier Pettinaio.",
+      "luogo_id": "cornice-2",
+      "personaggi": ["dante", "virgilio", "sapia"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Sapia",
+          "url": "img/ia/purgatorio-13-scena-3.jpg",
+          "miniatura": "img/ia/purgatorio-13-scena-3.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [130, 154],
+      "titolo_scena": "Dante e Sapia",
+      "sintesi": "Sapia domanda a Dante chi sia, lui che vede e parla. Dante risponde che gli occhi gli saranno tolti qui, ma per poco, perché poco ha peccato d'invidia; teme molto di più il tormento dei superbi. Sapia, stupita che sia ancora vivo, lo prega di far ritornare la sua fama presso i parenti, tra la gente vana che spera in Talamone e perderà più speranze che a cercare la Diana, ma più ancora i comandanti.",
+      "luogo_id": "cornice-2",
+      "personaggi": ["dante", "virgilio", "sapia"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "Dante e Sapia",
+          "url": "img/dore/purgatorio-13-sapia-960.jpg",
+          "miniatura": "img/dore/purgatorio-13-sapia-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148974581).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Noi eravamo al sommo de la scala,\ndove secondamente si risega\nlo monte che salendo altrui dismala.",
+      "parafrasi": "Eravamo in cima alla scala, dove il monte che fa perdere il male salendo si ritaglia una seconda volta."
+    },
+    {
+      "versi": [4, 6],
+      "testo": "Ivi così una cornice lega\ndintorno il poggio, come la primaia;\nse non che l’arco suo più tosto piega.",
+      "parafrasi": "Qui una cornice cinge intorno il pendio, come la prima; se non che il suo arco piega più in fretta."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "Ombra non lì è né segno che si paia:\nparsi la ripa e parsi la via schietta\ncol livido color de la petraia.",
+      "parafrasi": "Non c'è lì ombra né segno che appaia: la ripa e la via si mostravano lisce, del colore livido della pietra."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "\"Se qui per dimandar gente s’aspetta\",\nragionava il poeta, \"io temo forse\nche troppo avrà d’indugio nostra eletta\".",
+      "parafrasi": "«Se qui si aspetta per chiedere a qualcuno», ragionava il poeta, «temo che la nostra scelta avrà troppo indugio»."
+    },
+    {
+      "versi": [13, 15],
+      "testo": "Poi fisamente al sole li occhi porse;\nfece del destro lato a muover centro,\ne la sinistra parte di sé torse.",
+      "parafrasi": "Poi fisso rivolse gli occhi al sole; fece del lato destro un centro del movimento e torse la parte sinistra di sé."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "\"O dolce lume a cui fidanza i’ entro\nper lo novo cammin, tu ne conduci\",\ndicea, \"come condur si vuol quinc’entro.",
+      "parafrasi": "«O dolce luce, nella cui fiducia entro nel nuovo cammino, tu ci conduci», diceva, «come si vuole essere condotti qui dentro."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "Tu scaldi il mondo, tu sovr’esso luci;\ns’altra ragione in contrario non ponta,\nesser dien sempre li tuoi raggi duci\".",
+      "parafrasi": "Tu scaldi il mondo, tu risplendi su di esso; se altra ragione non spinge in contrario, i tuoi raggi devono essere sempre guide»."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Quanto di qua per un migliaio si conta,\ntanto di là eravam noi già iti,\ncon poco tempo, per la voglia pronta;",
+      "parafrasi": "Quanto di qua si conta per un miglio, tanto eravamo già andati di là, in poco tempo, per la volontà pronta;"
+    },
+    {
+      "versi": [25, 27],
+      "testo": "e verso noi volar furon sentiti,\nnon però visti, spiriti parlando\na la mensa d’amor cortesi inviti.",
+      "parafrasi": "e verso di noi furono sentiti volare, ma non visti, spiriti che pronunciavano inviti cortesi alla mensa dell'amore."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "La prima voce che passò volando\n’Vinum non habent’altamente disse,\ne dietro a noi l’andò reïterando.",
+      "parafrasi": "La prima voce che passò volando disse ad alta voce «Vinum non habent», e dietro a noi lo andò ripetendo."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "E prima che del tutto non si udisse\nper allungarsi, un’altra ’I’ sono Oreste’\npassò gridando, e anco non s’affisse.",
+      "parafrasi": "E prima che si cessasse del tutto di udirla per l'allontanarsi, un'altra passò gridando «Io sono Oreste», e neppure si fermò."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "\"Oh!\", diss’io, \"padre, che voci son queste?\".\nE com’io domandai, ecco la terza\ndicendo: ’Amate da cui male aveste’.",
+      "parafrasi": "«Oh!», dissi, «padre, che voci sono queste?». E mentre domandavo, ecco la terza dire: «Amate da cui male aveste»."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "E ’l buon maestro: \"Questo cinghio sferza\nla colpa de la invidia, e però sono\ntratte d’amor le corde de la ferza.",
+      "parafrasi": "E il buon maestro: «Questo cerchio frusta la colpa dell'invidia, e perciò le corde della frusta sono tratte dall'amore."
+    },
+    {
+      "versi": [40, 42],
+      "testo": "Lo fren vuol esser del contrario suono;\ncredo che l’udirai, per mio avviso,\nprima che giunghi al passo del perdono.",
+      "parafrasi": "Il freno vuol essere di suono contrario; credo che lo udirai, a mio avviso, prima di giungere al passo del perdono."
+    },
+    {
+      "versi": [43, 45],
+      "testo": "Ma ficca li occhi per l’aere ben fiso,\ne vedrai gente innanzi a noi sedersi,\ne ciascun è lungo la grotta assiso\".",
+      "parafrasi": "Ma fissa bene gli occhi nell'aria, e vedrai gente davanti a noi seduta, e ognuno è seduto lungo la roccia»."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Allora più che prima li occhi apersi;\nguarda’ mi innanzi, e vidi ombre con manti\nal color de la pietra non diversi.",
+      "parafrasi": "Allora aprii gli occhi più di prima; mi guardai davanti, e vidi ombre con mantelli di colore non diverso dalla pietra."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "E poi che fummo un poco più avanti,\nudia gridar: ’Maria òra per noi’:\ngridar ’Michele’ e ’Pietro’ e ’Tutti santi’.",
+      "parafrasi": "E dopo che fummo un po' più avanti, udivo gridare: «Maria, prega per noi», e gridare «Michele» e «Pietro» e «Tutti i santi»."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "Non credo che per terra vada ancoi\nomo sì duro, che non fosse punto\nper compassion di quel ch’i’ vidi poi;",
+      "parafrasi": "Non credo che oggi per la terra vada un uomo così duro, che non fosse punto dalla compassione per ciò che vidi poi;"
+    },
+    {
+      "versi": [55, 57],
+      "testo": "ché, quando fui sì presso di lor giunto,\nche li atti loro a me venivan certi,\nper li occhi fui di grave dolor munto.",
+      "parafrasi": "perché, quando fui così vicino a loro che i loro atti mi venivano certi, fui spremuto di grave dolore dagli occhi."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Di vil ciliccio mi parean coperti,\ne l’un sofferia l’altro con la spalla,\ne tutti da la ripa eran sofferti.",
+      "parafrasi": "Mi sembravano coperti di vile cilicio, e l'uno sosteneva l'altro con la spalla, e tutti erano sostenuti dalla ripa."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Così li ciechi a cui la roba falla,\nstanno a’ perdoni a chieder lor bisogna,\ne l’uno il capo sopra l’altro avvalla,",
+      "parafrasi": "Così i ciechi a cui manca il necessario stanno alle indulgenze a chiedere il loro bisogno, e l'uno abbassa il capo sull'altro,"
+    },
+    {
+      "versi": [64, 66],
+      "testo": "perché ’n altrui pietà tosto si pogna,\nnon pur per lo sonar de le parole,\nma per la vista che non meno agogna.",
+      "parafrasi": "perché negli altri sorga presto la pietà, non solo per il suono delle parole, ma per la vista che non desidera meno."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "E come a li orbi non approda il sole,\ncosì a l’ombre quivi, ond’io parlo ora,\nluce del ciel di sé largir non vole;",
+      "parafrasi": "E come ai ciechi non giunge il sole, così alle ombre di cui parlo qui la luce del cielo non vuole concedersi;"
+    },
+    {
+      "versi": [70, 72],
+      "testo": "ché a tutti un fil di ferro i cigli fóra\ne cusce sì, come a sparvier selvaggio\nsi fa però che queto non dimora.",
+      "parafrasi": "perché a tutti un filo di ferro fora le palpebre e le cuce, come si fa a uno sparviero selvatico perché non sta quieto."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "A me pareva, andando, fare oltraggio,\nveggendo altrui, non essendo veduto:\nper ch’io mi volsi al mio consiglio saggio.",
+      "parafrasi": "Mi sembrava, andando, fare oltraggio, vedendo altri senza essere visto: perciò mi volsi al mio saggio consigliere."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "Ben sapev’ei che volea dir lo muto;\ne però non attese mia dimanda,\nma disse: \"Parla, e sie breve e arguto\".",
+      "parafrasi": "Ben sapeva ciò che voleva dire il muto; e perciò non attese la mia domanda, ma disse: «Parla, e sii breve e acuto»."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Virgilio mi venìa da quella banda\nde la cornice onde cader si puote,\nperché da nulla sponda s’inghirlanda;",
+      "parafrasi": "Virgilio mi veniva da quella parte della cornice da cui si può cadere, perché non è circondata da nessun parapetto;"
+    },
+    {
+      "versi": [82, 84],
+      "testo": "da l’altra parte m’eran le divote\nombre, che per l’orribile costura\npremevan sì, che bagnavan le gote.",
+      "parafrasi": "dall'altra parte avevo le devote ombre, che per la terribile cucitura premevano tanto che si bagnavano le guance."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "Volsimi a loro e: \"O gente sicura\",\nincominciai, \"di veder l’alto lume\nche ’l disio vostro solo ha in sua cura,",
+      "parafrasi": "Mi volsi a loro e: «O gente sicura», cominciai, «di vedere l'alta luce che il vostro desiderio ha come unica cura,"
+    },
+    {
+      "versi": [88, 90],
+      "testo": "se tosto grazia resolva le schiume\ndi vostra coscïenza sì che chiaro\nper essa scenda de la mente il fiume,",
+      "parafrasi": "se presto la grazia scioglie le schiume della vostra coscienza così che chiaro per essa scenda il fiume della mente,"
+    },
+    {
+      "versi": [91, 93],
+      "testo": "ditemi, ché mi fia grazioso e caro,\ns’anima è qui tra voi che sia latina;\ne forse lei sarà buon s’i’ l’apparo\".",
+      "parafrasi": "ditemi, che mi sarà grazioso e caro, se c'è tra voi un'anima che sia latina; e forse sarà bene per lei se la rendo nota»."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "\"O frate mio, ciascuna è cittadina\nd’una vera città; ma tu vuo’ dire\nche vivesse in Italia peregrina\".",
+      "parafrasi": "«O fratello mio, ciascuna è cittadina di una vera città; ma tu vuoi dire che visse in Italia da pellegrina»."
+    },
+    {
+      "versi": [97, 99],
+      "testo": "Questo mi parve per risposta udire\npiù innanzi alquanto che là dov’io stava,\nond’io mi feci ancor più là sentire.",
+      "parafrasi": "Questo mi sembrò sentire per risposta un po' più avanti di dove stavo, perciò mi feci sentire ancora più là."
+    },
+    {
+      "versi": [100, 102],
+      "testo": "Tra l’altre vidi un’ombra ch’aspettava\nin vista; e se volesse alcun dir ’Come?’,\nlo mento a guisa d’orbo in sù levava.",
+      "parafrasi": "Tra le altre vidi un'ombra che aspettava nell'aspetto; e se qualcuno volesse dire «Come?», alzava il mento come un cieco."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "\"Spirto\", diss’io, \"che per salir ti dome,\nse tu se’ quelli che mi rispondesti,\nfammiti conto o per luogo o per nome\".",
+      "parafrasi": "«Spirito», dissi, «che per salire ti domi, se sei tu che mi hai risposto, fammi sapere o il luogo o il nome»."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "\"Io fui sanese\", rispuose, \"e con questi\naltri rimendo qui la vita ria,\nlagrimando a colui che sé ne presti.",
+      "parafrasi": "«Io fui senese», rispose, «e con questi altri correggo qui la vita colpevole, piangendo a colui che ce ne faccia dono."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "Savia non fui, avvegna che Sapìa\nfossi chiamata, e fui de li altrui danni\npiù lieta assai che di ventura mia.",
+      "parafrasi": "Savia non fui, benché Sapia mi chiamassi, e fui dei danni altrui molto più lieta che della mia fortuna."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "E perché tu non creda ch’io t’inganni,\nodi s’i’ fui, com’io ti dico, folle,\ngià discendendo l’arco d’i miei anni.",
+      "parafrasi": "E perché non creda che ti inganni, ascolta se fui, come ti dico, folle, quando già scendevo l'arco dei miei anni."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "Eran li cittadin miei presso a Colle\nin campo giunti co’ loro avversari,\ne io pregava Iddio di quel ch’e’ volle.",
+      "parafrasi": "Erano i miei concittadini presso Colle in campo contro i loro avversari, e io pregavo Dio di ciò che egli voleva."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Rotti fuor quivi e vòlti ne li amari\npassi di fuga; e veggendo la caccia,\nletizia presi a tutte altre dispari,",
+      "parafrasi": "Furono sconfitti e volti nei passi amari della fuga; e vedendo l'inseguimento, presi una gioia dispari a tutte le altre,"
+    },
+    {
+      "versi": [121, 123],
+      "testo": "tanto ch’io volsi in sù l’ardita faccia,\ngridando a Dio: \"Omai più non ti temo!\",\ncome fé ’l merlo per poca bonaccia.",
+      "parafrasi": "tanto che volsi in su l'audace faccia, gridando a Dio: «Ormai non ti temo più!», come fece il merlo per un po' di bel tempo."
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Pace volli con Dio in su lo stremo\nde la mia vita; e ancor non sarebbe\nlo mio dover per penitenza scemo,",
+      "parafrasi": "Volli pace con Dio sul limite della mia vita; e ancora il mio debito non sarebbe diminuito dalla penitenza,"
+    },
+    {
+      "versi": [127, 129],
+      "testo": "se ciò non fosse, ch’a memoria m’ebbe\nPier Pettinaio in sue sante orazioni,\na cui di me per caritate increbbe.",
+      "parafrasi": "se ciò non fosse, che mi ebbe a memoria Pier Pettinaio nelle sue sante orazioni, a cui per carità dispiacque di me."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Ma tu chi se’, che nostre condizioni\nvai dimandando, e porti li occhi sciolti,\nsì com’io credo, e spirando ragioni?\".",
+      "parafrasi": "Ma tu chi sei, che domandi le nostre condizioni, e porti gli occhi sciolti, come credo, e parli respirando?»."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "\"Li occhi\", diss’io, \"mi fieno ancor qui tolti,\nma picciol tempo, ché poca è l’offesa\nfatta per esser con invidia vòlti.",
+      "parafrasi": "«Gli occhi», dissi, «mi saranno tolti anche qui, ma per poco tempo, perché poca è l'offesa fatta nell'essersi volti con invidia."
+    },
+    {
+      "versi": [136, 138],
+      "testo": "Troppa è più la paura ond’è sospesa\nl’anima mia del tormento di sotto,\nche già lo ’ncarco di là giù mi pesa\".",
+      "parafrasi": "Molto più grande è la paura da cui è sospesa la mia anima del tormento di sotto, tanto che già il carico di laggiù mi pesa»."
+    },
+    {
+      "versi": [139, 141],
+      "testo": "Ed ella a me: \"Chi t’ ha dunque condotto\nqua sù tra noi, se giù ritornar credi?\".\nE io: \"Costui ch’è meco e non fa motto.",
+      "parafrasi": "Ed ella a me: «Chi ti ha dunque condotto quassù tra noi, se pensi di tornare giù?». E io: «Costui che è con me e non parla."
+    },
+    {
+      "versi": [142, 144],
+      "testo": "E vivo sono; e però mi richiedi,\nspirito eletto, se tu vuo’ ch’i’ mova\ndi là per te ancor li mortai piedi\".",
+      "parafrasi": "E sono vivo; perciò chiedimi, spirito eletto, se vuoi che io muova per te di là ancora i mortali piedi»."
+    },
+    {
+      "versi": [145, 147],
+      "testo": "\"Oh, questa è a udir sì cosa nuova\",\nrispuose, \"che gran segno è che Dio t’ami;\nperò col priego tuo talor mi giova.",
+      "parafrasi": "«Oh, questa è una cosa così nuova a udirsi», rispose, «che è gran segno che Dio ti ama; perciò con la tua preghiera talora mi giovi."
+    },
+    {
+      "versi": [148, 150],
+      "testo": "E cheggioti, per quel che tu più brami,\nse mai calchi la terra di Toscana,\nche a’ miei propinqui tu ben mi rinfami.",
+      "parafrasi": "E ti chiedo, per ciò che più brami, se mai calchi la terra di Toscana, che tu mi rimetta in buona fama presso i miei parenti."
+    },
+    {
+      "versi": [151, 153],
+      "testo": "Tu li vedrai tra quella gente vana\nche spera in Talamone, e perderagli\npiù di speranza ch’a trovar la Diana;",
+      "parafrasi": "Li vedrai tra quella gente vana che spera in Talamone, e perderà più speranza che nel trovare la Diana;"
+    },
+    {
+      "versi": [154, 154],
+      "testo": "ma più vi perderanno li ammiragli\".",
+      "parafrasi": "ma più vi perderanno gli ammiragli»."
+    }
+  ]
+}

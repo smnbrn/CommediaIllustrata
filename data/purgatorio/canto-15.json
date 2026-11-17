@@ -1,0 +1,332 @@
+{
+  "cantica": "purgatorio",
+  "canto": 15,
+  "titolo": "L'angelo della misericordia, le visioni di mitezza e il fumo",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_XV",
+  "numero_versi": 145,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 33],
+      "titolo_scena": "La luce dell'angelo",
+      "sintesi": "Il sole è a metà del suo cammino verso sera e i raggi colpiscono Dante in pieno viso. Una luce più forte lo abbaglia, riflessa come un raggio che salta dall'acqua o da uno specchio; Dante si fa schermo con la mano. Virgilio spiega che è l'angelo che li invita a salire.",
+      "luogo_id": "cornice-2",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "La luce dell'angelo",
+          "url": "img/ia/purgatorio-15-scena-1.jpg",
+          "miniatura": "img/ia/purgatorio-15-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [34, 81],
+      "titolo_scena": "L'angelo della misericordia e il bene condiviso",
+      "sintesi": "Giunti all'angelo benedetto, questi invita con voce lieta a entrare per una scala meno ripida. Mentre salgono si canta «Beati i misericordiosi» e «Godi tu che vinci». Dante chiede a Virgilio che cosa volesse dire Guido del Duca con «divieto» e «consorte»; Virgilio spiega che l'invidia nasce dal volere beni che si riducono se divisi, mentre in Cielo il bene condiviso cresce, come la luce che arriva a un corpo lucente: tanto si dà quanto trova ardore.",
+      "luogo_id": "cornice-2",
+      "personaggi": ["dante", "virgilio", "angelo-della-misericordia"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "L'angelo della misericordia e il bene condiviso",
+          "url": "img/ia/purgatorio-15-scena-2.jpg",
+          "miniatura": "img/ia/purgatorio-15-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [82, 114],
+      "titolo_scena": "Le visioni di mitezza",
+      "sintesi": "Salito alla terza cornice, Dante è preso da una visione estatica: Maria nel tempio che rimprovera dolcemente il figlio Gesù ritrovato dopo tre giorni; la moglie di Pisistrato che chiede vendetta e il tiranno che risponde con mitezza; infine la folla che lapida a morte un giovinetto, santo Stefano, che con gli occhi al cielo prega Dio di perdonare i suoi persecutori.",
+      "luogo_id": "cornice-3",
+      "personaggi": ["dante", "virgilio", "maria", "pisistrato", "santo-stefano"],
+      "tavole": [
+        {
+          "autore_id": "dore",
+          "autore": "Gustave Doré",
+          "titolo": "La lapidazione di santo Stefano",
+          "url": "img/dore/purgatorio-15-stefano-960.jpg",
+          "miniatura": "img/dore/purgatorio-15-stefano-960.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Gottliche_Komodie._T._2,_Das_Fegefeuer_1871_(148974648).jpg",
+          "licenza": "Pubblico dominio"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [115, 145],
+      "titolo_scena": "Il fumo",
+      "sintesi": "Tornato in sé, Dante riconosce i suoi non falsi errori; Virgilio, che lo ha visto camminare mezza lega con gli occhi velati e le gambe incerte come un ubriaco, spiega che le visioni servono ad aprire il cuore alle acque della pace. Camminano verso il tramonto, con i raggi in faccia, quando un fumo oscuro come la notte avanza verso di loro, togliendo la vista e l'aria pura.",
+      "luogo_id": "cornice-3",
+      "personaggi": ["dante", "virgilio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Il fumo",
+          "url": "img/ia/purgatorio-15-scena-4.jpg",
+          "miniatura": "img/ia/purgatorio-15-scena-4.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Quanto tra l’ultimar de l’ora terza\ne ’l principio del dì par de la spera\nche sempre a guisa di fanciullo scherza,",
+      "parafrasi": "Quanto tra la fine dell'ora terza e l'inizio del giorno appare dal cielo che sempre come un fanciullo scherza,"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "tanto pareva già inver’ la sera\nessere al sol del suo corso rimaso;\nvespero là, e qui mezza notte era.",
+      "parafrasi": "tanto sembrava già mancare alla sera il sole del suo corso; qui era il vespro, laggiù mezzanotte."
+    },
+    {
+      "versi": [7, 9],
+      "testo": "E i raggi ne ferien per mezzo ’l naso,\nperché per noi girato era sì ’l monte,\nche già dritti andavamo inver’ l’occaso,",
+      "parafrasi": "E i raggi ci colpivano in mezzo al naso, perché avevamo girato così intorno al monte che andavamo già dritti verso occidente,"
+    },
+    {
+      "versi": [10, 12],
+      "testo": "quand’io senti’ a me gravar la fronte\na lo splendore assai più che di prima,\ne stupor m’eran le cose non conte;",
+      "parafrasi": "quando sentii gravarmi la fronte per uno splendore molto più forte di prima, e mi erano di stupore le cose non note;"
+    },
+    {
+      "versi": [13, 15],
+      "testo": "ond’io levai le mani inver’ la cima\nde le mie ciglia, e fecimi ’l solecchio,\nche del soverchio visibile lima.",
+      "parafrasi": "così levai le mani verso la cima delle mie ciglia, e mi feci schermo, che limita l'eccesso del visibile."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "Come quando da l’acqua o da lo specchio\nsalta lo raggio a l’opposita parte,\nsalendo sù per lo modo parecchio",
+      "parafrasi": "Come quando dall'acqua o dallo specchio salta il raggio dalla parte opposta, salendo in modo simile"
+    },
+    {
+      "versi": [19, 21],
+      "testo": "a quel che scende, e tanto si diparte\ndal cader de la pietra in igual tratta,\nsì come mostra esperïenza e arte;",
+      "parafrasi": "a quello che scende, e si allontana dalla caduta della pietra in uguale tratto, come mostrano esperienza e arte;"
+    },
+    {
+      "versi": [22, 24],
+      "testo": "così mi parve da luce rifratta\nquivi dinanzi a me esser percosso;\nper che a fuggir la mia vista fu ratta.",
+      "parafrasi": "così mi parve di essere percosso da luce riflessa lì davanti a me; per questo la mia vista fu pronta a fuggire."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "\"Che è quel, dolce padre, a che non posso\nschermar lo viso tanto che mi vaglia\",\ndiss’io, \"e pare inver’ noi esser mosso?\".",
+      "parafrasi": "«Che cos'è quello, dolce padre, da cui non riesco a schermare il viso abbastanza», dissi, «e sembra venire verso di noi?»."
+    },
+    {
+      "versi": [28, 30],
+      "testo": "\"Non ti maravigliar s’ancor t’abbaglia\nla famiglia del cielo\", a me rispuose:\n\"messo è che viene ad invitar ch’om saglia.",
+      "parafrasi": "«Non ti meravigliare se ti abbaglia ancora la famiglia del cielo», mi rispose: «è un messo che viene a invitare a salire."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "Tosto sarà ch’a veder queste cose\nnon ti fia grave, ma fieti diletto\nquanto natura a sentir ti dispuose\".",
+      "parafrasi": "Presto sarà che il vedere queste cose non ti sarà pesante, ma ti sarà un diletto quanto la natura ti ha disposto a sentire»."
+    },
+    {
+      "versi": [34, 36],
+      "testo": "Poi giunti fummo a l’angel benedetto,\ncon lieta voce disse: \"Intrate quinci\nad un scaleo vie men che li altri eretto\".",
+      "parafrasi": "Quando fummo giunti all'angelo benedetto, disse con voce lieta: «Entrate di qui in una scala molto meno ripida delle altre»."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Noi montavam, già partiti di linci,\ne ’Beati misericordes!’ fue\ncantato retro, e ’Godi tu che vinci!’.",
+      "parafrasi": "Salivamo, già partiti di lì, e dietro di noi fu cantato «Beati misericordes!» e «Godi tu che vinci!»."
+    },
+    {
+      "versi": [40, 42],
+      "testo": "Lo mio maestro e io soli amendue\nsuso andavamo; e io pensai, andando,\nprode acquistar ne le parole sue;",
+      "parafrasi": "Io e il mio maestro andavamo su soli entrambi; e io pensai, andando, di guadagnare qualcosa dalle sue parole;"
+    },
+    {
+      "versi": [43, 45],
+      "testo": "e dirizza’ mi a lui sì dimandando:\n\"Che volse dir lo spirto di Romagna,\ne ’divieto’ e ’consorte’ menzionando?\".",
+      "parafrasi": "e mi rivolsi a lui, domandando: «Che cosa volle dire lo spirito di Romagna, menzionando \"divieto\" e \"consorte\"?»."
+    },
+    {
+      "versi": [46, 48],
+      "testo": "Per ch’elli a me: \"Di sua maggior magagna\nconosce il danno; e però non s’ammiri\nse ne riprende perché men si piagna.",
+      "parafrasi": "Ed egli a me: «Conosce il danno della sua maggiore colpa; perciò non c'è da stupirsi se la rimprovera perché se ne pianga meno."
+    },
+    {
+      "versi": [49, 51],
+      "testo": "Perché s’appuntano i vostri disiri\ndove per compagnia parte si scema,\ninvidia move il mantaco a’ sospiri.",
+      "parafrasi": "Poiché i vostri desideri si appuntano dove per compagnia la parte si riduce, l'invidia muove il mantice ai sospiri."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "Ma se l’amor de la spera supprema\ntorcesse in suso il disiderio vostro,\nnon vi sarebbe al petto quella tema;",
+      "parafrasi": "Ma se l'amore della sfera suprema volgesse in alto il vostro desiderio, non vi sarebbe nel petto quella paura;"
+    },
+    {
+      "versi": [55, 57],
+      "testo": "ché, per quanti si dice più lì ’nostro’,\ntanto possiede più di ben ciascuno,\ne più di caritate arde in quel chiostro\".",
+      "parafrasi": "perché, quanto più là si dice «nostro», tanto più ciascuno possiede di bene, e più di carità arde in quel chiostro»."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "\"Io son d’esser contento più digiuno\",\ndiss’io, \"che se mi fosse pria taciuto,\ne più di dubbio ne la mente aduno.",
+      "parafrasi": "«Io sono più digiuno di essere contento», dissi, «che se prima avessi taciuto, e accumulo più dubbio nella mente."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Com’esser puote ch’un ben, distributo\nin più posseditor, faccia più ricchi\ndi sé che se da pochi è posseduto?\".",
+      "parafrasi": "Come può essere che un bene, distribuito fra più possessori, li faccia più ricchi di sé che se è posseduto da pochi?»."
+    },
+    {
+      "versi": [64, 66],
+      "testo": "Ed elli a me: \"Però che tu rificchi\nla mente pur a le cose terrene,\ndi vera luce tenebre dispicchi.",
+      "parafrasi": "Ed egli a me: «Poiché tu fissi la mente solo alle cose terrene, dalla vera luce raccogli tenebre."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Quello infinito e ineffabil bene\nche là sù è, così corre ad amore\ncom’a lucido corpo raggio vene.",
+      "parafrasi": "Quel bene infinito e ineffabile che è lassù corre così verso l'amore come il raggio viene a un corpo lucente."
+    },
+    {
+      "versi": [70, 72],
+      "testo": "Tanto si dà quanto trova d’ardore;\nsì che, quantunque carità si stende,\ncresce sovr’essa l’etterno valore.",
+      "parafrasi": "Tanto si dà quanto trova ardore; così, per quanto la carità si estende, sopra di essa cresce l'eterno valore."
+    },
+    {
+      "versi": [73, 75],
+      "testo": "E quanta gente più là sù s’intende,\npiù v’è da bene amare, e più vi s’ama,\ne come specchio l’uno a l’altro rende.",
+      "parafrasi": "E quanta più gente lassù si intende, più c'è da amare bene, e più vi si ama, e come specchio l'uno rende all'altro."
+    },
+    {
+      "versi": [76, 78],
+      "testo": "E se la mia ragion non ti disfama,\nvedrai Beatrice, ed ella pienamente\nti torrà questa e ciascun’altra brama.",
+      "parafrasi": "E se la mia ragione non ti sazia, vedrai Beatrice, ed ella pienamente ti toglierà questo e ogni altro desiderio."
+    },
+    {
+      "versi": [79, 81],
+      "testo": "Procaccia pur che tosto sieno spente,\ncome son già le due, le cinque piaghe,\nche si richiudon per esser dolente\".",
+      "parafrasi": "Procura soltanto che presto siano spente, come lo sono già le due, le cinque piaghe, che si richiudono con il dolore»."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "Com’io voleva dicer ’Tu m’appaghe’,\nvidimi giunto in su l’altro girone,\nsì che tacer mi fer le luci vaghe.",
+      "parafrasi": "Mentre volevo dire «Mi hai appagato», mi vidi giunto sull'altro girone, così che mi fecero tacere gli occhi desiderosi."
+    },
+    {
+      "versi": [85, 87],
+      "testo": "Ivi mi parve in una visïone\nestatica di sùbito esser tratto,\ne vedere in un tempio più persone;",
+      "parafrasi": "Lì mi sembrò di essere tratto improvvisamente in una visione estatica, e di vedere in un tempio più persone;"
+    },
+    {
+      "versi": [88, 90],
+      "testo": "e una donna, in su l’entrar, con atto\ndolce di madre dicer: \"Figliuol mio,\nperché hai tu così verso noi fatto?",
+      "parafrasi": "e una donna, sull'entrata, con atto dolce di madre dire: «Figlio mio, perché ci hai fatto così?"
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Ecco, dolenti, lo tuo padre e io\nti cercavamo\". E come qui si tacque,\nciò che pareva prima, dispario.",
+      "parafrasi": "Ecco, addolorati, tuo padre e io ti cercavamo». E appena qui tacque, ciò che sembrava prima scomparve."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Indi m’apparve un’altra con quell’acque\ngiù per le gote che ’l dolor distilla\nquando di gran dispetto in altrui nacque,",
+      "parafrasi": "Poi mi apparve un'altra con quelle lacrime che il dolore distilla lungo le guance quando nasce da gran dispetto per un altro,"
+    },
+    {
+      "versi": [97, 99],
+      "testo": "e dir: \"Se tu se’ sire de la villa\ndel cui nome ne’ dèi fu tanta lite,\ne onde ogne scïenza disfavilla,",
+      "parafrasi": "e dire: «Se tu sei signore della città per il cui nome tra gli dèi fu tanta lite, e da cui ogni scienza sfavilla,"
+    },
+    {
+      "versi": [100, 102],
+      "testo": "vendica te di quelle braccia ardite\nch’abbracciar nostra figlia, o Pisistràto\".\nE ’l segnor mi parea, benigno e mite,",
+      "parafrasi": "vendicati di quelle braccia audaci che abbracciarono nostra figlia, o Pisistrato». E il signore mi sembrava, benigno e mite,"
+    },
+    {
+      "versi": [103, 105],
+      "testo": "risponder lei con viso temperato:\n\"Che farem noi a chi mal ne disira,\nse quei che ci ama è per noi condannato?\".",
+      "parafrasi": "risponderle con viso pacato: «Che faremo a chi ci vuole male, se colui che ci ama è da noi condannato?»."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Poi vidi genti accese in foco d’ira\ncon pietre un giovinetto ancider, forte\ngridando a sé pur: \"Martira, martira!\".",
+      "parafrasi": "Poi vidi genti accese di furore uccidere con pietre un giovinetto, gridando forte a se stesse: «Martira, martira!»."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "E lui vedea chinarsi, per la morte\nche l’aggravava già, inver’ la terra,\nma de li occhi facea sempre al ciel porte,",
+      "parafrasi": "E lo vedevo chinarsi, per la morte che già lo opprimeva, verso terra, ma faceva sempre degli occhi porte al cielo,"
+    },
+    {
+      "versi": [112, 114],
+      "testo": "orando a l’alto Sire, in tanta guerra,\nche perdonasse a’ suoi persecutori,\ncon quello aspetto che pietà diserra.",
+      "parafrasi": "pregando l'alto Signore, in tanta guerra, che perdonasse ai suoi persecutori, con quell'aspetto che apre la pietà."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "Quando l’anima mia tornò di fori\na le cose che son fuor di lei vere,\nio riconobbi i miei non falsi errori.",
+      "parafrasi": "Quando la mia anima tornò fuori alle cose che sono vere fuori di lei, riconobbi i miei non falsi errori."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Lo duca mio, che mi potea vedere\nfar sì com’om che dal sonno si slega,\ndisse: \"Che hai che non ti puoi tenere,",
+      "parafrasi": "La mia guida, che poteva vedermi comportarmi come chi si slega dal sonno, disse: «Che hai che non ti puoi reggere,"
+    },
+    {
+      "versi": [121, 123],
+      "testo": "ma se’ venuto più che mezza lega\nvelando li occhi e con le gambe avvolte,\na guisa di cui vino o sonno piega?\".",
+      "parafrasi": "ma sei venuto più di mezza lega velando gli occhi e con le gambe intrecciate, come chi è piegato dal vino o dal sonno?»."
+    },
+    {
+      "versi": [124, 126],
+      "testo": "\"O dolce padre mio, se tu m’ascolte,\nio ti dirò\", diss’io, \"ciò che m’apparve\nquando le gambe mi furon sì tolte\".",
+      "parafrasi": "«O dolce padre mio, se mi ascolti, ti dirò», dissi, «ciò che mi apparve quando le gambe mi furono tolte»."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Ed ei: \"Se tu avessi cento larve\nsovra la faccia, non mi sarian chiuse\nle tue cogitazion, quantunque parve.",
+      "parafrasi": "Ed egli: «Se tu avessi cento maschere sul viso, non mi sarebbero chiusi i tuoi pensieri, per quanto piccoli sembrino."
+    },
+    {
+      "versi": [130, 132],
+      "testo": "Ciò che vedesti fu perché non scuse\nd’aprir lo core a l’acque de la pace\nche da l’etterno fonte son diffuse.",
+      "parafrasi": "Ciò che vedesti fu perché non ti scusassi dall'aprire il cuore alle acque della pace che sono diffuse dall'eterna fonte."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "Non dimandai \"Che hai?\" per quel che face\nchi guarda pur con l’occhio che non vede,\nquando disanimato il corpo giace;",
+      "parafrasi": "Non domandai «Che hai?» per ciò che fa chi guarda solo con l'occhio che non vede, quando il corpo giace senz'anima;"
+    },
+    {
+      "versi": [136, 138],
+      "testo": "ma dimandai per darti forza al piede:\ncosì frugar conviensi i pigri, lenti\nad usar lor vigilia quando riede\".",
+      "parafrasi": "ma domandai per dare forza al piede: così bisogna stimolare i pigri, lenti a usare la loro veglia quando ritorna»."
+    },
+    {
+      "versi": [139, 141],
+      "testo": "Noi andavam per lo vespero, attenti\noltre quanto potean li occhi allungarsi\ncontra i raggi serotini e lucenti.",
+      "parafrasi": "Andavamo nel vespro, attenti più di quanto potevano allungarsi gli occhi contro i raggi serotini e lucenti."
+    },
+    {
+      "versi": [142, 144],
+      "testo": "Ed ecco a poco a poco un fummo farsi\nverso di noi come la notte oscuro;\nné da quello era loco da cansarsi.",
+      "parafrasi": "Ed ecco a poco a poco un fumo farsi verso di noi, oscuro come la notte; né c'era luogo per sfuggirgli."
+    },
+    {
+      "versi": [145, 145],
+      "testo": "Questo ne tolse li occhi e l’aere puro.",
+      "parafrasi": "Questo ci tolse gli occhi e l'aria pura."
+    }
+  ]
+}

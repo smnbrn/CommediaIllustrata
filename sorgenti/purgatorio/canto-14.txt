@@ -1,0 +1,329 @@
+# Purgatorio, canto XIV
+titolo: Guido del Duca, l'Arno e la Romagna
+
+## scena-1 | cornice-2 | Guido del Duca e Rinieri: la valle dell'Arno
+personaggi: dante, virgilio, guido-del-duca, rinieri-da-calboli
+tavola: ia | Guido del Duca e Rinieri: la valle dell'Arno | img/ia/purgatorio-14-scena-1.jpg
+sintesi: Due anime, chine l'una verso l'altra, parlano di Dante e gli chiedono chi sia. Dante risponde evitando il nome: viene da un fiumicello che nasce a Falterona. Capito che è l'Arno, una delle due ombre si stupisce che Dante ne taccia il nome come di una cosa orribile; l'altra risponde che ne è degno, e descrive come i popoli lungo il fiume diventano porci, botoli, lupi e volpi. Poi predice che il nipote di Rinieri farà strage dei lupi.
+
+1
+"Chi è costui che ’l nostro monte cerchia
+prima che morte li abbia dato il volo,
+e apre li occhi a sua voglia e coverchia?".
+> «Chi è costui che circonda il nostro monte prima che la morte gli abbia dato il volo, e apre e chiude gli occhi a suo piacimento?».
+
+4
+"Non so chi sia, ma so ch’e’ non è solo;
+domandal tu che più li t’avvicini,
+e dolcemente, sì che parli, acco’ lo".
+> «Non so chi sia, ma so che non è solo; chiedilo tu che gli sei più vicino, e con dolcezza, così che parli, accoglilo».
+
+7
+Così due spirti, l’uno a l’altro chini,
+ragionavan di me ivi a man dritta;
+poi fer li visi, per dirmi, supini;
+> Così due spiriti, chini l'uno verso l'altro, ragionavano di me là a destra; poi alzarono i visi, per parlarmi, supini;
+
+10
+e disse l’uno: "O anima che fitta
+nel corpo ancora inver’ lo ciel ten vai,
+per carità ne consola e ne ditta
+> e disse uno: «O anima che, ancora chiusa nel corpo, vai verso il cielo, per carità consolaci e dicci
+
+13
+onde vieni e chi se’; ché tu ne fai
+tanto maravigliar de la tua grazia,
+quanto vuol cosa che non fu più mai".
+> da dove vieni e chi sei; perché ci fai tanto meravigliare per la tua grazia, quanto vuole una cosa che non fu mai».
+
+16
+E io: "Per mezza Toscana si spazia
+un fiumicel che nasce in Falterona,
+e cento miglia di corso nol sazia.
+> E io: «Per mezza Toscana si estende un fiumicello che nasce in Falterona, e cento miglia di corso non lo saziano.
+
+19
+Di sovr’esso rech’io questa persona:
+dirvi ch’i’ sia, saria parlare indarno,
+ché ’l nome mio ancor molto non suona".
+> Da sopra di esso porto questa persona: dirvi chi sono sarebbe parlare invano, perché il mio nome ancora non risuona molto».
+
+22
+"Se ben lo ’ntendimento tuo accarno
+con lo ’ntelletto", allora mi rispuose
+quei che diceva pria, "tu parli d’Arno".
+> «Se bene capisco con l'intelletto il tuo pensiero», allora mi rispose quello che aveva parlato prima, «tu parli dell'Arno».
+
+25
+E l’altro disse lui: "Perché nascose
+questi il vocabol di quella riviera,
+pur com’om fa de l’orribili cose?".
+> E l'altro gli disse: «Perché costui nascose il nome di quel fiume, come si fa per le cose orribili?».
+
+28
+E l’ombra che di ciò domandata era,
+si sdebitò così: "Non so; ma degno
+ben è che ’l nome di tal valle pèra;
+> E l'ombra a cui era chiesto questo si sdebitò così: «Non so; ma è ben giusto che il nome di tale valle perisca;
+
+31
+ché dal principio suo, ov’è sì pregno
+l’alpestro monte ond’è tronco Peloro,
+che ’n pochi luoghi passa oltra quel segno,
+> perché dal suo principio, dove la montagna alpestre da cui fu staccato il Peloro è così gravida, che in pochi luoghi supera quel segno,
+
+34
+infin là ’ve si rende per ristoro
+di quel che ’l ciel de la marina asciuga,
+ond’ hanno i fiumi ciò che va con loro,
+> fino là dove si restituisce per ristoro di ciò che il cielo asciuga dal mare, da cui i fiumi hanno ciò che portano con sé,
+
+37
+vertù così per nimica si fuga
+da tutti come biscia, o per sventura
+del luogo, o per mal uso che li fruga:
+> la virtù è fuggita da tutti come una biscia, o per sventura del luogo, o per cattiva abitudine che li incalza:
+
+40
+ond’ hanno sì mutata lor natura
+li abitator de la misera valle,
+che par che Circe li avesse in pastura.
+> per cui gli abitanti della misera valle hanno tanto mutato la loro natura che sembra che Circe li abbia avuti al pascolo.
+
+43
+Tra brutti porci, più degni di galle
+che d’altro cibo fatto in uman uso,
+dirizza prima il suo povero calle.
+> Fra brutti porci, più degni di ghiande che di altro cibo fatto per uso umano, dirizza prima il suo povero sentiero.
+
+46
+Botoli trova poi, venendo giuso,
+ringhiosi più che non chiede lor possa,
+e da lor disdegnosa torce il muso.
+> Poi, venendo giù, trova botoli, più ringhiosi di quanto chieda la loro forza, e da loro sdegnosa torce il muso.
+
+49
+Vassi caggendo; e quant’ella più ’ngrossa,
+tanto più trova di can farsi lupi
+la maladetta e sventurata fossa.
+> Va cadendo; e quanto più ingrossa, tanto più trova che i cani diventano lupi la maledetta e sventurata fossa.
+
+52
+Discesa poi per più pelaghi cupi,
+trova le volpi sì piene di froda,
+che non temono ingegno che le occùpi.
+> Scesa poi per più pelaghi profondi, trova le volpi così piene di frode che non temono ingegno che le catturi.
+
+55
+Né lascerò di dir perch’altri m’oda;
+e buon sarà costui, s’ancor s’ammenta
+di ciò che vero spirto mi disnoda.
+> Né smetterò di dire, anche se altri mi ode; e sarà bene per costui se ancora ricorda ciò che uno spirito vero mi scioglie.
+
+58
+Io veggio tuo nepote che diventa
+cacciator di quei lupi in su la riva
+del fiero fiume, e tutti li sgomenta.
+> Io vedo tuo nipote che diventa cacciatore di quei lupi sulla riva del fiero fiume, e tutti li spaventa.
+
+61
+Vende la carne loro essendo viva;
+poscia li ancide come antica belva;
+molti di vita e sé di pregio priva.
+> Vende la loro carne essendo viva; poi li uccide come antica belva; molti privano di vita e sé di pregio.
+
+64
+Sanguinoso esce de la trista selva;
+lasciala tal, che di qui a mille anni
+ne lo stato primaio non si rinselva".
+> Esce sanguinoso dalla triste selva; la lascia tale che di qui a mille anni non torna allo stato primitivo».
+
+## scena-2 | cornice-2 | Guido del Duca e la Romagna
+personaggi: dante, virgilio, guido-del-duca, rinieri-da-calboli
+tavola: ia | Guido del Duca e la Romagna | img/ia/purgatorio-14-scena-2.jpg
+sintesi: Una delle ombre si turba alla profezia sul destino della propria famiglia; poi si rivela per Guido del Duca, bruciato di invidia, e indica Rinieri da Calboli, tutta la cui famiglia è decaduta. Piange la scomparsa dell'antica cortesia di Romagna: i buoni signori di un tempo sono morti, le famiglie estinte o tralignate. Chiude invitando Dante ad andare, perché gli è più dolce piangere che parlare.
+
+67
+Com’a l’annunzio di dogliosi danni
+si turba il viso di colui ch’ascolta,
+da qual che parte il periglio l’assanni,
+> Come all'annuncio di dolorosi danni si turba il viso di chi ascolta, da qualunque parte il pericolo lo morda,
+
+70
+così vid’io l’altr’anima, che volta
+stava a udir, turbarsi e farsi trista,
+poi ch’ebbe la parola a sé raccolta.
+> così vidi l'altra anima, che stava rivolta ad ascoltare, turbarsi e rattristarsi, dopo aver raccolto a sé la parola.
+
+73
+Lo dir de l’una e de l’altra la vista
+mi fer voglioso di saper lor nomi,
+e dimanda ne fei con prieghi mista;
+> Il discorso dell'una e l'aspetto dell'altra mi fecero desideroso di sapere i loro nomi, e ne feci domanda mista a preghiere;
+
+76
+per che lo spirto che di pria parlòmi
+ricominciò: "Tu vuo’ ch’io mi deduca
+nel fare a te ciò che tu far non vuo’ mi.
+> perciò lo spirito che mi aveva parlato per primo ricominciò: «Tu vuoi che io mi abbassi a fare per te ciò che tu non vuoi fare per me.
+
+79
+Ma da che Dio in te vuol che traluca
+tanto sua grazia, non ti sarò scarso;
+però sappi ch’io fui Guido del Duca.
+> Ma poiché Dio vuole che in te traspaia tanto la sua grazia, non ti sarò avaro; sappi dunque che fui Guido del Duca.
+
+82
+Fu il sangue mio d’invidia sì rïarso,
+che se veduto avesse uom farsi lieto,
+visto m’avresti di livore sparso.
+> Il mio sangue fu così bruciato d'invidia che, se avesse visto un uomo farsi lieto, mi avresti visto cosparso di livore.
+
+85
+Di mia semente cotal paglia mieto;
+o gente umana, perché poni ’l core
+là ’v’è mestier di consorte divieto?
+> Dal mio seme raccolgo tale paglia; o gente umana, perché poni il cuore là dove è necessario il divieto di condividere?
+
+88
+Questi è Rinier; questi è ’l pregio e l’onore
+de la casa da Calboli, ove nullo
+fatto s’è reda poi del suo valore.
+> Questi è Rinieri; questi è il pregio e l'onore della casa da Calboli, in cui nessuno si è fatto erede del suo valore.
+
+91
+E non pur lo suo sangue è fatto brullo,
+tra ’l Po e ’l monte e la marina e ’l Reno,
+del ben richesto al vero e al trastullo;
+> E non solo il suo sangue è fatto spoglio, tra il Po e il monte e la marina e il Reno, del bene richiesto al vero e al diletto;
+
+94
+ché dentro a questi termini è ripieno
+di venenosi sterpi, sì che tardi
+per coltivare omai verrebber meno.
+> perché dentro questi confini è pieno di sterpi velenosi, così che tardi, per coltivarli, verrebbero meno.
+
+97
+Ov’è ’l buon Lizio e Arrigo Mainardi?
+Pier Traversaro e Guido di Carpigna?
+Oh Romagnuoli tornati in bastardi!
+> Dov'è il buon Lizio e Arrigo Mainardi? Pier Traversaro e Guido di Carpigna? Oh Romagnoli tornati in bastardi!
+
+100
+Quando in Bologna un Fabbro si ralligna?
+quando in Faenza un Bernardin di Fosco,
+verga gentil di picciola gramigna?
+> Quando in Bologna un Fabbro rimette radici? Quando in Faenza un Bernardin di Fosco, virgulto gentile di piccola gramigna?
+
+103
+Non ti maravigliar s’io piango, Tosco,
+quando rimembro, con Guido da Prata,
+Ugolin d’Azzo che vivette nosco,
+> Non ti meravigliare se piango, Toscano, quando ricordo, con Guido da Prata, Ugolin d'Azzo che visse con noi,
+
+106
+Federigo Tignoso e sua brigata,
+la casa Traversara e li Anastagi
+(e l’una gente e l’altra è diretata),
+> Federigo Tignoso e la sua brigata, la casa Traversara e gli Anastagi (e l'una gente e l'altra è diseredata),
+
+109
+le donne e ’ cavalier, li affanni e li agi
+che ne ’nvogliava amore e cortesia
+là dove i cuor son fatti sì malvagi.
+> le donne e i cavalieri, i travagli e gli agi che ci faceva desiderare amore e cortesia là dove i cuori sono fatti così malvagi.
+
+112
+O Bretinoro, ché non fuggi via,
+poi che gita se n’è la tua famiglia
+e molta gente per non esser ria?
+> O Brettinoro, perché non fuggi via, poiché se n'è andata la tua famiglia e molta gente per non essere colpevole?
+
+115
+Ben fa Bagnacaval, che non rifiglia;
+e mal fa Castrocaro, e peggio Conio,
+che di figliar tai conti più s’impiglia.
+> Fa bene Bagnacavallo, che non rifiglia; e fa male Castrocaro, e peggio Conio, che si impiglia a figliare tali conti.
+
+118
+Ben faranno i Pagan, da che ’l demonio
+lor sen girà; ma non però che puro
+già mai rimagna d’essi testimonio.
+> Faranno bene i Pagani, quando il loro demonio se ne sarà andato; ma non perché ne resti mai pura testimonianza.
+
+121
+O Ugolin de’ Fantolin, sicuro
+è ’l nome tuo, da che più non s’aspetta
+chi far lo possa, tralignando, scuro.
+> O Ugolin de' Fantolin, sicuro è il tuo nome, perché non si aspetta più chi possa, tralignando, oscurarlo.
+
+124
+Ma va via, Tosco, omai; ch’or mi diletta
+troppo di pianger più che di parlare,
+sì m’ ha nostra ragion la mente stretta".
+> Ma va' via, Toscano, ormai; che ora mi diletta troppo piangere più che parlare, tanto la nostra ragione mi ha stretto la mente».
+
+## scena-3 | cornice-2 | Le voci dell'invidia punita
+personaggi: dante, virgilio
+tavola: ia | Le voci dell'invidia punita | img/ia/purgatorio-14-scena-3.jpg
+sintesi: Dante e Virgilio proseguono mentre le due anime li ascoltano in silenzio. Soli, odono come un fulmine che fende l'aria la voce di Caino, «Mi ucciderà chiunque mi trova», e poi quella di Aglauro, trasformata in sasso per l'invidia. Dante si stringe al poeta. Virgilio commenta: sono i freni dell'invidia; ma gli uomini abboccano all'esca dell'avversario e guardano la terra mentre il cielo li chiama.
+
+127
+Noi sapavam che quell’anime care
+ci sentivano andar; però, tacendo,
+facëan noi del cammin confidare.
+> Sapevamo che quelle care anime ci sentivano andare; perciò, tacendo, ci facevano confidare nel cammino.
+
+130
+Poi fummo fatti soli procedendo,
+folgore parve quando l’aere fende,
+voce che giunse di contra dicendo:
+> Poi, procedendo, fummo soli: come un fulmine quando fende l'aria, venne di fronte una voce che diceva:
+
+133
+’Anciderammi qualunque m’apprende’;
+e fuggì come tuon che si dilegua,
+se sùbito la nuvola scoscende.
+> «Mi ucciderà chiunque mi trova»; e fuggì come tuono che si dilegua, se improvvisamente la nuvola si squarcia.
+
+136
+Come da lei l’udir nostro ebbe triegua,
+ed ecco l’altra con sì gran fracasso,
+che somigliò tonar che tosto segua:
+> Appena il nostro udito ebbe tregua da lei, ecco l'altra con così gran fracasso che sembrò un tuono che segua subito:
+
+139
+"Io sono Aglauro che divenni sasso";
+e allor, per ristrignermi al poeta,
+in destro feci, e non innanzi, il passo.
+> «Io sono Aglauro che divenni sasso»; e allora, per stringermi al poeta, feci un passo a destra, e non avanti.
+
+142
+Già era l’aura d’ogne parte queta;
+ed el mi disse: "Quel fu ’l duro camo
+che dovria l’uom tener dentro a sua meta.
+> Già l'aria era tranquilla da ogni parte; ed egli mi disse: «Quello fu il duro morso che dovrebbe tenere l'uomo dentro il suo limite.
+
+145
+Ma voi prendete l’esca, sì che l’amo
+de l’antico avversaro a sé vi tira;
+e però poco val freno o richiamo.
+> Ma voi prendete l'esca, così che l'amo dell'antico avversario vi tira a sé; e perciò poco vale freno o richiamo.
+
+148
+Chiamavi ’l cielo e ’ntorno vi si gira,
+mostrandovi le sue bellezze etterne,
+e l’occhio vostro pur a terra mira;
+> Vi chiama il cielo e vi gira intorno, mostrandovi le sue bellezze eterne, e il vostro occhio guarda solo la terra;
+
+151
+onde vi batte chi tutto discerne".
+> per questo vi batte colui che tutto discerne».
+
+## personaggio | guido-del-duca | Guido del Duca
+dibattuto: no
+chi_era: Nobile ghibellino di Brettinoro (Bertinoro), in Romagna, vissuto nel XIII secolo e giudice a Ravenna. Dante lo usa come voce per un'invettiva sulla decadenza dell'antica cortesia romagnola.
+
+## personaggio | rinieri-da-calboli | Rinieri da Calboli
+dibattuto: no
+chi_era: Guelfo di Forlì, podestà in varie città, morto nel 1296; Dante lo ricorda come l'onore della sua casata. Il nipote Fulcieri da Calboli, podestà di Firenze nel 1303, sarà invece feroce con i bianchi.

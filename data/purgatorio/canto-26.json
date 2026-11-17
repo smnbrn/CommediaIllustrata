@@ -1,0 +1,337 @@
+{
+  "cantica": "purgatorio",
+  "canto": 26,
+  "titolo": "I lussuriosi, Guido Guinizzelli e Arnaut Daniel",
+  "fonte_testo": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_XXVI",
+  "numero_versi": 148,
+  "scene": [
+    {
+      "id": "scena-1",
+      "versi": [1, 51],
+      "titolo_scena": "I due cori dei lussuriosi",
+      "sintesi": "Mentre i poeti camminano in fila sull'orlo della cornice, il sole alla spalla destra fa sembrare più rovente la fiamma con l'ombra di Dante; le anime se ne accorgono e commentano che non sembra un corpo fittizio. Una di loro, che arde di sete e di fuoco, gli chiede come sia possibile. Ma Dante è distratto da una schiera che viene in senso opposto: le due folle si baciano brevemente come formiche e gridano esempi di lussuria («Sodoma e Gomorra», Pasifae).",
+      "luogo_id": "cornice-7",
+      "personaggi": ["dante", "virgilio", "stazio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "I due cori dei lussuriosi",
+          "url": "img/ia/purgatorio-26-scena-1.jpg",
+          "miniatura": "img/ia/purgatorio-26-scena-1.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-2",
+      "versi": [52, 90],
+      "titolo_scena": "Le due specie di lussuria",
+      "sintesi": "Dante si presenta: è vivo, sale per non essere più cieco, guidato da una donna celeste. Chiede chi siano e chi sia l'altra schiera. Le ombre si stupiscono come montanari in città; poi la prima risponde: gli altri peccarono di ciò che Cesare fu accusato quando lo chiamarono «regina», e per questo gridano «Sodoma»; i primi si abbandonarono come bestie, e per vergogna gridano di Pasifae.",
+      "luogo_id": "cornice-7",
+      "personaggi": ["dante", "virgilio", "stazio"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Le due specie di lussuria",
+          "url": "img/ia/purgatorio-26-scena-2.jpg",
+          "miniatura": "img/ia/purgatorio-26-scena-2.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-3",
+      "versi": [91, 132],
+      "titolo_scena": "Guido Guinizzelli",
+      "sintesi": "Un'anima dice di essere Guido Guinizzelli, già pentito prima di morire. Dante, come i figli di Isifile che ritrovarono la madre, vorrebbe abbracciarlo, ma il fuoco lo trattiene: lo riconosce come padre suo e dei migliori poeti d'amore. Guinizzelli gli indica un altro poeta, miglior fabbro del parlar materno, superiore a Giraut de Bornelh e a Guittone; poi chiede un paternostro, e scompare nel fuoco come un pesce nell'acqua.",
+      "luogo_id": "cornice-7",
+      "personaggi": ["dante", "virgilio", "stazio", "guido-guinizzelli"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Guido Guinizzelli",
+          "url": "img/ia/purgatorio-26-scena-3.jpg",
+          "miniatura": "img/ia/purgatorio-26-scena-3.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    },
+    {
+      "id": "scena-4",
+      "versi": [133, 148],
+      "titolo_scena": "Arnaut Daniel",
+      "sintesi": "Guinizzelli sparisce nel fuoco come il pesce nell'acqua; Dante si avvicina al poeta indicato e gli dice che il suo nome avrà un posto gradito nel suo desiderio. Questi risponde in provenzale: è Arnaut, che piange e va cantando; vede con dolore la passata follia e con gioia la gioia che spera. Prega Dante di ricordarsi a tempo del suo dolore, e si nasconde nel fuoco che lo affina.",
+      "luogo_id": "cornice-7",
+      "personaggi": ["dante", "virgilio", "stazio", "arnaut-daniel"],
+      "tavole": [
+        {
+          "autore_id": "ia",
+          "autore": "Illustrazione generata con IA",
+          "titolo": "Arnaut Daniel",
+          "url": "img/ia/purgatorio-26-scena-4.jpg",
+          "miniatura": "img/ia/purgatorio-26-scena-4.jpg",
+          "fonte": "https://github.com/smnbrn/CommediaIllustrata/blob/main/data/illustrazioni-ia.md",
+          "licenza": "Generata con Gemini nello stile di Doré, non è un'opera di Doré"
+        }
+      ]
+    }
+  ],
+  "terzine": [
+    {
+      "versi": [1, 3],
+      "testo": "Mentre che sì per l’orlo, uno innanzi altro,\nce n’andavamo, e spesso il buon maestro\ndiceami: \"Guarda: giovi ch’io ti scaltro\";",
+      "parafrasi": "Mentre così, per l'orlo, uno davanti all'altro, andavamo, e spesso il buon maestro mi diceva: «Guarda: giovi che io ti avverta»;"
+    },
+    {
+      "versi": [4, 6],
+      "testo": "feriami il sole in su l’omero destro,\nche già, raggiando, tutto l’occidente\nmutava in bianco aspetto di cilestro;",
+      "parafrasi": "il sole mi feriva sulla spalla destra, che già, raggiando, tutto l'occidente mutava in aspetto bianco di cilestro;"
+    },
+    {
+      "versi": [7, 9],
+      "testo": "e io facea con l’ombra più rovente\nparer la fiamma; e pur a tanto indizio\nvidi molt’ombre, andando, poner mente.",
+      "parafrasi": "e io facevo con l'ombra più rovente apparire la fiamma; e già a tale indizio vidi molte ombre, andando, far attenzione."
+    },
+    {
+      "versi": [10, 12],
+      "testo": "Questa fu la cagion che diede inizio\nloro a parlar di me; e cominciarsi\na dir: \"Colui non par corpo fittizio\";",
+      "parafrasi": "Questa fu la causa che diede a loro inizio a parlare di me; e cominciarono a dire: «Costui non sembra corpo fittizio»;"
+    },
+    {
+      "versi": [13, 15],
+      "testo": "poi verso me, quanto potëan farsi,\ncerti si fero, sempre con riguardo\ndi non uscir dove non fosser arsi.",
+      "parafrasi": "poi verso di me, quanto potevano avvicinarsi, alcuni si fecero, sempre con attenzione di non uscire dove non fossero bruciati."
+    },
+    {
+      "versi": [16, 18],
+      "testo": "\"O tu che vai, non per esser più tardo,\nma forse reverente, a li altri dopo,\nrispondi a me che ’n sete e ’n foco ardo.",
+      "parafrasi": "«O tu che vai, non per essere più lento, ma forse per rispetto, dietro agli altri, rispondi a me che sono in sete e in fuoco."
+    },
+    {
+      "versi": [19, 21],
+      "testo": "Né solo a me la tua risposta è uopo;\nché tutti questi n’ hanno maggior sete\nche d’acqua fredda Indo o Etïopo.",
+      "parafrasi": "Né solo a me serve la tua risposta; perché tutti questi ne hanno più sete che d'acqua fredda l'Indiano o l'Etiope."
+    },
+    {
+      "versi": [22, 24],
+      "testo": "Dinne com’è che fai di te parete\nal sol, pur come tu non fossi ancora\ndi morte intrato dentro da la rete\".",
+      "parafrasi": "Dicci come fai di te parete al sole, proprio come se non fossi ancora entrato nella rete della morte»."
+    },
+    {
+      "versi": [25, 27],
+      "testo": "Sì mi parlava un d’essi; e io mi fora\ngià manifesto, s’io non fossi atteso\nad altra novità ch’apparve allora;",
+      "parafrasi": "Così mi parlava uno di essi; e io mi sarei già manifestato, se non fossi stato attento ad altra novità che apparve allora;"
+    },
+    {
+      "versi": [28, 30],
+      "testo": "ché per lo mezzo del cammino acceso\nvenne gente col viso incontro a questa,\nla qual mi fece a rimirar sospeso.",
+      "parafrasi": "perché per mezzo del cammino acceso venne gente con il viso contro a questa, che mi fece guardare sospeso."
+    },
+    {
+      "versi": [31, 33],
+      "testo": "Lì veggio d’ogne parte farsi presta\nciascun’ombra e basciarsi una con una\nsanza restar, contente a brieve festa;",
+      "parafrasi": "Lì vedo da ogni parte farsi presta ciascuna ombra e baciarsi una con l'altra, senza fermarsi, contente di breve festa;"
+    },
+    {
+      "versi": [34, 36],
+      "testo": "così per entro loro schiera bruna\ns’ammusa l’una con l’altra formica,\nforse a spïar lor via e lor fortuna.",
+      "parafrasi": "così dentro la loro schiera bruna si ammusa una formica con l'altra, forse a spiare la loro via e la loro fortuna."
+    },
+    {
+      "versi": [37, 39],
+      "testo": "Tosto che parton l’accoglienza amica,\nprima che ’l primo passo lì trascorra,\nsopragridar ciascuna s’affatica:",
+      "parafrasi": "Appena partono l'accoglienza amica, prima che il primo passo lì trascorra, ciascuna si affatica a gridare più forte:"
+    },
+    {
+      "versi": [40, 42],
+      "testo": "la nova gente: \"Soddoma e Gomorra\";\ne l’altra: \"Ne la vacca entra Pasife,\nperché ’l torello a sua lussuria corra\".",
+      "parafrasi": "la gente nuova: «Sodoma e Gomorra»; e l'altra: «Nella vacca entra Pasifae, perché il torello corra alla sua lussuria»."
+    },
+    {
+      "versi": [43, 45],
+      "testo": "Poi, come grue ch’a le montagne Rife\nvolasser parte, e parte inver’ l’arene,\nqueste del gel, quelle del sole schife,",
+      "parafrasi": "Poi, come gru che alle montagne Rife volassero in parte, e in parte verso le sabbie, queste del gelo, quelle del sole schive,"
+    },
+    {
+      "versi": [46, 48],
+      "testo": "l’una gente sen va, l’altra sen vene;\ne tornan, lagrimando, a’ primi canti\ne al gridar che più lor si convene;",
+      "parafrasi": "l'una gente se ne va, l'altra se ne viene; e tornano, piangendo, ai primi canti e al gridare che più loro si conviene;"
+    },
+    {
+      "versi": [49, 51],
+      "testo": "e raccostansi a me, come davanti,\nessi medesmi che m’avean pregato,\nattenti ad ascoltar ne’ lor sembianti.",
+      "parafrasi": "e si raccostano a me, come prima, quelli stessi che mi avevano pregato, attenti ad ascoltare nei loro sembianti."
+    },
+    {
+      "versi": [52, 54],
+      "testo": "Io, che due volte avea visto lor grato,\nincominciai: \"O anime sicure\nd’aver, quando che sia, di pace stato,",
+      "parafrasi": "Io, che due volte avevo visto il loro desiderio, cominciai: «O anime sicure di avere, quando che sia, stato di pace,"
+    },
+    {
+      "versi": [55, 57],
+      "testo": "non son rimase acerbe né mature\nle membra mie di là, ma son qui meco\ncol sangue suo e con le sue giunture.",
+      "parafrasi": "le mie membra di là non sono rimaste acerbe né mature, ma sono qui con me col loro sangue e con le loro giunture."
+    },
+    {
+      "versi": [58, 60],
+      "testo": "Quinci sù vo per non esser più cieco;\ndonna è di sopra che m’acquista grazia,\nper che ’l mortal per vostro mondo reco.",
+      "parafrasi": "Di qui salgo per non essere più cieco; c'è sopra una donna che mi acquista grazia, per cui porto il mortale per il vostro mondo."
+    },
+    {
+      "versi": [61, 63],
+      "testo": "Ma se la vostra maggior voglia sazia\ntosto divegna, sì che ’l ciel v’alberghi\nch’è pien d’amore e più ampio si spazia,",
+      "parafrasi": "Ma, se la vostra maggior voglia sia presto saziata, così che vi albergi il cielo che è pieno d'amore e più ampio si spazia,"
+    },
+    {
+      "versi": [64, 66],
+      "testo": "ditemi, acciò ch’ancor carte ne verghi,\nchi siete voi, e chi è quella turba\nche se ne va di retro a’ vostri terghi\".",
+      "parafrasi": "ditemi, perché io ne scriva ancora, chi siete voi, e chi è quella turba che se ne va dietro alle vostre spalle»."
+    },
+    {
+      "versi": [67, 69],
+      "testo": "Non altrimenti stupido si turba\nlo montanaro, e rimirando ammuta,\nquando rozzo e salvatico s’inurba,",
+      "parafrasi": "Non diversamente stupito si turba il montanaro, e guardando ammutolisce, quando rozzo e selvatico entra in città,"
+    },
+    {
+      "versi": [70, 72],
+      "testo": "che ciascun’ombra fece in sua paruta;\nma poi che furon di stupore scarche,\nlo qual ne li alti cuor tosto s’attuta,",
+      "parafrasi": "di quanto fece ciascuna ombra nel suo aspetto; ma dopo che furono liberate dallo stupore, che nei cuori alti presto si acquieta,"
+    },
+    {
+      "versi": [73, 75],
+      "testo": "\"Beato te, che de le nostre marche\",\nricominciò colei che pria m’inchiese,\n\"per morir meglio, esperïenza imbarche!",
+      "parafrasi": "«Beato te, che dei nostri confini», ricominciò colei che prima mi aveva interrogato, «per morire meglio, esperienza imbarchi!"
+    },
+    {
+      "versi": [76, 78],
+      "testo": "La gente che non vien con noi, offese\ndi ciò per che già Cesar, trïunfando,\n\"Regina\" contra sé chiamar s’intese:",
+      "parafrasi": "La gente che non viene con noi, offese ciò per cui già Cesare, trionfando, sentì chiamare «Regina» contro di sé:"
+    },
+    {
+      "versi": [79, 81],
+      "testo": "però si parton \"Soddoma\" gridando,\nrimproverando a sé com’ hai udito,\ne aiutan l’arsura vergognando.",
+      "parafrasi": "perciò si partono gridando «Sodoma», rimproverando se stessi come hai udito, e aiutano l'arsura vergognandosi."
+    },
+    {
+      "versi": [82, 84],
+      "testo": "Nostro peccato fu ermafrodito;\nma perché non servammo umana legge,\nseguendo come bestie l’appetito,",
+      "parafrasi": "Il nostro peccato fu ermafrodito; ma poiché non servimmo la legge umana, seguendo come bestie l'appetito,"
+    },
+    {
+      "versi": [85, 87],
+      "testo": "in obbrobrio di noi, per noi si legge,\nquando partinci, il nome di colei\nche s’imbestiò ne le ’mbestiate schegge.",
+      "parafrasi": "in nostro obbrobrio, da noi si legge, quando ci partiamo, il nome di colei che si imbestiò nelle assi imbestiate."
+    },
+    {
+      "versi": [88, 90],
+      "testo": "Or sai nostri atti e di che fummo rei:\nse forse a nome vuo’ saper chi semo,\ntempo non è di dire, e non saprei.",
+      "parafrasi": "Ora sai i nostri atti e di che fummo rei: se forse vuoi sapere per nome chi siamo, non c'è tempo di dirlo, e non saprei."
+    },
+    {
+      "versi": [91, 93],
+      "testo": "Farotti ben di me volere scemo:\nson Guido Guinizzelli, e già mi purgo\nper ben dolermi prima ch’a lo stremo\".",
+      "parafrasi": "Ti farò ben diminuito il desiderio di me: sono Guido Guinizzelli, e già mi purgo per essermi ben doluto prima dell'ultimo»."
+    },
+    {
+      "versi": [94, 96],
+      "testo": "Quali ne la tristizia di Ligurgo\nsi fer due figli a riveder la madre,\ntal mi fec’io, ma non a tanto insurgo,",
+      "parafrasi": "Quali nella tristezza di Licurgo si fecero due figli a rivedere la madre, tale mi feci io, ma non mi spingo a tanto,"
+    },
+    {
+      "versi": [97, 99],
+      "testo": "quand’io odo nomar sé stesso il padre\nmio e de li altri miei miglior che mai\nrime d’amor usar dolci e leggiadre;",
+      "parafrasi": "quando sento nominare se stesso il padre mio e degli altri miei migliori che mai usarono rime d'amore dolci e leggiadre;"
+    },
+    {
+      "versi": [100, 102],
+      "testo": "e sanza udire e dir pensoso andai\nlunga fïata rimirando lui,\nné, per lo foco, in là più m’appressai.",
+      "parafrasi": "e senza udire e dire andai pensoso a lungo guardandolo, né, per il fuoco, mi avvicinai più oltre."
+    },
+    {
+      "versi": [103, 105],
+      "testo": "Poi che di riguardar pasciuto fui,\ntutto m’offersi pronto al suo servigio\ncon l’affermar che fa credere altrui.",
+      "parafrasi": "Dopo che fui sazio di guardare, mi offrii tutto pronto al suo servizio con l'affermare che fa credere gli altri."
+    },
+    {
+      "versi": [106, 108],
+      "testo": "Ed elli a me: \"Tu lasci tal vestigio,\nper quel ch’i’ odo, in me, e tanto chiaro,\nche Letè nol può tòrre né far bigio.",
+      "parafrasi": "Ed egli a me: «Tu lasci tale traccia, per quello che sento, in me, e tanto chiara, che Lete non la può togliere né rendere grigia."
+    },
+    {
+      "versi": [109, 111],
+      "testo": "Ma se le tue parole or ver giuraro,\ndimmi che è cagion per che dimostri\nnel dire e nel guardar d’avermi caro\".",
+      "parafrasi": "Ma se le tue parole ora giurarono il vero, dimmi qual è la causa per cui mostri nel dire e nel guardare di avermi caro»."
+    },
+    {
+      "versi": [112, 114],
+      "testo": "E io a lui: \"Li dolci detti vostri,\nche, quanto durerà l’uso moderno,\nfaranno cari ancora i loro incostri\".",
+      "parafrasi": "E io a lui: «I vostri dolci detti, che, finché durerà l'uso moderno, renderanno ancora cari i loro inchiostri»."
+    },
+    {
+      "versi": [115, 117],
+      "testo": "\"O frate\", disse, \"questi ch’io ti cerno\ncol dito\", e additò un spirto innanzi,\n\"fu miglior fabbro del parlar materno.",
+      "parafrasi": "«O fratello», disse, «questi che ti indico col dito», e indicò uno spirito davanti, «fu miglior fabbro del parlar materno."
+    },
+    {
+      "versi": [118, 120],
+      "testo": "Versi d’amore e prose di romanzi\nsoverchiò tutti; e lascia dir li stolti\nche quel di Lemosì credon ch’avanzi.",
+      "parafrasi": "Versi d'amore e prose di romanzi superò tutti; e lascia dire gli stolti che credono che quello di Limoges lo superi."
+    },
+    {
+      "versi": [121, 123],
+      "testo": "A voce più ch’al ver drizzan li volti,\ne così ferman sua oppinïone\nprima ch’arte o ragion per lor s’ascolti.",
+      "parafrasi": "A voce più che al vero volgono i volti, e così fermano la loro opinione prima che arte o ragione per loro sia ascoltata."
+    },
+    {
+      "versi": [124, 126],
+      "testo": "Così fer molti antichi di Guittone,\ndi grido in grido pur lui dando pregio,\nfin che l’ ha vinto il ver con più persone.",
+      "parafrasi": "Così fecero molti antichi di Guittone, di grido in grido dandogli solo pregio, finché l'ha vinto il vero con più persone."
+    },
+    {
+      "versi": [127, 129],
+      "testo": "Or se tu hai sì ampio privilegio,\nche licito ti sia l’andare al chiostro\nnel quale è Cristo abate del collegio,",
+      "parafrasi": "Ora se tu hai così ampio privilegio, che ti sia lecito andare al chiostro nel quale Cristo è abate del collegio,"
+    },
+    {
+      "versi": [130, 132],
+      "testo": "falli per me un dir d’un paternostro,\nquanto bisogna a noi di questo mondo,\ndove poter peccar non è più nostro\".",
+      "parafrasi": "fagli per me una recita di un paternostro, quanto occorre a noi di questo mondo, dove il poter peccare non è più nostro»."
+    },
+    {
+      "versi": [133, 135],
+      "testo": "Poi, forse per dar luogo altrui secondo\nche presso avea, disparve per lo foco,\ncome per l’acqua il pesce andando al fondo.",
+      "parafrasi": "Poi, forse per dare luogo ad altri secondo, che aveva vicino, scomparve per il fuoco, come per l'acqua il pesce andando a fondo."
+    },
+    {
+      "versi": [136, 138],
+      "testo": "Io mi fei al mostrato innanzi un poco,\ne dissi ch’al suo nome il mio disire\napparecchiava grazïoso loco.",
+      "parafrasi": "Io mi feci un poco avanti verso quello indicato, e dissi che al suo nome il mio desiderio preparava un luogo gradito."
+    },
+    {
+      "versi": [139, 141],
+      "testo": "El cominciò liberamente a dire:\n\"Tan m’abellis vostre cortes deman,\nqu’ ieu no me puesc ni voill a vos cobrire.",
+      "parafrasi": "Egli cominciò liberamente a dire: «Tanto mi è gradita la vostra cortese domanda, che io non mi posso né voglio nascondere a voi."
+    },
+    {
+      "versi": [142, 144],
+      "testo": "Ieu sui Arnaut, que plor e vau cantan;\nconsiros vei la passada folor,\ne vei jausen lo joi qu’ esper, denan.",
+      "parafrasi": "Io sono Arnaut, che piango e vado cantando; pensoso vedo la passata follia, e vedo gioioso la gioia che spero davanti."
+    },
+    {
+      "versi": [145, 147],
+      "testo": "Ara vos prec, per aquella valor\nque vos guida al som de l’escalina,\nsovenha vos a temps de ma dolor!\".",
+      "parafrasi": "Ora vi prego, per quel valore che vi guida alla cima della scala, vi sovvenga a tempo del mio dolore!»."
+    },
+    {
+      "versi": [148, 148],
+      "testo": "Poi s’ascose nel foco che li affina.",
+      "parafrasi": "Poi si nascose nel fuoco che li affina."
+    }
+  ]
+}
