@@ -8,7 +8,8 @@ using UnityEngine;
 public static class AmbientiPurgatorio
 {
     // rotazioni di calibrazione per far guardare ogni modello in avanti (+Z)
-    const float YAW_ANGELO = 0f, YAW_BARCA = 90f, YAW_SERPENTE = 0f, YAW_ARCO = 0f, YAW_DONNA = 0f, YAW_CARRO = 0f, YAW_MONACO = 0f, YAW_CATONE = 0f;
+    const float YAW_ANGELO = 0f, YAW_BARCA = 90f, YAW_SERPENTE = 0f, YAW_ARCO = 0f, YAW_DONNA = 0f, YAW_CARRO = 0f, YAW_MONACO = 0f, YAW_CATONE = 0f, YAW_SCALA = 0f;
+    public const float ALTEZZA_SCALA = 1.5f;
 
     static Transform Nodo(Transform padre, string nome) { var g = new GameObject(nome); g.transform.SetParent(padre, false); return g.transform; }
 
@@ -23,7 +24,7 @@ public static class AmbientiPurgatorio
 
     static float Casuale(System.Random r, float a, float b) { return a + (b - a) * (float)r.NextDouble(); }
 
-    public static Dictionary<string, GameObject> Costruisci(Transform padre, Monte m, Material matColore, Dictionary<string, Vector3> luoghiEffetti)
+    public static Dictionary<string, GameObject> Costruisci(Transform padre, Monte m, Material matColore, Dictionary<string, Vector3> luoghiEffetti, List<Bounds> ingombri)
     {
         var rnd = new System.Random(2024);
         var radice = Nodo(padre, "Ambienti");
@@ -169,13 +170,10 @@ public static class AmbientiPurgatorio
             Vector3 interno = m.Punto(i, lv.angolo, 0f);                 // bordo interno del ripiano, contro la parete
             float yaw = Monte.YawVerso(fuori) + YAW_ARCO;
             // i tre gradini (marmo bianco, pietra scura e crepata, porfido rosso), poi l'arco che sta in cima
-            var f = figure[i];
-            f.M = Matrix4x4.TRS(interno, Quaternion.Euler(0f, Monte.YawVerso(fuori), 0f), Vector3.one);
-            f.Scatola(new Vector3(0f, 0.15f, 3.88f), new Vector3(7.2f, 0.3f, 0.95f), new Color(0.92f, 0.92f, 0.9f));
-            f.Scatola(new Vector3(0f, 0.30f, 2.93f), new Vector3(7.2f, 0.6f, 0.95f), new Color(0.22f, 0.15f, 0.26f));
-            f.Scatola(new Vector3(0f, 0.45f, 1.98f), new Vector3(7.2f, 0.9f, 0.95f), new Color(0.72f, 0.16f, 0.12f));
-            f.M = Matrix4x4.identity;
-            var arco = Props.Metti("Arco", nodi[i], interno + fuori * 0.85f + Vector3.up * 0.9f, yaw + 90f, 9f, true, new Color(1f, 0.92f, 0.75f), 0.75f);
+            // la scalinata (modello Sketchfab) adattata al ripiano: larga 7.2 lungo il bordo, profonda 4.2 verso l'esterno, alta 1.5;
+            // sale verso la parete, dove sta l'arco
+            var scala = Props.MettiScatola("Scala", nodi[i], interno + fuori * 2.4f, Monte.YawVerso(fuori) + YAW_SCALA, 7.2f, 4.2f, ALTEZZA_SCALA, false, new Color(1f, 0.92f, 0.75f), 0.75f);
+            var arco = Props.Metti("Arco", nodi[i], interno + fuori * 0.85f + Vector3.up * ALTEZZA_SCALA, yaw + 90f, 9f, true, new Color(1f, 0.92f, 0.75f), 0.75f);
             Zona(interno + fuori * 2.6f, 4.2f);
             Angelo(i, "AngeloArgento", 6f, 0.8f, 4.8f, new Color(1f, 0.95f, 0.8f));
             Rocce(i, 4, 14, 0.5f, 0.9f, 1.2f, 2.4f);
@@ -215,14 +213,21 @@ public static class AmbientiPurgatorio
             if (carro != null)
             {
                 var bc = Props.Limiti(carro);
-                // Beatrice in piedi sul tetto del carro
-                var beatrice = Props.Metti("DonnaRuby", nodi[i], new Vector3(bc.center.x, bc.max.y - 0.15f, bc.center.z), Monte.YawVerso(fc) + YAW_DONNA, 3.8f, true, new Color(1f, 0.85f, 0.8f), 0.75f);
+                // Beatrice in piedi sul carro: un raggio verso il basso su collider temporanei trova il punto d'appoggio
+                Vector3 appoggio = new Vector3(bc.center.x, bc.center.y, bc.center.z);
+                var tmp = new List<MeshCollider>();
+                foreach (var mf in carro.GetComponentsInChildren<MeshFilter>()) { var mc = mf.gameObject.AddComponent<MeshCollider>(); mc.sharedMesh = mf.sharedMesh; tmp.Add(mc); }
+                Physics.SyncTransforms();
+                if (Physics.Raycast(new Vector3(bc.center.x, bc.max.y + 4f, bc.center.z), Vector3.down, out var colpo, 30f)) appoggio = colpo.point;
+                foreach (var mc in tmp) UnityEngine.Object.Destroy(mc);
+                var beatrice = Props.Metti("DonnaRuby", nodi[i], appoggio, Monte.YawVerso(fc) + YAW_DONNA, 3.8f, true, new Color(1f, 0.85f, 0.8f), 0.75f);
                 if (beatrice != null) prot["paradiso-terrestre#beatrice"] = beatrice;
-                Zona(bc.center, Mathf.Max(bc.extents.x, bc.extents.z) + 1.5f);
+                Zona(bc.center, Mathf.Max(bc.extents.x, bc.extents.z) + 3f);
             }
             for (int k = 0; k < 7; k++)
             {
-                var pcand = E(a0 - 105f + k * 7f, 0.48f - k * 0.002f);
+                var pcand = E(a0 - 160f + k * 6f, 0.5f);
+                if (!Libero(pcand + Vector3.up * 1.5f, 1.4f)) continue;      // mai addosso al carro o al percorso
                 var cand = Props.Metti("Candele", nodi[i], pcand, 0f, 3.8f, true, new Color(1f, 0.85f, 0.5f), 0.8f);
                 if (cand != null) Zona(pcand + Vector3.up * 1.5f, 1.4f);
             }
@@ -306,6 +311,15 @@ public static class AmbientiPurgatorio
         }
         for (int i = 0; i < figure.Length; i++)
             if (!figure[i].Vuota) MeshObj(nodi[i], "Figure", figure[i].Costruisci("Figure " + m.liv[i].luogo.id), matColore);
+        // ingombri per la camera: tutto ciò che è abbastanza grande da essere attraversato
+        foreach (var g in new[] { rocce, querce, cespugli, bambu }) foreach (var b in g.ingombri) { var bb = b; bb.Expand(0.6f); ingombri.Add(bb); }
+        foreach (var g in monaci) if (g != null) foreach (var b in g.ingombri) { var bb = b; bb.Expand(0.5f); ingombri.Add(bb); }
+        foreach (var n in nodi)
+            foreach (Transform c in n)
+            {
+                if (c.name == "Monaci" || c.name == "Figure") continue;
+                var b = Props.Limiti(c.gameObject); b.Expand(0.5f); ingombri.Add(b);
+            }
         return prot;
     }
 }

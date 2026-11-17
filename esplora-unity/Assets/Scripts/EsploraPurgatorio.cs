@@ -29,6 +29,8 @@ public class EsploraPurgatorio : MonoBehaviour
     readonly List<Segnaposto> segnaposti = new List<Segnaposto>();
     readonly Dictionary<string, List<RiferimentoScena>> scenePerLuogo = new Dictionary<string, List<RiferimentoScena>>();
     Segnaposto selezionato, precedente;
+    readonly List<Bounds> ingombri = new List<Bounds>();   // rocce, alberi, figure ecc.: la camera non ci entra
+    bool InIngombro(Vector3 p) { for (int i = 0; i < ingombri.Count; i++) if (ingombri[i].Contains(p)) return true; return false; }
     string stato = "Carico i dati…";
 
     // viaggio di Dante lungo la scala
@@ -144,12 +146,12 @@ public class EsploraPurgatorio : MonoBehaviour
     {
         monte = new Monte(luoghi);
         matColore = NuovoMateriale(Color.white);
-        cam.Ostacolo = p => monte.Solido(p, 1.2f);
+        cam.Ostacolo = p => monte.Solido(p, 1.2f) || InIngombro(p);
 
         // il monte (con collider: nasconde le etichette dietro la roccia), le scale, il mare
         var matSuolo = TexturaTerreno.Materiale() ?? matColore;
         Oggetto("Monte", transform, monte.MeshMonte(), matSuolo, true);
-        Oggetto("Scale", transform, monte.MeshScale(), matColore, false);
+        // (il nastro chiaro della scala nella parete, monte.MeshScale(), è tolto: da vicino si vedeva come frammenti sottili sotto la linea)
         var shAcqua = Resources.Load<Shader>("Acqua");
         matAcqua = shAcqua != null ? new Material(shAcqua) : matColore;
         Oggetto("Mare", transform, monte.MeshMare(), matAcqua, false);
@@ -181,7 +183,7 @@ public class EsploraPurgatorio : MonoBehaviour
 
         // scenografia: modelli e figure
         var effetti = new Dictionary<string, Vector3>();
-        protagonisti = AmbientiPurgatorio.Costruisci(transform, monte, matColore, effetti);
+        protagonisti = AmbientiPurgatorio.Costruisci(transform, monte, matColore, effetti, ingombri);
 
         // percorso: dal centro di un ripiano alla scala fino al successivo
         monte.Percorso(percorso, indiciLuoghi);
@@ -223,35 +225,40 @@ public class EsploraPurgatorio : MonoBehaviour
     // Gli indici dei luoghi vengono aggiornati sulla nuova curva.
     void AddolciscePercorso()
     {
-        const int N = 8;
-        var src = new List<Vector3>(percorso); var idxVecchi = new List<int>(indiciLuoghi);
-        var nuovo = new List<Vector3>(); var mappa = new int[src.Count];
-        Vector3 Pt(int k)
+        // 1) angoli arrotondati (taglio degli spigoli di Chaikin, 3 passate); 2) campionamento regolare ogni ~0.7 unità;
+        // 3) ogni luogo prende il punto della curva più vicino alla sua posizione originale
+        var orig = new List<Vector3>(percorso); var luoghi = new List<Vector3>(); foreach (int v in indiciLuoghi) luoghi.Add(orig[v]);
+        var pts = new List<Vector3>(orig);
+        for (int it = 0; it < 3; it++)
         {
-            if (k < 0) return 2f * src[0] - src[1];                                              // estremi riflessi
-            if (k >= src.Count) return 2f * src[src.Count - 1] - src[src.Count - 2];
-            return src[k];
+            var q = new List<Vector3> { pts[0] };
+            for (int k = 0; k < pts.Count - 1; k++) { q.Add(Vector3.Lerp(pts[k], pts[k + 1], 0.25f)); q.Add(Vector3.Lerp(pts[k], pts[k + 1], 0.75f)); }
+            q.Add(pts[pts.Count - 1]); pts = q;
         }
-        for (int k = 0; k < src.Count - 1; k++)
+        var nuovo = new List<Vector3> { pts[0] };
+        float passo = 0.7f, resto = passo;
+        for (int k = 1; k < pts.Count; k++)
         {
-            mappa[k] = nuovo.Count;
-            Vector3 p0 = Pt(k - 1), p1 = Pt(k), p2 = Pt(k + 1), p3 = Pt(k + 2);
-            // Catmull-Rom centripeta (Barry-Goldman): non sbanda dove un tratto lungo segue uno corto
-            float t0 = 0f, t1 = t0 + Mathf.Sqrt(Mathf.Max(Vector3.Distance(p0, p1), 0.001f)), t2 = t1 + Mathf.Sqrt(Mathf.Max(Vector3.Distance(p1, p2), 0.001f)), t3 = t2 + Mathf.Sqrt(Mathf.Max(Vector3.Distance(p2, p3), 0.001f));
-            for (int q = 0; q < N; q++)
-            {
-                float t = Mathf.Lerp(t1, t2, q / (float)N);
-                Vector3 a1 = (t1 - t) / (t1 - t0) * p0 + (t - t0) / (t1 - t0) * p1;
-                Vector3 a2 = (t2 - t) / (t2 - t1) * p1 + (t - t1) / (t2 - t1) * p2;
-                Vector3 a3 = (t3 - t) / (t3 - t2) * p2 + (t - t2) / (t3 - t2) * p3;
-                Vector3 b1 = (t2 - t) / (t2 - t0) * a1 + (t - t0) / (t2 - t0) * a2;
-                Vector3 b2 = (t3 - t) / (t3 - t1) * a2 + (t - t1) / (t3 - t1) * a3;
-                nuovo.Add((t2 - t) / (t2 - t1) * b1 + (t - t1) / (t2 - t1) * b2);
-            }
+            Vector3 a = nuovo[nuovo.Count - 1], b = pts[k]; float d = Vector3.Distance(a, b);
+            while (d >= resto) { a = Vector3.Lerp(a, b, resto / d); nuovo.Add(a); d = Vector3.Distance(a, b); resto = passo; }
+            resto -= d;
         }
-        mappa[src.Count - 1] = nuovo.Count; nuovo.Add(src[src.Count - 1]);
+        nuovo.Add(pts[pts.Count - 1]);
+        // la curva non scende mai sotto il terreno
+        for (int k = 0; k < nuovo.Count; k++)
+        {
+            var p = nuovo[k]; float h = monte.Altezza(new Vector2(p.x, p.z).magnitude) + 0.35f;
+            if (p.y < h) { p.y = h; nuovo[k] = p; }
+        }
         percorso.Clear(); percorso.AddRange(nuovo);
-        indiciLuoghi.Clear(); foreach (int v in idxVecchi) indiciLuoghi.Add(mappa[v]);
+        indiciLuoghi.Clear();
+        int ultimo = 0;
+        foreach (var lp in luoghi)
+        {
+            int best = ultimo; float bd = float.MaxValue;
+            for (int k = ultimo; k < nuovo.Count; k++) { float d = (nuovo[k] - lp).sqrMagnitude; if (d < bd) { bd = d; best = k; } }
+            indiciLuoghi.Add(best); ultimo = best;
+        }
     }
 
     // ---------- atmosfera: polline nel giardino, fumo nella terza cornice, fiamme nella settima, lucciole nella valletta ----------

@@ -128,6 +128,16 @@ public class Monte
         return Mathf.Lerp(liv[i].rInt, liv[i + 1].rEst, t);
     }
 
+    // la parete è liscia sotto la scala (la scala segue l'angolo da un ripiano all'altro), ruvida altrove
+    float Liscio(int lev, int s, float t)
+    {
+        if (lev + 1 >= liv.Count) return 1f;
+        float az = s / (float)SEG * 360f;
+        float a = Mathf.LerpAngle(liv[lev].angolo, liv[lev + 1].angolo, t);
+        float d = Mathf.Abs(Mathf.DeltaAngle(az, a));
+        return Mathf.SmoothStep(0f, 1f, (d - 4f) / 10f);
+    }
+
     static float Rugosita(float s, float t, int seg)
     {
         float n = 0.5f * (Mathf.Sin(s * 0.83f + seg * 1.7f) + Mathf.Sin(s * 2.11f + seg * 0.9f + t * 3f));
@@ -153,16 +163,16 @@ public class Monte
                     float t = k / (float)N;
                     float ang = Mathf.LerpAngle(p.angolo, m.angolo, t) * Mathf.Deg2Rad;
                     float y = Mathf.Lerp(p.y, m.y, t);
-                    float r = RaggioParete(i - 1, t) + 1.3f;
+                    float r = RaggioParete(i - 1, t) + 0.9f;
                     punti.Add(new Vector3(Mathf.Cos(ang) * r, y + 0.35f, Mathf.Sin(ang) * r));
                 }
                 // dall'arrivo sul bordo esterno al centro del ripiano
                 indiciLuoghi.Add(punti.Count);
-                punti.Add(Punto(i, m.angolo, i == liv.Count - 1 ? 0.0f : 0.5f) + Vector3.up * (0.4f + (i == 5 ? 1.0f : 0f)));
+                punti.Add(Punto(i, m.angolo, i == liv.Count - 1 ? 0.0f : 0.5f) + Vector3.up * (0.4f + (i == 5 ? AmbientiPurgatorio.ALTEZZA_SCALA + 0.15f : 0f)));
                 if (i == liv.Count - 1) punti[punti.Count - 1] = new Vector3(Mathf.Cos(m.angolo * Mathf.Deg2Rad) * m.centro, m.y + 0.4f, Mathf.Sin(m.angolo * Mathf.Deg2Rad) * m.centro);
             }
             // verso il bordo interno, dove parte la scala successiva
-            if (i + 1 < liv.Count) punti.Add(Punto(i, m.angolo, 0.05f) + Vector3.up * (0.4f + (i == 5 ? 1.0f : 0f)));   // alla porta il percorso sale sopra i tre gradini
+            if (i + 1 < liv.Count) punti.Add(Punto(i, m.angolo, 0.05f) + Vector3.up * (0.4f + (i == 5 ? AmbientiPurgatorio.ALTEZZA_SCALA + 0.15f : 0f)));   // alla porta il percorso sale sopra i tre gradini
         }
     }
 
@@ -191,8 +201,8 @@ public class Monte
                 {
                     float t0 = s / (float)SEG * Mathf.PI * 2f, t1 = (s + 1) / (float)SEG * Mathf.PI * 2f;
                     float v = (s % 2 == 0) ? 1f : 0.94f;
-                    float da0 = parete ? Rugosita(s % SEG, ta, ti) : 0f, da1 = parete ? Rugosita((s + 1) % SEG, ta, ti) : 0f;
-                    float db0 = parete ? Rugosita(s % SEG, tb, ti) : 0f, db1 = parete ? Rugosita((s + 1) % SEG, tb, ti) : 0f;
+                    float da0 = parete ? Rugosita(s % SEG, ta, ti) * Liscio(t.livello, s % SEG, ta) : 0f, da1 = parete ? Rugosita((s + 1) % SEG, ta, ti) * Liscio(t.livello, (s + 1) % SEG, ta) : 0f;
+                    float db0 = parete ? Rugosita(s % SEG, tb, ti) * Liscio(t.livello, s % SEG, tb) : 0f, db1 = parete ? Rugosita((s + 1) % SEG, tb, ti) * Liscio(t.livello, (s + 1) % SEG, tb) : 0f;
                     int k = vert.Count;
                     vert.Add(new Vector3(Mathf.Cos(t0) * (pa.x + da0), pa.y, Mathf.Sin(t0) * (pa.x + da0)));
                     vert.Add(new Vector3(Mathf.Cos(t1) * (pa.x + da1), pa.y, Mathf.Sin(t1) * (pa.x + da1)));
@@ -231,7 +241,7 @@ public class Monte
                 float t = k / (float)N;
                 float ang = Mathf.LerpAngle(p.angolo, m.angolo, t) * Mathf.Deg2Rad;
                 float y = Mathf.Lerp(p.y, m.y, t);
-                float r = RaggioParete(i, t) + 0.9f;
+                float r = RaggioParete(i, t) + 0.15f;
                 var c = new Vector3(Mathf.Cos(ang) * r, y + 0.08f, Mathf.Sin(ang) * r);
                 var tg = new Vector3(-Mathf.Sin(ang), 0f, Mathf.Cos(ang));
                 if (k > 0)

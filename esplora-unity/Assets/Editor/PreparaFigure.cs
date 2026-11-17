@@ -9,7 +9,7 @@ using UnityEngine;
 public static class PreparaFigure
 {
     const string RADICE = "Assets/Resources/Modelli";
-    static readonly List<string> VEGETAZIONE = new List<string> { "AlberiCespugli", "AlberiFiori", "Querce", "Piante", "Rocce", "Bambu", "Rosa", "Montagna", "Arco", "Carro", "Candele" };
+    static readonly List<string> VEGETAZIONE = new List<string> { "AlberiCespugli", "AlberiFiori", "Querce", "Piante", "Rocce", "Bambu", "Rosa", "Montagna", "Scala", "Arco", "Carro", "Candele" };
 
     [MenuItem("Esplora/Prepara figure")]
     public static void Prepara()

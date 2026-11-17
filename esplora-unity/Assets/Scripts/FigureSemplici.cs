@@ -150,6 +150,32 @@ public static class Props
         return go;
     }
 
+    // adatta il modello a una scatola (larghezza, profondità, altezza) con scale diverse per asse e lo posa con la base sul punto dato.
+    // larghezzaSuX: la larghezza (lato lungo il bordo del ripiano) corrisponde all'asse X del modello, altrimenti all'asse Z.
+    public static GameObject MettiScatola(string nome, Transform padre, Vector3 base_, float yawGradi, float larghezza, float profondita, float altezza,
+                                          bool larghezzaSuX = false, Color? alone = null, float fondo = 0.75f)
+    {
+        var pf = Resources.Load<GameObject>($"Modelli/{nome}/{nome}");
+        if (pf == null) { Debug.LogWarning($"[Esplora] Modello '{nome}' non trovato"); return null; }
+        var go = Object.Instantiate(pf, padre);
+        go.name = nome;
+        go.transform.rotation = Quaternion.identity;
+        var b0 = Limiti(go);
+        float kx = (larghezzaSuX ? larghezza : profondita) / Mathf.Max(b0.size.x, 0.0001f);
+        float kz = (larghezzaSuX ? profondita : larghezza) / Mathf.Max(b0.size.z, 0.0001f);
+        go.transform.localScale = new Vector3(kx, altezza / Mathf.Max(b0.size.y, 0.0001f), kz);
+        go.transform.rotation = Quaternion.Euler(0f, yawGradi, 0f);
+        var b1 = Limiti(go);
+        go.transform.position += new Vector3(base_.x - b1.center.x, base_.y - b1.min.y, base_.z - b1.center.z);
+        foreach (var r in go.GetComponentsInChildren<Renderer>())
+            foreach (var m in r.materials)
+            {
+                if (alone.HasValue && m.HasProperty("_Alone")) m.SetColor("_Alone", alone.Value);
+                if (m.HasProperty("_Fondo")) m.SetFloat("_Fondo", fondo);
+            }
+        return go;
+    }
+
     public static Bounds Limiti(GameObject go)
     {
         var rs = go.GetComponentsInChildren<Renderer>();

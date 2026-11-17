@@ -148,7 +148,29 @@ public class CameraOrbita : MonoBehaviour
         var rot = Quaternion.Euler(pitch, yaw, 0f);
         Vector3 pos = bersaglioMorbido - rot * Vector3.forward * distMorbida;
         // la camera non entra mai nel terreno: se la posizione cade nella roccia, la si avvicina al punto guardato
-        if ((LiberoRaggio != null || Ostacolo != null) && !Libero(pos))
+        if (Ostacolo != null && !Libero(pos))
+        {
+            // la camera non entra mai in un solido (monte, rocce, alberi, figure): dalla posizione voluta verso il punto guardato
+            // si prende il primo punto libero
+            Vector3 trovato = bersaglioMorbido; bool preso = false;
+            for (int passo = 1; passo <= 32 && !preso; passo++)
+            {
+                var q = Vector3.Lerp(pos, bersaglioMorbido, passo / 32f);
+                if (Libero(q)) { trovato = q; preso = true; }
+            }
+            if (!preso)
+            {   // anche il punto guardato è dentro un solido: ci si allontana invece di avvicinarsi
+                Vector3 fuori = (pos - bersaglioMorbido).normalized;
+                for (int passo = 1; passo <= 60 && !preso; passo++)
+                {
+                    var q = pos + fuori * (passo * 0.6f);
+                    if (Libero(q)) { trovato = q; preso = true; }
+                }
+            }
+            pos = trovato;
+            if ((bersaglioMorbido - pos).sqrMagnitude > 0.01f) rot = Quaternion.LookRotation(bersaglioMorbido - pos, Vector3.up);
+        }
+        else if (LiberoRaggio != null && !Libero(pos))
         {
             Vector3 da = bersaglioMorbido;
             if (!Libero(da)) { da = bersaglio; }

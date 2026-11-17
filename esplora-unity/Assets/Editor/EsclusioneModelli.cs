@@ -9,7 +9,7 @@ using UnityEditor;
 public static class EsclusioneModelli
 {
     public static readonly string[] INFERNO = { "Alberi", "AlberoMorto", "Caronte", "Castello", "Caverna", "Cerbero", "Colle", "Ghiaccio", "Lucifero", "Massi", "Ponte", "Sarcofago" };
-    public static readonly string[] PURGATORIO = { "AlberiCespugli", "AlberiFiori", "AngeloArgento", "AngeloMarmo", "AngeloOttone", "Arco", "Bambu", "Barca", "Candele", "Carro", "Catone", "DonnaFuse", "DonnaRuby", "Monaco", "Montagna", "Piante", "Querce", "Rocce", "Rosa", "Serpente" };
+    public static readonly string[] PURGATORIO = { "AlberiCespugli", "AlberiFiori", "AngeloArgento", "AngeloMarmo", "AngeloOttone", "Arco", "Bambu", "Barca", "Candele", "Carro", "Catone", "DonnaFuse", "DonnaRuby", "Monaco", "Montagna", "Piante", "Querce", "Rocce", "Rosa", "Scala", "Serpente" };
     const string RADICE = "Assets/Resources/Modelli";
     const string ESCLUSI = "Assets/Esclusi";
 

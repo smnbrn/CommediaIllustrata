@@ -20,6 +20,19 @@ public class GruppoModello
     readonly List<Variante> varianti = new List<Variante>();
     readonly Dictionary<Material, List<CombineInstance>> lotti = new Dictionary<Material, List<CombineInstance>>();
     public bool Pronto { get { return varianti.Count > 0; } }
+    // ingombro (nel mondo) di ogni copia messa: serve alla camera, che non deve entrarci
+    public readonly List<Bounds> ingombri = new List<Bounds>();
+    void Registra(Variante v, Matrix4x4 mtx)
+    {
+        Bounds r = new Bounds(); bool primo = true;
+        for (int i = 0; i < 8; i++)
+        {
+            var c = v.b.center + new Vector3((i & 1) == 0 ? -v.b.extents.x : v.b.extents.x, (i & 2) == 0 ? -v.b.extents.y : v.b.extents.y, (i & 4) == 0 ? -v.b.extents.z : v.b.extents.z);
+            var w = mtx.MultiplyPoint3x4(c);
+            if (primo) { r = new Bounds(w, Vector3.zero); primo = false; } else r.Encapsulate(w);
+        }
+        ingombri.Add(r);
+    }
 
     // pacchettoVarianti: ogni mesh del modello è un oggetto a sé (massi); altrimenti tutte le mesh formano un solo oggetto
     public GruppoModello(string risorsa, bool pacchettoVarianti)
@@ -63,6 +76,7 @@ public class GruppoModello
         float k = perAltezza ? dimensione / Mathf.Max(v.b.size.y, 0.0001f) : dimensione / Mathf.Max(v.b.size.x, v.b.size.z, 0.0001f);
         var mtx = Matrix4x4.TRS(piede, Quaternion.Euler(0f, yawGradi, 0f), Vector3.one * k)
                   * Matrix4x4.Translate(new Vector3(-v.b.center.x, -v.b.min.y, -v.b.center.z));
+        Registra(v, mtx);
         foreach (var p in v.parti)
         {
             if (!lotti.TryGetValue(p.mat, out var l)) lotti[p.mat] = l = new List<CombineInstance>();
@@ -77,6 +91,7 @@ public class GruppoModello
         float k = altezza / Mathf.Max(v.b.size.y, 0.0001f);
         var mtx = Matrix4x4.TRS(piede, rot, Vector3.Scale(Vector3.one * k, scalaRel))
                   * Matrix4x4.Translate(new Vector3(-v.b.center.x, -v.b.min.y, -v.b.center.z));
+        Registra(v, mtx);
         foreach (var p in v.parti)
         {
             if (!lotti.TryGetValue(p.mat, out var l)) lotti[p.mat] = l = new List<CombineInstance>();
