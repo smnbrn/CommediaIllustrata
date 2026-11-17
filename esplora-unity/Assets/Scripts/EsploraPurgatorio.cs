@@ -185,6 +185,7 @@ public class EsploraPurgatorio : MonoBehaviour
 
         // percorso: dal centro di un ripiano alla scala fino al successivo
         monte.Percorso(percorso, indiciLuoghi);
+        AddolciscePercorso();
         lunghezze.Clear();
         float tot = 0f;
         for (int i = 0; i < percorso.Count; i++)
@@ -196,7 +197,7 @@ public class EsploraPurgatorio : MonoBehaviour
         var lr = new GameObject("Percorso").AddComponent<LineRenderer>();
         lr.transform.SetParent(transform, false);
         lr.positionCount = percorso.Count; lr.SetPositions(percorso.ToArray());
-        lr.widthMultiplier = 0.45f; lr.useWorldSpace = true; lr.numCornerVertices = 4;
+        lr.widthMultiplier = 0.45f; lr.useWorldSpace = true; lr.numCornerVertices = 6; lr.numCapVertices = 4;
         lr.sharedMaterial = NuovoMateriale(new Color(1f, 0.93f, 0.55f));
         lr.shadowCastingMode = UnityEngine.Rendering.ShadowCastingMode.Off;
 
@@ -216,6 +217,41 @@ public class EsploraPurgatorio : MonoBehaviour
                   new[] { new GradientAlphaKey(0.9f, 0f), new GradientAlphaKey(0f, 1f) });
         scia.colorGradient = g;
         scia.widthCurve = new AnimationCurve(new Keyframe(0, 1), new Keyframe(1, 0));
+    }
+
+    // Spezzata → curva morbida (Catmull-Rom) che passa per tutti i punti, luoghi compresi: niente spigoli alle svolte.
+    // Gli indici dei luoghi vengono aggiornati sulla nuova curva.
+    void AddolciscePercorso()
+    {
+        const int N = 8;
+        var src = new List<Vector3>(percorso); var idxVecchi = new List<int>(indiciLuoghi);
+        var nuovo = new List<Vector3>(); var mappa = new int[src.Count];
+        Vector3 Pt(int k)
+        {
+            if (k < 0) return 2f * src[0] - src[1];                                              // estremi riflessi
+            if (k >= src.Count) return 2f * src[src.Count - 1] - src[src.Count - 2];
+            return src[k];
+        }
+        for (int k = 0; k < src.Count - 1; k++)
+        {
+            mappa[k] = nuovo.Count;
+            Vector3 p0 = Pt(k - 1), p1 = Pt(k), p2 = Pt(k + 1), p3 = Pt(k + 2);
+            // Catmull-Rom centripeta (Barry-Goldman): non sbanda dove un tratto lungo segue uno corto
+            float t0 = 0f, t1 = t0 + Mathf.Sqrt(Mathf.Max(Vector3.Distance(p0, p1), 0.001f)), t2 = t1 + Mathf.Sqrt(Mathf.Max(Vector3.Distance(p1, p2), 0.001f)), t3 = t2 + Mathf.Sqrt(Mathf.Max(Vector3.Distance(p2, p3), 0.001f));
+            for (int q = 0; q < N; q++)
+            {
+                float t = Mathf.Lerp(t1, t2, q / (float)N);
+                Vector3 a1 = (t1 - t) / (t1 - t0) * p0 + (t - t0) / (t1 - t0) * p1;
+                Vector3 a2 = (t2 - t) / (t2 - t1) * p1 + (t - t1) / (t2 - t1) * p2;
+                Vector3 a3 = (t3 - t) / (t3 - t2) * p2 + (t - t2) / (t3 - t2) * p3;
+                Vector3 b1 = (t2 - t) / (t2 - t0) * a1 + (t - t0) / (t2 - t0) * a2;
+                Vector3 b2 = (t3 - t) / (t3 - t1) * a2 + (t - t1) / (t3 - t1) * a3;
+                nuovo.Add((t2 - t) / (t2 - t1) * b1 + (t - t1) / (t2 - t1) * b2);
+            }
+        }
+        mappa[src.Count - 1] = nuovo.Count; nuovo.Add(src[src.Count - 1]);
+        percorso.Clear(); percorso.AddRange(nuovo);
+        indiciLuoghi.Clear(); foreach (int v in idxVecchi) indiciLuoghi.Add(mappa[v]);
     }
 
     // ---------- atmosfera: polline nel giardino, fumo nella terza cornice, fiamme nella settima, lucciole nella valletta ----------

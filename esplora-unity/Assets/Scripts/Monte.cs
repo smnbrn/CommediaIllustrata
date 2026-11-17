@@ -158,11 +158,11 @@ public class Monte
                 }
                 // dall'arrivo sul bordo esterno al centro del ripiano
                 indiciLuoghi.Add(punti.Count);
-                punti.Add(Punto(i, m.angolo, i == liv.Count - 1 ? 0.0f : 0.5f) + Vector3.up * 0.4f);
+                punti.Add(Punto(i, m.angolo, i == liv.Count - 1 ? 0.0f : 0.5f) + Vector3.up * (0.4f + (i == 5 ? 1.0f : 0f)));
                 if (i == liv.Count - 1) punti[punti.Count - 1] = new Vector3(Mathf.Cos(m.angolo * Mathf.Deg2Rad) * m.centro, m.y + 0.4f, Mathf.Sin(m.angolo * Mathf.Deg2Rad) * m.centro);
             }
             // verso il bordo interno, dove parte la scala successiva
-            if (i + 1 < liv.Count) punti.Add(Punto(i, m.angolo, 0.05f) + Vector3.up * 0.4f);
+            if (i + 1 < liv.Count) punti.Add(Punto(i, m.angolo, 0.05f) + Vector3.up * (0.4f + (i == 5 ? 1.0f : 0f)));   // alla porta il percorso sale sopra i tre gradini
         }
     }
 
