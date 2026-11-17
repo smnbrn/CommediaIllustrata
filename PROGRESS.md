@@ -2,7 +2,9 @@
 
 Tutti i 33 canti: testo da Wikisource, 129 scene, parafrasi di ogni terzina, personaggi, luoghi in `data/luoghi-purgatorio.json` (il 3D dell'Inferno non lo legge). Tavole: 42 incisioni di Doré dall'edizione tedesca del 1871 (ritagli in `img/dore/`, `strumenti/ritaglia.py`) e 85 immagini IA (`img/ia/`, post-produzione con `strumenti/ia_dopo.py`; elenco e descrizioni in `data/scene-senza-tavola-purgatorio.md` e `data/descrizioni-scene-ia-purgatorio.md`). Interfaccia in viola chiaro per la cantica (`[data-cantica="purgatorio"]` in `css/stile.css`).
 
-Da fare: mini-mappa della montagna (oggi nascosta nel Purgatorio), versione 3D, rifare con Gemini le immagini XX/4 e XXVIII/3 (scritte nell'immagine).
+**Purgatorio in 3D** (17/11/2026): `esplora-purgatorio/` (build WebGL dalla scena `Purgatorio.unity` di `esplora-unity/`, menu **Esplora > Costruisci WebGL Purgatorio**). La montagna è costruita dal codice (`Monte.cs`) da `data/luoghi-purgatorio.json`: spiaggia, tre balzi, valletta, porta, sette cornici e giardino in cima, con la scala scavata nella parete; mare, cielo, montagne lontane, fiamme/fumo/polline. Modelli Sketchfab (CC BY, crediti in `esplora/CREDITI.md`) per angeli, barca, serpente, porta, vegetazione, Matelda, Beatrice, carro, candele, rocce; Catone e i penitenti sono figure disegnate dal codice (`FigureSemplici.cs`); musica e suoni generati dal programma. Ogni build esclude i modelli dell'altra cantica (`EsclusioneModelli.cs`). Collegamento dalla mappa del sito, anche per il Purgatorio.
+
+Da fare: rifare con Gemini le immagini XX/4 e XXVIII/3 (scritte nell'immagine); Catone e anime con modelli veri, se se ne sceglie uno; la Geisha Mask (n. 17) non è stata scaricata e non è usata.
 
 # PROGRESS — Inferno
 

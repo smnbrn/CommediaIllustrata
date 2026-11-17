@@ -20,3 +20,24 @@ Le licenze originali sono in `esplora-unity/Assets/Resources/Modelli/*/LICENZA.t
 ## Musica
 
 - «Ambience Pack 1 -- Sci Fi Horror» di Joth, dedicata al pubblico dominio (CC0): https://opengameart.org/content/ambience-pack-1-sci-fi-horror . Usate cinque tracce, ridotte a mono e a bassa frequenza di campionamento.
+
+## Purgatorio in 3D (`esplora-purgatorio/`)
+
+Modelli scaricati da Sketchfab (CC BY 4.0), convertiti in FBX, alleggeriti (meno poligoni, texture a 1024 px al massimo):
+
+- «Angel (old marble version)», «Angel (brass version)», «Angel (silver version)» di SebastianSosnowski (https://sketchfab.com/SebastianSosnowski): gli angeli.
+- «Old wooden boat» di pnhtuan (https://sketchfab.com/3d-models/c62fa438ea0e464dbb23e0ca5ff03727): la barca dell'angelo nocchiero.
+- «Snake attack Animations (Multiple)» di Imagigoo: il serpente della valletta.
+- «Palace Arch with decorative columns» di Samuel F. Angrick-Johanns (Oneironauticus): la porta del Purgatorio.
+- «Stone_Stair_Case» di GetDeadEntertainment: i tre gradini della porta.
+- «oak trees» di DJMaesen, «Trees and bush Pack LOWPOLY» di sixonetwo, «Low poly trees, flowers and grass» di MMC Works, «Stylized Plant Pack» di Marbles studio, «Rose» di Heliona, «Free Bamboo Set» di JonhGillessen: vegetazione.
+- «.Fuse Woman 1» di Leonardo Carvalho (Matelda) e «Ruby character» di dafna290 (Beatrice).
+- «Medieval wooden cart» di rakutin e «Candles» di thegraphicsgeek: il carro e le sette candele del corteo.
+- «Stone Pack» di ashkan.fancy: le rocce.
+- «Mountain low poly» di Mehdi Shahsavan: le montagne all'orizzonte.
+
+- «Wise Man Rigged 3D Model» di CG-Moon (https://sketchfab.com/CG-Moon): Catone (senza il bastone).
+- «mendicant monk (low poly)» di Götz von Berlichingen (https://sketchfab.com/3d-models/36e72d20f4354cdc8de26c4aa8ef00bb): le anime penitenti; le braccia sono state abbassate (il modello originale è in posa a T) e le copie messe in posa diversa.
+
+Musica e suoni sono generati dal programma (nessun file audio).
+Le licenze originali: https://creativecommons.org/licenses/by/4.0/ . I file scaricati interi non sono nel repository (`scaricati/` è ignorata da git).

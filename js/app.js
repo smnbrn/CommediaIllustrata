@@ -252,7 +252,7 @@
     });
     nascondi($('mappa-svg'), id !== 'inferno');
     nascondi($('mappa-svg-pur'), id !== 'purgatorio');
-    $('mappa-3d').hidden = id !== 'inferno';   // il 3D c'è solo per l'Inferno
+    $('mappa-3d').hidden = false;   // il 3D c'è per entrambe le cantiche
   }
 
   function scenaDati(id) { return stato.canto.scene.find(function (s) { return s.id === id; }); }
@@ -414,7 +414,7 @@
     m.setAttribute('aria-expanded', 'false');
     m.addEventListener('click', function (e) {
       e.stopPropagation();
-      if (m.classList.contains('aperta') && e.target.closest && e.target.closest('#mappa-3d')) { location.href = 'esplora/'; return; }
+      if (m.classList.contains('aperta') && e.target.closest && e.target.closest('#mappa-3d')) { location.href = stato.cantica === 'purgatorio' ? 'esplora-purgatorio/' : 'esplora/'; return; }
       var aperta = m.classList.toggle('aperta');
       m.setAttribute('aria-expanded', String(aperta));
     });

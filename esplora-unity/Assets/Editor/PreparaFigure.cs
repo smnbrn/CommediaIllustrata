@@ -9,6 +9,7 @@ using UnityEngine;
 public static class PreparaFigure
 {
     const string RADICE = "Assets/Resources/Modelli";
+    static readonly List<string> VEGETAZIONE = new List<string> { "AlberiCespugli", "AlberiFiori", "Querce", "Piante", "Rocce", "Bambu", "Rosa", "Montagna", "Scala", "Arco", "Carro", "Candele" };
 
     [MenuItem("Esplora/Prepara figure")]
     public static void Prepara()
@@ -33,6 +34,7 @@ public static class PreparaFigure
                 // texture più leggere: i dettagli piccoli (occhi, denti, lingua) a 256-512, il resto a 1024, tutte compresse in crunch
                 long peso = new FileInfo(pt).Length;
                 int lato = peso < 40000 ? 128 : peso < 150000 ? 512 : 1024;
+                if (VEGETAZIONE.Contains(nome)) lato = Mathf.Min(lato, 512);   // piante e rocce si vedono da lontano: texture più piccole
                 if (imp.maxTextureSize != lato || !imp.crunchedCompression || imp.compressionQuality != 55 || imp.mipmapEnabled == false)
                 {
                     imp.maxTextureSize = lato;

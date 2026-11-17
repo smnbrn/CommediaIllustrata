@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="it" data-cantica="purgatorio">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=no">
+    <title>Commedia illustrata · Purgatorio in 3D</title>
+    <script>
+      // stesso tema del sito (modalità giorno o notte), prima del primo disegno
+      try { var t = localStorage.getItem('ci-tema'); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+    <link rel="stylesheet" href="../css/stile.css">
+    <style>
+      html, body { margin: 0; padding: 0; height: 100%; overflow: hidden; }
+      body { background: var(--carta); }
+      #unity-canvas { position: fixed; inset: 0; width: 100%; height: 100%; display: block; touch-action: none; background: #d9c6d6; }
+
+      /* caricamento: carta e inchiostro, come il resto del sito */
+      #caricamento { position: fixed; inset: 0; z-index: 30; display: flex; flex-direction: column; align-items: center; justify-content: center;
+                     background: var(--carta); color: var(--inchiostro); gap: 0.9rem; text-align: center; padding: 0 1rem; }
+      #titolo { font-size: 1.35rem; font-variant: small-caps; letter-spacing: 0.04em; }
+      #dettaglio { font-size: 0.95rem; font-style: italic; color: var(--tenue); max-width: 20rem; }
+      #barra { width: min(280px, 70vw); height: 4px; background: var(--linea); border-radius: 2px; overflow: hidden; }
+      #barra > div { height: 100%; width: 0; background: var(--rubrica); }
+
+      /* barra in alto: la testata del sito, con i comandi del viaggio al posto dei canti */
+      #testata { position: fixed; left: 0; right: 0; top: 0; gap: 0.6rem; }
+      #testata .marchio { margin-right: 0; }
+      .e3-sotto { font-size: 0.95rem; font-style: italic; color: var(--tenue); margin-right: auto; white-space: nowrap; }
+      #comandi3d .illustratore[disabled] { opacity: 0.4; cursor: default; }
+      #stato3d, #tappa3d { position: fixed; z-index: 15; left: 50%; transform: translateX(-50%); top: calc(var(--testata) + 0.6rem);
+                           margin: 0; padding: 0.25rem 0.85rem; border-radius: 999px; font-size: 0.95rem; font-style: italic;
+                           background: color-mix(in srgb, var(--carta) 92%, transparent); border: 1px solid var(--linea); color: var(--tenue); }
+      #stato3d[hidden], #tappa3d[hidden] { display: none; }
+
+      /* pannello del luogo */
+      #pannello3d { position: fixed; z-index: 15; right: 0.75rem; top: calc(var(--testata) + 0.75rem); bottom: 3.2rem; width: min(25rem, calc(100vw - 1.5rem));
+                    display: flex; flex-direction: column; gap: 0.7rem; overflow-y: auto; padding: 1rem 1.1rem 1.1rem;
+                    background: color-mix(in srgb, var(--carta) 96%, transparent); border: 1px solid var(--linea); border-radius: 10px; box-shadow: var(--ombra);
+                    line-height: 1.4; font-size: 1.05rem; }
+      #pannello3d[hidden] { display: none; }
+      .e3-testa { display: flex; align-items: flex-start; gap: 0.5rem; }
+      .e3-testa .posizione { margin: 0; flex: 1; font-size: 1.35rem; line-height: 1.2; }
+      .e3-descr { margin: 0; color: var(--tenue); font-size: 1rem; }
+      #pannello3d .tavola { flex: none; }
+      #pannello3d .tavola-cornice { flex: none; height: min(34vh, 17rem); cursor: default; }
+      #pannello3d .didascalia { min-height: 0; padding-top: 0.45rem; font-size: 0.88rem; }
+      .e3-scene { display: flex; align-items: center; justify-content: space-between; gap: 0.5rem; margin-top: 0.5rem; }
+      .e3-scene .illustratori { flex: none; }
+      .e3-scene .e3-conta { font-size: 0.95rem; font-style: italic; color: var(--tenue); }
+      #pannello3d .scena-numero { margin: 0; }
+      #pannello3d .scena-titolo { font-size: 1.3rem; margin: 0.1rem 0 0.35rem; }
+      #pannello3d .scena-sintesi { font-size: 1rem; }
+      #pannello3d a.chip { display: inline-flex; align-items: center; text-decoration: none; align-self: flex-start; color: var(--rubrica); border-color: var(--rubrica); }
+      #pannello3d a.chip:hover { background: var(--rubrica-velo); }
+      .e3-vuoto { margin: 0; font-style: italic; color: var(--tenue); }
+      #compatta3d { display: none; }
+
+      /* in basso: i soliti collegamenti, discreti */
+      #torna { position: fixed; z-index: 14; right: 0.75rem; bottom: 0.75rem; padding: 0.3rem 0.8rem; font-size: 0.95rem; color: var(--inchiostro); text-decoration: none;
+               background: color-mix(in srgb, var(--carta) 92%, transparent); border: 1px solid var(--linea); border-radius: 999px; }
+      #torna:hover { color: var(--rubrica); }
+      #crediti { position: fixed; z-index: 14; left: 0.75rem; bottom: 0.75rem; max-width: min(36rem, calc(100vw - 11rem)); max-height: 60vh; overflow-y: auto;
+                 font-size: 0.85rem; line-height: 1.4; color: var(--tenue); padding: 0.3rem 0.8rem; border-radius: 12px;
+                 background: color-mix(in srgb, var(--carta) 94%, transparent); border: 1px solid var(--linea); }
+      .cr-corto { display: none; }
+      @media (max-width: 899px) { .cr-corto { display: inline; } }
+      #crediti summary { cursor: pointer; list-style: none; font-style: italic; }
+      #crediti summary::-webkit-details-marker { display: none; }
+      #crediti[open] summary { margin-bottom: 0.3rem; color: var(--inchiostro); }
+      #crediti a { color: var(--rubrica); }
+
+      @media (max-width: 899px) {
+        .e3-sotto { display: none; }
+        #testata { height: auto; min-height: var(--testata); flex-wrap: wrap; padding-top: 0.2rem; padding-bottom: 0.2rem; }
+        #testata .marchio { margin-right: auto; }
+        .e3-barra-comandi { width: 100%; order: 3; }
+        #comandi3d { width: 100%; justify-content: space-between; flex-wrap: nowrap; }
+        #comandi3d .illustratore { flex: 1; padding: 0 0.3rem; }
+        /* stato e tappa sotto la testata (che su telefono va a capo), non in basso dove stanno scheda e collegamenti */
+        #stato3d, #tappa3d { top: calc(var(--alt-testata, 8rem) + 0.5rem); }
+        #crediti { max-width: calc(100vw - 12.5rem); }
+        .cr-lungo { display: none; }
+        #crediti[open] { max-width: calc(100vw - 1.5rem); }
+        #pannello3d { left: 0.5rem; right: 0.5rem; width: auto; top: auto; bottom: 3.1rem; max-height: 56vh; }
+        #pannello3d .tavola-cornice { height: min(26vh, 13rem); }
+        #pannello3d[data-compatto="1"] > :not(.e3-testa) { display: none; }
+        #pannello3d[data-compatto="1"] { padding: 0.6rem 0.9rem; cursor: pointer; }
+        #pannello3d[data-compatto="1"] .e3-testa .posizione { font-size: 1.05rem; }
+        #pannello3d[data-compatto="1"] #compatta3d { display: grid; }
+      }
+    </style>
+  </head>
+  <body>
+    <canvas id="unity-canvas" tabindex="-1"></canvas>
+    <header class="testata" id="testata">
+      <a class="marchio" href="../index.html#purgatorio/1" aria-label="Commedia Illustrata, torna alla lettura">
+        <span class="marchio-nome">Commedia <em>Illustrata</em></span>
+      </a>
+      <span class="e3-sotto">Purgatorio in 3D</span>
+      <div class="e3-barra-comandi">
+        <div class="illustratori" id="comandi3d" role="group" aria-label="Comandi del viaggio">
+          <button class="illustratore" type="button" id="b-viaggio" aria-checked="false" hidden>Viaggio</button>
+          <button class="illustratore" type="button" id="b-avanti" disabled>Avanti</button>
+          <button class="illustratore" type="button" id="b-intera">Vista intera</button>
+          <button class="illustratore" type="button" id="b-suono" aria-pressed="true">Suono</button>
+        </div>
+      </div>
+      <button class="bottone-icona" id="bottone-tema" type="button" aria-label="Modalità notte" title="Modalità notte"></button>
+    </header>
+    <p id="stato3d" hidden></p>
+    <p id="tappa3d" hidden></p>
+    <aside id="pannello3d" aria-live="polite" hidden>
+      <div class="e3-testa">
+        <p class="posizione"><span id="p-canto"></span><b id="p-nome"></b></p>
+        <button class="bottone-icona" id="compatta3d" type="button" aria-label="Apri la scheda" title="Apri la scheda"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 14l6-6 6 6"/></svg></button>
+        <button class="bottone-icona" id="p-chiudi" type="button" aria-label="Chiudi la scheda" title="Chiudi"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+      </div>
+      <p class="e3-descr" id="p-descr"></p>
+      <div id="p-scene" hidden>
+        <figure class="tavola" id="p-tavola" style="margin:0">
+          <div class="tavola-cornice">
+            <img class="tavola-img attiva" id="p-img" alt="" hidden>
+            <div class="tavola-vuota" id="p-vuota"><p>Carico la tavola…</p></div>
+          </div>
+          <figcaption class="didascalia" id="p-didascalia"></figcaption>
+        </figure>
+        <div class="e3-scene" id="p-nav">
+          <div class="illustratori" role="group" aria-label="Scene di questo luogo">
+            <button class="illustratore" type="button" id="p-prec" aria-label="Scena precedente">‹</button>
+            <button class="illustratore" type="button" id="p-succ" aria-label="Scena successiva">›</button>
+          </div>
+          <span class="e3-conta" id="p-conta"></span>
+        </div>
+        <div style="margin:0.5rem 0">
+          <h3 class="scena-titolo" id="p-titolo"></h3>
+          <p class="scena-sintesi" id="p-sintesi"></p>
+        </div>
+        <a class="chip" id="p-leggi" href="../index.html">Leggi la scena nel testo →</a>
+      </div>
+      <p class="e3-vuoto" id="p-nessuna" hidden>Nessuna scena in questo luogo.</p>
+    </aside>
+    <div id="caricamento">
+      <div id="titolo">Salita in corso…</div>
+      <div id="barra"><div id="avanzamento"></div></div>
+      <div id="dettaglio">Al primo accesso si scaricano alcuni MB; le volte dopo parte subito.</div>
+    </div>
+    <a id="torna" href="../index.html#purgatorio/1">← Torna alla lettura</a>
+    <details id="crediti"><summary><span class="cr-lungo">Crediti dei modelli 3D</span><span class="cr-corto">Crediti 3D</span></summary>Modelli 3D su Sketchfab (CC BY 4.0):
+      <a href="https://sketchfab.com/3d-models/angel-old-marble-version-2c879fc654b44f5e8d12527948535b51" target="_blank" rel="noopener">«Angel (old marble version), (brass version), (silver version)»</a> di SebastianSosnowski,
+      <a href="https://sketchfab.com/3d-models/83c4290cd4b648fd942d4bbc2280a3f6" target="_blank" rel="noopener">«Snake attack Animations (Multiple)»</a> di Imagigoo,
+      <a href="https://sketchfab.com/3d-models/ce1a2d2f7df94c9baf72b7cc1a1c1eea" target="_blank" rel="noopener">«Palace Arch with decorative columns»</a> di Samuel F. Angrick-Johanns (Oneironauticus),
+      <a href="https://sketchfab.com/3d-models/53e52c0fa88a4aa58ad86db4c569c96b" target="_blank" rel="noopener">«Stone_Stair_Case»</a> di GetDeadEntertainment,
+      <a href="https://sketchfab.com/3d-models/d841c3bcc5324daebee50f45619e05fc" target="_blank" rel="noopener">«oak trees»</a> di DJMaesen,
+      <a href="https://sketchfab.com/3d-models/f2a25ee70df440c9ab03d57aba2dc3f2" target="_blank" rel="noopener">«Trees and bush Pack LOWPOLY»</a> di sixonetwo,
+      <a href="https://sketchfab.com/3d-models/6281bf3703584323bb4d8326f1f1b59d" target="_blank" rel="noopener">«Rose»</a> di Heliona,
+      <a href="https://sketchfab.com/3d-models/442904f26b87407d98871b50b49c4169" target="_blank" rel="noopener">«Low poly trees, flowers and grass»</a> di MMC Works,
+      <a href="https://sketchfab.com/3d-models/d866603021fa4939b8e7bc28f22bb47c" target="_blank" rel="noopener">«Stylized Plant Pack»</a> di Marbles studio,
+      <a href="https://sketchfab.com/3d-models/c6436897da494b4e8e1f8188aea620c6" target="_blank" rel="noopener">«.Fuse Woman 1»</a> di Leonardo Carvalho,
+      <a href="https://sketchfab.com/3d-models/b931ac3a10ca4ae7a9bb5bf3ac04d93e" target="_blank" rel="noopener">«Ruby character»</a> di dafna290,
+      <a href="https://sketchfab.com/3d-models/c4ee19920e9b45aaa6ebe37839b1ad2a" target="_blank" rel="noopener">«Medieval wooden cart»</a> di rakutin,
+      <a href="https://sketchfab.com/3d-models/92bb9f59fd9046b1beb9dca6b21489e2" target="_blank" rel="noopener">«Candles»</a> di thegraphicsgeek,
+      <a href="https://sketchfab.com/3d-models/f3e0a67b9ca243b09119177649f21e17" target="_blank" rel="noopener">«Stone Pack»</a> di ashkan.fancy,
+      <a href="https://sketchfab.com/3d-models/cf8c27b8cc8344a78755505ee42e5a18" target="_blank" rel="noopener">«Mountain low poly»</a> di Mehdi Shahsavan,
+      <a href="https://sketchfab.com/3d-models/e9f9fa5397814f81bf85ad06acf5bf30" target="_blank" rel="noopener">«Free Bamboo Set»</a> di JonhGillessen;
+      <a href="https://sketchfab.com/3d-models/c62fa438ea0e464dbb23e0ca5ff03727" target="_blank" rel="noopener">«Old wooden boat»</a> di pnhtuan,
+      <a href="https://sketchfab.com/3d-models/4903fccbe4d94eeda581e7fd3870d90d" target="_blank" rel="noopener">«Wise Man Rigged 3D Model»</a> di CG-Moon (Catone),
+      <a href="https://sketchfab.com/3d-models/36e72d20f4354cdc8de26c4aa8ef00bb" target="_blank" rel="noopener">«mendicant monk (low poly)»</a> di Götz von Berlichingen (anime penitenti).
+      Musica e suoni generati dal programma.
+      Alleggeriti e adattati.</details>
+    <script src="Build/esplora-purgatorio.loader.js"></script>
+    <script>
+      var avanz = document.getElementById("avanzamento");
+      var titolo = document.getElementById("titolo");
+      var dettaglio = document.getElementById("dettaglio");
+      var telefono = /Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
+      createUnityInstance(document.querySelector("#unity-canvas"), {
+        arguments: [],
+        dataUrl: "Build/esplora-purgatorio.data.unityweb",
+        frameworkUrl: "Build/esplora-purgatorio.framework.js.unityweb",
+        codeUrl: "Build/esplora-purgatorio.wasm.unityweb",
+        streamingAssetsUrl: "StreamingAssets",
+        companyName: "CommediaIllustrata",
+        productName: "Purgatorio 3D",
+        productVersion: "1.0",
+        devicePixelRatio: telefono ? 1 : Math.min(window.devicePixelRatio || 1, 1.5),   // meno pixel da disegnare: più fluido su telefono
+      }, function (p) {
+        avanz.style.width = (p * 100) + "%";
+        titolo.textContent = p < 0.9 ? "Salita in corso… " + Math.round(p * 100 / 0.9) + "%" : "Preparo la montagna…";
+      })
+      .then(function (inst) { window.esploraUnity = inst; document.getElementById("caricamento").style.display = "none"; })
+      .catch(function (m) {
+        titolo.textContent = "Non riesco ad aprire il 3D su questo dispositivo.";
+        dettaglio.textContent = "Serve un browser con WebGL. Puoi continuare con la lettura: " + m;
+      });
+
+      // ---------- interfaccia: lo stato arriva da Unity (EsploraUi.jslib), i comandi tornano con SendMessage ----------
+      (function () {
+        function $(id) { return document.getElementById(id); }
+        function cmd(c) { if (window.esploraUnity) window.esploraUnity.SendMessage("Esplora", "Comando", c); }
+        var tema = $("bottone-tema"), mq = window.matchMedia("(prefers-color-scheme: dark)");
+        function scuro() { var t = document.documentElement.dataset.theme; return t ? t === "dark" : mq.matches; }
+        function iconaTema() {
+          var s = scuro();
+          tema.setAttribute("aria-pressed", String(s));
+          tema.title = s ? "Modalità giorno" : "Modalità notte"; tema.setAttribute("aria-label", tema.title);
+          tema.innerHTML = s
+            ? '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.5v2.2M12 19.3v2.2M2.5 12h2.2M19.3 12h2.2M5.3 5.3l1.6 1.6M17.1 17.1l1.6 1.6M5.3 18.7l1.6-1.6M17.1 6.9l1.6-1.6"/></svg>'
+            : '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 14.5A8.5 8.5 0 0 1 9.5 3.5a8.5 8.5 0 1 0 11 11Z"/></svg>';
+        }
+        tema.addEventListener("click", function () {
+          var n = scuro() ? "light" : "dark"; document.documentElement.dataset.theme = n;
+          try { localStorage.setItem("ci-tema", n); } catch (e) {}
+          iconaTema();
+        });
+        mq.addEventListener("change", iconaTema); iconaTema();
+
+        $("b-viaggio").addEventListener("click", function () { cmd("viaggio"); });
+        $("b-avanti").addEventListener("click", function () { cmd("avanti"); });
+        $("b-intera").addEventListener("click", function () { cmd("intera"); });
+        $("b-suono").addEventListener("click", function () { cmd("suono"); });
+        $("p-prec").addEventListener("click", function () { cmd("prec"); });
+        $("p-succ").addEventListener("click", function () { cmd("succ"); });
+        $("p-chiudi").addEventListener("click", function (e) { e.stopPropagation(); cmd("chiudi"); });
+
+        // su telefono, durante il viaggio, la scheda si riduce a una riga; un tocco la apre
+        var aperta = false, ultimoLuogo = "", inViaggio = false;
+        var pann = $("pannello3d");
+        function stretto() { return window.matchMedia("(max-width: 899px)").matches; }
+        function compatta() { pann.dataset.compatto = (stretto() && inViaggio && !aperta) ? "1" : "0"; }
+        pann.addEventListener("click", function () { if (pann.dataset.compatto === "1") { aperta = true; compatta(); } });
+        $("compatta3d").addEventListener("click", function (e) { e.stopPropagation(); aperta = true; compatta(); });
+        window.addEventListener("resize", compatta);
+        var testata = $("testata");
+        function altezzaTestata() { document.documentElement.style.setProperty("--alt-testata", testata.offsetHeight + "px"); }
+        altezzaTestata(); window.addEventListener("resize", altezzaTestata);
+        if (window.ResizeObserver) new ResizeObserver(altezzaTestata).observe(testata);
+
+        function testo(id, v) { var e = $(id); if (e.textContent !== v) e.textContent = v; }
+        function mostra(id, si) { $(id).hidden = !si; }
+
+        window.esploraUi = function (json) {
+          var s; try { s = JSON.parse(json); } catch (e) { return; }
+          inViaggio = s.viaggio;
+
+          mostra("stato3d", !!s.stato); testo("stato3d", s.stato);
+          mostra("b-viaggio", s.haPercorso);
+          testo("b-viaggio", s.viaggio ? "Pausa" : "Viaggio");
+          $("b-viaggio").setAttribute("aria-checked", String(s.viaggio));
+          $("b-avanti").disabled = !s.viaggio;
+          testo("b-suono", s.suono ? "Suono" : "Muto");
+          $("b-suono").setAttribute("aria-pressed", String(s.suono));
+          mostra("tappa3d", s.viaggio && s.tappa > 0); testo("tappa3d", "Tappa " + s.tappa + " di " + s.totale);
+
+          mostra("pannello3d", s.haLuogo);
+          if (!s.haLuogo) { ultimoLuogo = ""; aperta = false; return; }
+          if (s.nome !== ultimoLuogo) { ultimoLuogo = s.nome; aperta = false; pann.scrollTop = 0; }
+          compatta();
+          testo("p-nome", s.nome);
+          testo("p-canto", s.haScene ? "Canto " + s.canto : "");
+          testo("p-descr", s.descrizione);
+          mostra("p-scene", s.haScene);
+          mostra("p-nessuna", !s.haScene);
+          if (!s.haScene) return;
+
+          var img = $("p-img"), vuota = $("p-vuota");
+          if (s.url) {
+            if (img.dataset.url !== s.url) {
+              img.dataset.url = s.url; img.hidden = true; mostra("p-vuota", true);
+              vuota.firstChild.textContent = "Carico la tavola…";
+              img.onload = function () { img.hidden = false; mostra("p-vuota", false); };
+              img.onerror = function () { mostra("p-vuota", true); vuota.firstChild.textContent = "La tavola non si carica."; };
+              img.alt = s.didascalia; img.src = s.url;
+            }
+          } else {
+            img.removeAttribute("src"); img.dataset.url = ""; img.hidden = true;
+            mostra("p-vuota", true); vuota.firstChild.textContent = "Nessuna tavola per questa scena.";
+          }
+          $("p-tavola").dataset.ia = s.ia ? "1" : "0";
+          testo("p-didascalia", s.didascalia);
+          mostra("p-nav", s.numScene > 1);
+          testo("p-conta", "Scena " + s.scena + " di " + s.numScene);
+          testo("p-titolo", s.titolo);
+          testo("p-sintesi", s.sintesi);
+          $("p-leggi").href = "../index.html#" + s.indirizzo;
+        };
+      })();
+    </script>
+  </body>
+</html>

@@ -100,11 +100,14 @@ public class CameraOrbita : MonoBehaviour
 
     // Raggio massimo percorribile a una certa quota (fornito da Esplora: pareti della voragine). Sopra la pianura non c'e limite.
     public System.Func<float, float> LiberoRaggio;
+    // Alternativa per scene dove la camera sta fuori da un solido (il monte del Purgatorio): vero se il punto è nella roccia.
+    public System.Func<Vector3, bool> Ostacolo;
     const float MARGINE = 1.2f;   // distanza minima dal terreno
 
     // vero se il punto e in aria: sopra la pianura o dentro la voragine, lontano dalle pareti e dai gradini
     bool Libero(Vector3 p)
     {
+        if (Ostacolo != null) return !Ostacolo(p);
         if (p.y >= MARGINE) return true;
         float r = new Vector2(p.x, p.z).magnitude;
         return r <= LiberoRaggio(p.y - MARGINE) - MARGINE && p.y > -80f + MARGINE;
@@ -145,7 +148,7 @@ public class CameraOrbita : MonoBehaviour
         var rot = Quaternion.Euler(pitch, yaw, 0f);
         Vector3 pos = bersaglioMorbido - rot * Vector3.forward * distMorbida;
         // la camera non entra mai nel terreno: se la posizione cade nella roccia, la si avvicina al punto guardato
-        if (LiberoRaggio != null && !Libero(pos))
+        if ((LiberoRaggio != null || Ostacolo != null) && !Libero(pos))
         {
             Vector3 da = bersaglioMorbido;
             if (!Libero(da)) { da = bersaglio; }

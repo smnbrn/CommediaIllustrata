@@ -5,7 +5,7 @@ using UnityEngine;
 // Specchio di data/SCHEMA.md. JsonUtility ignora i campi che non dichiariamo
 // (terzine, tavole, parafrasi...), quindi qui c'è solo ciò che serve al 3D.
 
-[Serializable] public class Coordinate { public float profondita, raggio, angolo; }
+[Serializable] public class Coordinate { public float profondita, altezza, raggio, angolo; }
 
 [Serializable]
 public class Luogo
@@ -45,5 +45,6 @@ public class RiferimentoScena
 {
     public int canto;
     public Scena scena;
-    public string Indirizzo => $"inferno/{canto}/{scena.id}";
+    public string cantica = "inferno";
+    public string Indirizzo => $"{cantica}/{canto}/{scena.id}";
 }

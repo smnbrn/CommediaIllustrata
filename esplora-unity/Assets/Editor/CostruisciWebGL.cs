@@ -32,7 +32,10 @@ public static class CostruisciWebGL
             target = BuildTarget.WebGL,
             options = BuildOptions.None
         };
-        BuildReport r = BuildPipeline.BuildPlayer(opzioni);
+        var esclusi = EsclusioneModelli.Escludi(EsclusioneModelli.PURGATORIO, false);   // niente modelli del Purgatorio in questa build
+        BuildReport r;
+        try { r = BuildPipeline.BuildPlayer(opzioni); }
+        finally { EsclusioneModelli.Ripristina(esclusi); }
         Debug.Log($"[Esplora] Build WebGL: {r.summary.result}, {r.summary.totalSize / 1024f / 1024f:F1} MB, {r.summary.totalTime.TotalSeconds:F0} s, errori {r.summary.totalErrors} -> {uscita}");
     }
 }

@@ -70,6 +70,20 @@ public class GruppoModello
         }
     }
 
+    // una copia messa in posa: rotazione qualsiasi e scala diversa per asse (per figure sedute, curve, prostrate); altezza in unità
+    public void AggiungiPosa(Vector3 piede, Quaternion rot, Vector3 scalaRel, float altezza)
+    {
+        var v = varianti[0];
+        float k = altezza / Mathf.Max(v.b.size.y, 0.0001f);
+        var mtx = Matrix4x4.TRS(piede, rot, Vector3.Scale(Vector3.one * k, scalaRel))
+                  * Matrix4x4.Translate(new Vector3(-v.b.center.x, -v.b.min.y, -v.b.center.z));
+        foreach (var p in v.parti)
+        {
+            if (!lotti.TryGetValue(p.mat, out var l)) lotti[p.mat] = l = new List<CombineInstance>();
+            l.Add(new CombineInstance { mesh = p.mesh, transform = mtx * p.m });
+        }
+    }
+
     public void Costruisci(Transform padre, string nome)
     {
         var radice = new GameObject(nome).transform;

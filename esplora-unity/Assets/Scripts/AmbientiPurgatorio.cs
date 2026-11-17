@@ -1,0 +1,249 @@
+using System;
+using System.Collections.Generic;
+using UnityEngine;
+
+// Le scene dei ripiani del Purgatorio. Modelli di Sketchfab (vedi esplora/CREDITI.md) per angeli, barca, serpente, arco, scale,
+// piante, rocce, la donna del Paradiso terrestre, il carro e le candele; Catone e i penitenti sono disegnati dal codice.
+// Le copie dello stesso modello si uniscono in una mesh per materiale (GruppoModello), le figure semplici in una mesh per ripiano.
+public static class AmbientiPurgatorio
+{
+    // rotazioni di calibrazione per far guardare ogni modello in avanti (+Z)
+    const float YAW_ANGELO = 0f, YAW_BARCA = 90f, YAW_SERPENTE = 0f, YAW_ARCO = 0f, YAW_DONNA = 0f, YAW_CARRO = 0f, YAW_MONACO = 0f, YAW_CATONE = 0f;
+
+    static Transform Nodo(Transform padre, string nome) { var g = new GameObject(nome); g.transform.SetParent(padre, false); return g.transform; }
+
+    static GameObject MeshObj(Transform padre, string nome, Mesh me, Material mat)
+    {
+        var go = new GameObject(nome);
+        go.transform.SetParent(padre, false);
+        go.AddComponent<MeshFilter>().sharedMesh = me;
+        go.AddComponent<MeshRenderer>().sharedMaterial = mat;
+        return go;
+    }
+
+    static float Casuale(System.Random r, float a, float b) { return a + (b - a) * (float)r.NextDouble(); }
+
+    public static Dictionary<string, GameObject> Costruisci(Transform padre, Monte m, Material matColore, Dictionary<string, Vector3> luoghiEffetti)
+    {
+        var rnd = new System.Random(2024);
+        var radice = Nodo(padre, "Ambienti");
+        var prot = new Dictionary<string, GameObject>();
+        var nodi = new Transform[m.liv.Count];
+        var figure = new FacceM[m.liv.Count];
+        for (int i = 0; i < m.liv.Count; i++) { nodi[i] = Nodo(radice, "Scena " + m.liv[i].luogo.id); figure[i] = new FacceM(); prot[m.liv[i].luogo.id] = nodi[i].gameObject; }
+
+        // da lunghezza d'arco (unità) a gradi, su un ripiano
+        float Gradi(int i, float arco) { return arco / Mathf.Max(m.liv[i].centro, 8f) * Mathf.Rad2Deg; }
+        Vector3 P(int i, float arco, float t) { return m.Punto(i, m.liv[i].angolo + Gradi(i, arco), t); }
+        float Yaw(int i, float arco, bool dentro = false) { var d = Monte.Fuori(m.liv[i].angolo + Gradi(i, arco)); return Monte.YawVerso(dentro ? -d : d); }
+        Vector3 Tang(int i) { float a = m.liv[i].angolo * Mathf.Deg2Rad; return new Vector3(-Mathf.Sin(a), 0, Mathf.Cos(a)); }
+
+        // gruppi di modelli ripetuti
+        var rocce = new GruppoModello("Modelli/Rocce/Rocce", true);
+        var bambu = new GruppoModello("Modelli/Bambu/Bambu", false);
+        var rose = new GruppoModello("Modelli/Rosa/Rosa", false);
+        var piante = new GruppoModello("Modelli/Piante/Piante", true);
+        var fiori = new GruppoModello("Modelli/AlberiFiori/AlberiFiori", false);
+        var querce = new GruppoModello("Modelli/Querce/Querce", false);
+        var cespugli = new GruppoModello("Modelli/AlberiCespugli/AlberiCespugli", true);
+
+        void Rocce(int i, int n, float arcoMax, float tMin, float tMax, float dMin, float dMax)
+        {
+            if (!rocce.Pronto) return;
+            for (int k = 0; k < n; k++)
+                rocce.Aggiungi(rnd, P(i, Casuale(rnd, -arcoMax, arcoMax), Casuale(rnd, tMin, tMax)) - Vector3.up * 0.15f, Casuale(rnd, 0, 360), Casuale(rnd, dMin, dMax), false);
+        }
+        void Angelo(int i, string modello, float arco, float t, float altezza, Color? alone = null)
+        {
+            var g = Props.Metti(modello, nodi[i], P(i, arco, t), Yaw(i, arco) + YAW_ANGELO, altezza * 1.7f, true, alone ?? new Color(1f, 0.9f, 0.7f), 0.7f);
+            if (g != null) prot[m.liv[i].luogo.id + "#angelo"] = g;
+        }
+        var monaci = new GruppoModello[m.liv.Count];
+        var vesteLiv = new Color[m.liv.Count];
+        void Gruppo(int i, int n, float arcoMax, float tMin, float tMax, Color veste, int stato, bool dentro = false)
+        {
+            if (monaci[i] == null) monaci[i] = new GruppoModello("Modelli/Monaco/Monaco", false);
+            vesteLiv[i] = veste;
+            for (int k = 0; k < n; k++)
+            {
+                float arco = n == 1 ? 0f : Mathf.Lerp(-arcoMax, arcoMax, (k + (float)rnd.NextDouble() * 0.5f) / n);
+                float yaw = Yaw(i, arco, dentro) + Casuale(rnd, -35, 35);
+                var pos = P(i, arco, Casuale(rnd, tMin, tMax));
+                float alt = Casuale(rnd, 0.92f, 1.08f);
+                if (monaci[i].Pronto)
+                {
+                    // il monaco del modello, messo in posa: in piedi, curvo sotto il masso, seduto, prono o in cammino
+                    Quaternion rot = Quaternion.Euler(0f, yaw + YAW_MONACO, 0f); Vector3 sc = Vector3.one; float h = 3.4f * alt;
+                    switch (stato)
+                    {
+                        case 1: rot = Quaternion.Euler(40f, yaw + YAW_MONACO, 0f); break;
+                        case 2: sc = new Vector3(1.15f, 0.62f, 1.15f); break;
+                        case 3: rot = Quaternion.Euler(88f, yaw + YAW_MONACO, 0f); pos += Vector3.up * 0.5f; break;
+                        case 4: rot = Quaternion.Euler(10f, yaw + YAW_MONACO, 0f); break;
+                    }
+                    monaci[i].AggiungiPosa(pos, rot, sc, h);
+                    if (stato == 1 && rocce.Pronto) rocce.Aggiungi(rnd, pos + Vector3.up * 2.0f, Casuale(rnd, 0, 360), 1.7f, false);
+                }
+                else FigureSemplici.Penitente(figure[i], pos, yaw, veste * Casuale(rnd, 0.85f, 1.1f), stato, alt * 1.9f);
+            }
+        }
+
+        // ---------- 0 spiaggia dell'isola: giunchi, la barca dell'angelo, Catone ----------
+        {
+            int i = 0; var lv = m.liv[i];
+            if (bambu.Pronto)
+                for (int k = 0; k < 5; k++)
+                    bambu.Aggiungi(rnd, P(i, (k % 2 == 0 ? 1 : -1) * Casuale(rnd, 14, 48), Casuale(rnd, 0.85f, 1.0f)), Casuale(rnd, 0, 360), Casuale(rnd, 4.5f, 6.5f), true);
+            Rocce(i, 7, 40, 0.1f, 0.9f, 1.4f, 2.8f);
+            // la barca sull'acqua, davanti alla spiaggia, con l'angelo nocchiero
+            float a = lv.angolo + 5f;
+            Vector3 acqua = Monte.Fuori(a) * (Monte.R * 1.05f);
+            float yawBarca = Monte.YawVerso(-Monte.Fuori(a)) + YAW_BARCA;
+            var barca = Props.Metti("Barca", nodi[i], new Vector3(acqua.x, Monte.MARE - 0.05f, acqua.z), yawBarca, 14f, false, new Color(0.9f, 0.85f, 0.7f), 0.7f);
+            var angelo = Props.Metti("AngeloMarmo", nodi[i], new Vector3(acqua.x, Monte.MARE + 0.55f, acqua.z), Monte.YawVerso(-Monte.Fuori(a)) + YAW_ANGELO, 8.6f, true, new Color(1f, 0.92f, 0.75f), 0.75f);
+            if (angelo != null) prot["spiaggia#angelo"] = angelo;
+            var catone = Props.Metti("Catone", nodi[i], P(i, -6f, 0.45f), Monte.YawVerso(Monte.Fuori(a)) + 20f + YAW_CATONE, 4.6f, true, new Color(1f, 0.92f, 0.75f), 0.75f);
+            if (catone != null) prot["spiaggia#catone"] = catone;
+            else FigureSemplici.Catone(figure[i], P(i, -6f, 0.45f), Monte.YawVerso(Monte.Fuori(a)) + 20f, 2.4f);
+        }
+
+        // ---------- 1-3 Antipurgatorio ----------
+        { int i = 1; Rocce(i, 9, 24, 0.0f, 0.9f, 1.8f, 4.2f); Gruppo(i, 7, 12, 0.3f, 0.8f, new Color(0.62f, 0.60f, 0.64f), 0); }                        // scomunicati
+        { int i = 2; Rocce(i, 8, 22, 0.0f, 0.9f, 1.6f, 3.6f); Gruppo(i, 6, 10, 0.3f, 0.8f, new Color(0.64f, 0.56f, 0.40f), 2); }                        // pigri, seduti
+        { int i = 3; Rocce(i, 7, 24, 0.0f, 0.9f, 1.4f, 3.2f); Gruppo(i, 8, 14, 0.25f, 0.8f, new Color(0.62f, 0.34f, 0.32f), 4); }                       // morti violenti
+
+        // ---------- 4 la valletta dei principi: fiori, due angeli, il serpente ----------
+        {
+            int i = 4;
+            for (int k = 0; k < 70; k++)
+            {
+                float arco = Casuale(rnd, -42, 42), t = Casuale(rnd, 0.05f, 0.98f);
+                var p = P(i, arco, t);
+                int sorta = rnd.Next(3);
+                if (sorta == 0 && rose.Pronto) rose.Aggiungi(rnd, p, Casuale(rnd, 0, 360), Casuale(rnd, 1.6f, 3.0f), true);
+                else if (sorta == 1 && fiori.Pronto) fiori.Aggiungi(rnd, p, Casuale(rnd, 0, 360), Casuale(rnd, 3.5f, 6f), false);
+                else if (piante.Pronto) piante.Aggiungi(rnd, p, Casuale(rnd, 0, 360), Casuale(rnd, 1.8f, 3.4f), true);
+            }
+            Angelo(i, "AngeloOttone", -9f, 0.6f, 4.2f, new Color(0.7f, 1f, 0.7f));
+            Angelo(i, "AngeloArgento", 9f, 0.6f, 4.2f, new Color(0.7f, 1f, 0.7f));
+            var s = Props.Metti("Serpente", nodi[i], P(i, 20f, 0.5f), Casuale(rnd, 0, 360) + YAW_SERPENTE, 2.2f, false, new Color(0.6f, 0.9f, 0.5f), 0.6f);
+            if (s != null) prot["valletta-principi#serpente"] = s;
+            Gruppo(i, 5, 7, 0.25f, 0.7f, new Color(0.66f, 0.46f, 0.70f), 2);
+        }
+
+        // ---------- 5 la porta del Purgatorio: l'arco con tre gradini e l'angelo guardiano ----------
+        {
+            int i = 5; var lv = m.liv[i];
+            Vector3 fuori = Monte.Fuori(lv.angolo);
+            var centro = P(i, 0f, 0.25f);
+            float yaw = Monte.YawVerso(fuori) + YAW_ARCO;
+            var arco = Props.Metti("Arco", nodi[i], centro, yaw + 90f, 11f, true, new Color(1f, 0.92f, 0.75f), 0.75f);
+            var scale = Props.Metti("Scala", nodi[i], P(i, 0f, 0.62f), yaw, 6.5f, false, new Color(1f, 0.92f, 0.75f), 0.75f);
+            Angelo(i, "AngeloArgento", 3.8f, 0.8f, 4.8f, new Color(1f, 0.95f, 0.8f));
+            Rocce(i, 4, 14, 0.0f, 0.4f, 1.2f, 2.4f);
+        }
+
+        // ---------- 6-12 le sette cornici ----------
+        string[] angeli = { "AngeloMarmo", "AngeloArgento", "AngeloOttone", "AngeloMarmo", "AngeloArgento", "AngeloOttone", "AngeloMarmo" };
+        for (int c = 0; c < 7; c++)
+        {
+            int i = 6 + c;
+            Angelo(i, angeli[c], 7f, 0.7f, 4.4f, new Color(1f, 0.95f, 0.8f));
+        }
+        { int i = 6; Rocce(i, 5, 14, 0.2f, 0.9f, 2.2f, 3.6f); Gruppo(i, 5, 11, 0.35f, 0.8f, new Color(0.68f, 0.68f, 0.72f), 1); }       // superbi sotto i massi
+        { int i = 7; Gruppo(i, 7, 12, 0.1f, 0.35f, new Color(0.46f, 0.52f, 0.66f), 2, true); }                                         // invidiosi contro la parete
+        { int i = 8; Gruppo(i, 6, 11, 0.3f, 0.8f, new Color(0.40f, 0.37f, 0.40f), 0); }                                                // iracondi nel fumo
+        { int i = 9; Gruppo(i, 7, 15, 0.3f, 0.8f, new Color(0.64f, 0.66f, 0.54f), 4); }                                                // accidiosi che corrono
+        { int i = 10; Gruppo(i, 7, 12, 0.3f, 0.8f, new Color(0.58f, 0.48f, 0.30f), 3); }                                               // avari prostrati
+        {   // golosi: l'albero con i frutti e gli spiriti magri
+            int i = 11;
+            if (querce.Pronto) querce.Aggiungi(rnd, P(i, -3f, 0.45f), 40f, 11f, true);
+            Gruppo(i, 6, 12, 0.3f, 0.8f, new Color(0.72f, 0.64f, 0.45f), 0);
+        }
+        { int i = 12; Gruppo(i, 5, 7, 0.1f, 0.5f, new Color(0.78f, 0.42f, 0.30f), 0); }                                                // lussuriosi nel fuoco
+
+        // ---------- 13 il Paradiso terrestre ----------
+        {
+            int i = 13; var lv = m.liv[i];
+            float re = lv.rEst, a0 = lv.angolo;
+            Vector3 E(float ang, float frac) { float a = ang * Mathf.Deg2Rad; return new Vector3(Mathf.Cos(a) * re * frac, lv.y, Mathf.Sin(a) * re * frac); }
+            // la selva divina lungo il bordo, i fiori ovunque
+            if (querce.Pronto) for (int k = 0; k < 9; k++) querce.Aggiungi(rnd, E(a0 + k * 40f + Casuale(rnd, -10, 10), Casuale(rnd, 0.72f, 0.9f)), Casuale(rnd, 0, 360), Casuale(rnd, 11f, 15f), true);
+            if (cespugli.Pronto) for (int k = 0; k < 16; k++) cespugli.Aggiungi(rnd, E(Casuale(rnd, 0, 360), Casuale(rnd, 0.3f, 0.95f)), Casuale(rnd, 0, 360), Casuale(rnd, 3f, 6f), true);
+            for (int k = 0; k < 120; k++)
+            {
+                var p = E(Casuale(rnd, 0, 360), Mathf.Sqrt((float)rnd.NextDouble()) * 0.95f);
+                int sorta = rnd.Next(3);
+                if (sorta == 0 && rose.Pronto) rose.Aggiungi(rnd, p, Casuale(rnd, 0, 360), Casuale(rnd, 1.6f, 3.0f), true);
+                else if (sorta == 1 && fiori.Pronto) fiori.Aggiungi(rnd, p, Casuale(rnd, 0, 360), Casuale(rnd, 3.5f, 6f), false);
+                else if (piante.Pronto) piante.Aggiungi(rnd, p, Casuale(rnd, 0, 360), Casuale(rnd, 1.8f, 3.4f), true);
+            }
+            // Matelda sulla riva del Letè, Beatrice sul carro, le sette candele del corteo
+            var matelda = Props.Metti("DonnaFuse", nodi[i], E(a0 + 25f, 0.5f), Monte.YawVerso(Monte.Fuori(a0 + 25f)) + YAW_DONNA, 3.6f, true, new Color(1f, 0.9f, 0.7f), 0.7f);
+            if (matelda != null) prot["paradiso-terrestre#matelda"] = matelda;
+            Vector3 pc = E(a0 - 60f, 0.55f);
+            var carro = Props.Metti("Carro", nodi[i], pc, Monte.YawVerso(Monte.Fuori(a0 - 60f) + Vector3.Cross(Vector3.up, Monte.Fuori(a0 - 60f))) + YAW_CARRO, 11f, false, new Color(1f, 0.9f, 0.7f), 0.7f);
+            var beatrice = Props.Metti("DonnaRuby", nodi[i], pc + Vector3.up * 1.8f, Monte.YawVerso(Monte.Fuori(a0 - 60f)) + YAW_DONNA, 3.8f, true, new Color(1f, 0.85f, 0.8f), 0.75f);
+            if (beatrice != null) prot["paradiso-terrestre#beatrice"] = beatrice;
+            for (int k = 0; k < 7; k++)
+            {
+                var pcand = E(a0 - 105f + k * 7f, 0.48f - k * 0.002f);
+                Props.Metti("Candele", nodi[i], pcand, 0f, 3.8f, true, new Color(1f, 0.85f, 0.5f), 0.8f);
+            }
+            luoghiEffetti["letè"] = E(a0 + 80f, 0.5f);
+        }
+
+        // affioramenti di roccia e cespugli sulle pareti (fuori dal tratto della scala)
+        for (int i = 0; i + 1 < m.liv.Count; i++)
+        {
+            float a0 = m.liv[i + 1].angolo, a1 = m.liv[i].angolo;      // la scala va da a1 ad a0 (l'angolo cala)
+            int nr = i < 5 ? 16 : 11;
+            for (int k = 0; k < nr; k++)
+            {
+                float ang = Casuale(rnd, 0, 360);
+                if (Mathf.Abs(Mathf.DeltaAngle(ang, (a0 + a1) * 0.5f)) < Mathf.Abs(Mathf.DeltaAngle(a0, a1)) * 0.5f + 8f) continue;
+                float t = Casuale(rnd, 0.05f, 0.95f);
+                float r = m.RaggioParete(i, t) - 0.3f; float y = Mathf.Lerp(m.liv[i].y, m.liv[i + 1].y, t);
+                var pos = new Vector3(Mathf.Cos(ang * Mathf.Deg2Rad) * r, y - 0.6f, Mathf.Sin(ang * Mathf.Deg2Rad) * r);
+                if (rocce.Pronto) rocce.Aggiungi(rnd, pos, Casuale(rnd, 0, 360), Casuale(rnd, 2.2f, 5.5f), false);
+                if (i < 5 && cespugli.Pronto && k % 2 == 0) cespugli.Aggiungi(rnd, pos + Vector3.up * 0.4f, Casuale(rnd, 0, 360), Casuale(rnd, 2f, 4.2f), true);
+            }
+        }
+
+        // montagne lontane, all'orizzonte, nella foschia
+        {
+            var lontane = new GruppoModello("Modelli/Montagna/Montagna", false);
+            if (lontane.Pronto)
+            {
+                float[] ang = { 15f, 70f, 125f, 190f, 240f, 300f, 345f };
+                foreach (float a in ang)
+                    lontane.Aggiungi(rnd, Monte.Fuori(a + Casuale(rnd, -8, 8)) * Casuale(rnd, 1000f, 1250f) + Vector3.up * (Monte.MARE - 6f), Casuale(rnd, 0, 360), Casuale(rnd, 420f, 700f), false);
+                lontane.Costruisci(radice, "Montagne lontane");
+            }
+        }
+
+        // unione dei gruppi e delle figure semplici
+        rocce.Costruisci(radice, "Rocce"); bambu.Costruisci(radice, "Giunchi"); rose.Costruisci(radice, "Rose"); piante.Costruisci(radice, "Piante");
+        fiori.Costruisci(radice, "Fiori"); querce.Costruisci(radice, "Querce"); cespugli.Costruisci(radice, "Cespugli");
+        foreach (var nome in new[] { "Querce", "Cespugli" })
+        {
+            var t = radice.Find(nome);
+            if (t == null) continue;
+            foreach (var r in t.GetComponentsInChildren<Renderer>())
+                foreach (var mt in r.materials) if (mt.HasProperty("_Tint")) mt.SetColor("_Tint", new Color(0.62f, 1f, 0.58f));
+        }
+        for (int i = 0; i < monaci.Length; i++)
+        {
+            if (monaci[i] == null || !monaci[i].Pronto) continue;
+            monaci[i].Costruisci(nodi[i], "Monaci");
+            var tm = nodi[i].Find("Monaci");
+            if (tm == null) continue;
+            Color tinta = Color.Lerp(Color.white, vesteLiv[i] * 1.6f, 0.55f); tinta.a = 1f;
+            foreach (var r in tm.GetComponentsInChildren<Renderer>())
+                foreach (var mt in r.materials) if (mt.HasProperty("_Tint")) mt.SetColor("_Tint", tinta);
+        }
+        for (int i = 0; i < figure.Length; i++)
+            if (!figure[i].Vuota) MeshObj(nodi[i], "Figure", figure[i].Costruisci("Figure " + m.liv[i].luogo.id), matColore);
+        return prot;
+    }
+}
