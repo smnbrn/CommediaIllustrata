@@ -51,21 +51,31 @@
   function cantica(id) { return stato.indice.cantiche.find(function (c) { return c.id === id; }); }
   function voceCanto(cid, n) { var c = cantica(cid); return c && c.canti.find(function (x) { return x.canto === n; }); }
 
+  /* selettori: la cantica (Inferno / Purgatorio) e, accanto, i canti di quella cantica */
   function riempiSceltaCanto() {
-    var sel = $('scelta-canto');
+    var sc = $('scelta-cantica'), sel = $('scelta-canto');
     stato.indice.cantiche.forEach(function (c) {
-      var g = document.createElement('optgroup');
-      g.label = c.nome;
-      c.canti.forEach(function (k) {
-        var o = document.createElement('option');
-        o.value = c.id + '/' + k.canto;
-        o.textContent = 'Canto ' + CI.romano(k.canto) + (k.disponibile ? '' : ' (in preparazione)');
-        o.disabled = !k.disponibile;
-        g.appendChild(o);
-      });
-      sel.appendChild(g);
+      var o = document.createElement('option');
+      o.value = c.id; o.textContent = c.nome;
+      o.disabled = !c.canti.some(function (k) { return k.disponibile; });
+      sc.appendChild(o);
     });
-    sel.addEventListener('change', function () { location.hash = '#' + sel.value; });
+    sc.addEventListener('change', function () { location.hash = '#' + sc.value + '/1'; });
+    sel.addEventListener('change', function () { location.hash = '#' + sc.value + '/' + sel.value; });
+  }
+
+  function riempiCanti(idCantica) {
+    var sel = $('scelta-canto');
+    if (sel.dataset.cantica === idCantica) return;
+    sel.dataset.cantica = idCantica;
+    sel.innerHTML = '';
+    cantica(idCantica).canti.forEach(function (k) {
+      var o = document.createElement('option');
+      o.value = k.canto;
+      o.textContent = 'Canto ' + CI.romano(k.canto) + (k.disponibile ? '' : ' (in preparazione)');
+      o.disabled = !k.disponibile;
+      sel.appendChild(o);
+    });
   }
 
   /* ---------- navigazione ---------- */
@@ -84,7 +94,9 @@
     CI.dati.canto(d.cantica, d.n).then(function (canto) {
       stato.cantica = d.cantica; stato.n = d.n; stato.canto = canto; stato.scena = null;
       coloriCantica(d.cantica);
-      $('scelta-canto').value = d.cantica + '/' + d.n;
+      $('scelta-cantica').value = d.cantica;
+      riempiCanti(d.cantica);
+      $('scelta-canto').value = d.n;
       document.title = cantica(d.cantica).nome + ' ' + CI.romano(d.n) + ' · Commedia Illustrata';
       disegnaCanto(canto);
       var esiste = d.scena && canto.scene.some(function (s) { return s.id === d.scena; });

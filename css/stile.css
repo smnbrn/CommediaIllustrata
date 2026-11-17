@@ -143,6 +143,15 @@ button, select { font: inherit; color: inherit; }
   max-width: 13rem;
 }
 .scelta-canto select option { background: var(--carta); color: var(--inchiostro); }
+/* telefono: marchio e tema in alto, i due selettori (cantica e canto) sotto, affiancati */
+@media (max-width: 560px) {
+  .testata-lettura { height: auto; flex-wrap: wrap; padding-top: 0.45rem; padding-bottom: 0.5rem; gap: 0.35rem 0.5rem; }
+  .testata-lettura .marchio { order: 1; }
+  .testata-lettura .bottone-icona { order: 2; }
+  .testata-lettura .scelta-cantica { order: 3; flex: 1 1 42%; }
+  .testata-lettura .scelta-canto:not(.scelta-cantica) { order: 4; flex: 1 1 42%; }
+  .testata-lettura .scelta-canto select { width: 100%; max-width: none; }
+}
 .bottone-icona {
   display: grid; place-items: center;
   width: 2.75rem; height: 2.75rem;
