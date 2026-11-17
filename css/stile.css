@@ -483,4 +483,5 @@ html.lente-aperta { overflow: hidden; }
 .lente-didascalia b { color: var(--sulla-tavola-titolo); font-weight: 500; }
 .lente-didascalia a { color: inherit; text-underline-offset: 2px; }
 
-.mappa[hidden] { display: none; }
+.mappa svg[hidden], .mappa-3d[hidden] { display: none !important; }
+.etichetta-monte { font-size: 3.8px; }

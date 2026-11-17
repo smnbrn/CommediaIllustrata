@@ -19,6 +19,7 @@ CI.dati = (function () {
   return {
     indice: function () { return json('data/indice.json'); },
     luoghi: function () { return json('data/luoghi.json'); },
+    luoghiPurgatorio: function () { return json('data/luoghi-purgatorio.json'); },
     personaggi: function () { return json('data/personaggi.json'); },
     canto: function (cantica, n) { return json('data/' + cantica + '/canto-' + due(n) + '.json'); },
   };

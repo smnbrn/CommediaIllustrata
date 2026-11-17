@@ -28,10 +28,10 @@
   }
 
   /* ---------- avvio ---------- */
-  Promise.all([CI.dati.indice(), CI.dati.luoghi(), CI.dati.personaggi()]).then(function (r) {
+  Promise.all([CI.dati.indice(), CI.dati.luoghi(), CI.dati.personaggi(), CI.dati.luoghiPurgatorio()]).then(function (r) {
     stato.indice = r[0];
     if (!r[0].illustratori.some(function (i) { return i.id === stato.illustratore; })) stato.illustratore = r[0].illustratori[0].id;
-    stato.mappa = CI.mappa.crea($('mappa-svg'), r[1]);
+    stato.mappe = { inferno: CI.mappa.crea($('mappa-svg'), r[1]), purgatorio: CI.mappa.creaMontagna($('mappa-svg-pur'), r[3]) };
     r[2].personaggi.forEach(function (p) { stato.personaggi[p.id] = p; });
     riempiSceltaCanto();
     preparaTema();
@@ -125,7 +125,7 @@
       (canto.titolo ? '<p class="titolo">' + esc(canto.titolo) + '</p>' : '') + '</header>';
 
     canto.scene.forEach(function (s, i) {
-      var luogo = stato.mappa.luogo(s.luogo_id);
+      var luogo = (stato.mappe[canto.cantica] || stato.mappe.inferno).luogo(s.luogo_id);
       h += '<section class="scena" id="' + esc(s.id) + '" data-scena="' + esc(s.id) + '">' +
         '<header class="scena-testa">' +
         '<p class="scena-numero"><a href="' + indirizzo(s.id) + '">Scena ' + (i + 1) + ' · vv. ' + s.versi[0] + '–' + s.versi[1] + '</a></p>' +
@@ -228,8 +228,9 @@
     attiva(scelta || stato.canto.scene[0].id, true);
   }
 
-  /* colori della cantica (CSS: [data-cantica]) e barra del browser; la mini-mappa disegna solo l'imbuto dell'Inferno */
+  /* colori della cantica (CSS: [data-cantica]) e barra del browser; mini-mappa giusta (imbuto o montagna) */
   var COLORI_BARRA = { inferno: ['#f3ead6', '#14110d'], purgatorio: ['#f2eef9', '#15111e'] };
+  function nascondi(e, si) { if (si) e.setAttribute('hidden', ''); else e.removeAttribute('hidden'); }   // gli svg non hanno la proprietà hidden
   function coloriCantica(id) {
     var el = document.documentElement;
     if (id === 'inferno') delete el.dataset.cantica; else el.dataset.cantica = id;
@@ -237,7 +238,9 @@
     document.querySelectorAll('meta[name="theme-color"]').forEach(function (m) {
       m.setAttribute('content', m.media && m.media.indexOf('dark') >= 0 ? c[1] : c[0]);
     });
-    $('mappa').hidden = id !== 'inferno';
+    nascondi($('mappa-svg'), id !== 'inferno');
+    nascondi($('mappa-svg-pur'), id !== 'purgatorio');
+    $('mappa-3d').hidden = id !== 'inferno';   // il 3D c'è solo per l'Inferno
   }
 
   function scenaDati(id) { return stato.canto.scene.find(function (s) { return s.id === id; }); }
@@ -250,9 +253,9 @@
     var k = stato.canto.scene.indexOf(s);
     $('posizione').innerHTML = '<span>Scena ' + (k + 1) + ' di ' + stato.canto.scene.length + '</span> ' + esc(s.titolo_scena);
     mostraTavola(s);
-    var l = stato.mappa.segna(s.luogo_id);
+    var l = (stato.mappe[stato.cantica] || stato.mappe.inferno).segna(s.luogo_id);
     $('mappa-luogo').textContent = l ? l.nome : '';
-    $('mappa').setAttribute('aria-label', 'Mappa dell\'Inferno, Dante si trova qui: ' + (l ? l.nome : '') + '. Ingrandisci');
+    $('mappa').setAttribute('aria-label', 'Mappa ' + (stato.cantica === 'purgatorio' ? 'del Purgatorio' : 'dell\'Inferno') + ', Dante si trova qui: ' + (l ? l.nome : '') + '. Ingrandisci');
     if (aggiornaIndirizzo) history.replaceState(null, '', indirizzo(id));
     precarica(id);
   }

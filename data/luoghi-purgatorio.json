@@ -1,5 +1,5 @@
 {
-  "_nota": "Luoghi del Purgatorio. Coordinate astratte, non topografiche: altezza 0 = spiaggia, 1 = cima della montagna (Paradiso terrestre); raggio = ampiezza relativa della montagna a quell'altezza (1 = base); angolo: gradi, il viaggio procede verso destra, quindi l'angolo decresce lungo la salita. Il sito 3D dell'Inferno non legge questo file.",
+  "_nota": "Luoghi del Purgatorio. Coordinate astratte, non topografiche: altezza 0 = spiaggia, 1 = cima della montagna (Paradiso terrestre); raggio = ampiezza relativa della montagna a quell'altezza (1 = base); angolo: gradi, la salita gira intorno al monte (decresce di circa 40 gradi a ogni livello). Il sito 3D dell'Inferno non legge questo file.",
   "luoghi": [
     {
       "id": "spiaggia",
@@ -11,7 +11,7 @@
       "coordinate": {
         "altezza": 0.0,
         "raggio": 0.9,
-        "angolo": 0
+        "angolo": 250
       },
       "descrizione": "La spiaggia deserta ai piedi della montagna, dove approda la barca dell'angelo; Catone vi accoglie i due poeti.",
       "canti": [
@@ -27,9 +27,9 @@
       "zona_di": null,
       "ordine": 102,
       "coordinate": {
-        "altezza": 0.05,
-        "raggio": 0.85,
-        "angolo": 340
+        "altezza": 0.06,
+        "raggio": 0.83,
+        "angolo": 210
       },
       "descrizione": "Primo balzo: i morti scomunicati dalla Chiesa, che attendono ai piedi della montagna.",
       "canti": [
@@ -44,9 +44,9 @@
       "zona_di": null,
       "ordine": 103,
       "coordinate": {
-        "altezza": 0.12,
-        "raggio": 0.78,
-        "angolo": 320
+        "altezza": 0.13,
+        "raggio": 0.77,
+        "angolo": 170
       },
       "descrizione": "Secondo balzo: i pigri che si pentirono solo in fin di vita.",
       "canti": [
@@ -62,8 +62,8 @@
       "ordine": 104,
       "coordinate": {
         "altezza": 0.2,
-        "raggio": 0.72,
-        "angolo": 300
+        "raggio": 0.71,
+        "angolo": 130
       },
       "descrizione": "Gli spiriti morti di morte violenta, pentiti all'ultimo istante.",
       "canti": [
@@ -79,9 +79,9 @@
       "zona_di": null,
       "ordine": 105,
       "coordinate": {
-        "altezza": 0.3,
+        "altezza": 0.28,
         "raggio": 0.65,
-        "angolo": 280
+        "angolo": 90
       },
       "descrizione": "La valletta fiorita dove i principi negligenti attendono; la sera scendono due angeli contro il serpente.",
       "canti": [
@@ -97,9 +97,9 @@
       "zona_di": null,
       "ordine": 106,
       "coordinate": {
-        "altezza": 0.42,
-        "raggio": 0.58,
-        "angolo": 260
+        "altezza": 0.37,
+        "raggio": 0.59,
+        "angolo": 50
       },
       "descrizione": "La porta custodita dall'angelo con la spada, a cui si sale per tre gradini.",
       "canti": [
@@ -114,9 +114,9 @@
       "zona_di": null,
       "ordine": 107,
       "coordinate": {
-        "altezza": 0.46,
+        "altezza": 0.44,
         "raggio": 0.55,
-        "angolo": 240
+        "angolo": 10
       },
       "descrizione": "I superbi camminano curvi sotto pesanti massi, tra esempi scolpiti di umiltà.",
       "canti": [
@@ -133,9 +133,9 @@
       "zona_di": null,
       "ordine": 108,
       "coordinate": {
-        "altezza": 0.55,
+        "altezza": 0.52,
         "raggio": 0.5,
-        "angolo": 220
+        "angolo": -30
       },
       "descrizione": "Gli invidiosi, con gli occhi cuciti col fil di ferro, vestiti di un panno livido.",
       "canti": [
@@ -151,9 +151,9 @@
       "zona_di": null,
       "ordine": 109,
       "coordinate": {
-        "altezza": 0.63,
+        "altezza": 0.6,
         "raggio": 0.46,
-        "angolo": 200
+        "angolo": -70
       },
       "descrizione": "Gli iracondi nel fumo denso e accecante.",
       "canti": [
@@ -169,9 +169,9 @@
       "zona_di": null,
       "ordine": 110,
       "coordinate": {
-        "altezza": 0.7,
+        "altezza": 0.68,
         "raggio": 0.42,
-        "angolo": 180
+        "angolo": -110
       },
       "descrizione": "Gli accidiosi corrono senza sosta gridando esempi di sollecitudine.",
       "canti": [
@@ -187,9 +187,9 @@
       "zona_di": null,
       "ordine": 111,
       "coordinate": {
-        "altezza": 0.77,
+        "altezza": 0.76,
         "raggio": 0.38,
-        "angolo": 160
+        "angolo": -150
       },
       "descrizione": "Avari e prodighi distesi bocconi a terra, con i volti nella polvere.",
       "canti": [
@@ -208,7 +208,7 @@
       "coordinate": {
         "altezza": 0.84,
         "raggio": 0.34,
-        "angolo": 140
+        "angolo": -190
       },
       "descrizione": "I golosi, estenuati dalla fame e dalla sete davanti ad alberi carichi di frutti.",
       "canti": [
@@ -227,7 +227,7 @@
       "coordinate": {
         "altezza": 0.91,
         "raggio": 0.3,
-        "angolo": 120
+        "angolo": -230
       },
       "descrizione": "I lussuriosi camminano nel fuoco, cantando inni e gridando esempi di castità.",
       "canti": [
@@ -245,8 +245,8 @@
       "ordine": 114,
       "coordinate": {
         "altezza": 1.0,
-        "raggio": 0.28,
-        "angolo": 100
+        "raggio": 0.26,
+        "angolo": -270
       },
       "descrizione": "La divina foresta in cima alla montagna, tra i fiumi Letè ed Eunoè; qui appare Beatrice.",
       "canti": [
