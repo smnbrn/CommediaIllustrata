@@ -17,7 +17,7 @@ public static class Figure
     }
 
     // ombra morbida sotto la figura, sopra il palco
-    static void Ombra(Transform p, float raggio)
+    static void Ombra(Transform p, float raggio, float rialzo = 0f)
     {
         if (matOmbra == null)
         {
@@ -35,27 +35,28 @@ public static class Figure
         }
         var go = Forme.Crea("Ombra", Forme.Quadro());
         go.transform.SetParent(p, false);
-        go.transform.localPosition = new Vector3(0, 0.07f, 0);
+        go.transform.localPosition = new Vector3(0, 0.07f + rialzo, 0);
         go.transform.localScale = new Vector3(raggio * 1.7f, 1f, raggio * 1.7f);
         go.GetComponent<MeshRenderer>().sharedMaterial = matOmbra;
     }
 
-    static GameObject Palco(Transform p, float raggio, Color c)
+    // rialzo: il palco si alza sopra il terreno (spessore 2*rialzo + 0.1) così non è più sullo stesso piano del fondo e non sfarfalla
+    static GameObject Palco(Transform p, float raggio, Color c, float rialzo = 0f)
     {
         var go = Forme.Crea("Palco", Forme.Cilindro());
         go.transform.SetParent(p, false);
-        go.transform.localPosition = new Vector3(0, -0.05f, 0);
-        go.transform.localScale = new Vector3(raggio * 2f, 0.05f, raggio * 2f);
+        go.transform.localPosition = new Vector3(0, -0.05f + rialzo * 0.5f, 0);
+        go.transform.localScale = new Vector3(raggio * 2f, 0.05f + rialzo * 0.5f, raggio * 2f);
         go.GetComponent<MeshRenderer>().sharedMaterial = MatColore(c);
         return go;
     }
 
     // yaw: rotazione per far guardare il modello verso +Z; lunghezza: dimensione massima orizzontale
-    static GameObject Carica(string nome, float lunghezza, float yaw, Color colorePalco, float raggioPalco, float oscillazione, Color alone, float fondo)
+    static GameObject Carica(string nome, float lunghezza, float yaw, Color colorePalco, float raggioPalco, float oscillazione, Color alone, float fondo, float rialzo = 0f)
     {
         var root = new GameObject(nome).transform;
-        Palco(root, raggioPalco, colorePalco);
-        Ombra(root, raggioPalco);
+        Palco(root, raggioPalco, colorePalco, rialzo);
+        Ombra(root, raggioPalco, rialzo);
 
         var prefab = Resources.Load<GameObject>($"Modelli/{nome}/{nome}");
         if (prefab == null) { Debug.LogWarning($"[Esplora] Modello '{nome}' non trovato"); return root.gameObject; }
@@ -85,5 +86,5 @@ public static class Figure
 
     public static GameObject Caronte() { return Carica("Caronte", 7.5f, 0f, new Color(0.07f, 0.20f, 0.26f), 5.5f, 1.8f, new Color(0.25f, 0.75f, 0.85f), 0.5f); }
     public static GameObject Cerbero() { return Carica("Cerbero", 6.5f, 0f, new Color(0.22f, 0.20f, 0.09f), 5f, 0.8f, new Color(1f, 0.55f, 0.15f), 0.5f); }
-    public static GameObject Lucifero() { return Carica("Lucifero", 5.2f, 0f, new Color(0.62f, 0.78f, 0.88f), 5.2f, 0f, new Color(0.45f, 0.7f, 1f), 0.6f); }
+    public static GameObject Lucifero() { return Carica("Lucifero", 5.2f, 0f, new Color(0.62f, 0.78f, 0.88f), 5.2f, 0f, new Color(0.45f, 0.7f, 1f), 0.6f, 0.4f); }
 }

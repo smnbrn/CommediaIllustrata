@@ -8,7 +8,7 @@ using UnityEngine;
 public static class AmbientiPurgatorio
 {
     // rotazioni di calibrazione per far guardare ogni modello in avanti (+Z)
-    const float YAW_ANGELO = 0f, YAW_BARCA = 90f, YAW_SERPENTE = 0f, YAW_ARCO = 0f, YAW_DONNA = 0f, YAW_CARRO = 0f, YAW_MONACO = 0f, YAW_CATONE = 0f, YAW_SCALA = 0f;
+    const float YAW_ANGELO = 0f, YAW_BARCA = 90f, YAW_SERPENTE = 0f, YAW_ARCO = 0f, YAW_DONNA = 0f, YAW_CARRO = 0f, YAW_MONACO = 0f, YAW_CATONE = 0f, YAW_SCALA = 90f;
     public const float ALTEZZA_SCALA = 1.5f;
 
     static Transform Nodo(Transform padre, string nome) { var g = new GameObject(nome); g.transform.SetParent(padre, false); return g.transform; }
