@@ -94,7 +94,19 @@ public class CameraOrbita : MonoBehaviour
             Vector3 piano = Quaternion.Euler(0f, yaw, 0f) * new Vector3(lato, 0f, avanti);
             if (piano.sqrMagnitude > 1f) piano.Normalize();
             float v = Mathf.Max(distanza * 0.8f, 10f) * (Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift) ? 2.5f : 1f);
-            bersaglio += (piano + Vector3.up * salita) * v * Time.unscaledDeltaTime;
+            Vector3 passo = (piano + Vector3.up * salita) * v * Time.unscaledDeltaTime;
+            if (Ostacolo != null && !Ostacolo(bersaglio))
+            {
+                // il punto guardato non entra nella roccia, nei massi o negli alberi: se la strada è chiusa scivola lungo l'ostacolo, altrimenti si ferma
+                if (Ostacolo(bersaglio + passo))
+                {
+                    var soloX = new Vector3(passo.x, passo.y, 0f); var soloZ = new Vector3(0f, passo.y, passo.z);
+                    if (!Ostacolo(bersaglio + soloX)) passo = soloX;
+                    else if (!Ostacolo(bersaglio + soloZ)) passo = soloZ;
+                    else passo = Vector3.zero;
+                }
+            }
+            bersaglio += passo;
         }
     }
 
@@ -119,6 +131,9 @@ public class CameraOrbita : MonoBehaviour
         var h = new Vector2(bersaglio.x, bersaglio.z);
         if (h.magnitude > raggioMax) { h = h.normalized * raggioMax; bersaglio.x = h.x; bersaglio.z = h.y; }
         bersaglio.y = Mathf.Clamp(bersaglio.y, yMin, yMax);
+        // se il punto guardato è finito dentro un solido (zoom, spostamenti automatici), lo si alza finché è libero
+        if (Ostacolo != null && !automatica && Ostacolo(bersaglio))
+            for (int i = 0; i < 24 && Ostacolo(bersaglio); i++) bersaglio.y += 0.5f;
         if (LiberoRaggio != null && bersaglio.y < MARGINE)
         {
             // anche il punto guardato resta nello spazio libero (WASD / E,Q non lo spingono nella roccia)

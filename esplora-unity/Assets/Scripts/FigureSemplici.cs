@@ -153,7 +153,7 @@ public static class Props
     // adatta il modello a una scatola (larghezza, profondità, altezza) con scale diverse per asse e lo posa con la base sul punto dato.
     // larghezzaSuX: la larghezza (lato lungo il bordo del ripiano) corrisponde all'asse X del modello, altrimenti all'asse Z.
     public static GameObject MettiScatola(string nome, Transform padre, Vector3 base_, float yawGradi, float larghezza, float profondita, float altezza,
-                                          bool larghezzaSuX = false, Color? alone = null, float fondo = 0.75f)
+                                          bool larghezzaSuX = false, Color? alone = null, float fondo = 0.75f, Vector3? saleVerso = null)
     {
         var pf = Resources.Load<GameObject>($"Modelli/{nome}/{nome}");
         if (pf == null) { Debug.LogWarning($"[Esplora] Modello '{nome}' non trovato"); return null; }
@@ -165,6 +165,17 @@ public static class Props
         float kz = (larghezzaSuX ? profondita : larghezza) / Mathf.Max(b0.size.z, 0.0001f);
         go.transform.localScale = new Vector3(kx, altezza / Mathf.Max(b0.size.y, 0.0001f), kz);
         go.transform.rotation = Quaternion.Euler(0f, yawGradi, 0f);
+        if (saleVerso.HasValue)
+        {
+            // misura da che parte il modello sale (dove stanno i vertici alti) e lo gira, a multipli di 90 gradi, perché il lato alto guardi 'saleVerso'
+            Vector3 dir = DirezioneSalita(go);
+            Vector3 voluta = new Vector3(saleVerso.Value.x, 0f, saleVerso.Value.z);
+            if (dir.sqrMagnitude > 1e-6f && voluta.sqrMagnitude > 1e-6f)
+            {
+                float delta = Vector3.SignedAngle(dir, voluta, Vector3.up);
+                go.transform.rotation = Quaternion.Euler(0f, Mathf.Round(delta / 90f) * 90f, 0f) * go.transform.rotation;
+            }
+        }
         var b1 = Limiti(go);
         go.transform.position += new Vector3(base_.x - b1.center.x, base_.y - b1.min.y, base_.z - b1.center.z);
         foreach (var r in go.GetComponentsInChildren<Renderer>())
@@ -174,6 +185,28 @@ public static class Props
                 if (m.HasProperty("_Fondo")) m.SetFloat("_Fondo", fondo);
             }
         return go;
+    }
+
+    // direzione orizzontale (nel mondo) verso cui il modello sale: dal centro dei vertici verso il baricentro di quelli alti
+    static Vector3 DirezioneSalita(GameObject go)
+    {
+        float yMin = float.MaxValue, yMax = float.MinValue;
+        var punti = new System.Collections.Generic.List<Vector3>();
+        foreach (var mf in go.GetComponentsInChildren<MeshFilter>())
+        {
+            var m = mf.sharedMesh; if (m == null || !m.isReadable) continue;
+            foreach (var v in m.vertices)
+            {
+                var w = mf.transform.TransformPoint(v);
+                punti.Add(w); yMin = Mathf.Min(yMin, w.y); yMax = Mathf.Max(yMax, w.y);
+            }
+        }
+        if (punti.Count == 0 || yMax - yMin < 1e-4f) return Vector3.zero;
+        Vector3 centro = Vector3.zero, alto = Vector3.zero; int n = 0;
+        foreach (var w in punti) { centro += w; if (w.y > yMin + 0.7f * (yMax - yMin)) { alto += w; n++; } }
+        if (n == 0) return Vector3.zero;
+        var d = alto / n - centro / punti.Count; d.y = 0f;
+        return d;
     }
 
     public static Bounds Limiti(GameObject go)
