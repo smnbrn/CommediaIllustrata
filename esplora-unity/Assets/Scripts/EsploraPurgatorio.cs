@@ -30,7 +30,7 @@ public class EsploraPurgatorio : MonoBehaviour
     readonly Dictionary<string, List<RiferimentoScena>> scenePerLuogo = new Dictionary<string, List<RiferimentoScena>>();
     Segnaposto selezionato, precedente;
     readonly List<Bounds> ingombri = new List<Bounds>();   // rocce, alberi, figure ecc.: la camera non ci entra
-    bool InIngombro(Vector3 p) { for (int i = 0; i < ingombri.Count; i++) if (ingombri[i].Contains(p)) return true; return false; }
+    bool InIngombro(Vector3 p) { for (int i = 0; i < ingombri.Count; i++) if (ingombri[i].SqrDistance(p) < 1.0f) return true; return false; }   // a meno di 1 unità da rocce, alberi, figure...
     string stato = "Carico i dati…";
 
     // viaggio di Dante lungo la scala
@@ -146,7 +146,7 @@ public class EsploraPurgatorio : MonoBehaviour
     {
         monte = new Monte(luoghi);
         matColore = NuovoMateriale(Color.white);
-        cam.Ostacolo = p => monte.Solido(p, 1.2f) || InIngombro(p);
+        cam.Ostacolo = p => monte.Solido(p, 1.4f) || InIngombro(p) || Physics.CheckSphere(p, 1.0f);   // profilo ideale + ingombri + mesh vera del monte (con le sue irregolarità)
 
         // il monte (con collider: nasconde le etichette dietro la roccia), le scale, il mare
         var matSuolo = TexturaTerreno.Materiale() ?? matColore;

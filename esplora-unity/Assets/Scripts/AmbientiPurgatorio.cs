@@ -172,7 +172,7 @@ public static class AmbientiPurgatorio
             // i tre gradini (marmo bianco, pietra scura e crepata, porfido rosso), poi l'arco che sta in cima
             // la scalinata (modello Sketchfab) adattata al ripiano: larga 7.2 lungo il bordo, profonda 4.2 verso l'esterno, alta 1.5;
             // sale verso la parete, dove sta l'arco
-            var scala = Props.MettiScatola("Scala", nodi[i], interno + fuori * 2.4f, Monte.YawVerso(fuori) + YAW_SCALA, 7.2f, 4.2f, ALTEZZA_SCALA, false, new Color(1f, 0.92f, 0.75f), 0.75f);
+            var scala = Props.MettiScatola("Scala", nodi[i], interno + fuori * 2.4f, Monte.YawVerso(fuori) + YAW_SCALA, 7.2f, 4.2f, ALTEZZA_SCALA, false, new Color(1f, 0.92f, 0.75f), 0.75f, -fuori);   // il lato alto guarda la parete e l'arco
             var arco = Props.Metti("Arco", nodi[i], interno + fuori * 0.85f + Vector3.up * ALTEZZA_SCALA, yaw + 90f, 9f, true, new Color(1f, 0.92f, 0.75f), 0.75f);
             Zona(interno + fuori * 2.6f, 4.2f);
             Angelo(i, "AngeloArgento", 6f, 0.8f, 4.8f, new Color(1f, 0.95f, 0.8f));
